@@ -37,6 +37,17 @@ body.reader-body { background: var(--stage-bg); color: var(--bar-fg); overflow: 
   -webkit-user-drag: none;
 }
 .stage.is-spread .page { max-width: calc(50% - var(--gap) / 2); }
+
+/* 横幅に合わせて縦にスクロール（幅のある画面の1ページ表示）。広すぎると1ページが長くなりすぎるので 960px まで */
+.stage.is-scroll {
+  display: block; overflow-x: hidden; overflow-y: auto; overscroll-behavior: contain;
+  touch-action: pan-y pinch-zoom;
+  scrollbar-color: #555 transparent;
+}
+.stage.is-scroll .page { width: min(100%, 960px); max-width: none; max-height: none; margin: 0 auto; }
+
+/* マウスで読む画面：バーはページの上に重ねて出し入れする（ページの大きさはバーの分を取らない） */
+.reader.autohide .stage { padding: 8px; }
 .stage[aria-busy="true"] { background: radial-gradient(circle at center, #262626 0, var(--stage-bg) 60%); }
 
 /* ---- 上下のバー（真ん中タップで隠す） ---- */

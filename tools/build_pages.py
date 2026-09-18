@@ -4,6 +4,7 @@
     python tools/build_pages.py <話フォルダ> <話ID> [--cover <扉絵の画像>] [--og-panel P1-コマ1]
 
 - ネーム.json のコマの位置と、採用済みの絵（作画/P{n}-コマ{m}.png）でページを組む（A4 縦・右開き）
+- 紙の白い余白は切り落とす（本編は全ページ同じ範囲で切る）
 - 出力は ep/<話ID>/pages/p01.webp〜。扉絵を渡すと p00.webp として先頭に置く
 - 一覧用の小さい絵 ep/<話ID>/thumb.webp と、SNS 共有用の ep/<話ID>/og.jpg も作る
 - episodes.json の該当する話の pages を、書き出したファイルで更新する
@@ -13,7 +14,7 @@ import json
 import os
 import sys
 
-from PIL import Image, ImageDraw
+from PIL import Image, ImageChops, ImageDraw
 
 sys.stdout.reconfigure(encoding='utf-8')
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -21,6 +22,7 @@ PAGE_W, PAGE_H = 794, 1123          # name-maker のページ座標（A4 @96dpi�
 SCALE = 2.0                          # 出力は 1588×2246
 BORDER = 3                           # コマ枠の太さ（ページ座標）
 QUALITY = 82
+TRIM_PAD = 12                        # 余白を切り落としたあとに残す白（ページ座標）
 
 
 def page_image(folder, page, scale=SCALE):
@@ -56,6 +58,26 @@ def cover_page(path, scale=SCALE):
     return canvas
 
 
+def content_box(img, pad):
+    """白い紙の上で、絵や枠がある範囲（白でないところ）を pad だけ広げて返す。"""
+    gray = img.convert('L')
+    box = ImageChops.difference(gray, Image.new('L', gray.size, 255)).point(lambda v: 255 if v > 24 else 0).getbbox()
+    if not box:
+        return (0, 0) + img.size
+    return (max(box[0] - pad, 0), max(box[1] - pad, 0), min(box[2] + pad, img.width), min(box[3] + pad, img.height))
+
+
+def trim_margins(cover, pages, pad=round(TRIM_PAD * SCALE)):
+    """紙の白い余白を切り落とす。本編は全ページ同じ範囲で切る（見開きで大きさがそろうように）。"""
+    if pages:
+        boxes = [content_box(p, pad) for p in pages]
+        box = (min(b[0] for b in boxes), min(b[1] for b in boxes), max(b[2] for b in boxes), max(b[3] for b in boxes))
+        pages = [p.crop(box) for p in pages]
+    if cover is not None:
+        cover = cover.crop(content_box(cover, pad))
+    return cover, pages
+
+
 def og_image(folder, name_json, panel_name):
     """共有用 1200×630。指定したコマの絵を中央で切り抜く。"""
     pn, ko = panel_name.split('-')
@@ -86,18 +108,17 @@ def main():
         if f.endswith('.webp'):
             os.remove(os.path.join(pages_dir, f))
 
-    files = []
-    if args.cover:
-        img = cover_page(args.cover)
-        p = os.path.join(pages_dir, 'p00.webp')
-        img.save(p, 'WEBP', quality=QUALITY, method=6)
-        files.append('p00.webp')
-        print('p00.webp（扉絵）', img.size, os.path.getsize(p) // 1024, 'KB')
+    cover = cover_page(args.cover) if args.cover else None
+    pages = []
     for i, page in enumerate(name_json['pages'], 1):
         img, missing = page_image(args.folder, page)
         if missing:
             raise SystemExit(f'P{i} に絵が採用されていないコマがあります: {missing}')
-        name = f'p{i:02d}.webp'
+        pages.append(img)
+    cover, pages = trim_margins(cover, pages)
+
+    files = []
+    for name, img in ([('p00.webp', cover)] if cover else []) + [(f'p{i:02d}.webp', img) for i, img in enumerate(pages, 1)]:
         p = os.path.join(pages_dir, name)
         img.save(p, 'WEBP', quality=QUALITY, method=6)
         files.append(name)

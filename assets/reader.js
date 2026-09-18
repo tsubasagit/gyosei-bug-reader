@@ -1,6 +1,7 @@
 // 行政バグります！ Webリーダー
 // 右開き（日本の漫画と同じ）：← キー・画面の左クリック・右へフリック（スワイプ）で次のページ、→ で前のページ。
-// 横長の画面では見開き（右が若いページ）、縦長の画面では1ページずつ表示する。
+// 1ページずつ表示する（見開きはボタンで選べる。右が若いページ）。
+// 幅のある画面では、ページを横幅に合わせて大きく置き、縦にスクロールして読む。
 (() => {
   'use strict';
 
@@ -32,11 +33,14 @@
   // 幅の狭い画面（スマホの縦持ち）は、見開きを選んでいても1ページずつ
   const isNarrow = () => window.innerWidth < 700;
 
-  function isSpread() {
-    if (isNarrow() || state.mode === 'single') return false;
-    if (state.mode === 'spread') return true;
-    return window.innerWidth >= 900 && window.innerWidth > window.innerHeight * 1.15;
-  }
+  // 見開きは選んだときだけ。A4 を2枚並べると PC でも文字が小さすぎて読めない
+  const isSpread = () => !isNarrow() && state.mode === 'spread';
+
+  // 1ページ表示で幅のある画面（PC・タブレット・スマホの横持ち）は、横幅に合わせて縦にスクロール
+  const isScroll = () => !isSpread() && !isNarrow();
+
+  // マウスで読む画面では、上下のバーを少し経ったら隠して、ページを広く見せる
+  const hasMouse = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 
   function buildViews() {
     const n = state.pages.length;
@@ -74,6 +78,8 @@
   function render() {
     const view = state.views[state.view];
     stage.classList.toggle('is-spread', view.length === 2);
+    stage.classList.toggle('is-scroll', isScroll());
+    stage.scrollTop = 0;
     stage.setAttribute('aria-busy', 'true');
     const imgs = view.map(makeImage);
     let pending = imgs.length;
@@ -131,7 +137,9 @@
     switch (e.key) {
       case 'ArrowLeft': case 'PageDown': next(); break;
       case 'ArrowRight': case 'PageUp': prev(); break;
-      case ' ': (e.shiftKey ? prev : next)(); break;
+      case ' ': e.shiftKey ? scrollOrPage(-1) : scrollOrPage(1); break;
+      case 'ArrowDown': if (!isScroll()) return; stage.scrollBy(0, 160); break;
+      case 'ArrowUp': if (!isScroll()) return; stage.scrollBy(0, -160); break;
       case 'Home': goTo(0); break;
       case 'End': goTo(state.views.length - 1); break;
       case 'Escape': if (state.ended) showEnd(false); else toggleUi(true); break;
@@ -139,6 +147,15 @@
     }
     e.preventDefault();
   });
+
+  // スペースキー：スクロールできる間はスクロールし、ページの端まで来たらめくる
+  function scrollOrPage(dir) {
+    if (isScroll()) {
+      const atEnd = dir > 0 ? stage.scrollTop + stage.clientHeight >= stage.scrollHeight - 4 : stage.scrollTop <= 4;
+      if (!atEnd) { stage.scrollBy(0, dir * stage.clientHeight * 0.85); return; }
+    }
+    (dir > 0 ? next : prev)();
+  }
 
   // 画面の左 4 割で次へ、右 4 割で前へ、真ん中はメニューの出し入れ。
   // 横に払ったら（指のフリック・マウスのドラッグ）、右へ払うと次、左へ払うと前
@@ -194,6 +211,25 @@
   if (document.fullscreenEnabled) {
     fsBtn.addEventListener('click', () => (document.fullscreenElement ? document.exitFullscreen() : document.documentElement.requestFullscreen()).catch(() => {}));
   } else fsBtn.hidden = true;
+
+  // バーは、マウスを画面の上端か下端へ持っていくと出て、離れて 2.5 秒経つと隠れる。
+  // 読んでいる間（ページの上でマウスを動かしている間）は出さない
+  if (hasMouse) {
+    app.classList.add('autohide');
+    let idle = 0, overBar = false;
+    const hideLater = () => {
+      clearTimeout(idle);
+      idle = setTimeout(() => { if (!overBar && !state.ended) toggleUi(false); }, 2500);
+    };
+    document.querySelectorAll('.bar').forEach(bar => {
+      bar.addEventListener('mouseenter', () => { overBar = true; clearTimeout(idle); });
+      bar.addEventListener('mouseleave', () => { overBar = false; hideLater(); });
+    });
+    document.addEventListener('mousemove', e => {
+      if (e.clientY < 80 || e.clientY > window.innerHeight - 120) { toggleUi(true); hideLater(); }
+    });
+    hideLater(); // 開いた直後はバーを見せて、どこで操作するかを知らせる
+  }
 
   let resizeTimer = 0;
   window.addEventListener('resize', () => { clearTimeout(resizeTimer); resizeTimer = setTimeout(() => relayout(), 120); });
