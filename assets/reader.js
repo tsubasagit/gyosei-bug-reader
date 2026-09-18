@@ -1,5 +1,5 @@
 // 行政バグります！ Webリーダー
-// 右開き（日本の漫画と同じ）：← キー・画面の左クリック・右へスワイプで次のページ、→ で前のページ。
+// 右開き（日本の漫画と同じ）：← キー・画面の左クリック・右へフリック（スワイプ）で次のページ、→ で前のページ。
 // 横長の画面では見開き（右が若いページ）、縦長の画面では1ページずつ表示する。
 (() => {
   'use strict';
@@ -140,23 +140,46 @@
     e.preventDefault();
   });
 
-  // 画面の左 4 割で次へ、右 4 割で前へ、真ん中はメニューの出し入れ。横に 50px 以上動かしたらスワイプ
+  // 画面の左 4 割で次へ、右 4 割で前へ、真ん中はメニューの出し入れ。
+  // 横に払ったら（指のフリック・マウスのドラッグ）、右へ払うと次、左へ払うと前
+  function gesture(dx, dy, clientX, swipe) {
+    if (window.visualViewport && window.visualViewport.scale > 1.05) return; // 拡大中はめくらない
+    if (Math.abs(dx) > swipe && Math.abs(dx) > Math.abs(dy) * 1.2) { (dx > 0 ? next : prev)(); return; }
+    if (Math.abs(dx) > 10 || Math.abs(dy) > 10) return;
+    const x = clientX / window.innerWidth;
+    if (x < 0.4) next(); else if (x > 0.6) prev(); else toggleUi();
+  }
+
+  // マウス・ペン
   let down = null;
   stage.addEventListener('pointerdown', e => {
-    if (e.button !== 0) return;
-    down = { x: e.clientX, y: e.clientY, t: Date.now() };
+    if (e.pointerType === 'touch' || e.button !== 0) return;
+    down = { x: e.clientX, y: e.clientY };
   });
   stage.addEventListener('pointerup', e => {
-    if (!down) return;
+    if (!down || e.pointerType === 'touch') return;
     const dx = e.clientX - down.x, dy = e.clientY - down.y;
     down = null;
-    if (window.visualViewport && window.visualViewport.scale > 1.05) return; // 拡大中はめくらない
-    if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.2) { (dx > 0 ? next : prev)(); return; }
-    if (Math.abs(dx) > 10 || Math.abs(dy) > 10) return;
-    const x = e.clientX / window.innerWidth;
-    if (x < 0.4) next(); else if (x > 0.6) prev(); else toggleUi();
+    gesture(dx, dy, e.clientX, 50);
   });
   stage.addEventListener('pointercancel', () => { down = null; });
+
+  // 指は touch イベントで拾う。iPhone の Safari は touch-action: pinch-zoom を知らないので、
+  // 横に払うとブラウザが操作を引き取って pointercancel になり、pointer イベントではフリックを取りこぼす
+  let touch = null;
+  stage.addEventListener('touchstart', e => {
+    touch = e.touches.length === 1 ? { x: e.touches[0].clientX, y: e.touches[0].clientY } : null; // 2本指はピンチ
+  }, { passive: true });
+  stage.addEventListener('touchmove', e => { if (e.touches.length > 1) touch = null; }, { passive: true });
+  stage.addEventListener('touchend', e => {
+    if (!touch || e.touches.length) return;
+    const t = e.changedTouches[0];
+    const dx = t.clientX - touch.x, dy = t.clientY - touch.y;
+    touch = null;
+    if (e.cancelable) e.preventDefault(); // タップのあとに来るマウスの真似イベントを止める
+    gesture(dx, dy, t.clientX, 30);
+  });
+  stage.addEventListener('touchcancel', () => { touch = null; });
 
   $('next').addEventListener('click', next);
   $('prev').addEventListener('click', prev);
