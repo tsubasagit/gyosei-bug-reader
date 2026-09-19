@@ -7,7 +7,7 @@
 - 紙の白い余白は切り落とす（本編は全ページ同じ範囲で切る）
 - 出力は ep/<話ID>/pages/p01.webp〜。扉絵を渡すと p00.webp として先頭に置く
 - 一覧用の小さい絵 ep/<話ID>/thumb.webp と、SNS 共有用の ep/<話ID>/og.jpg も作る
-- episodes.json の該当する話の pages を、書き出したファイルで更新する
+- episodes.json の該当する話の pages（ファイル名）と sizes（幅・高さ）を、書き出したもので更新する
 """
 import argparse
 import json
@@ -138,6 +138,7 @@ def main():
     if ep is None:
         raise SystemExit(f'episodes.json に話 {args.episode_id} がありません。先に書き足してください。')
     ep['pages'] = files
+    ep['sizes'] = [list(img.size) for img in ([cover] if cover else []) + pages]  # 読み込む前に高さを取っておくため
     ep['hasCover'] = bool(args.cover)
     json.dump(data, open(ep_path, 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=2)
     total = sum(os.path.getsize(os.path.join(pages_dir, f)) for f in files)

@@ -9,7 +9,7 @@
   --primary-hover: #16446b;
   --gap: 6px;
   --bar-h: 52px;
-  --foot-h: 92px;
+  --foot-h: 68px;
   font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic UI", "Meiryo", sans-serif;
 }
 
@@ -38,13 +38,19 @@ body.reader-body { background: var(--stage-bg); color: var(--bar-fg); overflow: 
 }
 .stage.is-spread .page { max-width: calc(50% - var(--gap) / 2); }
 
-/* 横幅に合わせて縦にスクロール（幅のある画面の1ページ表示）。広すぎると1ページが長くなりすぎるので 960px まで */
-.stage.is-scroll {
+/* 縦につなげる表示（幅のある画面の標準）。全ページを横幅に合わせて並べる。
+   広すぎると1ページが長くなりすぎるので 960px まで */
+.stage.is-flow {
   display: block; overflow-x: hidden; overflow-y: auto; overscroll-behavior: contain;
+  padding-bottom: 8px;
   touch-action: pan-y pinch-zoom;
   scrollbar-color: #555 transparent;
 }
-.stage.is-scroll .page { width: min(100%, 960px); max-width: none; max-height: none; margin: 0 auto; }
+.stage.is-flow .page { width: min(100%, 960px); max-width: none; max-height: none; height: auto; margin: 0 auto 12px; }
+.reader.is-flow .bar-bottom { display: none; }
+
+/* 最後のページの下に置く「おわり」 */
+.flow-end { display: grid; place-items: center; padding: 48px 16px 72px; cursor: default; }
 
 /* マウスで読む画面：バーはページの上に重ねて出し入れする（ページの大きさはバーの分を取らない） */
 .reader.autohide .stage { padding: 8px; }
@@ -56,7 +62,7 @@ body.reader-body { background: var(--stage-bg); color: var(--bar-fg); overflow: 
   top: 0; height: var(--bar-h); display: flex; align-items: center; gap: 12px;
   padding: 0 max(12px, env(safe-area-inset-right)) 0 max(12px, env(safe-area-inset-left));
 }
-.bar-bottom { bottom: 0; padding: 0 12px max(10px, env(safe-area-inset-bottom)); }
+.bar-bottom { bottom: 0; padding: 12px 12px max(12px, env(safe-area-inset-bottom)); }
 .reader.ui-hidden .bar-top { transform: translateY(-100%); opacity: 0; }
 .reader.ui-hidden .bar-bottom { transform: translateY(100%); opacity: 0; }
 .reader.ui-hidden .stage { padding: 8px; }
@@ -67,8 +73,8 @@ body.reader-body { background: var(--stage-bg); color: var(--bar-fg); overflow: 
 .icon-btn { background: none; border: 0; color: var(--bar-fg); font-size: 20px; width: 40px; height: 40px; border-radius: 8px; cursor: pointer; }
 .icon-btn:hover { background: rgba(255, 255, 255, .1); }
 
-/* 進み具合は右から左へ伸びる（右開き） */
-.progress { height: 3px; background: rgba(255, 255, 255, .12); margin: 0 -12px 10px; display: flex; justify-content: flex-end; }
+/* 進み具合は画面の上端の細い線だけ。右から左へ伸びる（右開き）。バーを隠しても残す */
+.progress { position: absolute; top: 0; left: 0; right: 0; z-index: 4; height: 3px; background: rgba(255, 255, 255, .12); display: flex; justify-content: flex-end; pointer-events: none; }
 .progress-fill { height: 100%; background: var(--accent); width: 0; transition: width .2s ease; }
 
 .controls { display: flex; align-items: center; justify-content: center; gap: 18px; }
@@ -83,10 +89,25 @@ body.reader-body { background: var(--stage-bg); color: var(--bar-fg); overflow: 
 #next:hover { background: var(--primary-hover); }
 .indicator { min-width: 84px; text-align: center; font-variant-numeric: tabular-nums; font-size: 15px; }
 
-.sub-controls { display: flex; justify-content: center; align-items: center; gap: 16px; margin-top: 6px; }
 .text-btn { background: none; border: 0; color: var(--bar-sub); font: inherit; font-size: 13px; cursor: pointer; text-decoration: underline; padding: 4px; }
 .text-btn:hover { color: #fff; }
-.hint { color: var(--bar-sub); font-size: 12px; }
+
+/* 上のバーのページ数（縦につなげる表示だけ。めくる表示は下のバーに出す） */
+.top-indicator { display: none; color: var(--bar-sub); font-size: 13px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.reader.is-flow .top-indicator { display: inline; }
+
+/* ⋯ メニュー：表示の切り替えと操作のしかた */
+.menu-wrap { position: relative; }
+.menu {
+  position: absolute; right: 0; top: 46px; width: 260px; padding: 6px;
+  background: #262626; border: 1px solid rgba(255, 255, 255, .12); border-radius: 10px;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, .5);
+}
+.menu[hidden] { display: none; }
+.menu-item { display: block; width: 100%; text-align: left; background: none; border: 0; border-radius: 6px; color: var(--bar-fg); font: inherit; font-size: 14px; padding: 10px 12px; cursor: pointer; }
+.menu-item:hover { background: rgba(255, 255, 255, .1); }
+.menu-item[hidden] { display: none; }
+.menu-hint { margin: 6px 12px 6px; color: var(--bar-sub); font-size: 12px; line-height: 1.7; }
 
 button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
@@ -111,7 +132,6 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
   :root { --bar-h: 46px; --foot-h: 84px; }
   .stage { padding-left: 0; padding-right: 0; }
   .nav-btn { min-width: 96px; height: 42px; font-size: 14px; }
-  .hint { display: none; }
   .title { font-size: 14px; }
 }
 @media (prefers-reduced-motion: reduce) { .bar, .progress-fill, .stage { transition: none; } }

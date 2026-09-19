@@ -1,7 +1,9 @@
 // 行政バグります！ Webリーダー
 // 右開き（日本の漫画と同じ）：← キー・画面の左クリック・右へフリック（スワイプ）で次のページ、→ で前のページ。
-// 1ページずつ表示する（見開きはボタンで選べる。右が若いページ）。
-// 幅のある画面では、ページを横幅に合わせて大きく置き、縦にスクロールして読む。
+// 表示は3通り。
+// - 縦につなげる（幅のある画面の標準）：全ページを横幅に合わせて縦に並べ、スクロールだけで最後まで読む
+// - 1ページずつめくる（スマホの縦持ち）：画面に1ページを収めて、めくる
+// - 見開き（幅のある画面でメニューから選んだとき）：2ページを並べてめくる。右が若いページ
 (() => {
   'use strict';
 
@@ -10,13 +12,14 @@
   const BASE = app.dataset.base || '../../';
   const $ = id => document.getElementById(id);
   const stage = $('stage');
-  const MODE_KEY = 'gyosei-reader-mode'; // 'auto' | 'single' | 'spread'
+  const MODE_KEY = 'gyosei-reader-mode'; // 'auto' | 'spread'
 
   const state = {
     ep: null,
     pages: [],      // ページ画像の URL
-    views: [],      // 表示の単位（1ページずつ、または見開きの2ページ）。中身はページ番号の配列
+    views: [],      // めくるときの表示の単位（1ページか見開きの2ページ）。中身はページ番号の配列
     view: 0,        // いま表示している views の位置
+    page: 0,        // 縦につなげる表示で、いま読んでいるページ
     mode: 'auto',
     ended: false,
   };
@@ -30,17 +33,13 @@
   const pageLabel = i => (state.ep.hasCover ? (i === 0 ? '扉' : String(i)) : String(i + 1));
   const bodyCount = () => state.pages.length - (state.ep.hasCover ? 1 : 0);
 
-  // 幅の狭い画面（スマホの縦持ち）は、見開きを選んでいても1ページずつ
+  // 幅の狭い画面（スマホの縦持ち）は、1ページずつめくる
   const isNarrow = () => window.innerWidth < 700;
-
-  // 見開きは選んだときだけ。A4 を2枚並べると PC でも文字が小さすぎて読めない
   const isSpread = () => !isNarrow() && state.mode === 'spread';
+  const isFlow = () => !isNarrow() && !isSpread();
 
-  // 1ページ表示で幅のある画面（PC・タブレット・スマホの横持ち）は、横幅に合わせて縦にスクロール
-  const isScroll = () => !isSpread() && !isNarrow();
-
-  // マウスで読む画面では、上下のバーを少し経ったら隠して、ページを広く見せる
   const hasMouse = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+  const smooth = () => (window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth');
 
   function buildViews() {
     const n = state.pages.length;
@@ -55,33 +54,40 @@
     return views;
   }
 
-  // 見開きと1ページを切り替えても、読んでいたページを見失わない
+  const currentPage = () => (isFlow() ? state.page : (state.views[state.view] || [0])[0]);
+
+  // 表示を切り替えても、読んでいたページを見失わない
   function relayout(keepPage) {
     const page = keepPage ?? currentPage();
+    showEnd(false);
     state.views = buildViews();
     state.view = Math.max(0, state.views.findIndex(v => v.includes(page)));
-    render();
+    app.classList.toggle('is-flow', isFlow());
+    stage.classList.toggle('is-flow', isFlow());
+    if (isFlow()) renderFlow(page); else render();
+    updateMenu();
   }
 
-  const currentPage = () => (state.views[state.view] || [0])[0];
-
-  function makeImage(i) {
+  function makeImage(i, lazy) {
     const img = new Image();
     img.decoding = 'async';
+    if (lazy) img.loading = 'lazy';
+    const size = state.ep.sizes && state.ep.sizes[i];
+    if (size) { img.width = size[0]; img.height = size[1]; } // 読み込む前から高さを取っておく
     img.src = state.pages[i];
     img.alt = `第${state.ep.number}話「${state.ep.title}」 ${state.ep.hasCover && i === 0 ? '扉絵' : pageLabel(i) + 'ページ'}`;
     img.className = 'page';
     img.draggable = false;
+    img.dataset.page = i;
     return img;
   }
 
+  // ---- めくる表示（スマホ・見開き） ------------------------------------------
   function render() {
     const view = state.views[state.view];
     stage.classList.toggle('is-spread', view.length === 2);
-    stage.classList.toggle('is-scroll', isScroll());
-    stage.scrollTop = 0;
     stage.setAttribute('aria-busy', 'true');
-    const imgs = view.map(makeImage);
+    const imgs = view.map(i => makeImage(i, false));
     let pending = imgs.length;
     const done = () => { if (--pending <= 0) stage.setAttribute('aria-busy', 'false'); };
     imgs.forEach(img => (img.complete ? done() : img.addEventListener('load', done, { once: true })));
@@ -90,14 +96,8 @@
 
     const first = view[0], last = view[view.length - 1];
     const label = view.length === 2 ? `${pageLabel(first)}–${pageLabel(last)}` : pageLabel(first);
-    $('indicator').textContent = state.ep.hasCover && first === 0 ? `扉 / ${bodyCount()}` : `${label} / ${bodyCount()}`;
-    $('progress-fill').style.width = `${((last + 1) / state.pages.length) * 100}%`;
+    showPosition(first, label, (last + 1) / state.pages.length);
     $('prev').disabled = state.view === 0;
-    $('mode').textContent = isSpread() ? '1ページで読む' : '見開きで読む';
-    $('mode').hidden = isNarrow();
-
-    const hash = `#p=${pageLabel(first) === '扉' ? 0 : pageLabel(first)}`;
-    if (location.hash !== hash) history.replaceState(null, '', hash);
     preload();
   }
 
@@ -109,16 +109,87 @@
     }
   }
 
+  // ---- 縦につなげる表示（PC・タブレット） ------------------------------------
+  function renderFlow(page) {
+    stage.classList.remove('is-spread');
+    stage.setAttribute('aria-busy', 'false');
+    // 最初の2ページはすぐ読み込み、残りは近づいたら読み込む
+    const imgs = state.pages.map((_, i) => makeImage(i, i > page + 1));
+    stage.replaceChildren(...imgs, flowEnd());
+    state.page = page;
+    stage.scrollTop = page === 0 ? 0 : pageTop(page);
+    onFlowScroll();
+  }
+
+  // 最後のページの下に置く「おわり」
+  function flowEnd() {
+    const end = document.createElement('section');
+    end.className = 'flow-end';
+    end.setAttribute('aria-label', 'おわり');
+    const card = $('end').querySelector('.end-card').cloneNode(true);
+    card.querySelectorAll('[id]').forEach(el => el.removeAttribute('id'));
+    card.querySelector('.text-btn')?.remove(); // 「最後のページに戻る」は縦につなげる表示では要らない
+    card.querySelector('.btn-primary').addEventListener('click', () => stage.scrollTo({ top: 0, behavior: smooth() }));
+    end.append(card);
+    return end;
+  }
+
+  const pageEls = () => stage.querySelectorAll('.page');
+  const pageTop = i => { const el = pageEls()[i]; return el ? el.offsetTop - 8 : 0; };
+
+  // いま画面の上から 4 割のところにあるページを「読んでいるページ」にする
+  function onFlowScroll() {
+    const line = stage.scrollTop + stage.clientHeight * 0.4;
+    let page = 0;
+    pageEls().forEach((el, i) => { if (el.offsetTop <= line) page = i; });
+    state.page = page;
+    const max = stage.scrollHeight - stage.clientHeight;
+    showPosition(page, pageLabel(page), max > 0 ? stage.scrollTop / max : 1);
+  }
+  let scrollTick = 0;
+  stage.addEventListener('scroll', () => {
+    if (!isFlow() || scrollTick) return;
+    scrollTick = requestAnimationFrame(() => { scrollTick = 0; onFlowScroll(); });
+  }, { passive: true });
+
+  function flowGo(dir) {
+    const n = state.pages.length;
+    let target;
+    if (dir > 0) target = state.page + 1;
+    // ページの途中まで読んでいたら、まずそのページの頭に戻る
+    else target = stage.scrollTop > pageTop(state.page) + 24 ? state.page : state.page - 1;
+    if (target < 0) return;
+    const top = target >= n ? stage.scrollHeight : pageTop(target);
+    stage.scrollTo({ top, behavior: smooth() });
+  }
+
+  // ---- 共通 ---------------------------------------------------------------
+  function showPosition(first, label, progress) {
+    const text = state.ep.hasCover && first === 0 ? `扉 / ${bodyCount()}` : `${label} / ${bodyCount()}`;
+    $('indicator').textContent = text;
+    $('top-indicator').textContent = text;
+    $('progress-fill').style.width = `${Math.min(progress, 1) * 100}%`;
+    const hash = `#p=${pageLabel(first) === '扉' ? 0 : pageLabel(first)}`;
+    if (location.hash !== hash) history.replaceState(null, '', hash);
+  }
+
   function next() {
+    if (isFlow()) { flowGo(1); return; }
     if (state.ended) return;
     if (state.view < state.views.length - 1) { state.view++; render(); }
     else showEnd(true);
   }
   function prev() {
+    if (isFlow()) { flowGo(-1); return; }
     if (state.ended) { showEnd(false); return; }
     if (state.view > 0) { state.view--; render(); }
   }
-  function goTo(view) { showEnd(false); state.view = Math.min(Math.max(view, 0), state.views.length - 1); render(); }
+  function goTo(where) { // 'first' | 'last'
+    if (isFlow()) { stage.scrollTo({ top: where === 'first' ? 0 : stage.scrollHeight, behavior: smooth() }); return; }
+    showEnd(false);
+    state.view = where === 'first' ? 0 : state.views.length - 1;
+    render();
+  }
 
   function showEnd(on) {
     state.ended = on;
@@ -131,36 +202,59 @@
     app.classList.toggle('ui-hidden', force !== undefined ? !force : !app.classList.contains('ui-hidden'));
   }
 
+  // ---- メニュー（表示の切り替えと操作のしかた） -------------------------------
+  const menu = $('menu'), menuBtn = $('menu-btn');
+  function openMenu(on) {
+    menu.hidden = !on;
+    menuBtn.setAttribute('aria-expanded', String(on));
+    app.classList.toggle('menu-open', on);
+  }
+  function updateMenu() {
+    $('mode').hidden = isNarrow();
+    $('mode').textContent = isSpread() ? '縦につなげて読む' : '見開きで読む';
+    $('menu-hint').textContent = isNarrow()
+      ? '右へフリック・画面の左をタップで次のページ。真ん中をタップでメニュー'
+      : isFlow()
+        ? 'スクロールで読み進めます。← で次のページ、→ で前のページ'
+        : '← で次のページ、→ で前のページ。画面の左クリックでも次へ';
+  }
+  menuBtn.addEventListener('click', e => { e.stopPropagation(); openMenu(menu.hidden); });
+  document.addEventListener('click', e => { if (!menu.hidden && !e.target.closest('.menu-wrap')) openMenu(false); });
+  $('mode').addEventListener('click', () => {
+    state.mode = isSpread() ? 'auto' : 'spread';
+    storage.set(MODE_KEY, state.mode);
+    openMenu(false);
+    relayout();
+  });
+
   // ---- 操作 ---------------------------------------------------------------
   document.addEventListener('keydown', e => {
     if (e.altKey || e.ctrlKey || e.metaKey) return;
+    if (e.key === 'Escape' && !menu.hidden) { openMenu(false); menuBtn.focus(); e.preventDefault(); return; }
+    if (isFlow() && [' ', 'ArrowDown', 'ArrowUp', 'PageDown', 'PageUp'].includes(e.key)) {
+      // 縦につなげる表示では、スクロールはブラウザにまかせる（ページ全体ではなく stage を動かす）
+      const step = { ' ': 0.85, PageDown: 0.85, PageUp: -0.85, ArrowDown: 0.15, ArrowUp: -0.15 }[e.key] * (e.shiftKey && e.key === ' ' ? -1 : 1);
+      stage.scrollBy({ top: step * stage.clientHeight, behavior: smooth() });
+      e.preventDefault();
+      return;
+    }
     switch (e.key) {
       case 'ArrowLeft': case 'PageDown': next(); break;
       case 'ArrowRight': case 'PageUp': prev(); break;
-      case ' ': e.shiftKey ? scrollOrPage(-1) : scrollOrPage(1); break;
-      case 'ArrowDown': if (!isScroll()) return; stage.scrollBy(0, 160); break;
-      case 'ArrowUp': if (!isScroll()) return; stage.scrollBy(0, -160); break;
-      case 'Home': goTo(0); break;
-      case 'End': goTo(state.views.length - 1); break;
+      case ' ': (e.shiftKey ? prev : next)(); break;
+      case 'Home': goTo('first'); break;
+      case 'End': goTo('last'); break;
       case 'Escape': if (state.ended) showEnd(false); else toggleUi(true); break;
       default: return;
     }
     e.preventDefault();
   });
 
-  // スペースキー：スクロールできる間はスクロールし、ページの端まで来たらめくる
-  function scrollOrPage(dir) {
-    if (isScroll()) {
-      const atEnd = dir > 0 ? stage.scrollTop + stage.clientHeight >= stage.scrollHeight - 4 : stage.scrollTop <= 4;
-      if (!atEnd) { stage.scrollBy(0, dir * stage.clientHeight * 0.85); return; }
-    }
-    (dir > 0 ? next : prev)();
-  }
-
   // 画面の左 4 割で次へ、右 4 割で前へ、真ん中はメニューの出し入れ。
   // 横に払ったら（指のフリック・マウスのドラッグ）、右へ払うと次、左へ払うと前
-  function gesture(dx, dy, clientX, swipe) {
+  function gesture(dx, dy, clientX, target, swipe) {
     if (window.visualViewport && window.visualViewport.scale > 1.05) return; // 拡大中はめくらない
+    if (target.closest('.flow-end')) return; // 「おわり」のボタンを押したとき
     if (Math.abs(dx) > swipe && Math.abs(dx) > Math.abs(dy) * 1.2) { (dx > 0 ? next : prev)(); return; }
     if (Math.abs(dx) > 10 || Math.abs(dy) > 10) return;
     const x = clientX / window.innerWidth;
@@ -177,7 +271,7 @@
     if (!down || e.pointerType === 'touch') return;
     const dx = e.clientX - down.x, dy = e.clientY - down.y;
     down = null;
-    gesture(dx, dy, e.clientX, 50);
+    gesture(dx, dy, e.clientX, e.target, 50);
   });
   stage.addEventListener('pointercancel', () => { down = null; });
 
@@ -193,46 +287,52 @@
     const t = e.changedTouches[0];
     const dx = t.clientX - touch.x, dy = t.clientY - touch.y;
     touch = null;
+    if (e.target.closest('.flow-end')) return; // 「おわり」のボタンはふつうに押せるように
     if (e.cancelable) e.preventDefault(); // タップのあとに来るマウスの真似イベントを止める
-    gesture(dx, dy, t.clientX, 30);
+    gesture(dx, dy, t.clientX, e.target, 30);
   });
   stage.addEventListener('touchcancel', () => { touch = null; });
 
   $('next').addEventListener('click', next);
   $('prev').addEventListener('click', prev);
-  $('restart').addEventListener('click', () => goTo(0));
+  $('restart').addEventListener('click', () => goTo('first'));
   $('end-back').addEventListener('click', () => showEnd(false));
-  $('mode').addEventListener('click', () => {
-    state.mode = isSpread() ? 'single' : 'spread';
-    storage.set(MODE_KEY, state.mode);
-    relayout();
-  });
   const fsBtn = $('fullscreen');
   if (document.fullscreenEnabled) {
     fsBtn.addEventListener('click', () => (document.fullscreenElement ? document.exitFullscreen() : document.documentElement.requestFullscreen()).catch(() => {}));
   } else fsBtn.hidden = true;
 
-  // バーは、マウスを画面の上端か下端へ持っていくと出て、離れて 2.5 秒経つと隠れる。
-  // 読んでいる間（ページの上でマウスを動かしている間）は出さない
+  // マウスで読む画面では、バーはページに重ねて出し入れする。
+  // 上端（めくる表示では下端も）にマウスを寄せると出て、離れて 2.5 秒経つと隠れる
   if (hasMouse) {
     app.classList.add('autohide');
     let idle = 0, overBar = false;
     const hideLater = () => {
       clearTimeout(idle);
-      idle = setTimeout(() => { if (!overBar && !state.ended) toggleUi(false); }, 2500);
+      idle = setTimeout(() => { if (!overBar && !state.ended && menu.hidden) toggleUi(false); }, 2500);
     };
     document.querySelectorAll('.bar').forEach(bar => {
       bar.addEventListener('mouseenter', () => { overBar = true; clearTimeout(idle); });
       bar.addEventListener('mouseleave', () => { overBar = false; hideLater(); });
     });
     document.addEventListener('mousemove', e => {
-      if (e.clientY < 80 || e.clientY > window.innerHeight - 120) { toggleUi(true); hideLater(); }
+      const nearBottom = !isFlow() && e.clientY > window.innerHeight - 120;
+      if (e.clientY < 80 || nearBottom) { toggleUi(true); hideLater(); }
     });
+    menu.addEventListener('mouseleave', hideLater);
     hideLater(); // 開いた直後はバーを見せて、どこで操作するかを知らせる
   }
 
-  let resizeTimer = 0;
-  window.addEventListener('resize', () => { clearTimeout(resizeTimer); resizeTimer = setTimeout(() => relayout(), 120); });
+  let resizeTimer = 0, lastNarrow = null;
+  window.addEventListener('resize', () => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(() => {
+      // 縦につなげる表示のまま幅だけ変わったときは、組み直さない（ブラウザが自然に並べ直す）
+      if (isFlow() && lastNarrow === false) { onFlowScroll(); return; }
+      lastNarrow = isNarrow();
+      relayout();
+    }, 120);
+  });
 
   // #p=3 のようなリンクから、ページ番号（扉絵が 0）を読む
   function pageFromHash() {
@@ -251,17 +351,18 @@
       state.ep = data.episodes.find(e => e.id === EP_ID);
       if (!state.ep || !state.ep.pages.length) throw new Error('episode');
       state.pages = state.ep.pages.map(f => `${BASE}ep/${EP_ID}/pages/${f}`);
-      state.mode = ['single', 'spread'].includes(storage.get(MODE_KEY)) ? storage.get(MODE_KEY) : 'auto';
+      state.mode = storage.get(MODE_KEY) === 'spread' ? 'spread' : 'auto';
 
       $('title').textContent = `第${state.ep.number}話　${state.ep.title}`;
       document.title = `第${state.ep.number}話「${state.ep.title}」｜${data.series.title}`;
 
+      lastNarrow = isNarrow();
       relayout(pageFromHash() ?? 0);
       app.classList.add('is-ready');
       // 開いたまま #p=5 のリンクを踏んだときも、そのページへ飛ぶ
       window.addEventListener('hashchange', () => {
         const page = pageFromHash();
-        if (page !== null && page !== currentPage()) { showEnd(false); relayout(page); }
+        if (page !== null && page !== currentPage()) relayout(page);
       });
     } catch {
       $('error').hidden = false;

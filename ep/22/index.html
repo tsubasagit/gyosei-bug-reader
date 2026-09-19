@@ -21,21 +21,25 @@
     <header class="bar bar-top">
       <a class="back" href="../../" aria-label="作品の一覧へ戻る">‹ 一覧</a>
       <h1 id="title" class="title">第22話　課題、持ち帰ります</h1>
+      <span id="top-indicator" class="top-indicator" aria-hidden="true"></span>
+      <div class="menu-wrap">
+        <button id="menu-btn" class="icon-btn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="menu" aria-label="表示の切り替えと操作のしかた" title="表示・操作">⋯</button>
+        <div id="menu" class="menu" hidden>
+          <button id="mode" class="menu-item" type="button">見開きで読む</button>
+          <p id="menu-hint" class="menu-hint"></p>
+        </div>
+      </div>
       <button id="fullscreen" class="icon-btn" type="button" aria-label="全画面で読む" title="全画面">⛶</button>
     </header>
 
+    <div class="progress" aria-hidden="true"><div id="progress-fill" class="progress-fill"></div></div>
     <div id="stage" class="stage" aria-live="polite" aria-busy="true"></div>
 
     <footer class="bar bar-bottom">
-      <div class="progress" aria-hidden="true"><div id="progress-fill" class="progress-fill"></div></div>
       <div class="controls">
         <button id="next" class="nav-btn" type="button" aria-label="次のページ（←キー）">◀ 次へ</button>
         <span id="indicator" class="indicator">扉 / 11</span>
         <button id="prev" class="nav-btn" type="button" aria-label="前のページ（→キー）">前へ ▶</button>
-      </div>
-      <div class="sub-controls">
-        <button id="mode" class="text-btn" type="button">見開きで読む</button>
-        <span class="hint">← で次へ・→ で前へ</span>
       </div>
     </footer>
 

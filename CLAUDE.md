@@ -16,7 +16,8 @@ python -m http.server 8976
 - ページ画像は `tools/build_pages.py` で作る。制作データ（設定資料・プロンプト・ネーム.json）はこのリポジトリに入れない（公開リポジトリのため）
 - パスは相対パスで書く（GitHub Pages ではサイトが `/gyosei-bug-reader/` の下に置かれる）
 - UI の文言は日本語。会社名は「株式会社AppTalentHub」と書く（略称は使わない）
-- localStorage は見開き／1ページの好みだけ。読めなくても動くように try/catch で包む
+- 表示は3通り：縦につなげる（幅700px以上の標準）・めくる（幅700px未満）・見開き（メニューで選択）。`episodes.json` の `sizes` で読み込み前に高さを取るので、ページ画像を差し替えたら `sizes` も直す（`build_pages.py` なら自動）
+- localStorage は見開きの好みだけ。読めなくても動くように try/catch で包む
 
 ## 作品の正
 
