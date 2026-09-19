@@ -4,11 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>行政バグります！ ～梨ヶ坂市役所・特務トレンド係～</title>
-  <meta name="description" content="梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。Webで無料で読めます。">
+  <meta name="description" content="金と楽がしたいダメ公務員が、儲けたい一心で制度を一夜漬けし、力技で市民の困りごとを片づけてしまう。梨ヶ坂市役所の地下「特務トレンド係」の1話完結ギャグ漫画。Webで無料で読めます。">
   <meta property="og:type" content="website">
   <meta property="og:title" content="行政バグります！ ～梨ヶ坂市役所・特務トレンド係～">
-  <meta property="og:description" content="梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。">
-  <meta property="og:image" content="https://tsubasagit.github.io/gyosei-bug-reader/ep/22/og.jpg">
+  <meta property="og:description" content="金と楽がしたいダメ公務員が、儲けたい一心で制度を一夜漬けし、力技で市民の困りごとを片づけてしまう1話完結ギャグ漫画。">
+  <meta property="og:image" content="https://tsubasagit.github.io/gyosei-bug-reader/assets/og-top.jpg">
   <meta property="og:url" content="https://tsubasagit.github.io/gyosei-bug-reader/">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
@@ -16,23 +16,104 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/style.css">
+  <link rel="preload" as="image" href="assets/cover.webp">
 </head>
 <body>
+  <!-- 1. 表紙と、読むボタン（迷わせないように、ボタンは1つだけ大きく） -->
   <header class="hero">
-    <div class="wrap">
-      <p class="kicker">1話完結のお役所ギャグ漫画</p>
-      <h1 class="logo">行政バグります！</h1>
-      <p class="logo-sub">～梨ヶ坂市役所・特務トレンド係～</p>
-      <p id="series-desc" class="lead">梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。</p>
+    <div class="wrap hero-inner">
+      <a class="hero-cover" href="ep/1/" data-first-link>
+        <img src="assets/cover.webp" width="1024" height="1536" alt="行政バグります！の表紙。源田テツ、赤嶺レナ、鈴木ショータ、豪徳寺剛の4人">
+      </a>
+      <div class="hero-text">
+        <p class="kicker">1話完結のお役所ギャグ漫画</p>
+        <h1 class="logo">行政バグります！</h1>
+        <p class="logo-sub">～梨ヶ坂市役所・特務トレンド係～</p>
+        <p class="lead">金と楽がしたいダメ公務員が、儲けたい一心で制度を一夜漬けし、力技で市民の困りごとを片づけてしまう。</p>
+        <div class="cta-row">
+          <a class="cta" href="ep/1/" data-first-link>
+            <span id="cta-label">第1話から読む</span>
+            <small>無料・1話5分ほど</small>
+          </a>
+          <a id="cta-latest" class="cta-sub" href="ep/22/" data-latest-link>最新話：第22話</a>
+        </div>
+        <p class="hero-links"><a href="#story">どんな漫画？</a><a href="#characters">登場人物</a><a href="#episodes-title">エピソード一覧</a></p>
+      </div>
     </div>
   </header>
 
-  <main class="wrap">
-    <h2 class="section-title">エピソード</h2>
-    <ul id="episodes" class="episodes" aria-live="polite">
-      <li class="episode-empty">読み込み中…</li>
-    </ul>
-    <noscript><p><a href="ep/22/">第22話「課題、持ち帰ります」を読む</a></p></noscript>
+  <main>
+    <!-- 2. どんな漫画か（毎話の流れ） -->
+    <section id="story" class="section">
+      <div class="wrap">
+        <h2 class="section-title">どんな漫画？</h2>
+        <p class="section-lead">舞台は、梨畑と坂の町・梨ヶ坂市。その市役所の地下に、予算も権限もない「特務トレンド係」がある。毎回、だいたいこうなります。</p>
+        <ol class="flow">
+          <li><span class="flow-num">1</span><strong>困りごとが来る</strong><span>市民の悩みや、役所の理不尽な手続きが持ち込まれる。</span></li>
+          <li><span class="flow-num">2</span><strong>テツが儲け話を嗅ぎつける</strong><span>目が「＄」になったら、もう止まらない。</span></li>
+          <li><span class="flow-num">3</span><strong>一夜漬けで暴走する</strong><span>制度や最新の技術を徹夜で覚え、力技で回して、やりすぎる。</span></li>
+          <li class="flow-don"><span class="flow-num">4</span><strong>課長の決裁印「ドン」</strong><span>最後は豪徳寺課長が、静かな丁寧語と巨大な判子で終わらせる。</span></li>
+        </ol>
+        <p class="flow-after">……でも、市民の困りごとは、なぜか片づいている。テツの儲けだけが消えている。<br>読み終わると、行政の仕組みがひとつ分かります。</p>
+      </div>
+    </section>
+
+    <!-- 3. 登場人物 -->
+    <section id="characters" class="section section-sub">
+      <div class="wrap">
+        <h2 class="section-title">登場人物</h2>
+        <ul class="charas">
+          <li class="chara">
+            <img src="assets/chara/tetsu.webp" width="640" height="640" loading="lazy" alt="源田テツ。作業用ベストの男が、目を＄にしてニヤリと笑う">
+            <div class="chara-body">
+              <p class="chara-role">主役・係員</p>
+              <h3 class="chara-name"><ruby>源田<rt>げんだ</rt></ruby>テツ<small>38歳</small></h3>
+              <p class="chara-line">「これ……金になるぞ！」</p>
+              <p class="chara-desc">金と、サボることへの執念で動くダメ公務員。儲け話を見つけると、制度でも最新技術でも一晩で覚えてしまう。ただし付け焼き刃なので、どこかを必ず誤解している。人助けは、いつも副産物。</p>
+            </div>
+          </li>
+          <li class="chara">
+            <img src="assets/chara/rena.webp" width="640" height="640" loading="lazy" alt="赤嶺レナ。金髪ロングの女性が、こちらを指さしてあきれ顔">
+            <div class="chara-body">
+              <p class="chara-role">係のリーダー・テツの上司</p>
+              <h3 class="chara-name"><ruby>赤嶺<rt>あかみね</rt></ruby>レナ</h3>
+              <p class="chara-line">「テツ、それ本当に大丈夫なんでしょうね？」</p>
+              <p class="chara-desc">論理的で強気な、特務トレンド係のリーダー。テツを止めにかかる唯一の人。言っていることはいつも正しいが、いつも一歩遅い。巻き込まれて、最後は尻拭いをする。</p>
+            </div>
+          </li>
+          <li class="chara">
+            <img src="assets/chara/shota.webp" width="640" height="640" loading="lazy" alt="鈴木ショータ。白Tシャツの高校生が、無表情でスマホの電卓を見せる">
+            <div class="chara-body">
+              <p class="chara-role">高校生バイト</p>
+              <h3 class="chara-name"><ruby>鈴木<rt>すずき</rt></ruby>ショータ<small>16歳</small></h3>
+              <p class="chara-line">「時給が出るなら、やります。残業はしません」</p>
+              <p class="chara-desc">割に合えばやる、合わなければやらない現代っ子。テツの計画に金額で乗る。乗った回ほど、被害が大きくなる。残業しないのは法律の裏付けつき。</p>
+            </div>
+          </li>
+          <li class="chara">
+            <img src="assets/chara/gotokuji.webp" width="640" height="640" loading="lazy" alt="豪徳寺剛。眼鏡を白く光らせたスーツの男性が、巨大な決裁の判子を抱えて静かに笑う">
+            <div class="chara-body">
+              <p class="chara-role">課長</p>
+              <h3 class="chara-name"><ruby>豪徳寺<rt>ごうとくじ</rt></ruby><ruby>剛<rt>ごう</rt></ruby><small>46歳</small></h3>
+              <p class="chara-line">「源田くん。……いえ、源田さん」</p>
+              <p class="chara-desc">怒鳴らない課長。叱るときほど丁寧語になり、眼鏡のレンズが白く光る。テツの呼び方が「源田さん」に変わったら、もう手遅れ。最後は巨大な決裁印で、すべてを終わらせる。</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- 4. エピソード -->
+    <section class="section">
+      <div class="wrap">
+        <h2 id="episodes-title" class="section-title">エピソード</h2>
+        <p class="section-lead">1話完結なので、どの話から読んでも大丈夫です。</p>
+        <ul id="episodes" class="episodes" aria-live="polite">
+          <li class="episode-empty">読み込み中…</li>
+        </ul>
+        <noscript><p><a href="ep/1/">第1話「秒で消える体育館」を読む</a>／<a href="ep/22/">第22話「課題、持ち帰ります」を読む</a></p></noscript>
+      </div>
+    </section>
   </main>
 
   <footer class="site-footer">

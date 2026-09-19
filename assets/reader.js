@@ -128,8 +128,8 @@
     end.setAttribute('aria-label', 'おわり');
     const card = $('end').querySelector('.end-card').cloneNode(true);
     card.querySelectorAll('[id]').forEach(el => el.removeAttribute('id'));
-    card.querySelector('.text-btn')?.remove(); // 「最後のページに戻る」は縦につなげる表示では要らない
-    card.querySelector('.btn-primary').addEventListener('click', () => stage.scrollTo({ top: 0, behavior: smooth() }));
+    card.querySelector(':scope > .text-btn')?.remove(); // 「最後のページに戻る」は縦につなげる表示では要らない
+    card.querySelector('.end-actions .text-btn').addEventListener('click', () => stage.scrollTo({ top: 0, behavior: smooth() })); // 最初から読む
     end.append(card);
     return end;
   }
@@ -354,6 +354,19 @@
       state.mode = storage.get(MODE_KEY) === 'spread' ? 'spread' : 'auto';
 
       $('title').textContent = `第${state.ep.number}話　${state.ep.title}`;
+      // 「おわり」の X で感想を書く：話の題名と、この話の URL（ページ番号は付けない）
+      const shareText = `『行政バグります！』第${state.ep.number}話「${state.ep.title}」を読んだ #行政バグります`;
+      $('share-x').href = `https://x.com/intent/post?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(location.href.split('#')[0])}`;
+      // 次に公開されている話があれば、「おわり」のいちばん上に「次の話へ」を出す（感想ボタンは控えめに）
+      const nextEp = data.episodes.filter(e => e.pages && e.pages.length && e.number > state.ep.number).sort((a, b) => a.number - b.number)[0];
+      if (nextEp) {
+        const a = document.createElement('a');
+        a.className = 'btn btn-primary';
+        a.href = `${BASE}ep/${nextEp.id}/`;
+        a.textContent = `次の話へ：第${nextEp.number}話「${nextEp.title}」`;
+        $('share-x').className = 'btn btn-ghost';
+        $('end').querySelector('.end-actions').prepend(a);
+      }
       document.title = `第${state.ep.number}話「${state.ep.title}」｜${data.series.title}`;
 
       lastNarrow = isNarrow();

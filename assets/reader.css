@@ -123,8 +123,8 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
 .btn-primary:hover { background: var(--primary-hover); }
 .btn-ghost { border: 2px solid var(--primary); color: var(--primary); background: #fff; }
 .btn-ghost:hover { background: var(--primary); color: #fff; }
-.end .text-btn { color: #64748b; }
-.end .text-btn:hover { color: #1e293b; }
+.end-card .text-btn { color: #64748b; }
+.end-card .text-btn:hover { color: #1e293b; }
 
 .error { position: absolute; inset: auto 16px 50% 16px; text-align: center; color: #fca5a5; }
 
