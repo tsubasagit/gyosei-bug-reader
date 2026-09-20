@@ -140,7 +140,9 @@ def main():
     ep['pages'] = files
     ep['sizes'] = [list(img.size) for img in ([cover] if cover else []) + pages]  # 読み込む前に高さを取っておくため
     ep['hasCover'] = bool(args.cover)
-    json.dump(data, open(ep_path, 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=2)
+    with open(ep_path, 'w', encoding='utf-8', newline='\n') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+        f.write('\n')  # 末尾の改行を残す（ないと毎回ここだけ差分になる）
     total = sum(os.path.getsize(os.path.join(pages_dir, f)) for f in files)
     print(f'{len(files)} 枚、合計 {total // 1024} KB。episodes.json を更新しました。')
 
