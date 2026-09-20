@@ -83,7 +83,7 @@ body { margin: 0; background: var(--bg); color: var(--fg); line-height: 1.7; }
 /* 登場人物 */
 .charas { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
 .chara { display: grid; grid-template-columns: 170px 1fr; gap: 16px; align-items: start; background: var(--card-bg); border: 1px solid var(--line); border-radius: 14px; padding: 16px; }
-.chara img { width: 100%; height: auto; aspect-ratio: 2 / 3; object-fit: contain; border-radius: 8px; border: 2px solid var(--fg); background: #fff; }
+.chara img { width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; border-radius: 8px; border: 2px solid var(--fg); background: #fff; }
 .chara-role { margin: 0; font-size: 12px; font-weight: 700; color: var(--primary); letter-spacing: .06em; }
 .chara-name { margin: 2px 0 8px; font-size: 22px; line-height: 1.5; }
 .chara-name rt { font-size: 10px; font-weight: 400; color: var(--fg-sub); }
@@ -94,6 +94,13 @@ body { margin: 0; background: var(--bg); color: var(--fg); line-height: 1.7; }
   background: #fff; color: #111; border: 2px solid #111; border-radius: 18px;
 }
 .chara-desc { margin: 0; font-size: 14px; }
+
+.list-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
+.list-head .section-title { margin: 0; }
+.sort { display: flex; border: 1px solid var(--line); border-radius: 999px; overflow: hidden; background: var(--card-bg); }
+.sort-btn { border: 0; background: none; color: var(--fg-sub); font: inherit; font-size: 13px; padding: 7px 16px; cursor: pointer; }
+.sort-btn:hover { color: var(--fg); }
+.sort-btn[aria-pressed="true"] { background: var(--primary); color: #fff; font-weight: 700; }
 
 .episodes { list-style: none; margin: 0; padding: 0; display: grid; gap: 20px; }
 .episode-empty { color: var(--fg-sub); }
