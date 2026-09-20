@@ -1,4 +1,4 @@
-/* 行政バグります！ 作品トップ（表紙・どんな漫画か・登場人物・エピソード一覧） */
+/* 行政バグります！ 作品トップ（表紙・エピソード・作品紹介・登場人物） */
 :root {
   --bg: #ffffff;
   --bg-sub: #f8fafc;
@@ -8,6 +8,7 @@
   --primary: #1f5b8c;
   --primary-hover: #16446b;
   --accent: #538bb0;
+  --comic-red: #d83a31;
   --hero-bg: #161616;
   --hero-fg: #ffffff;
   --card-bg: #ffffff;
@@ -25,6 +26,7 @@
 }
 
 * { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
 body { margin: 0; background: var(--bg); color: var(--fg); line-height: 1.7; }
 .wrap { max-width: 960px; margin: 0 auto; padding: 0 16px; }
 
@@ -35,17 +37,21 @@ body { margin: 0; background: var(--bg); color: var(--fg); line-height: 1.7; }
   background-size: 9px 9px;
   padding: 40px 0 44px;
 }
-.hero-inner { display: grid; grid-template-columns: minmax(0, 340px) 1fr; gap: 40px; align-items: center; }
+.hero-inner { display: grid; grid-template-columns: minmax(0, 340px) 1fr; grid-template-areas: "cover text"; gap: 40px; align-items: center; }
+.hero-cover { grid-area: cover; }
+.hero-text { grid-area: text; }
 .hero-cover { display: block; }
 .hero-cover img { display: block; width: 100%; height: auto; border-radius: 4px; background: #fff; box-shadow: 0 12px 40px rgba(0, 0, 0, .6); transition: transform .2s ease; }
 .hero-cover:hover img { transform: rotate(-1deg) scale(1.01); }
-.kicker { margin: 0 0 8px; font-size: 14px; letter-spacing: .12em; color: #cbd5e1; }
+.kicker { display: inline-block; margin: 0 0 12px; padding: 4px 10px; border: 1px solid rgba(255, 255, 255, .65); font-size: 14px; font-weight: 700; letter-spacing: .08em; color: #fff; transform: rotate(-1deg); }
 .logo {
   margin: 0; font-family: "Dela Gothic One", "Hiragino Sans", sans-serif; font-weight: 400;
   font-size: clamp(34px, 5.4vw, 58px); line-height: 1.15; letter-spacing: .02em; white-space: nowrap;
   text-shadow: 3px 3px 0 var(--primary);
 }
 .logo-sub { margin: 8px 0 20px; font-size: clamp(15px, 3.4vw, 20px); font-weight: 700; }
+.catch { margin: 0 0 10px; font-family: "Dela Gothic One", "Hiragino Sans", sans-serif; font-size: clamp(25px, 4vw, 38px); line-height: 1.35; letter-spacing: .02em; }
+.catch::first-line { color: #fff; }
 .lead { margin: 0 0 24px; max-width: 560px; color: #e2e8f0; font-size: 16px; }
 
 /* 読むボタン：ページでいちばん目立つもの */
@@ -68,12 +74,17 @@ body { margin: 0; background: var(--bg); color: var(--fg); line-height: 1.7; }
 .hero-links a { color: #cbd5e1; }
 .hero-links a:hover { color: #fff; }
 
-.section-title { font-size: 22px; margin: 0 0 16px; padding-left: 12px; border-left: 6px solid var(--primary); line-height: 1.3; }
+.section-title { font-size: clamp(22px, 3.2vw, 30px); margin: 0 0 16px; padding-left: 12px; border-left: 6px solid var(--primary); line-height: 1.3; }
 .section { padding: 48px 0; }
 .section-sub { background: var(--bg-sub); }
 .section-lead { margin: 0 0 20px; color: var(--fg-sub); font-size: 15px; }
+.eyebrow { margin: 0 0 6px; color: var(--comic-red); font-size: 13px; font-weight: 800; letter-spacing: .12em; }
+.episodes-section { background: var(--bg-sub); }
 
-/* こんな漫画です：読む人に向けた紹介 */
+/* 作品の舞台 */
+.story-section { overflow: hidden; }
+.story-panel { position: relative; padding: 34px; border: 2px solid var(--fg); background: var(--card-bg); box-shadow: 10px 10px 0 var(--line); }
+.story-panel::after { content: "庁内資料"; position: absolute; top: 20px; right: 24px; border: 3px double var(--comic-red); color: var(--comic-red); padding: 4px 9px; font-size: 13px; font-weight: 800; letter-spacing: .15em; transform: rotate(5deg); opacity: .72; }
 .story-lead { margin: 0 0 16px; font-size: 16px; line-height: 1.9; }
 .story-lead strong { font-weight: 700; }
 .points { list-style: none; margin: 24px 0 0; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
@@ -95,23 +106,26 @@ body { margin: 0; background: var(--bg); color: var(--fg); line-height: 1.7; }
 }
 .chara-desc { margin: 0; font-size: 14px; }
 
-.list-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
+.list-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-bottom: 22px; }
 .list-head .section-title { margin: 0; }
+.list-head .section-lead { margin: 8px 0 0; }
 .sort { display: flex; border: 1px solid var(--line); border-radius: 999px; overflow: hidden; background: var(--card-bg); }
 .sort-btn { border: 0; background: none; color: var(--fg-sub); font: inherit; font-size: 13px; padding: 7px 16px; cursor: pointer; }
 .sort-btn:hover { color: var(--fg); }
 .sort-btn[aria-pressed="true"] { background: var(--primary); color: #fff; font-weight: 700; }
 
-.episodes { list-style: none; margin: 0; padding: 0; display: grid; gap: 20px; }
+.episodes { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
 .episode-empty { color: var(--fg-sub); }
 
 .episode {
-  display: grid; grid-template-columns: 180px 1fr; gap: 20px; align-items: start;
-  background: var(--card-bg); border: 1px solid var(--line); border-radius: 14px; padding: 16px;
-  color: inherit; text-decoration: none; transition: border-color .15s ease, box-shadow .15s ease;
+  display: flex; flex-direction: column; height: 100%; overflow: hidden;
+  background: var(--card-bg); border: 1px solid var(--line); border-radius: 14px;
+  color: inherit; text-decoration: none; transition: border-color .15s ease, box-shadow .15s ease, transform .15s ease;
 }
-.episode:hover { border-color: var(--accent); box-shadow: 0 6px 20px rgba(15, 23, 42, .08); }
-.episode img { width: 100%; height: auto; aspect-ratio: 794 / 1123; object-fit: cover; border-radius: 6px; border: 1px solid var(--line); background: #fff; }
+.episode:hover { border-color: var(--accent); box-shadow: 0 10px 28px rgba(15, 23, 42, .13); transform: translateY(-3px); }
+.episode img { display: block; width: 100%; height: auto; aspect-ratio: 794 / 930; object-fit: cover; object-position: top; border-bottom: 1px solid var(--line); background: #fff; }
+.episode-body { display: flex; flex: 1; flex-direction: column; align-items: flex-start; padding: 16px; }
+.ep-pick { display: inline-block; margin: 0 6px 8px 0; color: var(--comic-red); font-size: 12px; font-weight: 800; letter-spacing: .04em; }
 .ep-num { display: inline-block; font-size: 13px; font-weight: 700; color: #fff; background: var(--primary); border-radius: 999px; padding: 2px 12px; }
 .ep-title { margin: 8px 0 2px; font-size: 22px; line-height: 1.35; }
 .ep-sub { margin: 0 0 10px; color: var(--fg-sub); font-size: 14px; }
@@ -119,7 +133,7 @@ body { margin: 0; background: var(--bg); color: var(--fg); line-height: 1.7; }
 .ep-meta { margin: 0 0 14px; color: var(--fg-sub); font-size: 13px; }
 .read-btn {
   display: inline-flex; align-items: center; height: 44px; padding: 0 22px; border-radius: 10px;
-  background: var(--primary); color: #fff; font-weight: 700; font-size: 15px;
+  margin-top: auto; background: var(--primary); color: #fff; font-weight: 700; font-size: 15px;
 }
 .episode:hover .read-btn { background: var(--primary-hover); }
 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
@@ -129,8 +143,8 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 
 @media (max-width: 760px) {
   .hero { padding: 24px 0 36px; }
-  .hero-inner { grid-template-columns: 1fr; gap: 24px; text-align: center; }
-  .hero-cover { width: min(78%, 340px); margin: 0 auto; }
+  .hero-inner { grid-template-columns: 1fr; grid-template-areas: "text" "cover"; gap: 28px; text-align: center; }
+  .hero-cover { width: min(62%, 260px); margin: 0 auto; }
   .lead { margin-left: auto; margin-right: auto; }
   .cta { align-items: center; }
   .cta-row { justify-content: center; }
@@ -138,13 +152,20 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
   .hero-links { justify-content: center; }
   .points { grid-template-columns: 1fr; }
   .charas { grid-template-columns: 1fr; }
+  .episodes { grid-template-columns: 1fr; }
+  .episode { display: grid; grid-template-columns: 160px 1fr; }
+  .episode img { height: 100%; aspect-ratio: auto; object-fit: cover; object-position: top; border: 0; border-right: 1px solid var(--line); }
 }
 @media (max-width: 560px) {
   .section { padding: 36px 0; }
+  .story-panel { padding: 24px 18px; box-shadow: 6px 6px 0 var(--line); }
+  .story-panel::after { position: static; display: inline-block; margin: 4px 0 16px; }
   .chara { grid-template-columns: 118px 1fr; gap: 12px; padding: 12px; }
   .chara-name { font-size: 19px; }
-  .episode { grid-template-columns: 110px 1fr; gap: 14px; padding: 12px; }
+  .episode { grid-template-columns: 108px 1fr; }
+  .episode-body { padding: 12px; }
   .ep-title { font-size: 18px; }
-  .ep-summary { font-size: 14px; }
+  .ep-sub { display: none; }
+  .ep-summary { font-size: 14px; line-height: 1.6; }
   .read-btn { height: 40px; padding: 0 16px; font-size: 14px; }
 }

@@ -13,7 +13,7 @@
 ## 構成
 
 ```
-index.html            作品トップ（表紙と読むボタン → どんな漫画？ → 登場人物 → エピソード一覧。一覧は episodes.json から作る）
+index.html            作品トップ（表紙と読むボタン → エピソード一覧 → どんな漫画？ → 登場人物。一覧は episodes.json から作る）
 episodes.json         作品とエピソードの情報、各話のページ画像の一覧
 ep/<話ID>/index.html  読む画面（話ごとに1枚。中身は assets/reader.js）
 ep/<話ID>/pages/      ページ画像（p00.webp が扉絵、p01.webp〜 が本編）

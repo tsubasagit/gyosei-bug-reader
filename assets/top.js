@@ -14,6 +14,8 @@
     let order = 'asc';
     try { if (localStorage.getItem(SORT_KEY) === 'desc') order = 'desc'; } catch { /* 読めなくても標準のまま */ }
     const eps = published;
+    const count = document.getElementById('episode-count');
+    if (count) count.textContent = `公開中の${eps.length}話。どの話からでも楽しめます。`;
 
     // 大きな「読む」ボタンと表紙は、初めての人向けにいちばん若い話へ。最新話は横に小さく
     const first = eps[0], latest = eps[eps.length - 1];   // eps は話数の小さい順
@@ -48,9 +50,10 @@
       img.src = `ep/${ep.id}/thumb.webp`;
       img.alt = `第${ep.number}話「${ep.title}」の扉絵`;
       img.loading = 'lazy';
-      const body = el('div');
+      const body = el('div', 'episode-body');
       const pages = ep.pages.length - (ep.hasCover ? 1 : 0);
       body.append(
+        ...(ep === first ? [el('span', 'ep-pick', 'はじめてならここ')] : []),
         el('span', 'ep-num', `第${ep.number}話`),
         el('h3', 'ep-title', ep.title),
         el('p', 'ep-sub', `～${ep.subtitle}～`),
