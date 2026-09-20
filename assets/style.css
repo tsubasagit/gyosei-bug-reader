@@ -173,3 +173,12 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
   .ep-summary { font-size: 14px; line-height: 1.6; }
   .read-btn { height: 40px; padding: 0 16px; font-size: 14px; }
 }
+
+/* 上のお知らせ帯：ITまわりのネタ元 */
+.topbar { background: var(--bg-sub); border-bottom: 1px solid var(--line); }
+.topbar-inner { margin: 0 auto; padding: 8px 20px; font-size: 13px; color: var(--fg-sub); text-align: center; }
+.topbar-inner a { color: var(--primary); font-weight: 700; text-decoration: none; }
+.topbar-inner a:hover { text-decoration: underline; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .topbar-inner a { color: var(--accent); } }
+:root[data-theme="dark"] .topbar-inner a { color: var(--accent); }
+@media (max-width: 640px) { .topbar-inner { font-size: 12px; padding: 7px 16px; } }
