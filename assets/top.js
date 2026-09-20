@@ -13,10 +13,10 @@
     // 大きな「読む」ボタンと表紙は、初めての人向けにいちばん若い話へ。最新話は横に小さく
     const first = eps[eps.length - 1], latest = eps[0];
     document.querySelectorAll('[data-first-link]').forEach(a => { a.href = `ep/${first.id}/`; });
-    document.getElementById('cta-label').textContent = '最初から読む';
+    document.getElementById('cta-label').textContent = first.number === 1 ? '第1話から読む' : `第${first.number}話から読む`;
     const latestLink = document.getElementById('cta-latest');
     latestLink.href = `ep/${latest.id}/`;
-    latestLink.textContent = `最新話：「${latest.title}」`;
+    latestLink.textContent = `最新話：第${latest.number}話「${latest.title}」`;
     latestLink.hidden = latest === first;
     list.replaceChildren(...eps.map(ep => {
       const li = el('li');
@@ -24,11 +24,12 @@
       a.href = `ep/${ep.id}/`;
       const img = el('img');
       img.src = `ep/${ep.id}/thumb.webp`;
-      img.alt = `「${ep.title}」の扉絵`;
+      img.alt = `第${ep.number}話「${ep.title}」の扉絵`;
       img.loading = 'lazy';
       const body = el('div');
       const pages = ep.pages.length - (ep.hasCover ? 1 : 0);
       body.append(
+        el('span', 'ep-num', `第${ep.number}話`),
         el('h3', 'ep-title', ep.title),
         el('p', 'ep-sub', `～${ep.subtitle}～`),
         el('p', 'ep-summary', ep.summary),
