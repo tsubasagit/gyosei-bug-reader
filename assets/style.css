@@ -73,21 +73,12 @@ body { margin: 0; background: var(--bg); color: var(--fg); line-height: 1.7; }
 .section-sub { background: var(--bg-sub); }
 .section-lead { margin: 0 0 20px; color: var(--fg-sub); font-size: 15px; }
 
-/* どんな漫画？：毎話の流れ */
-.flow { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; counter-reset: none; }
-.flow li {
-  position: relative; display: flex; flex-direction: column; gap: 6px;
-  background: var(--card-bg); border: 2px solid var(--fg); border-radius: 4px; padding: 16px 14px 14px;
-}
-.flow li:not(:last-child)::after {
-  content: ""; position: absolute; right: -11px; top: 50%; width: 10px; height: 10px;
-  border-top: 2px solid var(--fg); border-right: 2px solid var(--fg); transform: translateY(-50%) rotate(45deg);
-}
-.flow-num { font-family: "Dela Gothic One", sans-serif; font-size: 28px; line-height: 1; color: var(--primary); }
-.flow strong { font-size: 16px; line-height: 1.4; }
-.flow li > span:last-child { font-size: 14px; color: var(--fg-sub); }
-.flow-don { background-image: radial-gradient(rgba(31, 91, 140, .16) 1.2px, transparent 1.3px) !important; background-size: 8px 8px !important; }
-.flow-after { margin: 20px 0 0; font-size: 15px; }
+/* こんな漫画です：読む人に向けた紹介 */
+.story-lead { margin: 0 0 16px; font-size: 16px; line-height: 1.9; }
+.story-lead strong { font-weight: 700; }
+.points { list-style: none; margin: 24px 0 0; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+.points li { background: var(--card-bg); border: 1px solid var(--line); border-left: 4px solid var(--primary); border-radius: 8px; padding: 14px 16px; font-size: 14px; color: var(--fg-sub); }
+.points strong { display: block; margin-bottom: 4px; font-size: 16px; color: var(--fg); }
 
 /* 登場人物 */
 .charas { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
@@ -138,8 +129,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
   .cta-row { justify-content: center; }
   .logo { font-size: clamp(30px, 9.4vw, 52px); }
   .hero-links { justify-content: center; }
-  .flow { grid-template-columns: 1fr 1fr; }
-  .flow li:nth-child(2)::after { display: none; }
+  .points { grid-template-columns: 1fr; }
   .charas { grid-template-columns: 1fr; }
 }
 @media (max-width: 560px) {
