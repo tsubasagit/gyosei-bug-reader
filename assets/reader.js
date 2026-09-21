@@ -193,7 +193,7 @@
 
   // ---- 対訳（英語で読むときだけ） ---------------------------------------------
   async function loadScript() {
-    if (!window.I18N.isEn) return;
+    if (!window.I18N.isEn || state.ep.pagesEn) return;   // 絵の吹き出しがもう英語なら、対訳は出さない
     try {
       const res = await fetch(`${BASE}ep/${EP_ID}/script.${window.I18N.lang}.json`, { cache: 'no-cache' });
       if (!res.ok) return;                       // 対訳がまだ無い話は、絵だけで読む
@@ -554,7 +554,9 @@
       const data = await res.json();
       state.ep = data.episodes.find(e => e.id === EP_ID);
       if (!state.ep || !state.ep.pages.length) throw new Error('episode');
-      state.pages = state.ep.pages.map(f => `${BASE}ep/${EP_ID}/pages/${f}`);
+      // 英語で読むとき、吹き出しを英語にしたページ（pages-en）があれば本編はそちらを出す。扉絵は日本語版のまま
+      const lettered = window.I18N.isEn && state.ep.pagesEn;
+      state.pages = state.ep.pages.map((f, i) => `${BASE}ep/${EP_ID}/${lettered && !(state.ep.hasCover && i === 0) ? 'pages-en' : 'pages'}/${f}`);
       state.mode = storage.get(MODE_KEY) === 'spread' ? 'spread' : 'auto';
 
       const epTitle = F(state.ep, 'title');

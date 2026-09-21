@@ -51,7 +51,8 @@ def collect(page):
     for p in panels:
         # 吹き出しは右上から左下へ読む
         for o in sorted(buckets[id(p)], key=lambda o: o['y'] - (o['x'] + o.get('w', 0))):
-            lines.append({'panel': p.get('readingOrder', 0), 'type': o['type'], 'text': o['text']})
+            lines.append({'panel': p.get('readingOrder', 0), 'type': o['type'], 'text': o['text'],
+                          'box': (o['x'], o['y'], o.get('w', 0), o.get('h', 0))})  # box は英語の写植（letter_en.py）で使う
     return lines
 
 
