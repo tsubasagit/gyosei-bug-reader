@@ -28,6 +28,20 @@ tools/build_pages.py  name-maker の話フォルダからページ画像を作�
 
 ビルドの仕組みはありません。ファイルをそのまま GitHub Pages で配信します。
 
+## 英語で読む（試作）
+
+- `?lang=en` を付けると英語になる（例：`ep/1/?lang=en`）。選んだ言語はブラウザに覚える。日本語に戻すときは右上（読む画面は右下）のボタンか `?lang=ja`
+- 文言は `assets/i18n.js`。HTML の日本語はそのまま残し、英語のときだけ `data-i18n`（文字）・`data-i18n-html`（リンク入りの文）・`data-i18n-attr`（alt などの属性）の印が付いたところを差し替える。文言を足すときは HTML に印を付けて、`i18n.js` の `EN` に同じキーで英語を書く
+- 題名・副題・あらすじの英語は `episodes.json` の `title_en`・`subtitle_en`・`summary_en`
+- 対訳は `ep/<話ID>/script.en.json`。作り方：
+
+  ```
+  python tools/build_script.py "<name-maker の話フォルダ>" <話ID> --lang en
+  ```
+
+  ネーム.json のナレーションとセリフを、コマの順・吹き出しの順（右上から左下）に並べて書き出す。`en` に英訳、必要なら `note` に制度のひとこと解説を書く。書き出し直しても、同じ id の `en` と `note` は残る。対訳ファイルが無い話は、英語でも絵だけで読む
+- CSS・JS を直したら、HTML の `?v=` を新しい値にする（古いファイルがブラウザに残って、新しい HTML と噛み合わなくなるのを防ぐ）
+
 ## 話を足す
 
 1. `episodes.json` の `episodes` に、話の情報（id・number・title・subtitle・summary・published）を足す

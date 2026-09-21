@@ -143,3 +143,41 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
   .title { font-size: 14px; }
 }
 @media (prefers-reduced-motion: reduce) { .bar, .progress-fill, .stage { transition: none; } }
+
+/* ---- 対訳（英語で読むとき。縦につなげる表示ではページの下、めくる表示は下のシート） ---- */
+.script {
+  width: min(100%, 960px); margin: 0 auto 16px; padding: 16px 18px 18px;
+  background: #1d1d1d; border: 1px solid #2e2e2e; border-radius: 10px;
+  cursor: default; user-select: text; -webkit-user-select: text;
+  font-size: 15px; line-height: 1.6;
+}
+.script-head { margin: 0 0 12px; color: var(--bar-sub); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; }
+.script-lines { margin: 0; padding: 0; list-style: none; display: grid; gap: 12px; }
+.script-line { padding-left: 12px; border-left: 3px solid #3c3c3c; }
+.script-line.is-caption { border-left-color: var(--accent); }
+.sc-en { margin: 0; }
+.script-line.is-caption .sc-en { color: #d7d7d7; font-style: italic; }
+.sc-ja { margin: 3px 0 0; color: var(--bar-sub); font-size: 13px; }
+.sc-note { margin: 8px 0 0; padding: 8px 10px; border-radius: 6px; background: rgba(83, 139, 176, .14); color: #cfe3f0; font-size: 13px; line-height: 1.55; }
+
+.script-btn { min-width: 0; padding: 0 14px; }
+.script-sheet {
+  position: fixed; inset: 0; z-index: 40; display: flex; align-items: flex-end; justify-content: center;
+  padding: 12px; background: rgba(0, 0, 0, .6);
+}
+.script-sheet[hidden] { display: none; }
+.script-sheet .script { width: min(100%, 720px); max-height: 72vh; overflow-y: auto; margin: 0; }
+.script-close {
+  position: absolute; top: 14px; right: 18px; z-index: 1;
+  background: none; border: 0; color: var(--bar-fg); font-size: 26px; line-height: 1; cursor: pointer;
+}
+
+/* ---- 言語の切り替え ---- */
+.lang-switch {
+  position: fixed; right: 12px; bottom: calc(var(--foot-h) + 12px); z-index: 30;
+  padding: 5px 12px; border: 1px solid rgba(255, 255, 255, .22); border-radius: 999px;
+  background: var(--bar-bg); color: var(--bar-fg); font-size: 13px; font-weight: 700; text-decoration: none;
+}
+.lang-switch:hover { border-color: var(--accent); }
+.reader.is-flow ~ .lang-switch, .reader.is-flow + .lang-switch { bottom: 12px; }
+.reader.sheet-open ~ .lang-switch { display: none; } /* 対訳のシートを開いている間は隠す */

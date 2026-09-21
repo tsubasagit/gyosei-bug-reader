@@ -13,6 +13,9 @@
   const $ = id => document.getElementById(id);
   const stage = $('stage');
   const MODE_KEY = 'gyosei-reader-mode'; // 'auto' | 'spread'
+  const T = window.I18N.t;               // 文言（日本語・英語）
+  const F = window.I18N.field;           // 英語のときは title_en などを読む
+  const link = window.I18N.withLang;
 
   const state = {
     ep: null,
@@ -22,6 +25,7 @@
     page: 0,        // 縦につなげる表示で、いま読んでいるページ
     mode: 'auto',
     ended: false,
+    script: null,   // 対訳（英語で読むときだけ読み込む）
   };
 
   const storage = {
@@ -30,7 +34,7 @@
   };
 
   // 扉絵は「扉」、本編は 1 から数える
-  const pageLabel = i => (state.ep.hasCover ? (i === 0 ? '扉' : String(i)) : String(i + 1));
+  const pageLabel = i => (state.ep.hasCover ? (i === 0 ? T.coverLabel() : String(i)) : String(i + 1));
   const bodyCount = () => state.pages.length - (state.ep.hasCover ? 1 : 0);
 
   // 幅の狭い画面（スマホの縦持ち）は、1ページずつめくる
@@ -64,6 +68,11 @@
     state.view = Math.max(0, state.views.findIndex(v => v.includes(page)));
     app.classList.toggle('is-flow', isFlow());
     stage.classList.toggle('is-flow', isFlow());
+    if (state.script) {                    // 対訳は、縦につなげる表示ではページの下に、めくる表示ではボタンで出す
+      ensureSheet();
+      if (isFlow()) openSheet(false);
+      if (sheetBtn) sheetBtn.hidden = isFlow();
+    }
     if (isFlow()) renderFlow(page); else render();
     updateMenu();
   }
@@ -75,7 +84,8 @@
     const size = state.ep.sizes && state.ep.sizes[i];
     if (size) { img.width = size[0]; img.height = size[1]; } // 読み込む前から高さを取っておく
     img.src = state.pages[i];
-    img.alt = `第${state.ep.number}話「${state.ep.title}」 ${state.ep.hasCover && i === 0 ? '扉絵' : pageLabel(i) + 'ページ'}`;
+    img.alt = T.pageAlt(state.ep.number, F(state.ep, 'title'),
+      state.ep.hasCover && i === 0 ? T.coverAltPart() : T.pageAltPart(pageLabel(i)));
     img.className = 'page';
     img.draggable = false;
     img.dataset.page = i;
@@ -98,6 +108,10 @@
     const label = view.length === 2 ? `${pageLabel(first)}–${pageLabel(last)}` : pageLabel(first);
     showPosition(first, label, (last + 1) / state.pages.length);
     $('prev').disabled = state.view === 0;
+    if (sheetBtn) sheetBtn.disabled = !view.some(hasLines);
+    if (sheet && !sheet.hidden) {              // 対訳を開いたままページをめくったとき
+      if (sheetBtn.disabled) openSheet(false); else fillSheet();
+    }
     preload();
   }
 
@@ -114,7 +128,12 @@
     stage.classList.remove('is-spread');
     stage.setAttribute('aria-busy', 'false');
     // 最初の2ページはすぐ読み込み、残りは近づいたら読み込む
-    const imgs = state.pages.map((_, i) => makeImage(i, i > page + 1));
+    const imgs = [];
+    state.pages.forEach((_, i) => {
+      imgs.push(makeImage(i, i > page + 1));
+      const sc = scriptBlock(i);           // 英語で読むときは、ページの下に対訳を挟む
+      if (sc) imgs.push(sc);
+    });
     stage.replaceChildren(...imgs, flowEnd());
     state.page = page;
     stage.scrollTop = page === 0 ? 0 : pageTop(page);
@@ -163,13 +182,103 @@
     stage.scrollTo({ top, behavior: smooth() });
   }
 
+  // ---- 対訳（英語で読むときだけ） ---------------------------------------------
+  async function loadScript() {
+    if (!window.I18N.isEn) return;
+    try {
+      const res = await fetch(`${BASE}ep/${EP_ID}/script.${window.I18N.lang}.json`, { cache: 'no-cache' });
+      if (!res.ok) return;                       // 対訳がまだ無い話は、絵だけで読む
+      const data = await res.json();
+      if (data && data.pages && data.pages.length) {
+        state.script = data;
+        app.classList.add('has-script');
+      }
+    } catch { /* 読めなければ出さない */ }
+  }
+
+  // ページの順番（扉絵が 0）から、その本編ページの対訳を組み立てる
+  function scriptBlock(i) {
+    if (!state.script) return null;
+    const num = state.ep.hasCover ? i : i + 1;
+    if (num < 1) return null;                    // 扉絵にはセリフが無い
+    const page = state.script.pages.find(p => p.page === num);
+    if (!page || !page.lines.length) return null;
+    const box = document.createElement('aside');
+    box.className = 'script';
+    const head = document.createElement('p');
+    head.className = 'script-head';
+    head.textContent = `${T.scriptTitle()} · ${T.pageAltPart(pageLabel(i))}`;
+    const ol = document.createElement('ol');
+    ol.className = 'script-lines';
+    for (const ln of page.lines) {
+      const li = document.createElement('li');
+      li.className = ln.type === 'caption' ? 'script-line is-caption' : 'script-line';
+      const en = document.createElement('p');
+      en.className = 'sc-en';
+      en.textContent = ln[state.script.lang] || ln.ja;
+      const ja = document.createElement('p');
+      ja.className = 'sc-ja';
+      ja.lang = 'ja';
+      ja.textContent = ln.ja;
+      li.append(en, ja);
+      if (ln.note) {                             // 制度のひとこと解説
+        const note = document.createElement('p');
+        note.className = 'sc-note';
+        note.textContent = ln.note;
+        li.append(note);
+      }
+      ol.append(li);
+    }
+    box.append(head, ol);
+    return box;
+  }
+
+  // めくる表示（スマホ・見開き）では、下のバーのボタンで対訳を出す
+  let sheet = null, sheetBtn = null;
+  function ensureSheet() {
+    if (!state.script || sheet) return;
+    sheetBtn = document.createElement('button');
+    sheetBtn.type = 'button';
+    sheetBtn.className = 'nav-btn script-btn';
+    sheetBtn.textContent = T.scriptTitle();
+    sheetBtn.addEventListener('click', () => openSheet(sheet.hidden));
+    document.querySelector('.controls').append(sheetBtn);
+    sheet = document.createElement('div');
+    sheet.className = 'script-sheet';
+    sheet.hidden = true;
+    sheet.addEventListener('click', e => { if (e.target === sheet) openSheet(false); });
+    app.append(sheet);
+  }
+  function openSheet(on) {
+    if (!sheet) return;
+    sheet.hidden = !on;
+    app.classList.toggle('sheet-open', on);
+    if (on) fillSheet();
+  }
+  function fillSheet() {
+    const close = document.createElement('button');
+    close.type = 'button';
+    close.className = 'text-btn script-close';
+    close.textContent = '×';
+    close.setAttribute('aria-label', 'Close');
+    close.addEventListener('click', () => openSheet(false));
+    const view = state.views[state.view] || [currentPage()];   // 見開きなら2ページぶん
+    sheet.replaceChildren(close, ...view.map(scriptBlock).filter(Boolean));
+  }
+  // そのページに対訳があるか（扉絵にはセリフが無い）
+  function hasLines(i) {
+    if (!state.script) return false;
+    const page = state.script.pages.find(p => p.page === (state.ep.hasCover ? i : i + 1));
+    return !!(page && page.lines.length);
+  }
+
   // ---- 共通 ---------------------------------------------------------------
   function showPosition(first, label, progress) {
-    const text = state.ep.hasCover && first === 0 ? `扉 / ${bodyCount()}` : `${label} / ${bodyCount()}`;
+    const text = T.counter(label, bodyCount());
     $('indicator').textContent = text;
     $('top-indicator').textContent = text;
     $('progress-fill').style.width = `${Math.min(progress, 1) * 100}%`;
-    const hash = `#p=${pageLabel(first) === '扉' ? 0 : pageLabel(first)}`;
+    const hash = `#p=${state.ep.hasCover && first === 0 ? 0 : pageLabel(first)}`;
     if (location.hash !== hash) history.replaceState(null, '', hash);
   }
 
@@ -211,12 +320,8 @@
   }
   function updateMenu() {
     $('mode').hidden = isNarrow();
-    $('mode').textContent = isSpread() ? '縦につなげて読む' : '見開きで読む';
-    $('menu-hint').textContent = isNarrow()
-      ? '右へフリック・画面の左をタップで次のページ。真ん中をタップでメニュー'
-      : isFlow()
-        ? 'スクロールで読み進めます。← で次のページ、→ で前のページ'
-        : '← で次のページ、→ で前のページ。画面の左クリックでも次へ';
+    $('mode').textContent = isSpread() ? T.modeToFlow() : T.modeToSpread();
+    $('menu-hint').textContent = isNarrow() ? T.hintNarrow() : isFlow() ? T.hintFlow() : T.hintSpread();
   }
   menuBtn.addEventListener('click', e => { e.stopPropagation(); openMenu(menu.hidden); });
   document.addEventListener('click', e => { if (!menu.hidden && !e.target.closest('.menu-wrap')) openMenu(false); });
@@ -231,6 +336,7 @@
   document.addEventListener('keydown', e => {
     if (e.altKey || e.ctrlKey || e.metaKey) return;
     if (e.key === 'Escape' && !menu.hidden) { openMenu(false); menuBtn.focus(); e.preventDefault(); return; }
+    if (e.key === 'Escape' && sheet && !sheet.hidden) { openSheet(false); e.preventDefault(); return; }
     if (isFlow() && [' ', 'ArrowDown', 'ArrowUp', 'PageDown', 'PageUp'].includes(e.key)) {
       // 縦につなげる表示では、スクロールはブラウザにまかせる（ページ全体ではなく stage を動かす）
       const step = { ' ': 0.85, PageDown: 0.85, PageUp: -0.85, ArrowDown: 0.15, ArrowUp: -0.15 }[e.key] * (e.shiftKey && e.key === ' ' ? -1 : 1);
@@ -353,21 +459,24 @@
       state.pages = state.ep.pages.map(f => `${BASE}ep/${EP_ID}/pages/${f}`);
       state.mode = storage.get(MODE_KEY) === 'spread' ? 'spread' : 'auto';
 
-      $('title').textContent = `第${state.ep.number}話　${state.ep.title}`;
+      const epTitle = F(state.ep, 'title');
+      $('title').textContent = T.readerTitle(state.ep.number, epTitle);
+      $('end').querySelector('.end-sub').textContent = T.endSub(state.ep.number, epTitle);
       // 「おわり」の X で感想を書く：話の題名と、この話の URL（ページ番号は付けない）
-      const shareText = `『行政バグります！』第${state.ep.number}話「${state.ep.title}」を読んだ #行政バグります`;
+      const shareText = T.shareText(state.ep.number, epTitle);
       $('share-x').href = `https://x.com/intent/post?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(location.href.split('#')[0])}`;
       // 次に公開されている話があれば、「おわり」のいちばん上に「次の話へ」を出す（感想ボタンは控えめに）
       const nextEp = data.episodes.filter(e => e.pages && e.pages.length && e.number > state.ep.number).sort((a, b) => a.number - b.number)[0];
       if (nextEp) {
         const a = document.createElement('a');
         a.className = 'btn btn-primary';
-        a.href = `${BASE}ep/${nextEp.id}/`;
-        a.textContent = `次の話へ：第${nextEp.number}話「${nextEp.title}」`;
+        a.href = link(`${BASE}ep/${nextEp.id}/`);
+        a.textContent = T.nextEp(nextEp.number, F(nextEp, 'title'));
         $('share-x').className = 'btn btn-ghost';
         $('end').querySelector('.end-actions').prepend(a);
       }
-      document.title = `第${state.ep.number}話「${state.ep.title}」｜${data.series.title}`;
+      document.title = T.docTitle(state.ep.number, epTitle, F(data.series, 'title'));
+      await loadScript();
 
       lastNarrow = isNarrow();
       relayout(pageFromHash() ?? 0);

@@ -2,7 +2,10 @@
   "series": {
     "title": "行政バグります！",
     "subtitle": "梨ヶ坂市役所・特務トレンド係",
-    "description": "梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。金とサボりのために制度と技術を一夜漬けで覚える源田テツが、力技で市民の困りごとを片づけてしまう。"
+    "description": "梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。金とサボりのために制度と技術を一夜漬けで覚える源田テツが、力技で市民の困りごとを片づけてしまう。",
+    "title_en": "City Hall Bug!",
+    "subtitle_en": "Nashigasaka City Hall, Special Trends Unit",
+    "description_en": "A one-shot-per-chapter gag manga set in the basement of Nashigasaka City Hall, where the Special Trends Unit has no budget and no authority. Tetsu Genda crams public rules and new tech overnight — purely to make money and dodge work — and somehow the citizens end up better off."
   },
   "episodes": [
     {
@@ -76,7 +79,10 @@
           2088
         ]
       ],
-      "hasCover": true
+      "hasCover": true,
+      "title_en": "The Gym That Vanished in Seconds",
+      "subtitle_en": "Reservation War at Midnight",
+      "summary_en": "A new team leader and a complaint nobody has solved in six months both land in the basement on the same morning. Not a single slot at the civic gym can be booked — and Tetsu smells money in it."
     },
     {
       "id": "3",
@@ -149,7 +155,10 @@
           1436,
           2090
         ]
-      ]
+      ],
+      "title_en": "We’ll Take the Problem Home",
+      "subtitle_en": "Issue Potluck",
+      "summary_en": "The unit visits a startup cafe in Okayama, where everyone brings a problem to the table. Tetsu turns out to be unexpectedly good at this — which is exactly what worries everyone."
     },
     {
       "id": "4",
@@ -222,7 +231,10 @@
           1428,
           2088
         ]
-      ]
+      ],
+      "title_en": "We’ll Invent a Local Specialty",
+      "subtitle_en": "Regional Collective Trademark",
+      "summary_en": "Demi-katsu rice bowls, shrimp-meshi, barazushi. Envious of Okayama's local food, Tetsu builds a Nashigasaka specialty out of pears nobody wanted — and files for a trademark to cash in twice."
     }
   ]
 }

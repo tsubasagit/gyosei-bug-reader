@@ -10,6 +10,9 @@
   const isReader = !!app;
   const BASE = isReader ? (app.dataset.base || '../../') : '';
   const EP_ID = isReader ? app.dataset.episode : null;
+  const T = window.I18N.t;               // 文言（日本語・英語）。i18n.js を先に読み込む
+  const F = window.I18N.field;           // 英語のときは title_en などを読む
+  const link = window.I18N.withLang;
 
   // 見た目は別ファイル。HTML を触らずに済むよう、ここで読み込む
   const css = document.createElement('link');
@@ -31,10 +34,11 @@
     const box = el('div', `revisit-notice revisit-${where}`);
     const next = up.next;
     if (next && next.title) {
-      const when = next.date ? `${next.date.replace(/^\d{4}-0?(\d+)-0?(\d+)$/, '$1月$2日')}ごろ公開予定` : '近日公開';
+      const md = next.date && next.date.match(/^\d{4}-0?(\d+)-0?(\d+)$/);
+      const when = md ? T.releaseOn(Number(md[1]), Number(md[2])) : T.comingSoon();
       box.append(
         el('p', 'revisit-kicker', when),
-        el('p', 'revisit-next', `第${next.number}話「${next.title}」`),
+        el('p', 'revisit-next', T.endSub(next.number, F(next, 'title'))),
       );
     }
     if (up.x && up.x.url) {
@@ -42,7 +46,7 @@
       a.href = up.x.url;
       a.target = '_blank';
       a.rel = 'noopener';
-      a.append(el('span', 'revisit-x-mark', '𝕏'), el('span', '', `新しい話はXでお知らせします${up.x.handle ? `（${up.x.handle}）` : ''}　フォローする`));
+      a.append(el('span', 'revisit-x-mark', '𝕏'), el('span', '', T.xFollow(up.x.handle)));
       box.append(a);
     }
     return box.childElementCount ? box : null;
@@ -73,7 +77,7 @@
 
     Promise.all([dataP, upcomingP]).then(([data, up]) => {
       const ep = data.episodes.find(e => e.id === EP_ID);
-      if (ep) { last = ep.hasCover ? ep.pages.length - 1 : ep.pages.length; title = ep.title; number = ep.number; remember(); }
+      if (ep) { last = ep.hasCover ? ep.pages.length - 1 : ep.pages.length; title = ep.title; number = ep.number; remember(); }  // 覚える題名は日本語（表示のときに言語で引き直す）
       // 次回予告は、まだ公開していない話のときだけ出す
       const up2 = { ...up };
       if (up.next && data.episodes.some(e => e.number === up.next.number && e.pages && e.pages.length)) delete up2.next;
@@ -113,8 +117,9 @@
     const cta = document.querySelector('.cta-row');
     if (cta && p && !p.done && ids.includes(p.id) && p.page > 0) {
       const a = el('a', 'revisit-resume');
-      a.href = `ep/${p.id}/#p=${p.page}`;
-      a.append(el('span', 'revisit-resume-label', '続きから読む'), el('span', '', `第${p.number}話「${p.title}」 ${p.page}ページ目から`));
+      a.href = link(`ep/${p.id}/#p=${p.page}`);
+      const ep = published.find(e => e.id === p.id);
+      a.append(el('span', 'revisit-resume-label', T.resume()), el('span', '', T.resumeFrom(p.number, ep ? F(ep, 'title') : p.title, p.page)));
       cta.after(a);
     }
 
@@ -127,7 +132,7 @@
     if (up.x && up.x.url) {
       const links = document.querySelector('.footer-cta-links');
       if (links && !links.querySelector('.footer-btn-x')) {
-        const a = el('a', 'footer-btn ghost footer-btn-x', 'Xで新しい話を受け取る');
+        const a = el('a', 'footer-btn ghost footer-btn-x', T.xFooter());
         a.href = up.x.url; a.target = '_blank'; a.rel = 'noopener';
         links.append(a);
       }

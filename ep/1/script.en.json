@@ -1,0 +1,549 @@
+{
+  "episode": "1",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "東京都の西のはし、梨ヶ坂市。",
+          "en": "Nashigasaka City, out on the western edge of Tokyo."
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "名物は、梨と坂。",
+          "en": "Famous for two things: pears and hills."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "この坂、毎朝むりぃ〜ッ！",
+          "en": "This hill. Every. Single. Morning. I can't!!"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "幸水、今が食べごろだよ！",
+          "en": "Kosui pears — ripe and ready right now!"
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "caption",
+          "ja": "その坂の上の市役所の、さらに地下――",
+          "en": "At the top of that hill stands City Hall. And one floor below it—"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "梨ヶ坂市役所・特務トレンド係。",
+          "en": "Nashigasaka City Hall. The Special Trends Unit."
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "世の流行を行政に活かす係――ということになっている。",
+          "en": "A unit that puts the latest trends to work for the public. Officially, anyway."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "今日は四時間……千百二十円",
+          "en": "Four hours today... 1,120 yen."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ふわあ〜あ……おい小僧！　今日は何がバズってる？",
+          "en": "Haaaaah... Oi, kid! What's blowing up today?"
+        },
+        {
+          "id": "p2-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "知りません。時給に入ってないので",
+          "en": "No idea. That's not what I'm paid for."
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "この苦情と、この職員。地下で頼むよ",
+          "en": "This complaint, and this employee. Both go to the basement."
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "同じ朝、本庁の部長室。",
+          "en": "That same morning, in the director's office at the main building.",
+          "note": "“The main building” is City Hall proper, where the career track lives. The basement is where careers go to be forgotten."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……承知いたしました",
+          "en": "...Understood, sir."
+        },
+        {
+          "id": "p3-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "また、問題が増えそうだ……",
+          "en": "More trouble headed my way..."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "源田くん、鈴木くん。本日から、仲間が一人増えます",
+          "en": "Genda. Suzuki. As of today, the unit gains one member."
+        },
+        {
+          "id": "p3-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……時給は増えますか",
+          "en": "...Does my hourly rate gain anything?"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "本日付で着任しました。企画課から参りました、赤嶺レナです",
+          "en": "Reporting as of today. Rena Akamine, transferred from Policy Planning."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "な、なんで私が、こんなところで……！？",
+          "en": "W-why am I stuck in a place like this...?!"
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "正しいことを、正しい場所で言いすぎた",
+          "en": "She said the right thing, in the right place, one time too many."
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "テツ、まさか、あなたの係だったなんて",
+          "en": "Tetsu. Don't tell me this is your unit."
+        },
+        {
+          "id": "p4-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "おう、赤嶺か！　ここは世の流行を行政に活かす、特務トレンド係だッ！",
+          "en": "Well, if it isn't Akamine! This is the Special Trends Unit — where trends serve the public!"
+        },
+        {
+          "id": "p4-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "なにもしてません",
+          "en": "We do nothing here."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "本庁から回ってきた案件です。市民体育館の予約が、半年前から一枠も取れないと",
+          "en": "It came down from the main building. Nobody has managed to book a single slot at the civic gym in six months."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "これを解決すれば、私は本庁に……ッ！　ゴホン！　市民のために解決します",
+          "en": "Solve this, and I'm back at the main building—! Ahem. I will solve it for the citizens."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ゴホンじゃねえよ！　企画課から地下に落ちてきた奴が、手ぶらで上に戻れるかっての",
+          "en": "Don't you 'ahem' me! You dropped from Planning to the basement. Nobody climbs back up empty-handed."
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……部長の条件です！　半年だれも片付けられなかったこの苦情を解決できたら、本庁に戻すと……！",
+          "en": "...It's the director's deal! Clear the complaint nobody could clear in six months, and he sends me back...!"
+        },
+        {
+          "id": "p5-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ぶはははッ！　片付かない苦情と、うるさい職員を、まとめて地下に捨てたってわけだ！",
+          "en": "Bwahahaha! So he dumped the complaint he couldn't fix and the employee he couldn't shut up into the same basement!"
+        },
+        {
+          "id": "p5-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "解決できなかったら、ずっとここの人ですね",
+          "en": "And if you don't fix it, you live down here forever."
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "少年野球、ママさんバレー、太極拳の老人会……どいつもこいつも、来月の練習場所が無くて困ってやがる……！",
+          "en": "Little League, the moms' volleyball team, the seniors' tai chi club... not one of them has anywhere to practice next month...!"
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "取れない、ってことは……欲しがってる奴がいるってことだよなァ？　ぐふっ、ぐふふふ",
+          "en": "Nobody can get a slot... which means everybody wants one. Doesn't it? Heh. Heh heh heh."
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "使用料は一枠せいぜい千円。困ってる連中は三千円でも払う。差額二千円、百枠押さえりゃ……",
+          "en": "A slot costs 1,000 yen, tops. People this desperate would pay 3,000. That's 2,000 a slot — grab a hundred slots and..."
+        },
+        {
+          "id": "p6-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "二十万だァーッ！！",
+          "en": "TWO HUNDRED THOUSAND YEN!!"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "転売する気なのッ！？",
+          "en": "You're going to scalp them?!"
+        },
+        {
+          "id": "p6-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "人聞きの悪い〜。『譲渡』だよ、『譲渡』",
+          "en": "Such an ugly word. It's a “transfer.” A transfer."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……なるほどな。仕組みが分かれば、こんなもんは……チョロいッ！",
+          "en": "...I see. Once you know how the system works, this is... easy money!"
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "枠は毎月一日の零時に一斉に開く。早い者勝ちだ。……で、一団体につき一日三枠まで",
+          "en": "Every slot opens at midnight on the 1st. First come, first served. ...And it's three slots a day per group.",
+          "note": "Japanese public gyms are usually booked through a city reservation site that opens all slots at the same moment — hence the midnight rush."
+        },
+        {
+          "id": "p7-2-2",
+          "panel": 2,
+          "type": "caption",
+          "ja": "毎月1日 深夜0時",
+          "en": "1st of the month, midnight"
+        },
+        {
+          "id": "p7-2-3",
+          "panel": 2,
+          "type": "caption",
+          "ja": "翌々月分を一斉開放",
+          "en": "Slots for the month after next, all released at once"
+        },
+        {
+          "id": "p7-2-4",
+          "panel": 2,
+          "type": "caption",
+          "ja": "先着順",
+          "en": "First come, first served"
+        },
+        {
+          "id": "p7-2-5",
+          "panel": 2,
+          "type": "caption",
+          "ja": "1団体あたり 1日3枠まで",
+          "en": "Up to 3 slots a day per group"
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "上限は“一団体につき”だ……なら、団体を増やせばいいッ！",
+          "en": "The cap is per GROUP... so we just make more groups!"
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "零時に叩き起こすッ！　一枠押さえるごとに五百円だァ！",
+          "en": "I'm dragging you out of bed at midnight! 500 yen for every slot you grab!"
+        },
+        {
+          "id": "p7-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "無理です。十八歳未満は夜十時から朝五時まで働かせちゃいけないんですよ。労働基準法六十一条",
+          "en": "Can't. Under-18s aren't allowed to work between 10 p.m. and 5 a.m. Labor Standards Act, Article 61.",
+          "note": "Real law: Japan's Labor Standards Act bars anyone under 18 from working between 10 p.m. and 5 a.m."
+        },
+        {
+          "id": "p7-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "なら仕事じゃねえ！　〝趣味〟で、家から押せ。お小遣いだ！",
+          "en": "Then it isn't work! Tap away at home — as a “hobby.” Call it pocket money!"
+        },
+        {
+          "id": "p7-4-4",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……趣味なら、やります",
+          "en": "...If it's a hobby, I'm in."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ぬおおおおおおおッ！！",
+          "en": "NGOOOOOOOOH!!"
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "カチカチカチカチ",
+          "en": "tap tap tap tap"
+        },
+        {
+          "id": "p8-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "趣味、趣味、趣味……",
+          "en": "Hobby. Hobby. Hobby..."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "caption",
+          "ja": "ドドドドド",
+          "en": "R U M B L E"
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "は、八十七枠……ッ！",
+          "en": "E-eighty-seven slots...!"
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "来月の体育館は、全部おれのもんだァーッ！！",
+          "en": "Next month, that gym is ALL MINE!!"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "ザワザワ",
+          "en": "murmur murmur"
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "来月、体育館が一枠も取れないんですけどォ！？",
+          "en": "We can't book one single slot at the gym next month!"
+        },
+        {
+          "id": "p9-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "子どもらの練習は、どうすりゃいいんですかーッ！！",
+          "en": "Where are our kids supposed to practice?!"
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "源田、源田、源田、源田……",
+          "en": "Genda. Genda. Genda. Genda..."
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "テツ！！！",
+          "en": "TETSU!!!"
+        },
+        {
+          "id": "p9-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "おっ客か？",
+          "en": "Oh? Customers?"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "源田さん。少々、お時間よろしいでしょうか",
+          "en": "Mr. Genda. Might I have a moment of your time?",
+          "note": "In Japanese he switches from the casual “Genda-kun” to the formal “Genda-san.” When this boss gets polite, someone is in serious trouble."
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "市の設備は、市民のものです",
+          "en": "City facilities belong to the citizens."
+        },
+        {
+          "id": "p10-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "あ、あわわわ……",
+          "en": "A-ah— aaah..."
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "秒で取れたのですから、秒で返せますね",
+          "en": "You took them in seconds. So you can give them back in seconds."
+        },
+        {
+          "id": "p10-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "じゅ、じゅ、十秒ォォーッ！？",
+          "en": "T-t-ten seconds?!"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "上限が“一団体あたり”では意味がありませんッ！　次回から抽選にすべきです！",
+          "en": "A cap “per group” is meaningless! From next month it has to be a lottery!"
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "助かりましたぁ〜！　問い合わせたら十秒で返事が来て……！",
+          "en": "You saved us! I asked about it and had an answer in ten seconds!"
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "で、僕の歩合は",
+          "en": "So. My commission."
+        },
+        {
+          "id": "p11-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ゼロだッ！！　全額返金したんだよォ！！",
+          "en": "ZERO!! I refunded every last yen!!"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……解決は、した",
+          "en": "...It is, however, resolved."
+        },
+        {
+          "id": "p11-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "源田くん。十一秒でしたね。始末書を、もう一枚",
+          "en": "Genda. That took eleven seconds. One more letter of apology, please.",
+          "note": "A shimatsusho is a written apology filed with your employer — a small, very real black mark on your record."
+        },
+        {
+          "id": "p11-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ひィィィィ〜〜ッ！！",
+          "en": "Hiiiiiiii—!!"
+        }
+      ]
+    }
+  ]
+}
