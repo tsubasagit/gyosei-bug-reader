@@ -95,6 +95,81 @@
       "pagesEn": true
     },
     {
+      "id": "2",
+      "number": 2,
+      "title": "返礼品はおれ",
+      "subtitle": "三割の壁（サーティー・パーセント・ウォール）",
+      "summary": "梨ヶ坂のふるさと納税は梨頼みで、寄付が入るのは収穫期の二ヶ月だけ。上位の自治体は一年で百億円以上――そう聞いたテツは、総務省の告示を徹夜で読み込み、返礼品の抜け道を探しはじめる。",
+      "published": "2026-09-21",
+      "title_en": "I Am the Thank-You Gift",
+      "subtitle_en": "The 30% Wall",
+      "summary_en": "Nashigasaka's hometown-tax gifts are all pears, so donations only come in two months a year. When Tetsu hears the top cities pull in over ten billion yen annually, he pulls an all-nighter over the national rules, hunting for a loophole.",
+      "pages": [
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp"
+      ],
+      "sizes": [
+        [
+          1436,
+          2088
+        ],
+        [
+          1436,
+          2088
+        ],
+        [
+          1436,
+          2088
+        ],
+        [
+          1436,
+          2088
+        ],
+        [
+          1436,
+          2088
+        ],
+        [
+          1436,
+          2088
+        ],
+        [
+          1436,
+          2088
+        ],
+        [
+          1436,
+          2088
+        ],
+        [
+          1436,
+          2088
+        ],
+        [
+          1436,
+          2088
+        ]
+      ],
+      "hasCover": false,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          80,
+          60,
+          1516,
+          2148
+        ]
+      }
+    },
+    {
       "id": "3",
       "number": 3,
       "title": "課題、持ち帰ります",
