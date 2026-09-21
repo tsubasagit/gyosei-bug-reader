@@ -243,7 +243,16 @@
       ],
       "title_en": "We’ll Invent a Local Specialty",
       "subtitle_en": "Regional Collective Trademark",
-      "summary_en": "Demi-katsu rice bowls, shrimp-meshi, barazushi. Envious of Okayama's local food, Tetsu builds a Nashigasaka specialty out of pears nobody wanted — and files for a trademark to cash in twice."
+      "summary_en": "Demi-katsu rice bowls, shrimp-meshi, barazushi. Envious of Okayama's local food, Tetsu builds a Nashigasaka specialty out of pears nobody wanted — and files for a trademark to cash in twice.",
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          80,
+          60,
+          1508,
+          2148
+        ]
+      }
     }
   ]
 }
