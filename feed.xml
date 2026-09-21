@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>行政バグります！ ～梨ヶ坂市役所・特務トレンド係～</title>
+    <link>https://tsubasagit.github.io/gyosei-bug-reader/</link>
+    <atom:link href="https://tsubasagit.github.io/gyosei-bug-reader/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。金とサボりのために制度と技術を一夜漬けで覚える源田テツが、力技で市民の困りごとを片づけてしまう。</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 19 Sep 2026 09:00:00 +0900</lastBuildDate>
+    <item>
+      <title>第4話「梨ヶ坂名物、つくります」</title>
+      <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/4/</link>
+      <guid isPermaLink="true">https://tsubasagit.github.io/gyosei-bug-reader/ep/4/</guid>
+      <pubDate>Sat, 19 Sep 2026 09:00:00 +0900</pubDate>
+      <description>～地域団体商標（リージョナル・ブランド）～ 岡山のデミカツ丼に、えびめしに、ばら寿司。岡山グルメに憧れたテツは、捨てられる梨で梨ヶ坂の名物を作り、名前を商標登録して使用料でひと儲けしようとたくらむ――。</description>
+      <enclosure url="https://tsubasagit.github.io/gyosei-bug-reader/ep/4/thumb.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>第1話「秒で消える体育館」</title>
+      <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/1/</link>
+      <guid isPermaLink="true">https://tsubasagit.github.io/gyosei-bug-reader/ep/1/</guid>
+      <pubDate>Sat, 19 Sep 2026 09:00:00 +0900</pubDate>
+      <description>～深夜0時の予約戦争（リザベーション・ウォー）～ 梨ヶ坂市役所の地下「特務トレンド係」に、本庁から新しい係リーダーと、半年片付かない苦情が落ちてきた。市民体育館の予約が一枠も取れない――テツはそこに儲けのにおいを嗅ぎつける。</description>
+      <enclosure url="https://tsubasagit.github.io/gyosei-bug-reader/ep/1/thumb.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>第3話「課題、持ち帰ります」</title>
+      <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/3/</link>
+      <guid isPermaLink="true">https://tsubasagit.github.io/gyosei-bug-reader/ep/3/</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 +0900</pubDate>
+      <description>～課題持ち寄り会（イシュー・ポットラック）～ 岡山のスタートアップカフェ「ももスタ」へ視察に来た特務トレンド係。課題を持ち寄る会で、テツは思いがけず有能ぶりを発揮するが――。</description>
+      <enclosure url="https://tsubasagit.github.io/gyosei-bug-reader/ep/3/thumb.webp" type="image/webp" length="0"/>
+    </item>
+  </channel>
+</rss>

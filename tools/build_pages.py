@@ -146,6 +146,10 @@ def main():
     total = sum(os.path.getsize(os.path.join(pages_dir, f)) for f in files)
     print(f'{len(files)} 枚、合計 {total // 1024} KB。episodes.json を更新しました。')
 
+    # 新しい話のお知らせ（feed.xml）も作り直す
+    import build_feed
+    build_feed.build()
+
 
 if __name__ == '__main__':
     main()

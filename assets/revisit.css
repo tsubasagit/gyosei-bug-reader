@@ -1,0 +1,48 @@
+/* また来てもらうための仕掛け（revisit.js）の見た目。作品トップと読む画面の両方で読み込む */
+
+/* ---- NEW の印（エピソード一覧のカード） ---- */
+.ep-new {
+  display: inline-block; margin: 0 6px 8px 0; padding: 1px 8px;
+  border-radius: 999px; background: #f97316; color: #fff;
+  font-size: 11px; font-weight: 900; letter-spacing: .08em; line-height: 1.7;
+}
+
+/* ---- 続きから読む（トップの暗いヒーローの中） ---- */
+.revisit-resume {
+  display: inline-flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px;
+  margin-top: 14px; padding: 10px 14px; border-radius: 10px;
+  background: rgba(255, 255, 255, .08); border: 1px solid rgba(255, 255, 255, .22);
+  color: #f1f5f9; font-size: 14px; text-decoration: none;
+}
+.revisit-resume:hover { background: rgba(255, 255, 255, .16); }
+.revisit-resume-label { font-weight: 800; color: #fff; }
+.revisit-resume-label::after { content: " ▶"; }
+
+/* ---- 近日公開と X のフォロー ---- */
+.revisit-notice { text-align: center; }
+.revisit-kicker { margin: 0; font-size: 12px; font-weight: 800; letter-spacing: .12em; color: #f97316; }
+.revisit-next { margin: 2px 0 12px; font-size: 18px; font-weight: 800; }
+.revisit-x {
+  display: inline-flex; align-items: center; gap: 8px; justify-content: center;
+  padding: 10px 16px; border-radius: 10px;
+  background: #0f1419; color: #fff !important; font-weight: 700; font-size: 14px; text-decoration: none;
+}
+.revisit-x:hover { background: #272c30; }
+.revisit-x-mark { font-size: 16px; line-height: 1; }
+
+/* トップ：エピソード一覧の下に置くカード */
+.revisit-top {
+  margin: 28px auto 0; max-width: 560px; padding: 20px 18px;
+  border: 1px dashed var(--line, #e2e8f0); border-radius: 14px; background: var(--card-bg, #fff);
+  color: var(--fg, #1e293b);
+}
+
+/* 読む画面：「おわり」のカードの中（カードは白地） */
+.revisit-slot:empty { display: none; }
+.revisit-end { margin: 18px 0 6px; padding-top: 16px; border-top: 1px solid #e2e8f0; color: #1e293b; }
+.revisit-end .revisit-x { width: 100%; }
+
+@media (max-width: 640px) {
+  .revisit-resume { width: 100%; }
+  .revisit-x { width: 100%; }
+}
