@@ -182,3 +182,47 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .topbar-inner a { color: var(--accent); } }
 :root[data-theme="dark"] .topbar-inner a { color: var(--accent); }
 @media (max-width: 640px) { .topbar-inner { font-size: 12px; padding: 7px 16px; } }
+
+/* ---- 言語の切り替え（右上の小さなボタン。英語で読むときは日本語へ戻る） ---- */
+.lang-switch {
+  position: fixed; top: 10px; right: 12px; z-index: 60;
+  padding: 5px 12px; border: 1px solid var(--line); border-radius: 999px;
+  background: var(--card-bg); color: var(--fg); font-size: 13px; font-weight: 700;
+  text-decoration: none; box-shadow: 0 1px 6px rgba(0, 0, 0, .12);
+}
+.lang-switch:hover { border-color: var(--accent); color: var(--primary); }
+@media (max-width: 640px) { .lang-switch { top: 6px; right: 8px; padding: 4px 10px; font-size: 12px; } }
+
+/* フッターの導線：ラピットくん＋name-makerの記事＋問い合わせ */
+.footer-cta {
+  display: flex; align-items: center; gap: 20px; flex-wrap: wrap;
+  margin: 8px 0 20px; padding: 18px 20px;
+  background: var(--card-bg); border: 1px solid var(--line); border-radius: 14px;
+}
+.footer-rapit { width: 112px; height: 112px; flex: none; border-radius: 12px; }
+.footer-cta-text { flex: 1 1 280px; min-width: 0; }
+.footer-cta-text p { margin: 0 0 8px; color: var(--fg); font-size: 15px; }
+.footer-cta-lead { font-weight: 700; font-size: 17px; }
+.footer-cta-text a:not(.footer-btn) { color: var(--primary); font-weight: 700; }
+.footer-cta-links { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 0; }
+.footer-btn {
+  display: inline-block; padding: 9px 16px; border-radius: 8px;
+  background: var(--primary); color: #fff !important; font-weight: 700; font-size: 14px; text-decoration: none;
+}
+.footer-btn:hover { background: var(--primary-hover); }
+.footer-btn.ghost { background: transparent; color: var(--primary) !important; border: 2px solid var(--primary); padding: 7px 14px; }
+.footer-btn.ghost:hover { background: var(--primary); color: #fff !important; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .footer-cta-text a:not(.footer-btn),
+  :root:not([data-theme="light"]) .footer-btn.ghost { color: var(--accent) !important; }
+  :root:not([data-theme="light"]) .footer-btn.ghost { border-color: var(--accent); }
+}
+:root[data-theme="dark"] .footer-cta-text a:not(.footer-btn),
+:root[data-theme="dark"] .footer-btn.ghost { color: var(--accent) !important; }
+:root[data-theme="dark"] .footer-btn.ghost { border-color: var(--accent); }
+@media (max-width: 640px) {
+  .footer-cta { gap: 14px; padding: 16px; }
+  .footer-rapit { width: 88px; height: 88px; }
+  .footer-cta-links { width: 100%; }
+  .footer-btn { flex: 1 1 100%; text-align: center; }
+}
