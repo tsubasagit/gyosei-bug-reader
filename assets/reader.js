@@ -68,7 +68,7 @@
     state.view = Math.max(0, state.views.findIndex(v => v.includes(page)));
     app.classList.toggle('is-flow', isFlow());
     stage.classList.toggle('is-flow', isFlow());
-    if (state.script) {                    // 対訳は、縦につなげる表示ではページの下に、めくる表示ではボタンで出す
+    if (state.script) {                    // 対訳は、縦につなげる表示ではページの横（狭ければ下）に、めくる表示ではボタンで出す
       ensureSheet();
       if (isFlow()) openSheet(false);
       if (sheetBtn) sheetBtn.hidden = isFlow();
@@ -128,13 +128,20 @@
     stage.classList.remove('is-spread');
     stage.setAttribute('aria-busy', 'false');
     // 最初の2ページはすぐ読み込み、残りは近づいたら読み込む
+    // 英語で読むとき：広い画面はページの右にコマの高さをそろえて対訳を並べ、狭い画面はページの下に挟む
+    const side = useSide();
+    stage.classList.toggle('has-side', side);
     const imgs = [];
     state.pages.forEach((_, i) => {
-      imgs.push(makeImage(i, i > page + 1));
-      const sc = scriptBlock(i);           // 英語で読むときは、ページの下に対訳を挟む
+      const img = makeImage(i, i > page + 1);
+      const row = side ? sideRow(i, img) : null;
+      if (row) { imgs.push(row); return; }
+      imgs.push(img);
+      const sc = scriptBlock(i);
       if (sc) imgs.push(sc);
     });
     stage.replaceChildren(...imgs, flowEnd());
+    if (side) placeAll();
     state.page = page;
     stage.scrollTop = page === 0 ? 0 : pageTop(page);
     onFlowScroll();
@@ -154,13 +161,15 @@
   }
 
   const pageEls = () => stage.querySelectorAll('.page');
-  const pageTop = i => { const el = pageEls()[i]; return el ? el.offsetTop - 8 : 0; };
+  // stage の中での上端（対訳と横並びのときはページが枠に包まれるので、offsetTop ではなく画面上の位置から出す）
+  const topOf = el => el.getBoundingClientRect().top - stage.getBoundingClientRect().top + stage.scrollTop;
+  const pageTop = i => { const el = pageEls()[i]; return el ? topOf(el) - 8 : 0; };
 
   // いま画面の上から 4 割のところにあるページを「読んでいるページ」にする
   function onFlowScroll() {
     const line = stage.scrollTop + stage.clientHeight * 0.4;
     let page = 0;
-    pageEls().forEach((el, i) => { if (el.offsetTop <= line) page = i; });
+    pageEls().forEach((el, i) => { if (topOf(el) <= line) page = i; });
     state.page = page;
     const max = stage.scrollHeight - stage.clientHeight;
     showPosition(page, pageLabel(page), max > 0 ? stage.scrollTop / max : 1);
@@ -232,6 +241,89 @@
     box.append(head, ol);
     return box;
   }
+
+  // ---- 対訳をコマの横に並べる（縦につなげる表示で、画面に余裕があるとき） ----------
+  const SIDE_MIN = 1100;   // ページ＋対訳の列が並ぶ最小の幅
+  const useSide = () => !!state.script && isFlow() && stage.clientWidth >= SIDE_MIN;
+
+  // ページ画像と、コマごとの対訳を横に並べた1行を作る。コマの位置が無い話は null（下に挟む形になる）
+  function sideRow(i, img) {
+    const num = state.ep.hasCover ? i : i + 1;
+    const page = num >= 1 && state.script.pages.find(p => p.page === num);
+    if (!page || !page.lines.length || !page.panels || !Object.keys(page.panels).length) return null;
+    const row = document.createElement('div');
+    row.className = 'page-row';
+    const frame = document.createElement('div');
+    frame.className = 'page-frame';
+    const hl = document.createElement('div');   // 対訳にマウスを載せたとき、そのコマに枠を出す
+    hl.className = 'panel-hl';
+    frame.append(img, hl);
+    const side = document.createElement('aside');
+    side.className = 'script-side';
+    side.setAttribute('aria-label', `${T.scriptTitle()} · ${T.pageAltPart(pageLabel(i))}`);
+    // コマごとにまとめる（並びは読む順のまま）
+    const groups = new Map();
+    for (const ln of page.lines) {
+      if (!groups.has(ln.panel)) groups.set(ln.panel, []);
+      groups.get(ln.panel).push(ln);
+    }
+    for (const [panel, lines] of groups) {
+      const box = page.panels[String(panel)];
+      const g = document.createElement('div');
+      g.className = 'side-group';
+      if (box) { g.dataset.box = box.join(','); g.dataset.top = box[1]; }
+      for (const ln of lines) g.append(lineEl(ln));
+      if (box) {
+        g.addEventListener('mouseenter', () => {
+          Object.assign(hl.style, { left: `${box[0] * 100}%`, top: `${box[1] * 100}%`, width: `${(box[2] - box[0]) * 100}%`, height: `${(box[3] - box[1]) * 100}%` });
+          frame.classList.add('hl-on');
+        });
+        g.addEventListener('mouseleave', () => frame.classList.remove('hl-on'));
+      }
+      side.append(g);
+    }
+    row.append(frame, side);
+    img.addEventListener('load', () => placeSide(row), { once: true });
+    return row;
+  }
+
+  // 1行ぶんのセリフ（英訳・原文・ひとこと解説）
+  function lineEl(ln) {
+    const li = document.createElement('div');
+    li.className = ln.type === 'caption' ? 'script-line is-caption' : 'script-line';
+    const en = document.createElement('p');
+    en.className = 'sc-en';
+    en.textContent = ln[state.script.lang] || ln.ja;
+    const ja = document.createElement('p');
+    ja.className = 'sc-ja';
+    ja.lang = 'ja';
+    ja.textContent = ln.ja;
+    li.append(en, ja);
+    if (ln.note) {
+      const note = document.createElement('p');
+      note.className = 'sc-note';
+      note.textContent = ln.note;
+      li.append(note);
+    }
+    return li;
+  }
+
+  // コマの上端の高さに対訳を置く。前のコマの対訳が長くて届かないときは、その下に続ける
+  function placeSide(row) {
+    const img = row.querySelector('.page');
+    const side = row.querySelector('.script-side');
+    const h = img.getBoundingClientRect().height;
+    if (!h) return;
+    let floor = 0;
+    side.querySelectorAll('.side-group').forEach(g => {
+      const want = g.dataset.top ? Number(g.dataset.top) * h : floor;
+      const top = Math.max(want, floor);
+      g.style.top = `${top}px`;
+      floor = top + g.offsetHeight + 10;
+    });
+    side.style.height = `${Math.max(floor - 10, 0)}px`;
+  }
+  const placeAll = () => requestAnimationFrame(() => stage.querySelectorAll('.page-row').forEach(placeSide));
 
   // めくる表示（スマホ・見開き）では、下のバーのボタンで対訳を出す
   let sheet = null, sheetBtn = null;
@@ -360,7 +452,7 @@
   // 横に払ったら（指のフリック・マウスのドラッグ）、右へ払うと次、左へ払うと前
   function gesture(dx, dy, clientX, target, swipe) {
     if (window.visualViewport && window.visualViewport.scale > 1.05) return; // 拡大中はめくらない
-    if (target.closest('.flow-end')) return; // 「おわり」のボタンを押したとき
+    if (target.closest('.flow-end, .script-side, .script')) return; // 「おわり」のボタンや、対訳の文字を選ぶとき
     if (Math.abs(dx) > swipe && Math.abs(dx) > Math.abs(dy) * 1.2) { (dx > 0 ? next : prev)(); return; }
     if (Math.abs(dx) > 10 || Math.abs(dy) > 10) return;
     const x = clientX / window.innerWidth;
@@ -393,7 +485,7 @@
     const t = e.changedTouches[0];
     const dx = t.clientX - touch.x, dy = t.clientY - touch.y;
     touch = null;
-    if (e.target.closest('.flow-end')) return; // 「おわり」のボタンはふつうに押せるように
+    if (e.target.closest('.flow-end, .script-side, .script')) return; // 「おわり」のボタンと対訳はふつうに触れるように
     if (e.cancelable) e.preventDefault(); // タップのあとに来るマウスの真似イベントを止める
     gesture(dx, dy, t.clientX, e.target, 30);
   });
@@ -434,7 +526,13 @@
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(() => {
       // 縦につなげる表示のまま幅だけ変わったときは、組み直さない（ブラウザが自然に並べ直す）
-      if (isFlow() && lastNarrow === false) { onFlowScroll(); return; }
+      if (isFlow() && lastNarrow === false) {
+        // 対訳を横に並べられる幅をまたいだときだけ組み直す。それ以外は対訳の高さだけ合わせ直す
+        if (useSide() !== stage.classList.contains('has-side')) { relayout(); return; }
+        if (stage.classList.contains('has-side')) placeAll();
+        onFlowScroll();
+        return;
+      }
       lastNarrow = isNarrow();
       relayout();
     }, 120);

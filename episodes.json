@@ -82,7 +82,16 @@
       "hasCover": true,
       "title_en": "The Gym That Vanished in Seconds",
       "subtitle_en": "Reservation War at Midnight",
-      "summary_en": "A new team leader and a complaint nobody has solved in six months both land in the basement on the same morning. Not a single slot at the civic gym can be booked — and Tetsu smells money in it."
+      "summary_en": "A new team leader and a complaint nobody has solved in six months both land in the basement on the same morning. Not a single slot at the civic gym can be booked — and Tetsu smells money in it.",
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          80,
+          60,
+          1514,
+          2148
+        ]
+      }
     },
     {
       "id": "3",

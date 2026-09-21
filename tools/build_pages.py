@@ -69,13 +69,14 @@ def content_box(img, pad):
 
 def trim_margins(cover, pages, pad=round(TRIM_PAD * SCALE)):
     """紙の白い余白を切り落とす。本編は全ページ同じ範囲で切る（見開きで大きさがそろうように）。"""
+    box = None
     if pages:
         boxes = [content_box(p, pad) for p in pages]
         box = (min(b[0] for b in boxes), min(b[1] for b in boxes), max(b[2] for b in boxes), max(b[3] for b in boxes))
         pages = [p.crop(box) for p in pages]
     if cover is not None:
         cover = cover.crop(content_box(cover, pad))
-    return cover, pages
+    return cover, pages, box
 
 
 def og_image(folder, name_json, panel_name):
@@ -115,7 +116,7 @@ def main():
         if missing:
             raise SystemExit(f'P{i} に絵が採用されていないコマがあります: {missing}')
         pages.append(img)
-    cover, pages = trim_margins(cover, pages)
+    cover, pages, crop = trim_margins(cover, pages)
 
     files = []
     for name, img in ([('p00.webp', cover)] if cover else []) + [(f'p{i:02d}.webp', img) for i, img in enumerate(pages, 1)]:
@@ -140,6 +141,8 @@ def main():
     ep['pages'] = files
     ep['sizes'] = [list(img.size) for img in ([cover] if cover else []) + pages]  # 読み込む前に高さを取っておくため
     ep['hasCover'] = bool(args.cover)
+    # 本編を切り取った範囲（ページ座標 794×1123 を SCALE 倍した画素）。対訳をコマの横に並べるのに使う
+    ep['crop'] = {'scale': SCALE, 'box': list(crop)} if crop else None
     with open(ep_path, 'w', encoding='utf-8', newline='\n') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         f.write('\n')  # 末尾の改行を残す（ないと毎回ここだけ差分になる）

@@ -181,3 +181,28 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
 .lang-switch:hover { border-color: var(--accent); }
 .reader.is-flow ~ .lang-switch, .reader.is-flow + .lang-switch { bottom: 12px; }
 .reader.sheet-open ~ .lang-switch { display: none; } /* 対訳のシートを開いている間は隠す */
+
+/* ---- 対訳をコマの横に並べる（縦につなげる表示で、幅 1100px 以上） ----
+   ページは左、対訳は右。対訳はコマの上端の高さから始め、長いときは次のコマへ押し下げる */
+.page-row {
+  display: grid; grid-template-columns: minmax(0, 900px) minmax(300px, 380px);
+  justify-content: center; align-items: start; gap: 20px;
+  margin: 0 auto 12px;
+}
+.page-frame { position: relative; }
+.stage.is-flow .page-row .page { width: 100%; margin: 0; }
+.script-side { position: relative; cursor: default; user-select: text; -webkit-user-select: text; }
+.side-group {
+  position: absolute; left: 0; right: 0;
+  display: grid; gap: 10px; padding: 12px 14px;
+  background: #1d1d1d; border: 1px solid #2e2e2e; border-radius: 10px;
+  font-size: 15px; line-height: 1.55;
+  transition: border-color .15s ease;
+}
+.side-group:hover { border-color: var(--accent); }
+.panel-hl {
+  position: absolute; pointer-events: none; opacity: 0;
+  outline: 3px solid var(--accent); outline-offset: -2px; background: rgba(83, 139, 176, .10);
+  transition: opacity .15s ease;
+}
+.page-frame.hl-on .panel-hl { opacity: 1; }
