@@ -1,0 +1,996 @@
+{
+  "episode": "3",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0115,
+          0.9777,
+          0.3139
+        ],
+        "2": [
+          0.5223,
+          0.3483,
+          0.9777,
+          0.6507
+        ],
+        "3": [
+          0.0167,
+          0.3483,
+          0.4721,
+          0.6507
+        ],
+        "4": [
+          0.0167,
+          0.6852,
+          0.9777,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "岡山といえば、桃ときびだんごだ！",
+          "en": "Okayama means peaches and kibi dango!"
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "視察です。よく見て、梨ヶ坂に持ち帰りましょう",
+          "en": "This is an inspection visit. Look closely and bring the lessons home to Nashigasaka."
+        },
+        {
+          "id": "p1-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十月。岡山駅前。",
+          "en": "October. Outside Okayama Station."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ようこそ、ももスタへ！",
+          "en": "Welcome to Momosta!"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ここでは毎月、行政や地域の課題を持ち寄る会をやってるんです",
+          "en": "Every month we hold a meetup where people bring local and public-sector problems."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "お昼の桃パフェ、経費で落ちます？",
+          "en": "Can lunch — the peach parfait — go on expenses?"
+        },
+        {
+          "id": "p1-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "落ちるわけないでしょ！",
+          "en": "Of course it can't!"
+        },
+        {
+          "id": "p1-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "課題ねえ……それより桃だ、桃",
+          "en": "Problems, huh... Forget that. Peaches. Peaches."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.5223,
+          0.0115,
+          0.9777,
+          0.3139
+        ],
+        "2": [
+          0.0167,
+          0.0115,
+          0.4721,
+          0.3139
+        ],
+        "3": [
+          0.5223,
+          0.3483,
+          0.9777,
+          0.6507
+        ],
+        "4": [
+          0.0167,
+          0.3483,
+          0.4721,
+          0.6507
+        ],
+        "5": [
+          0.5223,
+          0.6852,
+          0.9777,
+          0.9876
+        ],
+        "6": [
+          0.0167,
+          0.6852,
+          0.4721,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ふだんは企業の課題を解決してます",
+          "en": "Usually we solve problems for companies."
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "今日は東京都の方もいるので行政の話題！",
+          "en": "But we have guests from Tokyo today, so: government!"
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "課題は、こうやって解決していきます",
+          "en": "This is how we work through a problem."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "身近な行政の課題を、一つ出してください",
+          "en": "Give us one everyday problem with city services."
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "梨ヶ坂からお越しの方、いかがですか？",
+          "en": "How about our guest from Nashigasaka?"
+        },
+        {
+          "id": "p2-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "お、おれ？　えーと……",
+          "en": "M-me? Uh..."
+        },
+        {
+          "id": "p2-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "引っ越しの届けってさ……",
+          "en": "Moving house, right..."
+        },
+        {
+          "id": "p2-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "オンライン申請なのに、結局窓口に行くの？",
+          "en": "You apply online, and you STILL have to go to the counter?"
+        },
+        {
+          "id": "p2-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……そこ、詳しく聞かせてもらえます？",
+          "en": "...Could you tell us more about that?"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.5223,
+          0.0115,
+          0.9777,
+          0.3139
+        ],
+        "2": [
+          0.0167,
+          0.0115,
+          0.4721,
+          0.3139
+        ],
+        "3": [
+          0.5223,
+          0.3483,
+          0.9777,
+          0.6507
+        ],
+        "4": [
+          0.0167,
+          0.3483,
+          0.4721,
+          0.6507
+        ],
+        "5": [
+          0.5223,
+          0.6852,
+          0.9777,
+          0.9876
+        ],
+        "6": [
+          0.0167,
+          0.6852,
+          0.4721,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "転出はスマホ、転入は窓口で1時間待ち！",
+          "en": "Moving out: done on your phone. Moving in: an hour at the counter!"
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "転入は本人確認と、カードの手続きが……",
+          "en": "Moving in needs an ID check and the card paperwork..."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "転出届は、マイナポータルで出せる!!",
+          "en": "You can file a move-out notice on Mynaportal!!",
+          "note": "Real system: since 2023, Japan lets you file a move-out notice online with your My Number card. The move-in side still needs a visit."
+        },
+        {
+          "id": "p3-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "でも転入届は、今も窓口なんです!!",
+          "en": "But the move-in notice still happens at the counter!!"
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "そういえば、窓口を予約できる市もありますよね",
+          "en": "Come to think of it, some cities let you book a counter slot."
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "転出届のとき、転入先に来庁の予定も伝えられるんです",
+          "en": "When you file the move-out, you can tell your new city when you'll come in."
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "組み合わせたら、待ち時間を減らせるかも！",
+          "en": "Put those together and the wait could get shorter!"
+        },
+        {
+          "id": "p3-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "確かにーっ！",
+          "en": "Oh, that's good!"
+        },
+        {
+          "id": "p3-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "あれ？　おれ、いま冴えてる？",
+          "en": "Huh? Am I... on fire right now?"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.5223,
+          0.0115,
+          0.9777,
+          0.3139
+        ],
+        "2": [
+          0.0167,
+          0.0115,
+          0.4721,
+          0.3139
+        ],
+        "3": [
+          0.5223,
+          0.3483,
+          0.9777,
+          0.6507
+        ],
+        "4": [
+          0.0167,
+          0.3483,
+          0.4721,
+          0.6507
+        ],
+        "5": [
+          0.5223,
+          0.6852,
+          0.9777,
+          0.9876
+        ],
+        "6": [
+          0.0251,
+          0.6861,
+          0.4805,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "窓口に行ったら行ったで、同じ住所を何枚も書くしな",
+          "en": "And once you're at the counter, you write the same address on sheet after sheet."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "それ、『書かない窓口』でなくせます！",
+          "en": "A “no-forms counter” gets rid of that!",
+          "note": "“Kakanai madoguchi” (no-forms counters): staff fill in the paperwork from your ID and records, so you only sign. Many Japanese cities are adopting them."
+        },
+        {
+          "id": "p4-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "でも、うちの窓口はまだです……",
+          "en": "But ours doesn't have one yet..."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "テツが……有能!?",
+          "en": "Tetsu is... being useful!?"
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "源田くんが、まともな課題を……",
+          "en": "Genda raised a sensible problem..."
+        },
+        {
+          "id": "p4-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "来月も、ぜひ来てください！",
+          "en": "Please come back next month!"
+        },
+        {
+          "id": "p4-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "役所の仕事が減れば、おれの仕事も減る……",
+          "en": "Less work for City Hall means less work for me..."
+        },
+        {
+          "id": "p4-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "任せとけェーッ！",
+          "en": "Leave it to MEEE!"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0115,
+          0.9777,
+          0.3139
+        ],
+        "2": [
+          0.5223,
+          0.3483,
+          0.9777,
+          0.6507
+        ],
+        "3": [
+          0.0167,
+          0.3483,
+          0.4721,
+          0.6507
+        ],
+        "4": [
+          0.0223,
+          0.6813,
+          0.9833,
+          0.9837
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "先月の課題、改善案を考えてきたぜ！",
+          "en": "About last month's problem — I brought an improvement plan!"
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十一月。二回目の課題持ち寄り会。",
+          "en": "November. The second problem potluck."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "か、改善案まで……？",
+          "en": "E-even an improvement plan...?"
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "誰も頼んでないわよ！",
+          "en": "Nobody asked for one!"
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "業務フロー図で、手順を見える化！",
+          "en": "A workflow diagram makes every step visible!"
+        },
+        {
+          "id": "p5-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "なぜなぜ分析で、原因を特定！",
+          "en": "Five Whys pins down the root cause!",
+          "note": "Five Whys: keep asking “why?” until you reach the root cause. Tetsu takes it a little too literally."
+        },
+        {
+          "id": "p5-4-3",
+          "panel": 4,
+          "type": "caption",
+          "ja": "この一か月。テツは業務改善の手法を覚えた。",
+          "en": "In one month, Tetsu had learned process improvement."
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0115,
+          0.9777,
+          0.3139
+        ],
+        "2": [
+          0.5223,
+          0.3483,
+          0.9777,
+          0.6507
+        ],
+        "3": [
+          0.0167,
+          0.3483,
+          0.4721,
+          0.6507
+        ],
+        "4": [
+          0.0167,
+          0.6852,
+          0.9777,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "転入の流れを図にした。丸印が、同じ住所を書く所だ",
+          "en": "Here's the move-in process as a chart. Every circle is where you write the same address again."
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……うちの窓口、まさにこれだ！",
+          "en": "...That's exactly our counter!"
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "これ、本当に直せそう！",
+          "en": "We could actually fix this!"
+        },
+        {
+          "id": "p6-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ぜひ、進めましょう！",
+          "en": "Let's go for it!"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "じゃあ、ちょっとだけ週一でオンライン打ち合わせな",
+          "en": "Then let's do a quick online meeting. Just once a week."
+        },
+        {
+          "id": "p6-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "確認シートも、ちょっとだけ書いてくれ",
+          "en": "And fill in a checklist too. Just a little one."
+        },
+        {
+          "id": "p6-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……『ちょっとだけ』？",
+          "en": "...“Just a little”?"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.5223,
+          0.0115,
+          0.9777,
+          0.3139
+        ],
+        "2": [
+          0.0167,
+          0.0115,
+          0.4721,
+          0.3139
+        ],
+        "3": [
+          0.5223,
+          0.3483,
+          0.9777,
+          0.6507
+        ],
+        "4": [
+          0.0167,
+          0.3483,
+          0.4721,
+          0.6507
+        ],
+        "5": [
+          0.5223,
+          0.6852,
+          0.9777,
+          0.9876
+        ],
+        "6": [
+          0.0167,
+          0.6852,
+          0.4721,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "なぜ窓口で書く？　なぜ？　なぜ？　なぜ？",
+          "en": "Why do they write it at the counter? Why? Why? Why?"
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "『なぜ』を、もう三十回聞かれてる……",
+          "en": "That's the thirtieth “why”..."
+        },
+        {
+          "id": "p7-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "翌週。",
+          "en": "The next week."
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "確認シート、ちょっとだけ項目を足した",
+          "en": "I added just a few items to the checklist."
+        },
+        {
+          "id": "p7-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "一枚だったのが、二十ページに……",
+          "en": "It was one sheet. Now it's twenty pages..."
+        },
+        {
+          "id": "p7-2-3",
+          "panel": 2,
+          "type": "caption",
+          "ja": "その翌週。",
+          "en": "The week after."
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "悪い、ちょっとだけ延長な",
+          "en": "Sorry, let's run a little over."
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "十五分の定例が、二時間……",
+          "en": "The fifteen-minute check-in is now two hours..."
+        },
+        {
+          "id": "p7-3-3",
+          "panel": 3,
+          "type": "caption",
+          "ja": "そのまた翌週。",
+          "en": "And the week after that."
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "今夜、ちょっとだけ十時から打ち合わせを",
+          "en": "Tonight — a quick meeting at ten?"
+        },
+        {
+          "id": "p7-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "十八歳未満は、夜十時から働かせちゃダメです",
+          "en": "Under-18s can't work from 10 p.m.",
+          "note": "Same law as in the gym chapter: under-18s can't work between 10 p.m. and 5 a.m."
+        },
+        {
+          "id": "p7-4-3",
+          "panel": 4,
+          "type": "caption",
+          "ja": "同じ週の夜。",
+          "en": "That same week, at night."
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "『ちょっとだけ確認』が、今日だけで四十件……",
+          "en": "Forty “just a quick check” messages today alone..."
+        },
+        {
+          "id": "p7-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "最後の確認は、対面で！　印刷して持ってきてな！",
+          "en": "Final check in person! Print it out and bring it!"
+        },
+        {
+          "id": "p7-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "オンラインなのに、結局窓口……",
+          "en": "It's online, and we STILL end up at the counter..."
+        },
+        {
+          "id": "p7-6-3",
+          "panel": 6,
+          "type": "caption",
+          "ja": "十一月の終わり。",
+          "en": "The end of November."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0115,
+          0.9777,
+          0.3139
+        ],
+        "2": [
+          0.5223,
+          0.3483,
+          0.9777,
+          0.6507
+        ],
+        "3": [
+          0.0209,
+          0.3464,
+          0.4763,
+          0.6488
+        ],
+        "4": [
+          0.0167,
+          0.6852,
+          0.9777,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "テーマは……『今いちばん困っている課題』です……",
+          "en": "Today's theme is... “the problem bothering you most right now”..."
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "もう『ちょっとだけ』は、聞きとうない……",
+          "en": "Don't wanna hear “just a little” ever again..."
+        },
+        {
+          "id": "p8-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十二月。三回目の課題持ち寄り会。",
+          "en": "December. The third problem potluck."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "議事録、今月だけで二十本……",
+          "en": "Twenty sets of minutes this month alone..."
+        },
+        {
+          "id": "p8-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "僕は夜の会議に出てないので、元気です",
+          "en": "I skip the night meetings, so I'm fine."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "源田くんの起案が、今月だけで百二十件……",
+          "en": "Genda filed a hundred and twenty proposals this month alone..."
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "よーし！　今日もバリバリ課題を出すぞ！",
+          "en": "Alright! Let's crank out some problems today!"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0115,
+          0.9777,
+          0.3139
+        ],
+        "2": [
+          0.0167,
+          0.3483,
+          0.9777,
+          0.6507
+        ],
+        "3": [
+          0.0167,
+          0.6852,
+          0.9777,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "この二か月で、いちばんみんなを困らせている課題は何だ？",
+          "en": "What's the problem that's troubled everyone most these two months?"
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "では……せーので、指さしましょうか",
+          "en": "Then... shall we all point on three?"
+        },
+        {
+          "id": "p9-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おう！　遠慮すんな！",
+          "en": "Yeah! Don't hold back!"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0115,
+          0.9777,
+          0.4402
+        ],
+        "2": [
+          0.5223,
+          0.4746,
+          0.9777,
+          0.7139
+        ],
+        "3": [
+          0.0167,
+          0.4746,
+          0.4721,
+          0.7139
+        ],
+        "4": [
+          0.0167,
+          0.7483,
+          0.9777,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "せーのっ！",
+          "en": "One, two, THREE!"
+        },
+        {
+          "id": "p10-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "あんたじゃ！",
+          "en": "YOU!"
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……後ろ？",
+          "en": "...Behind me?"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "前です、テツさん",
+          "en": "In front, Tetsu."
+        },
+        {
+          "id": "p10-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "源田くん。こちらです",
+          "en": "Genda. Over here."
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "お、おれぇーっ!?",
+          "en": "M-MEEEE!?"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0115,
+          0.9777,
+          0.2507
+        ],
+        "2": [
+          0.5223,
+          0.2852,
+          0.9777,
+          0.5244
+        ],
+        "3": [
+          0.0167,
+          0.2852,
+          0.4721,
+          0.5244
+        ],
+        "4": [
+          0.0167,
+          0.5589,
+          0.9777,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "おれは、仕事を減らそうとしてるんだ！",
+          "en": "I'm trying to REDUCE the work!"
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "おれが昼寝するためにな！",
+          "en": "So I can take my naps!"
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "そのために増えた仕事は、どうするの",
+          "en": "And the work you added to do that?"
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "原因を特定しました。持ち帰って、修正します",
+          "en": "Root cause identified. We'll take it home and fix it."
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "せーのっ！",
+          "en": "One, two, THREE!"
+        },
+        {
+          "id": "p11-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "おれは……仕様だァーッ！",
+          "en": "I'm... not a bug, I'm a FEATURE!",
+          "note": "“It's not a bug, it's a feature” — the classic excuse from software development."
+        }
+      ]
+    }
+  ]
+}

@@ -168,7 +168,17 @@
       ],
       "title_en": "We’ll Take the Problem Home",
       "subtitle_en": "Issue Potluck",
-      "summary_en": "The unit visits a startup cafe in Okayama, where everyone brings a problem to the table. Tetsu turns out to be unexpectedly good at this — which is exactly what worries everyone."
+      "summary_en": "The unit visits a startup cafe in Okayama, where everyone brings a problem to the table. Tetsu turns out to be unexpectedly good at this — which is exactly what worries everyone.",
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          80,
+          60,
+          1516,
+          2150
+        ]
+      },
+      "pagesEn": true
     },
     {
       "id": "4",
@@ -253,7 +263,8 @@
           1508,
           2148
         ]
-      }
+      },
+      "pagesEn": true
     }
   ]
 }

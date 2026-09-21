@@ -1,0 +1,791 @@
+{
+  "episode": "4",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.4234
+        ],
+        "2": [
+          0.423,
+          0.4655,
+          0.9832,
+          0.705
+        ],
+        "3": [
+          0.0168,
+          0.4655,
+          0.4006,
+          0.705
+        ],
+        "4": [
+          0.0168,
+          0.7471,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "デミカツ丼……えびめし……ばら寿司……",
+          "en": "Demi-katsu bowls... shrimp-meshi... barazushi..."
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "九月。梨ヶ坂市役所・地下。",
+          "en": "September. Nashigasaka City Hall, the basement."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "仕事中に食べ物の話をしない！",
+          "en": "No food talk on the job!"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "このきびだんご、経費ですか",
+          "en": "Are these kibi dango on expenses?"
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "岡山は名物だらけでいいよなァ！",
+          "en": "Okayama's got famous food everywhere. Lucky them!"
+        },
+        {
+          "id": "p1-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "梨ヶ坂には、何もねえ！",
+          "en": "Nashigasaka's got NOTHING!"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.4006,
+          0.2931,
+          0.9832,
+          0.5326
+        ],
+        "3": [
+          0.0168,
+          0.2931,
+          0.3782,
+          0.5326
+        ],
+        "4": [
+          0.0168,
+          0.5747,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "本庁から、宿題を持ち帰りました",
+          "en": "I brought homework back from the main building."
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "梨ヶ坂の名物グルメを、作れと……",
+          "en": "We're to create a signature Nashigasaka dish..."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "本庁に成果を見せるチャンス！",
+          "en": "A chance to show the main building results!"
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "窓口で困っていた方も、お連れしました",
+          "en": "I also brought someone who came to the counter for help."
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "売れない梨が、山ほどあるんだよ",
+          "en": "I've got a mountain of pears nobody will buy."
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.381,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.3585,
+          0.251
+        ],
+        "3": [
+          0.0168,
+          0.2931,
+          0.9832,
+          0.705
+        ],
+        "4": [
+          0.0168,
+          0.7471,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "傷のある梨は、店に出せないんだよ",
+          "en": "Shops won't take pears with a scratch on them."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "毎年、畑の一割が捨てられてね……",
+          "en": "Every year a tenth of the orchard gets thrown out..."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "味は同じなのに、もったいなくて",
+          "en": "They taste just the same. Such a waste."
+        },
+        {
+          "id": "p3-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ジャムにする？　でも、誰が作って売るの……",
+          "en": "Make jam? But who's going to make it and sell it..."
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……うめえ",
+          "en": "...That's good."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.4234
+        ],
+        "2": [
+          0.423,
+          0.4655,
+          0.9832,
+          0.705
+        ],
+        "3": [
+          0.0168,
+          0.4655,
+          0.4006,
+          0.705
+        ],
+        "4": [
+          0.0168,
+          0.7471,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "この梨で、梨ヶ坂の名物を作る!!",
+          "en": "We'll turn these pears into Nashigasaka's signature dish!!"
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "名前を商標登録すりゃ、使用料ががっぽりだ",
+          "en": "Register the name as a trademark and the fees roll in."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "一杯売れるごとに、歩合で十円ください",
+          "en": "Ten yen a bowl as my commission, please."
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "商標って、そんなに簡単なの？",
+          "en": "Is a trademark really that easy?"
+        },
+        {
+          "id": "p4-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "任せとけ！　一晩で覚える!!",
+          "en": "Leave it to me! I'll learn it overnight!!"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.4006,
+          0.2931,
+          0.9832,
+          0.5326
+        ],
+        "3": [
+          0.0168,
+          0.2931,
+          0.3782,
+          0.5326
+        ],
+        "4": [
+          0.0168,
+          0.5747,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "同じ名前なら、先に出願した者が勝つ。『先願主義』！",
+          "en": "Same name? Whoever files first wins. “First to file”!",
+          "note": "Japan's trademark system is first-to-file: whoever applies first gets the mark, not whoever used it first."
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――その夜。",
+          "en": "—That night."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "地名と商品名で登録できる……『地域団体商標』!!",
+          "en": "Place name plus product name can be registered... a “regional collective trademark”!!",
+          "note": "Regional collective trademarks (e.g. a place name + a product) can only be filed by bodies like co-ops, chambers of commerce or NPOs — never by an individual."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "出願できるのは組合とか……ま、細けえことはいい！",
+          "en": "Only co-ops and such can file... eh, details!"
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "先に出したもん勝ちだァーッ!!",
+          "en": "Whoever files first WINS!!"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.451,
+          0.0115,
+          0.9832,
+          0.2893
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.4286,
+          0.2893
+        ],
+        "3": [
+          0.521,
+          0.3314,
+          0.9832,
+          0.6092
+        ],
+        "4": [
+          0.0168,
+          0.3314,
+          0.4986,
+          0.6092
+        ],
+        "5": [
+          0.0168,
+          0.6513,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "デミカツ丼、うめえェ!!",
+          "en": "This demi-katsu bowl is AMAZING!!"
+        },
+        {
+          "id": "p6-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "週末。岡山。",
+          "en": "The weekend. Okayama."
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "えびめし、黒いのにうめえ!!",
+          "en": "The shrimp-meshi's black, and it's AMAZING!!"
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ばら寿司、具が多すぎる!!",
+          "en": "This barazushi has WAY too many toppings!!"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "名物はな、町のみんなで何十年も育てたんじゃ",
+          "en": "A local dish is somethin' the whole town grew over decades."
+        },
+        {
+          "id": "p6-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "名前さえ取りゃ、こっちのもんだ",
+          "en": "Once I've got the name, it's mine."
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "梨のデミソース……『梨デミカツ丼』だ!!",
+          "en": "Pear demi-glace... the “Pear Demi-Katsu Bowl”!!"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.4234
+        ],
+        "2": [
+          0.423,
+          0.4655,
+          0.9832,
+          0.705
+        ],
+        "3": [
+          0.0168,
+          0.4655,
+          0.4006,
+          0.705
+        ],
+        "4": [
+          0.0168,
+          0.7471,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "梨デミカツ丼、あがりィ！",
+          "en": "One Pear Demi-Katsu Bowl, coming up!"
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十月。梨ヶ坂の商店街。",
+          "en": "October. Nashigasaka's shopping street."
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "梨の甘みで、ソースがまろやか!!",
+          "en": "The pear makes the sauce so mellow!!"
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "捨ててた梨が、全部使われてる……",
+          "en": "The pears we threw out... every one gets used..."
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "出願も済んだ！　名前はおれのもんだ!!",
+          "en": "And I've filed! The name is MINE!!"
+        },
+        {
+          "id": "p7-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一杯十円、一杯十円……",
+          "en": "Ten yen a bowl, ten yen a bowl..."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.381,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.3585,
+          0.251
+        ],
+        "3": [
+          0.0168,
+          0.2931,
+          0.9832,
+          0.705
+        ],
+        "4": [
+          0.0168,
+          0.7471,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "商店街のみんなも、出したいってよ",
+          "en": "The whole shopping street wants to serve it too."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "いいぜ。一杯百円の使用料でな",
+          "en": "Sure. For a hundred yen a bowl in fees."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "名物は町のみんなのものでしょ!?",
+          "en": "A local dish belongs to the whole town!"
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "出願したのは、おれだ!!",
+          "en": "I'M the one who filed!!"
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "テツさん、特許庁から封筒が来てますよ",
+          "en": "Tetsu, there's an envelope from the Patent Office."
+        },
+        {
+          "id": "p8-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "あとで、あとで！",
+          "en": "Later, later!"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.4006,
+          0.2931,
+          0.9832,
+          0.5326
+        ],
+        "3": [
+          0.0168,
+          0.2931,
+          0.3782,
+          0.5326
+        ],
+        "4": [
+          0.0168,
+          0.5747,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "拒絶理由通知……出願できるのは組合や商工会！",
+          "en": "Notice of reasons for refusal... only co-ops and chambers of commerce may file!",
+          "note": "A “notice of reasons for refusal” is the Patent Office's letter saying why an application can't be registered as filed."
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "こ、個人はダメなのォ!?",
+          "en": "I-individuals CAN'T!?"
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "歩合はきちんともらいます",
+          "en": "I'll still be collecting my commission."
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "使用料百円って、どういうことだ!!",
+          "en": "What's this hundred-yen fee about!!"
+        },
+        {
+          "id": "p9-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "名物が、取り合いになっちまった……",
+          "en": "Now everyone's fighting over the local dish..."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.4006,
+          0.2931,
+          0.9832,
+          0.5326
+        ],
+        "3": [
+          0.0168,
+          0.2931,
+          0.3782,
+          0.5326
+        ],
+        "4": [
+          0.0168,
+          0.5747,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "商店街の皆さんから、本庁にお電話がありました",
+          "en": "The shopping street called the main building."
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "皆さま、大変申し訳ございません",
+          "en": "Everyone, we are deeply sorry."
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "源田くん。……いえ、源田さん",
+          "en": "Genda. ...I mean, Mr. Genda.",
+          "note": "The boss switches from “Genda-kun” to “Genda-san”. When he gets polite, it's over."
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "表彰状。名物は、育てるものです",
+          "en": "A certificate of commendation. A local dish is something you grow."
+        },
+        {
+          "id": "p10-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "副賞は、屋台の皿洗い一年分です",
+          "en": "The bonus prize: one year of washing dishes at the food stall."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.4234
+        ],
+        "2": [
+          0.423,
+          0.4655,
+          0.9832,
+          0.705
+        ],
+        "3": [
+          0.0168,
+          0.4655,
+          0.4006,
+          0.705
+        ],
+        "4": [
+          0.0168,
+          0.7471,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "組合で、地域団体商標を出願したぜ！",
+          "en": "We filed a regional collective trademark through the co-op!"
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――翌年の秋。梨ヶ坂の秋祭り。",
+          "en": "—The next autumn. Nashigasaka's autumn festival."
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "梨がね、毎日売り切れだよ",
+          "en": "The pears sell out every day now."
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "本庁から、表彰の連絡が来た！",
+          "en": "The main building says we're getting an award!"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "大盛りは『テツ盛り』って名前にしたぞ！",
+          "en": "I named the large size the “Tetsu Special”!"
+        },
+        {
+          "id": "p11-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "し、使用料は!?",
+          "en": "Wh-what about the fee!?"
+        },
+        {
+          "id": "p11-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ゼロです",
+          "en": "Zero."
+        }
+      ]
+    }
+  ]
+}
