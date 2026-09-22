@@ -172,6 +172,20 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
   background: none; border: 0; color: var(--bar-fg); font-size: 26px; line-height: 1; cursor: pointer;
 }
 
+/* ---- 表紙の注釈（実在の場所を扱う話だけ。画像には焼かず、テキストで重ねる） ---- */
+.cover-note {
+  position: fixed; left: 12px; right: 12px; z-index: 3;
+  bottom: calc(var(--foot-h) + 12px);
+  margin: 0 auto; max-width: 640px;
+  padding: 8px 14px; border-radius: 10px;
+  background: rgba(0, 0, 0, .6); border: 1px solid rgba(255, 255, 255, .16);
+  color: #e5e5e5; font-size: 12px; line-height: 1.6; text-align: center;
+  pointer-events: none; transition: opacity .22s ease;
+}
+.reader.is-flow .cover-note { bottom: 12px; }
+.cover-note[hidden] { display: none; }
+.reader.ui-hidden .cover-note { opacity: 0; }
+
 /* ---- 言語の切り替え ---- */
 .lang-switch {
   position: fixed; right: 12px; bottom: calc(var(--foot-h) + 12px); z-index: 30;

@@ -372,6 +372,20 @@
     $('progress-fill').style.width = `${Math.min(progress, 1) * 100}%`;
     const hash = `#p=${state.ep.hasCover && first === 0 ? 0 : pageLabel(first)}`;
     if (location.hash !== hash) history.replaceState(null, '', hash);
+    if (coverNoteEl) coverNoteEl.hidden = !(state.ep.hasCover && first === 0);
+  }
+
+  // 表紙の注釈（実在の場所を扱う話だけ episodes.json の coverNote に入る）。
+  // 表紙が見えているあいだだけ、画面下に固定で重ねる。絵そのものは直さない
+  let coverNoteEl = null;
+  function ensureCoverNote() {
+    const text = F(state.ep, 'coverNote');
+    if (!text) return;
+    coverNoteEl = document.createElement('p');
+    coverNoteEl.className = 'cover-note';
+    coverNoteEl.hidden = true;
+    coverNoteEl.textContent = text;
+    app.append(coverNoteEl);
   }
 
   function next() {
@@ -577,6 +591,7 @@
       }
       document.title = T.docTitle(state.ep.number, epTitle, F(data.series, 'title'));
       await loadScript();
+      ensureCoverNote();
 
       lastNarrow = isNarrow();
       relayout(pageFromHash() ?? 0);
