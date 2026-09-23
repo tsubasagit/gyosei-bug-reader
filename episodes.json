@@ -9,7 +9,7 @@
   },
   "_readMore説明": "話を読み終わったときに出す解説記事の導線。鍵は話の id。まだ公開していない話のぶんも先に入れておける（その話が公開された時点で出る）",
   "readMore": {
-    "5": {
+    "6": {
       "url": "https://apptalenthub.co.jp/column-posts/4575/",
       "title": "TypeSafe AI「Jev」のやさしい使い方——「文章を書かないAI」を、ホットドッグで理解する"
     }
