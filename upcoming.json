@@ -1,10 +1,10 @@
 {
   "_説明": "再訪の仕掛けの設定。次回予告と、新しい話のお知らせ先（X）。日付は空でもよい（空なら「近日公開」と出す）。英語表示用の題名は title_en",
   "next": {
-    "number": 5,
-    "title": "紙だと十万",
+    "number": 6,
+    "title": "理由なしのナシAI",
     "date": "",
-    "title_en": "A Hundred Thousand, on Paper"
+    "title_en": "nasiAI: No Reasons Given"
   },
   "x": {
     "url": "https://x.com/tsubasatwi",

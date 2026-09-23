@@ -354,6 +354,136 @@
         ]
       },
       "pagesEn": true
+    },
+    {
+      "id": "5",
+      "number": 5,
+      "title": "紙だと十万",
+      "subtitle": "青色申告特別控除（ブルー・リターン）",
+      "summary": "確定申告の季節、梨農家のキヨばあちゃんが、四十年分の手書きの帳簿を抱えてやってきた。来年から紙の申告は控除が十万円に減る――「梨の仲間もみんな紙」と聞いたテツは、帳簿の電子化でひと儲けをたくらむ。",
+      "published": "2026-09-24",
+      "title_en": "A Hundred Thousand, on Paper",
+      "subtitle_en": "The Blue Return",
+      "summary_en": "At tax time, an old pear farmer hauls in forty years of handwritten ledgers. From next year, filing on paper cuts the deduction to a hundred thousand yen — and Tetsu smells a business in going digital.",
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp",
+        "p20.webp"
+      ],
+      "sizes": [
+        [
+          1545,
+          2196
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ],
+        [
+          1428,
+          2088
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          80,
+          60,
+          1508,
+          2148
+        ]
+      }
     }
   ]
 }

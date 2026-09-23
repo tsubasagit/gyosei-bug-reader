@@ -6,7 +6,15 @@
     <atom:link href="https://tsubasagit.github.io/gyosei-bug-reader/feed.xml" rel="self" type="application/rss+xml"/>
     <description>梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。金とサボりのために制度と技術を一夜漬けで覚える源田テツが、力技で市民の困りごとを片づけてしまう。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:00:00 +0900</lastBuildDate>
+    <item>
+      <title>第5話「紙だと十万」</title>
+      <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/5/</link>
+      <guid isPermaLink="true">https://tsubasagit.github.io/gyosei-bug-reader/ep/5/</guid>
+      <pubDate>Thu, 24 Sep 2026 09:00:00 +0900</pubDate>
+      <description>～青色申告特別控除（ブルー・リターン）～ 確定申告の季節、梨農家のキヨばあちゃんが、四十年分の手書きの帳簿を抱えてやってきた。来年から紙の申告は控除が十万円に減る――「梨の仲間もみんな紙」と聞いたテツは、帳簿の電子化でひと儲けをたくらむ。</description>
+      <enclosure url="https://tsubasagit.github.io/gyosei-bug-reader/ep/5/thumb.webp" type="image/webp" length="0"/>
+    </item>
     <item>
       <title>第2話「返礼品はおれ」</title>
       <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/2/</link>
