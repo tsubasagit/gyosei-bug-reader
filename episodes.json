@@ -7,6 +7,13 @@
     "subtitle_en": "Nashigasaka City Hall, Special Trends Unit",
     "description_en": "A one-shot-per-chapter gag manga set in the basement of Nashigasaka City Hall, where the Special Trends Unit has no budget and no authority. Tetsu Genda crams public rules and new tech overnight — purely to make money and dodge work — and somehow the citizens end up better off."
   },
+  "_readMore説明": "話を読み終わったときに出す解説記事の導線。鍵は話の id。まだ公開していない話のぶんも先に入れておける（その話が公開された時点で出る）",
+  "readMore": {
+    "5": {
+      "url": "https://apptalenthub.co.jp/column-posts/4575/",
+      "title": "TypeSafe AI「Jev」のやさしい使い方——「文章を書かないAI」を、ホットドッグで理解する"
+    }
+  },
   "episodes": [
     {
       "id": "1",

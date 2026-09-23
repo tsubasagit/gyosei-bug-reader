@@ -134,6 +134,13 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
 .end-card .text-btn { color: #64748b; }
 .end-card .text-btn:hover { color: #1e293b; }
 
+/* 解説記事への導線（episodes.json の readMore があるときだけ出る） */
+.end-read { display: block; margin: 4px 0 14px; padding: 12px 14px; border: 1px solid #e2e8f0; border-radius: 12px; background: #f8fafc; color: inherit; text-align: left; text-decoration: none; }
+.end-read:hover { border-color: var(--primary); background: #fff; }
+.end-read-label { display: block; color: var(--primary); font-size: 12px; font-weight: 700; }
+.end-read-title { display: block; margin-top: 4px; font-size: 14px; font-weight: 700; line-height: 1.5; }
+.end-read-note { display: block; margin-top: 6px; color: #64748b; font-size: 12px; }
+
 .error { position: absolute; inset: auto 16px 50% 16px; text-align: center; color: #fca5a5; }
 
 @media (max-width: 600px) {

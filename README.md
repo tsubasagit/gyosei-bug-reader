@@ -65,6 +65,24 @@ tools/build_pages.py  name-maker の話フォルダからページ画像を作�
 4. 手元で確かめる：`python -m http.server 8976` → http://localhost:8976/
 5. push すると GitHub Pages に反映される
 
+## 解説記事への導線（読み終わりに出す）
+
+その話の題材をくわしく書いた記事があるときは、`episodes.json` のいちばん上の `readMore` に、話の id を鍵にして入れる。「おわり」のカードに出る。
+
+```json
+"readMore": {
+  "5": {
+    "url": "https://apptalenthub.co.jp/column-posts/4575/",
+    "title": "記事の題名",
+    "title_en": "English title（英語表示のときだけ使う。なければ日本語のまま）"
+  }
+}
+```
+
+- まだ公開していない話のぶんも先に入れておける。その話が `episodes` に載った時点で出る
+- 話ごとの `episodes[].readMore` に書いてもよく、そちらが優先される
+- 記事は公開済みのものだけにする（下書きの URL を入れない）
+
 ## ライセンス
 
 作品（画像・文章）の著作権は株式会社AppTalentHubに帰属します。無断転載を禁じます。

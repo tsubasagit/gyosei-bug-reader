@@ -589,6 +589,27 @@
         $('share-x').className = 'btn btn-ghost';
         $('end').querySelector('.end-actions').prepend(a);
       }
+      // 解説記事があれば、「おわり」に導線を出す（episodes.json の readMore）。
+      // 話ごとの指定が先。まだ公開していない話のぶんは、いちばん上の readMore に id で入れておける
+      const more = state.ep.readMore || (data.readMore && data.readMore[EP_ID]);
+      if (more && more.url) {
+        const a = document.createElement('a');
+        a.className = 'end-read';
+        a.href = more.url;
+        a.target = '_blank';
+        a.rel = 'noopener';
+        const label = document.createElement('span');
+        label.className = 'end-read-label';
+        label.textContent = T.readMoreLabel();
+        const title = document.createElement('span');
+        title.className = 'end-read-title';
+        title.textContent = F(more, 'title');
+        const note = document.createElement('span');
+        note.className = 'end-read-note';
+        note.textContent = T.readMoreNote();
+        a.append(label, title, note);
+        $('end').querySelector('.end-actions').after(a);
+      }
       document.title = T.docTitle(state.ep.number, epTitle, F(data.series, 'title'));
       await loadScript();
       ensureCoverNote();
