@@ -484,6 +484,121 @@
           2148
         ]
       }
+    },
+    {
+      "id": "6",
+      "number": 6,
+      "title": "理由なしのナシAI",
+      "subtitle": "予算流用（バジェット・ダイバージョン）",
+      "summary": "AIに遅刻の言い訳まで書かせていたテツが、利用料の多さで本庁から名指しされた。文章を書かず判定だけを返すAI「Jev」を知り、積み上がった問い合わせを機械に振り分けさせようとするが、動かすための予算がない――テツは空き部屋と、手つかずの予算に目をつける。",
+      "published": "2026-09-24",
+      "title_en": "nasiAI: No Reasons Given",
+      "subtitle_en": "Budget Diversion",
+      "summary_en": "Tetsu has been making AI write even his excuses for being late, and City Hall calls him out for the bill. He learns about Jev, an AI that writes no text and only returns judgments, and wants it to sort the pile of unanswered inquiries. There is no budget to run it, so he eyes an empty room and an untouched line in the budget.",
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp"
+      ],
+      "sizes": [
+        [
+          1545,
+          2216
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ],
+        [
+          1512,
+          2110
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          40,
+          60,
+          1552,
+          2170
+        ]
+      }
     }
   ]
 }
