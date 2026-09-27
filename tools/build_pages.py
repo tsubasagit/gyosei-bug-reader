@@ -2,19 +2,25 @@
 
 使い方:
     python tools/build_pages.py <話フォルダ> <話ID> [--cover <扉絵の画像>] [--og-panel P1-コマ1]
+    python tools/build_pages.py <話フォルダ> <話ID> --covers-only    # 一覧の絵と共有の絵だけ作り直す
 
 - ネーム.json のコマの位置と、採用済みの絵（作画/P{n}-コマ{m}.png）でページを組む（A4 縦・右開き）
 - 紙の白い余白は切り落とす（本編は全ページ同じ範囲で切る）
 - 出力は ep/<話ID>/pages/p01.webp〜。扉絵を渡すと p00.webp として先頭に置く
-- 一覧用の小さい絵 ep/<話ID>/thumb.webp と、SNS 共有用の ep/<話ID>/og.jpg も作る
+- 一覧用の小さい絵 ep/<話ID>/thumb.webp と、SNS 共有用の ep/<話ID>/og.jpg も作る。
+  話フォルダに横のカラー表紙（扉絵-横-〜.png）があれば、どちらもそこから作る（thumb は 640×360）。
+  og.jpg（1200×630）は表紙より横長なので、ロゴなしの原画（_backups/扉絵-横-カラー表紙_ロゴなし.png）の下を切り、
+  シリーズの 設定/ロゴ/ のロゴを表紙と同じ付け方で右下に重ね直す（題名もロゴも切れないように）。
+  横の表紙が無い話は、これまでどおり thumb は先頭のページ、og.jpg は --og-panel のコマから作る
 - episodes.json の該当する話の pages（ファイル名）と sizes（幅・高さ）を、書き出したもので更新する
 """
 import argparse
 import json
 import os
+import re
 import sys
 
-from PIL import Image, ImageChops, ImageDraw
+from PIL import Image, ImageChops, ImageDraw, ImageFilter
 
 sys.stdout.reconfigure(encoding='utf-8')
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -23,6 +29,11 @@ SCALE = 2.0                          # 出力は 1588×2246
 BORDER = 3                           # コマ枠の太さ（ページ座標）
 QUALITY = 82
 TRIM_PAD = 12                        # 余白を切り落としたあとに残す白（ページ座標）
+THUMB_W, THUMB_H = 640, 360          # 一覧の絵（横の表紙から作るとき）
+OG_W, OG_H = 1200, 630               # SNS で共有したときの絵
+WIDE_COVER = re.compile(r'^扉絵[-_ ]?横.*\.(png|jpe?g|webp)$', re.I)   # name-maker と同じ決め方
+PLAIN_COVER = os.path.join('_backups', '扉絵-横-カラー表紙_ロゴなし.png')
+LOGO = os.path.join('設定', 'ロゴ', '行政バグります_ロゴ_透過.png')      # シリーズのフォルダから見た場所
 
 
 def page_image(folder, page, scale=SCALE):
@@ -93,13 +104,84 @@ def og_image(folder, name_json, panel_name):
     return im.crop((left, top, left + tw, top + th))
 
 
+def find_wide_cover(folder):
+    """話フォルダの横の表紙。「扉絵-横…」の名前順で最初の1枚。無ければ None。"""
+    names = sorted(n for n in os.listdir(folder) if WIDE_COVER.match(n))
+    return os.path.join(folder, names[0]) if names else None
+
+
+def fill(im, tw, th, top=None):
+    """tw×th をすき間なく埋めるように縮め、はみ出した分を切る。top=0 なら上をそろえて下を切る。"""
+    r = max(tw / im.width, th / im.height)
+    im = im.resize((round(im.width * r), round(im.height * r)), Image.LANCZOS)
+    left = (im.width - tw) // 2
+    top = (im.height - th) // 2 if top is None else top
+    return im.crop((left, top, left + tw, top + th))
+
+
+def put_logo(im, logo_path):
+    """ロゴを右下に重ねる。カラー表紙（幅1672）と同じ付け方：幅600、白ふち11px、右下へずらした薄い影。"""
+    cov = im.convert('RGBA')
+    k = cov.width / 1672
+    lw = round(600 * k)
+    logo = Image.open(logo_path).convert('RGBA')
+    lh = round(logo.height * lw / logo.width)
+    logo = logo.resize((lw, lh), Image.LANCZOS)
+    a = logo.split()[3]
+    grow = max(3, round(11 * k) | 1)                                     # MaxFilter は奇数だけ
+    outline = a.filter(ImageFilter.MaxFilter(grow)).filter(ImageFilter.GaussianBlur(1))
+    shadow = a.filter(ImageFilter.MaxFilter(grow)).filter(ImageFilter.GaussianBlur(8 * k))
+    px, py = cov.width - lw - round(14 * k), cov.height - lh - round(8 * k)
+    sh = Image.new('RGBA', (lw, lh), (0, 0, 0, 0))
+    sh.putalpha(shadow.point(lambda v: int(v * 0.55)))
+    cov.alpha_composite(sh, (px + round(6 * k), py + round(8 * k)))
+    wh = Image.new('RGBA', (lw, lh), (255, 255, 255, 0))
+    wh.putalpha(outline)
+    cov.alpha_composite(wh, (px, py))
+    cov.alpha_composite(logo, (px, py))
+    return cov.convert('RGB')
+
+
+def cover_images(folder, wide):
+    """横の表紙から、一覧の絵（thumb）と共有の絵（og）を作る。"""
+    im = Image.open(wide).convert('RGB')
+    thumb = fill(im, THUMB_W, THUMB_H)
+    plain = os.path.join(folder, PLAIN_COVER)
+    logo = os.path.join(folder, '..', '..', LOGO)
+    if os.path.exists(plain) and os.path.exists(logo):
+        src = Image.open(plain).convert('RGB')
+        h = round(src.width * OG_H / OG_W)                                # 表紙の幅のまま 1200:630 にする高さ
+        og = put_logo(src.crop((0, 0, src.width, min(h, src.height))), logo).resize((OG_W, OG_H), Image.LANCZOS)
+    else:
+        print(f'ロゴなしの原画（{PLAIN_COVER}）かロゴが無いので、og.jpg は表紙の上下を切って作ります（ロゴの下が少し切れます）。')
+        og = fill(im, OG_W, OG_H)
+    return thumb, og
+
+
+def save_thumb_og(out_dir, thumb, og):
+    thumb.save(os.path.join(out_dir, 'thumb.webp'), 'WEBP', quality=80, method=6)
+    og.save(os.path.join(out_dir, 'og.jpg'), quality=85)
+    print('thumb.webp', thumb.size, '/ og.jpg', og.size)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('folder')
     ap.add_argument('episode_id')
     ap.add_argument('--cover')
     ap.add_argument('--og-panel', default='P1-コマ1')
+    ap.add_argument('--covers-only', action='store_true', help='ページは作らず、横の表紙から thumb.webp と og.jpg だけ作り直す')
     args = ap.parse_args()
+
+    wide = find_wide_cover(args.folder)
+    if args.covers_only:
+        if not wide:
+            raise SystemExit('話フォルダに横の表紙（扉絵-横-〜.png）がありません。')
+        out_dir = os.path.join(ROOT, 'ep', args.episode_id)
+        if not os.path.isdir(out_dir):
+            raise SystemExit(f'ep/{args.episode_id}/ がありません。先にページを作ってください。')
+        save_thumb_og(out_dir, *cover_images(args.folder, wide))
+        return
 
     name_json = json.load(open(os.path.join(args.folder, 'ネーム.json'), encoding='utf-8'))
     out_dir = os.path.join(ROOT, 'ep', args.episode_id)
@@ -125,12 +207,13 @@ def main():
         files.append(name)
         print(name, img.size, os.path.getsize(p) // 1024, 'KB')
 
-    # 一覧用の小さい絵（扉絵があれば扉絵、なければ1ページ目）
-    thumb_src = os.path.join(pages_dir, files[0])
-    t = Image.open(thumb_src)
-    t.thumbnail((480, 680))
-    t.save(os.path.join(out_dir, 'thumb.webp'), 'WEBP', quality=80, method=6)
-    og_image(args.folder, name_json, args.og_panel).save(os.path.join(out_dir, 'og.jpg'), quality=85)
+    # 一覧用の小さい絵と共有の絵。横のカラー表紙があればそこから、無ければ先頭のページと --og-panel のコマから
+    if wide:
+        save_thumb_og(out_dir, *cover_images(args.folder, wide))
+    else:
+        t = Image.open(os.path.join(pages_dir, files[0]))
+        t.thumbnail((480, 680))
+        save_thumb_og(out_dir, t, og_image(args.folder, name_json, args.og_panel))
 
     # episodes.json の pages を更新
     ep_path = os.path.join(ROOT, 'episodes.json')
