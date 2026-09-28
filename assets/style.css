@@ -118,7 +118,7 @@ html[lang="en"] .logo-img { display: none; }
 .sort-btn:hover { color: var(--fg); }
 .sort-btn[aria-pressed="true"] { background: var(--primary); color: #fff; font-weight: 700; }
 
-.episodes { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+.episodes { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }  /* 横のカラー表紙を大きく見せるため2列（2026-09-28） */
 .episode-empty { color: var(--fg-sub); }
 
 .episode {
