@@ -130,6 +130,8 @@ html[lang="en"] .logo-img { display: none; }
 .episode img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-bottom: 1px solid var(--line); background: var(--bg-sub); }  /* 横のカラー表紙 */
 .episode-body { display: flex; flex: 1; flex-direction: column; align-items: flex-start; padding: 16px; }
 .ep-pick { display: inline-block; margin: 0 6px 8px 0; color: var(--comic-red); font-size: 12px; font-weight: 800; letter-spacing: .04em; }
+.ep-lang { display: inline-block; margin-left: 6px; font-size: 12px; font-weight: 700; border: 1px solid var(--line); color: var(--fg-sub); border-radius: 999px; padding: 1px 10px; vertical-align: 1px; }  /* 言語の札 */
+.ep-lang.has-en { border-color: var(--accent); color: var(--accent); }
 .ep-num { display: inline-block; font-size: 13px; font-weight: 700; color: #fff; background: var(--primary); border-radius: 999px; padding: 2px 12px; }
 .ep-title { margin: 8px 0 2px; font-size: 22px; line-height: 1.35; }
 .ep-sub { margin: 0 0 10px; color: var(--fg-sub); font-size: 14px; }

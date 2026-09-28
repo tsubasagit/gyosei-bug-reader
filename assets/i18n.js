@@ -115,6 +115,7 @@
       listEmpty: () => 'まだ公開しているエピソードはありません。',
       listError: () => '一覧を読み込めませんでした。時間をおいて、もう一度開いてください。',
       thumbAlt: (n, title) => `第${n}話「${title}」の扉絵`,
+      langTag: hasEn => (hasEn ? '英語版あり' : ''),
 
       readerTitle: (n, title) => `第${n}話　${title}`,
       docTitle: (n, title, series) => `第${n}話「${title}」｜${series}`,
@@ -158,6 +159,7 @@
       listEmpty: () => 'No chapters are online yet.',
       listError: () => 'The chapter list could not be loaded. Please try again in a little while.',
       thumbAlt: (n, title) => `Title page of Ep. ${n} “${title}”`,
+      langTag: hasEn => (hasEn ? '' : 'Japanese only'),
 
       readerTitle: (n, title) => `Ep. ${n}  ${title}`,
       docTitle: (n, title, series) => `Ep. ${n} “${title}” | ${series}`,

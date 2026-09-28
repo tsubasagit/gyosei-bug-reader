@@ -59,6 +59,8 @@
       body.append(
         ...(ep === first ? [el('span', 'ep-pick', T.pick())] : []),
         el('span', 'ep-num', T.epNum(ep.number)),
+        // 言語の札：日本語で見ているときは英語版がある話に、英語で見ているときは英語版が無い話にだけ付ける
+        ...(T.langTag(!!ep.pagesEn) ? [el('span', 'ep-lang' + (ep.pagesEn ? ' has-en' : ''), T.langTag(!!ep.pagesEn))] : []),
         el('h3', 'ep-title', F(ep, 'title')),
         el('p', 'ep-sub', T.epSub(F(ep, 'subtitle'))),
         el('p', 'ep-summary', F(ep, 'summary')),
