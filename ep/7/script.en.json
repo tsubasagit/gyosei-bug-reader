@@ -1,0 +1,1012 @@
+{
+  "episode": "7",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0182,
+          0.019,
+          0.9832,
+          0.3612
+        ],
+        "2": [
+          0.4671,
+          0.3992,
+          0.9832,
+          0.6844
+        ],
+        "3": [
+          0.0182,
+          0.3992,
+          0.4392,
+          0.6844
+        ],
+        "4": [
+          0.6084,
+          0.7224,
+          0.9832,
+          0.9886
+        ],
+        "5": [
+          0.0182,
+          0.7224,
+          0.5804,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "雨の日は外回りなし……天国だぜ〜",
+          "en": "Rainy day, no field work... this is heaven~"
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "勤務中に寝るなァ!!",
+          "en": "No sleeping on the job!!"
+        },
+        {
+          "id": "p1-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "雨でも時給は同じです",
+          "en": "Rain or shine, same hourly rate."
+        },
+        {
+          "id": "p1-1-4",
+          "panel": 1,
+          "type": "caption",
+          "ja": "秋の長雨。梨ヶ坂市役所・地下。",
+          "en": "Autumn rains. Nashigasaka City Hall, the basement."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "私が毎年聴いている、合唱団の方です……",
+          "en": "She's from the choir I go to hear every year..."
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "四十年歌ってきたホールが、雨漏りで……",
+          "en": "The hall we've sung in for forty years... it leaks..."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "な、なんだァ!?",
+          "en": "Wh-what the—?!"
+        },
+        {
+          "id": "p1-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "天井が、しみだらけ……!?",
+          "en": "The ceiling's all stained...?!"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.0182,
+          0.019,
+          0.9832,
+          0.4183
+        ],
+        "2": [
+          0.5608,
+          0.4563,
+          0.9832,
+          0.6844
+        ],
+        "3": [
+          0.0182,
+          0.4563,
+          0.5329,
+          0.6844
+        ],
+        "4": [
+          0.0182,
+          0.7224,
+          0.9832,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ホールの中で、傘ァ!?",
+          "en": "Umbrellas INSIDE the hall?!"
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "来月の発表会も、このままじゃ……",
+          "en": "At this rate, next month's concert..."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "予算にない修繕は、すぐには……",
+          "en": "Repairs that aren't in the budget can't happen fast..."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "直しましょう……必ず……!!",
+          "en": "We'll fix it... I promise...!!"
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……財源は、ありません",
+          "en": "...We have no money for it."
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.0182,
+          0.019,
+          0.9832,
+          0.2852
+        ],
+        "2": [
+          0.6084,
+          0.3232,
+          0.9832,
+          0.6084
+        ],
+        "3": [
+          0.0182,
+          0.3232,
+          0.5804,
+          0.6084
+        ],
+        "4": [
+          0.4028,
+          0.6464,
+          0.9832,
+          0.9886
+        ],
+        "5": [
+          0.0182,
+          0.6464,
+          0.3748,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "課長、金がないなら、約束しないで下さいよ",
+          "en": "Chief, don't make promises if there's no money!"
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "課長、ノープランですね",
+          "en": "Chief, you have no plan."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "財源なら、ネーミングライツよ!!",
+          "en": "Need money? Naming rights!!",
+          "note": "Many Japanese cities sell sponsors the right to name stadiums and halls for a fixed term and yearly fee."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "名前を企業に売って、その収入で直すの!!",
+          "en": "Sell the name to a company, and that pays for the repairs!!"
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "梨ヶ坂はやってるんですか？",
+          "en": "Does Nashigasaka do that?"
+        },
+        {
+          "id": "p3-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "まだよ!! だから梨ヶ坂初の大手柄!!",
+          "en": "Not yet!! So it'd be Nashigasaka's first big win!!"
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "名前に……金を払う……!?",
+          "en": "People pay money... for a NAME...?!"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.0182,
+          0.019,
+          0.9832,
+          0.2852
+        ],
+        "2": [
+          0.6741,
+          0.3232,
+          0.9832,
+          0.5513
+        ],
+        "3": [
+          0.3455,
+          0.3232,
+          0.6462,
+          0.5513
+        ],
+        "4": [
+          0.0182,
+          0.3232,
+          0.3175,
+          0.5513
+        ],
+        "5": [
+          0.0182,
+          0.5894,
+          0.9832,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "名前のついてねえもの……",
+          "en": "Stuff nobody's named yet..."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "階段!!",
+          "en": "STAIRS!!"
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "トイレ!!",
+          "en": "TOILETS!!"
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ベンチ!!",
+          "en": "BENCHES!!"
+        },
+        {
+          "id": "p4-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "全部、売れるじゃねえかァァ!!",
+          "en": "I can sell ALL of it!!"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.0182,
+          0.019,
+          0.9832,
+          0.3327
+        ],
+        "2": [
+          0.6084,
+          0.3707,
+          0.9832,
+          0.6084
+        ],
+        "3": [
+          0.0182,
+          0.3707,
+          0.5804,
+          0.6084
+        ],
+        "4": [
+          0.0182,
+          0.6464,
+          0.9832,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "命名料は、改修費に!!",
+          "en": "Naming fees go to the repairs!!"
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "仲介の手数料は、おれの懐に!!",
+          "en": "The broker's fee goes in MY pocket!!"
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "歩合がないなら、定時で帰ります",
+          "en": "No commission? Then I clock out on time."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "市の施設の名前を、勝手に売るな!!",
+          "en": "You can't just sell off the names of city facilities!!"
+        },
+        {
+          "id": "p5-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……でも、梨ヶ坂初の実績……",
+          "en": "...But a Nashigasaka first..."
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "なら、売っていい名前を探してやらァ!!",
+          "en": "Then I'll find names I CAN sell!!"
+        },
+        {
+          "id": "p5-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "では、定時なのでお先に",
+          "en": "Well, it's quitting time. See you."
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.0182,
+          0.019,
+          0.9832,
+          0.2567
+        ],
+        "2": [
+          0.6741,
+          0.2947,
+          0.9832,
+          0.5323
+        ],
+        "3": [
+          0.3455,
+          0.2947,
+          0.6462,
+          0.5323
+        ],
+        "4": [
+          0.0182,
+          0.2947,
+          0.3175,
+          0.5323
+        ],
+        "5": [
+          0.0182,
+          0.5703,
+          0.9832,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "うおおお!! 条例、全部読んでやらァ!!",
+          "en": "Raaagh!! I'll read EVERY ordinance!!"
+        },
+        {
+          "id": "p6-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――その夜。",
+          "en": "—That night."
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "施設の名前は、条例で決まってる……!!",
+          "en": "Facility names are set by ordinance...!!",
+          "note": "The official name of a public facility is written into a city ordinance, so only a council vote can change it. That's why cities sell “nicknames” instead."
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "勝手には、変えられねえ……!!",
+          "en": "Can't just change 'em...!!"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "待てよ……条例にない「愛称」なら？",
+          "en": "Wait... what about a “nickname” the ordinance doesn't cover?"
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "――見つけたァ!! 愛称なら売れる!!",
+          "en": "—FOUND IT!! Nicknames, I can sell!!"
+        },
+        {
+          "id": "p6-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "愛称なんざ、いくつ付けても誰も困らねえ!!",
+          "en": "Slap on as many nicknames as you like — who's it gonna hurt!!"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.0182,
+          0.019,
+          0.9832,
+          0.1521
+        ],
+        "2": [
+          0.4517,
+          0.1806,
+          0.9832,
+          0.4658
+        ],
+        "3": [
+          0.0182,
+          0.1806,
+          0.4238,
+          0.4658
+        ],
+        "4": [
+          0.5147,
+          0.4943,
+          0.9832,
+          0.7224
+        ],
+        "5": [
+          0.0182,
+          0.4943,
+          0.4867,
+          0.7224
+        ],
+        "6": [
+          0.0182,
+          0.751,
+          0.9832,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "その日から、テツは梨ヶ坂中の会社を駆け回った。",
+          "en": "From that day on, Tetsu raced to every company in Nashigasaka."
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "階段に、御社の名前を!!",
+          "en": "Your company's name — on the stairs!!"
+        },
+        {
+          "id": "p7-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "階段か……買ったァ!!",
+          "en": "Stairs, eh... SOLD!!"
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ベンチに、パン屋の名前を!!",
+          "en": "Your bakery's name — on a bench!!"
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "座るたびにパンを思い出す……買った!!",
+          "en": "Sit down, think bread... SOLD!!"
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "トイレに、梨の名前を!!",
+          "en": "Your orchard's name — on the toilets!!"
+        },
+        {
+          "id": "p7-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ト、トイレ……ええい、買ったァ!!",
+          "en": "T-toilets... ugh, fine, SOLD!!"
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ご契約、ありがとうございますッ!!",
+          "en": "Thank you for your business!!"
+        },
+        {
+          "id": "p7-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "今日だけで、三十件……",
+          "en": "Thirty deals today alone..."
+        },
+        {
+          "id": "p7-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……一体どうやって、契約を結んでるんだ……",
+          "en": "...How is he even closing these...?"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.5147,
+          0.019,
+          0.9832,
+          0.2471
+        ],
+        "2": [
+          0.0182,
+          0.019,
+          0.4867,
+          0.2471
+        ],
+        "3": [
+          0.7035,
+          0.2757,
+          0.9832,
+          0.5989
+        ],
+        "4": [
+          0.0182,
+          0.2757,
+          0.6755,
+          0.5989
+        ],
+        "5": [
+          0.6084,
+          0.6274,
+          0.9832,
+          0.9886
+        ],
+        "6": [
+          0.0182,
+          0.6274,
+          0.5804,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "庁舎じゅうに、企業名のプレートが並んだ。",
+          "en": "Company name plates went up all over City Hall."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "こ、こんなものまで……!?",
+          "en": "E-even on THIS...?!"
+        },
+        {
+          "id": "p8-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……でも実績、三十件……!",
+          "en": "...Still, thirty deals...!"
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "張り紙より、プレートのほうが多い……",
+          "en": "There are more plates than notices..."
+        },
+        {
+          "id": "p8-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……窓口の番号、どこ行った……?",
+          "en": "...Where'd the counter numbers go...?"
+        },
+        {
+          "id": "p8-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "発表会が、できる……!!",
+          "en": "We can hold our concert...!!"
+        },
+        {
+          "id": "p8-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "手数料も、ウハウハだァ!!",
+          "en": "And the fees are rolling in!!"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.0182,
+          0.019,
+          0.9832,
+          0.2662
+        ],
+        "2": [
+          0.5147,
+          0.3042,
+          0.9832,
+          0.5228
+        ],
+        "3": [
+          0.0182,
+          0.3042,
+          0.4867,
+          0.5228
+        ],
+        "4": [
+          0.0182,
+          0.5608,
+          0.9832,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "庁舎の中、もう売る場所がありません",
+          "en": "There's nowhere left to sell inside City Hall."
+        },
+        {
+          "id": "p9-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "なら外だ!! 歩道も広場も、ホールの座席も!!",
+          "en": "Then we go outside!! Sidewalks, plazas, the hall's seats!!"
+        },
+        {
+          "id": "p9-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "実績が増える……止める理由がない……!",
+          "en": "More results... no reason to stop him...!"
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "小僧、契約一本ごとに歩合をやる!!",
+          "en": "Kid, you get a commission on every contract!!"
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "それ、先に言ってくださいよ!!",
+          "en": "You should've said that first!!"
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "本社は隣町だが、名前が出るなら!!",
+          "en": "Our HQ's in the next town, but if my name's up there!!"
+        },
+        {
+          "id": "p9-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "本社がないのに「前」でいいんですか",
+          "en": "“Front” of what? Your office isn't here.",
+          "note": "Japanese bus stops are often named “(landmark)-mae” — “in front of (landmark)” — after whatever stands beside them."
+        },
+        {
+          "id": "p9-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "愛称だから、いいんだよ!!",
+          "en": "It's a nickname, so it's fine!!"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.0182,
+          0.019,
+          0.9832,
+          0.3042
+        ],
+        "2": [
+          0.5608,
+          0.3422,
+          0.9832,
+          0.5798
+        ],
+        "3": [
+          0.0182,
+          0.3422,
+          0.5329,
+          0.5798
+        ],
+        "4": [
+          0.0182,
+          0.6179,
+          0.9832,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "丸々製作所前で、人が倒れてます!!",
+          "en": "A man's collapsed at Marumaru Works Front!!"
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "その呼び名では、特定できません!!",
+          "en": "We can't locate a place by that name!!"
+        },
+        {
+          "id": "p10-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "住所は、分かりますか!?",
+          "en": "Do you know the address?!"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ここ、名前が四つある……!!",
+          "en": "This spot has FOUR names...!!",
+          "note": "The signs read “Midori Plaza,” “Kibo-no-Oka (Hope Hill)” and “Smile Terrace” — plus the new “Marumaru Works Front.”"
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "caption",
+          "ja": "救急車は、場所を探して回り続けた。",
+          "en": "The ambulance kept circling, searching for the spot."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.0182,
+          0.019,
+          0.9832,
+          0.2567
+        ],
+        "2": [
+          0.7776,
+          0.2757,
+          0.9832,
+          0.5608
+        ],
+        "3": [
+          0.0182,
+          0.2738,
+          0.7497,
+          0.5608
+        ],
+        "4": [
+          0.0182,
+          0.5989,
+          0.9832,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "倒れた方は、ご無事で……はい",
+          "en": "The man who collapsed is safe... yes."
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "企業名の愛称が……申し訳ございません",
+          "en": "The corporate nicknames... I am truly sorry."
+        },
+        {
+          "id": "p11-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "消防から、市に問い合わせが入った。",
+          "en": "The fire department called City Hall about it."
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ひ、一枚ずつ……!!",
+          "en": "O-one plate at a time...!!"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "源田さんの席にも、愛称を差し上げます",
+          "en": "Mr. Genda, your desk gets a nickname too.",
+          "note": "His old plate read “Genda Tetsu's Desk.” The new one reads “City Hall Volunteer Officer.”"
+        },
+        {
+          "id": "p11-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "手数料は、全額ご返金です",
+          "en": "Your fees will be refunded in full."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0114,
+          0.9818,
+          0.3137
+        ],
+        "2": [
+          0.5147,
+          0.3232,
+          0.9832,
+          0.5418
+        ],
+        "3": [
+          0.0182,
+          0.3232,
+          0.4867,
+          0.5418
+        ],
+        "4": [
+          0.0182,
+          0.5798,
+          0.9832,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "傘なしで、歌えます!!",
+          "en": "We can sing without umbrellas!!"
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "ひと月後。市民会館の雨漏りは直った。",
+          "en": "A month later. The civic hall's leak was fixed."
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "応募……ゼロ……",
+          "en": "Zero... entries..."
+        },
+        {
+          "id": "p12-2-2",
+          "panel": 2,
+          "type": "caption",
+          "ja": "ベンチの命名権だけが、正式な制度になった。",
+          "en": "Only bench naming rights became an official program."
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "応募しに来たぞ!!",
+          "en": "I'm here to apply!!"
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "名前はいらん。ここの住所を書いてくれ!!",
+          "en": "Forget a name. Just put this place's address on it!!"
+        },
+        {
+          "id": "p12-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "それ、ただの住所表示じゃねえかァァ!!",
+          "en": "That's just an address sign!!"
+        },
+        {
+          "id": "p12-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "救急車には、いちばん親切ですね",
+          "en": "Ambulances will love it."
+        }
+      ]
+    }
+  ]
+}

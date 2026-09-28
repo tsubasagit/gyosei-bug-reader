@@ -1,0 +1,1712 @@
+{
+  "episode": "6",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0423,
+          0.0114,
+          0.955,
+          0.3526
+        ],
+        "2": [
+          0.0423,
+          0.3905,
+          0.955,
+          0.6749
+        ],
+        "3": [
+          0.4233,
+          0.7128,
+          0.955,
+          0.9782
+        ],
+        "4": [
+          0.0423,
+          0.7128,
+          0.3968,
+          0.9782
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "テツさん、さっきから何やってるんですか",
+          "en": "Tetsu, what are you even doing over there?"
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "見ろ、このAIの使いこなしを!!",
+          "en": "Behold! A true master of AI!!"
+        },
+        {
+          "id": "p1-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "九月。梨ヶ坂市役所・地下。",
+          "en": "September. Nashigasaka City Hall, the basement."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "『本日の遅刻は、やむを得ぬ家庭の事情により』!!",
+          "en": "“Today's lateness: unavoidable family matters”!!"
+        },
+        {
+          "id": "p1-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "あんた独身でしょ!!",
+          "en": "You're SINGLE!!"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "3,812番か……",
+          "en": "Number 3,812, huh..."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ちょっと、聞いてる!? あんたも仕事中よ!",
+          "en": "Hey, are you listening?! You're on the clock too!"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.5119,
+          0.0114,
+          0.955,
+          0.2578
+        ],
+        "2": [
+          0.0423,
+          0.0114,
+          0.4854,
+          0.2578
+        ],
+        "3": [
+          0.0423,
+          0.2957,
+          0.955,
+          0.5327
+        ],
+        "4": [
+          0.6971,
+          0.5706,
+          0.955,
+          0.9782
+        ],
+        "5": [
+          0.4987,
+          0.5706,
+          0.6706,
+          0.9782
+        ],
+        "6": [
+          0.0423,
+          0.5706,
+          0.4722,
+          0.9782
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "AI利用料が予算の三倍。三割削れ、と",
+          "en": "AI fees: triple the budget. Cut 30%."
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "問い合わせの返事が遅い、と苦情も",
+          "en": "And complaints about slow replies."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "一位は……源田くんです",
+          "en": "The top user is... Genda."
+        },
+        {
+          "id": "p2-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "AI使って、仕事してるだけじゃないですか?",
+          "en": "I'm just using AI to do my job, aren't I?"
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "三割って、あんたのせいじゃない!!",
+          "en": "That 30% is YOUR fault!!"
+        },
+        {
+          "id": "p2-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "Jev使えばいいのに",
+          "en": "Should've just used Jev."
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ジェ……なんだそりゃ?",
+          "en": "J-... what the heck is that?"
+        },
+        {
+          "id": "p2-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "課長、知ってます?",
+          "en": "Chief, you know it?"
+        },
+        {
+          "id": "p2-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "私にも、分かりません",
+          "en": "I'm afraid I don't know either."
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.0423,
+          0.0114,
+          0.955,
+          0.2104
+        ],
+        "2": [
+          0.5556,
+          0.2483,
+          0.955,
+          0.4569
+        ],
+        "3": [
+          0.041,
+          0.2483,
+          0.5291,
+          0.4569
+        ],
+        "4": [
+          0.0423,
+          0.4948,
+          0.955,
+          0.7697
+        ],
+        "5": [
+          0.3783,
+          0.8076,
+          0.955,
+          0.9782
+        ],
+        "6": [
+          0.0423,
+          0.8076,
+          0.3519,
+          0.9782
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "今週SNSで話題のAIです",
+          "en": "The AI everyone's posting about this week."
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "知らないの!? よく聞きなさい!",
+          "en": "You don't know?! Listen up!"
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ChatGPTは『作文』が得意",
+          "en": "ChatGPT is great at “essays.”"
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "Jevは『マークシート』!",
+          "en": "Jev does “bubble sheets”!",
+          "note": "Japanese exams often use mark sheets: you just fill in a bubble. Jev likewise returns a choice, a score or a probability — never prose."
+        },
+        {
+          "id": "p3-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "文章書かねえって、それAIか!?",
+          "en": "It doesn't write? Is that even AI?!"
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "渡すのは二つ。状況と質問だけ!",
+          "en": "You give it two things: the situation and a question!"
+        },
+        {
+          "id": "p3-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "質問の型は、たった三つ!",
+          "en": "And there are only three types of question!"
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "答えが数字だけかよ!?",
+          "en": "The answer's just a NUMBER?!"
+        },
+        {
+          "id": "p3-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "だからプログラムがそのまま使えます",
+          "en": "So a program can use it right away."
+        },
+        {
+          "id": "p3-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "選ぶ、点数、はいの確率……",
+          "en": "Pick one, score, chance of yes..."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.5119,
+          0.0114,
+          0.955,
+          0.2009
+        ],
+        "2": [
+          0.0423,
+          0.0114,
+          0.4854,
+          0.2009
+        ],
+        "3": [
+          0.0423,
+          0.2389,
+          0.955,
+          0.4664
+        ],
+        "4": [
+          0.6614,
+          0.5043,
+          0.955,
+          0.7033
+        ],
+        "5": [
+          0.0423,
+          0.5043,
+          0.6138,
+          0.7033
+        ],
+        "6": [
+          0.0423,
+          0.7412,
+          0.955,
+          0.9782
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "要するに、ChatGPTの弟分だろ?",
+          "en": "So basically, ChatGPT's little brother?"
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "答えの出し方が、まるで違うの!",
+          "en": "It gets its answers a totally different way!"
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ChatGPTは、一文字ずつ順番に書く",
+          "en": "ChatGPT writes word by word, in order."
+        },
+        {
+          "id": "p4-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "Jevは、答えを一発で出す!",
+          "en": "Jev gives the answer in one shot!"
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "じっくり考える頭と、パッと答える勘の違いです",
+          "en": "Careful thinking versus a quick gut call."
+        },
+        {
+          "id": "p4-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "書かせた字数ほど高いのよ",
+          "en": "The more you make it write, the more it costs!"
+        },
+        {
+          "id": "p4-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "字数で、金かかってたのか!!",
+          "en": "I was paying by the WORD?!"
+        },
+        {
+          "id": "p4-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "どっちが上じゃない。得意が違うの!",
+          "en": "Neither one is better. They're good at different things!"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.5119,
+          0.0114,
+          0.955,
+          0.2009
+        ],
+        "2": [
+          0.0423,
+          0.0114,
+          0.4854,
+          0.2009
+        ],
+        "3": [
+          0.0423,
+          0.2389,
+          0.955,
+          0.4758
+        ],
+        "4": [
+          0.0423,
+          0.5137,
+          0.955,
+          0.7033
+        ],
+        "5": [
+          0.4669,
+          0.7412,
+          0.955,
+          0.9782
+        ],
+        "6": [
+          0.041,
+          0.7412,
+          0.4405,
+          0.9782
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "しかも答えに『自信の数字』つき!",
+          "en": "And every answer comes with a “confidence number”!"
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "0.5秒以下で、答えの分はタダです",
+          "en": "Under half a second, and the answers are free.",
+          "note": "At its September 2026 launch, Jev charged only for the input it reads; the answers it returns were free."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "降水確率と同じ。0.9なら10回に9回当たる!",
+          "en": "Like a chance of rain. 0.9 means right 9 times in 10!"
+        },
+        {
+          "id": "p5-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "高ければ機械、低ければ人が見る!",
+          "en": "High? The machine handles it. Low? A human checks!"
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ただし! 文章は書けない!",
+          "en": "BUT! It can't write!"
+        },
+        {
+          "id": "p5-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "要約も理由の説明も無理。間違えもする!",
+          "en": "No summaries, no explaining why. And it makes mistakes!"
+        },
+        {
+          "id": "p5-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "入ったら聞きます。『定時に終わる?』って",
+          "en": "Once I'm in, I'll ask it: “Will I get off on time?”"
+        },
+        {
+          "id": "p5-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "使い道がセコい!!",
+          "en": "What a petty use!!"
+        },
+        {
+          "id": "p5-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……タダ、だと?",
+          "en": "...Free, you say?"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.0423,
+          0.0114,
+          0.955,
+          0.2009
+        ],
+        "2": [
+          0.5225,
+          0.2351,
+          0.955,
+          0.4246
+        ],
+        "3": [
+          0.0423,
+          0.2351,
+          0.4749,
+          0.4246
+        ],
+        "4": [
+          0.0423,
+          0.4588,
+          0.955,
+          0.7052
+        ],
+        "5": [
+          0.5119,
+          0.7393,
+          0.9841,
+          0.9782
+        ],
+        "6": [
+          0.0159,
+          0.7393,
+          0.4854,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "なんでそんな判断だけするのに、お金取るんだ?",
+          "en": "If all it does is judge stuff, why charge money?"
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "いつも、反射神経だけで動いているから……",
+          "en": "Says the guy who runs on pure reflex..."
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ううう……",
+          "en": "Urrrgh..."
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "問い合わせて一週間。転入届、あと三日なんです",
+          "en": "I asked a week ago. My move-in notice is due in three days."
+        },
+        {
+          "id": "p6-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "回す先を決めるところで、何百件も止まってる!",
+          "en": "Hundreds stuck at “which desk?”!"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "2": [
+          0.0423,
+          0.2825,
+          0.955,
+          0.4986
+        ],
+        "3": [
+          0.0423,
+          0.5327,
+          0.955,
+          0.7033
+        ],
+        "4": [
+          0.4233,
+          0.7412,
+          0.955,
+          0.9782
+        ],
+        "5": [
+          0.0423,
+          0.7412,
+          0.3968,
+          0.9782
+        ],
+        "1": [
+          0.0423,
+          0.0114,
+          0.955,
+          0.2578
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……そうか",
+          "en": "...I see."
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "こういうのを、Jevで振り分けたら、楽になるのか?",
+          "en": "If Jev sorted stuff like this, would it all get easier?"
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "要るのは文章じゃねえ。回す先だけだ!!",
+          "en": "We don't need writing. Just where to send it!!"
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "小僧、そのJevを使わせろ!!",
+          "en": "Kid, let me use that Jev!!"
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "3,812番待ち。しかも英語が得意です",
+          "en": "I'm #3,812 on the waitlist. And it's best in English."
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "待てるか!! 日本語版は、おれが作る!!",
+          "en": "I can't wait that long!! I'll build a Japanese one myself!!"
+        },
+        {
+          "id": "p7-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "隣の市にも売れる!!",
+          "en": "I can sell it to the next city, too!!"
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "売上の一割で手伝います",
+          "en": "I'll help for 10% of sales."
+        },
+        {
+          "id": "p7-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "勝手に作るな!!",
+          "en": "You can't just go and build it!!"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.0423,
+          0.0114,
+          0.955,
+          0.2199
+        ],
+        "2": [
+          0.6508,
+          0.254,
+          0.9418,
+          0.472
+        ],
+        "3": [
+          0.3466,
+          0.254,
+          0.6376,
+          0.472
+        ],
+        "4": [
+          0.0423,
+          0.254,
+          0.3333,
+          0.472
+        ],
+        "6": [
+          0.0423,
+          0.7109,
+          0.955,
+          0.9763
+        ],
+        "5": [
+          0.0423,
+          0.5062,
+          0.955,
+          0.6768
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "小僧、今夜は泊まりだ!!",
+          "en": "Kid, we're pulling an all-nighter!!"
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "僕、十六です",
+          "en": "I'm sixteen."
+        },
+        {
+          "id": "p8-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "十八歳未満の深夜業は、法律で禁止!",
+          "en": "Late-night work under 18 is against the law!",
+          "note": "Same law as before: Japan's Labor Standards Act bars anyone under 18 from working between 10 p.m. and 5 a.m."
+        },
+        {
+          "id": "p8-1-4",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お疲れさまでした",
+          "en": "See you tomorrow."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "AIそのものを作るのは……げ、、、、できそうにない。",
+          "en": "Building an AI from scratch... ugh... not happening."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おっ、ネットで、無料で公開されているAIもあるのか。",
+          "en": "Oh? Some AIs are posted online for free?"
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ソフトなら、コピーするだけならタダだ……これを使わない手はない。",
+          "en": "Copying software costs nothing... I'd be a fool not to use it."
+        },
+        {
+          "id": "p8-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "AIは次の一文字を、確率で選んでるだけか",
+          "en": "So AI just picks the next word by probability."
+        },
+        {
+          "id": "p8-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "なら『は』の93％が、答えの自信そのものだ",
+          "en": "Then that 93% on “Yes” IS its confidence!"
+        },
+        {
+          "id": "p8-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "喋らせるから高えんだ。一文字目だけだ!!",
+          "en": "Talking is what costs. Just the first word!!"
+        },
+        {
+          "id": "p8-6-2",
+          "panel": 6,
+          "type": "caption",
+          "ja": "テツの悪知恵。AIに最後まで喋らせず、一文字目だけを出させる。『は』が出れば『はい』。それで答えは足りる。出力を絞った分、返事は速く、料金も安い。",
+          "en": "Tetsu's dirty trick: don't let the AI finish. Read only its first word — if it starts with “Yes,” the answer is yes. Less output means faster replies and a smaller bill."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.0423,
+          0.0114,
+          0.955,
+          0.2483
+        ],
+        "2": [
+          0.0423,
+          0.2825,
+          0.955,
+          0.4531
+        ],
+        "3": [
+          0.0423,
+          0.4872,
+          0.955,
+          0.7336
+        ],
+        "4": [
+          0.0423,
+          0.7678,
+          0.955,
+          0.9763
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "市役所でしか使わんなら、専用のデータベースは、簡単だ。",
+          "en": "If it's just for City Hall, a custom database is easy."
+        },
+        {
+          "id": "p9-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "答え付きのデータを、いくつも作ればいい。",
+          "en": "Just make tons of data with the answers attached."
+        },
+        {
+          "id": "p9-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "個人が分かるところは、全部塗りつぶす!!",
+          "en": "Anything that identifies a person gets blacked out!!"
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "また今夜も……",
+          "en": "Again tonight..."
+        },
+        {
+          "id": "p9-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "毎晩、遅くまで何やってるのよ……",
+          "en": "What is he doing so late every night..."
+        },
+        {
+          "id": "p9-2-3",
+          "panel": 2,
+          "type": "caption",
+          "ja": "――幾晩も。",
+          "en": "—Night after night."
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……please, tell me, how……",
+          "en": "...please, tell me, how..."
+        },
+        {
+          "id": "p9-3-2",
+          "panel": 3,
+          "type": "caption",
+          "ja": "レナやショータには、テツがなぜそこまで頑張れるのか分からなかった。",
+          "en": "Rena and Shota couldn't understand why Tetsu was pushing himself so hard."
+        },
+        {
+          "id": "p9-3-3",
+          "panel": 3,
+          "type": "caption",
+          "ja": "深夜、外国のAIコミュニティサイトに、片言の英語のまま質問を投げていたことなど。",
+          "en": "They never knew that, late at night, he was asking an overseas AI forum for help in broken English."
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "何でもできる頭はいらねえ。振り分け一本!!",
+          "en": "I don't need a brain that does everything. Sorting, period!!"
+        },
+        {
+          "id": "p9-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "――見つけた!!",
+          "en": "—Found it!!"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.0423,
+          0.0114,
+          0.955,
+          0.2578
+        ],
+        "2": [
+          0.5119,
+          0.2957,
+          0.955,
+          0.5043
+        ],
+        "3": [
+          0.0423,
+          0.2957,
+          0.4854,
+          0.5043
+        ],
+        "4": [
+          0.0423,
+          0.5422,
+          0.955,
+          0.9782
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "空き部屋……と、手つかずの予算……",
+          "en": "An empty room... and an untouched budget..."
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "予算の使い道は、議会が決めてる",
+          "en": "The council decides how the budget gets spent."
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "款どうし、項どうしは、原則動かせねえ!",
+          "en": "Can't move money between the big categories!",
+          "note": "Real rule: a Japanese city's budget is split by the council into “kan” and “kō” categories, and money can't be moved between them (Local Autonomy Act, Art. 220(2)). Smaller moves still need the city's formal procedure."
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "同じ枠の中なら、決裁で動かせる!!",
+          "en": "But inside one category, a sign-off can move it!!",
+          "note": "A “kessai” is a formal internal sign-off. Tetsu skips it."
+        },
+        {
+          "id": "p10-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "動かせるなら、おれが動かしていい!!",
+          "en": "If it CAN be moved, then I can move it!!"
+        },
+        {
+          "id": "p10-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "学習は夜だけ。電気代も目立たねえ!!",
+          "en": "Train only at night. Nobody notices the power bill!!"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.5119,
+          0.0114,
+          0.955,
+          0.2199
+        ],
+        "2": [
+          0.0423,
+          0.0114,
+          0.4854,
+          0.2199
+        ],
+        "3": [
+          0.0423,
+          0.2578,
+          0.955,
+          0.4758
+        ],
+        "4": [
+          0.4762,
+          0.5137,
+          0.955,
+          0.7033
+        ],
+        "5": [
+          0.0423,
+          0.5137,
+          0.4286,
+          0.7033
+        ],
+        "6": [
+          0.0423,
+          0.7412,
+          0.955,
+          0.9782
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "決裁? 後でいい!!",
+          "en": "Approval? Later!!"
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――翌朝。",
+          "en": "—The next morning."
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ここが、おれの研究所だ!!",
+          "en": "Behold, my laboratory!!"
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "その機械、どこのお金!?",
+          "en": "Whose money paid for those machines?!"
+        },
+        {
+          "id": "p11-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……余ってた枠だ",
+          "en": "...Some leftover budget."
+        },
+        {
+          "id": "p11-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "余ってた、ねえ……",
+          "en": "“Leftover,” huh..."
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "名前……住所……名前……住所……",
+          "en": "Name... address... name... address..."
+        },
+        {
+          "id": "p11-4-2",
+          "panel": 4,
+          "type": "caption",
+          "ja": "二日目。",
+          "en": "Day two."
+        },
+        {
+          "id": "p11-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "定時なので帰ります",
+          "en": "It's quitting time, so I'm off."
+        },
+        {
+          "id": "p11-5-2",
+          "panel": 5,
+          "type": "caption",
+          "ja": "三日目。",
+          "en": "Day three."
+        },
+        {
+          "id": "p11-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……学習、開始!!",
+          "en": "...Training, START!!"
+        },
+        {
+          "id": "p11-6-2",
+          "panel": 6,
+          "type": "caption",
+          "ja": "四日目の夜。",
+          "en": "Night four."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.0423,
+          0.0114,
+          0.955,
+          0.2294
+        ],
+        "2": [
+          0.4762,
+          0.2673,
+          0.955,
+          0.4664
+        ],
+        "3": [
+          0.0423,
+          0.2673,
+          0.4286,
+          0.4664
+        ],
+        "4": [
+          0.3704,
+          0.5043,
+          0.955,
+          0.7033
+        ],
+        "5": [
+          0.0423,
+          0.5043,
+          0.3228,
+          0.7033
+        ],
+        "6": [
+          0.0423,
+          0.7412,
+          0.955,
+          0.9782
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "書かせねえ。一文字目の確率だけ読む!!",
+          "en": "No writing. I only read the odds of the first word!!"
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "五日目。",
+          "en": "Day five."
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "自信0.99!!",
+          "en": "0.99 sure!!"
+        },
+        {
+          "id": "p12-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "選果場は農政課でしょ!!",
+          "en": "That goes to the FARM desk!!"
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "全部0.99。天気予報なら、毎日降水確率100%です",
+          "en": "All 0.99. Like a 100% rain forecast every day."
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "0.9と言ったら、9割当たるように合わせる!!",
+          "en": "When it says 0.9, I'll make it right 9 times in 10!!"
+        },
+        {
+          "id": "p12-4-2",
+          "panel": 4,
+          "type": "caption",
+          "ja": "六日目。",
+          "en": "Day six."
+        },
+        {
+          "id": "p12-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "それ、Jevが最初からやってることじゃない!",
+          "en": "Jev does that right out of the box!"
+        },
+        {
+          "id": "p12-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "理由は言わねえ。数字だけ出す。名づけて――",
+          "en": "No reasons. Just numbers. I call it—"
+        },
+        {
+          "id": "p12-6-2",
+          "panel": 6,
+          "type": "caption",
+          "ja": "七日目、夜明け。",
+          "en": "Day seven, dawn."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.4854,
+          0.0322,
+          0.9735,
+          0.2597
+        ],
+        "2": [
+          0.041,
+          0.0114,
+          0.4405,
+          0.3147
+        ],
+        "3": [
+          0.0423,
+          0.3526,
+          0.955,
+          0.4758
+        ],
+        "4": [
+          0.4233,
+          0.5137,
+          0.955,
+          0.7602
+        ],
+        "5": [
+          0.0423,
+          0.5137,
+          0.3968,
+          0.7602
+        ],
+        "6": [
+          0.0423,
+          0.7981,
+          0.955,
+          0.9782
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "見ろ!! おれのナシAIだ!!",
+          "en": "Behold!! My nasiAI!!"
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ほんとうに、動くんでしょうね……",
+          "en": "Are you SURE it actually works..."
+        },
+        {
+          "id": "p13-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "数字が出りゃ同じだ!!",
+          "en": "A number's a number!!"
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "振り分け、一件0.3秒です",
+          "en": "Sorting: 0.3 sec a case."
+        },
+        {
+          "id": "p13-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "利用料が……下がってる!!",
+          "en": "The AI fees... are dropping!!"
+        },
+        {
+          "id": "p13-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "返事が来た……間に合う!!",
+          "en": "They answered... I'll make it!!"
+        },
+        {
+          "id": "p13-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "さあ、隣の市に売り込むぞ!!",
+          "en": "Now, let's go pitch it to the next city!!"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.5119,
+          0.0114,
+          0.955,
+          0.2104
+        ],
+        "2": [
+          0.0423,
+          0.0114,
+          0.4854,
+          0.2104
+        ],
+        "3": [
+          0.5119,
+          0.2483,
+          0.955,
+          0.419
+        ],
+        "4": [
+          0.0423,
+          0.2483,
+          0.4854,
+          0.419
+        ],
+        "5": [
+          0.0423,
+          0.4569,
+          0.955,
+          0.7318
+        ],
+        "6": [
+          0.0423,
+          0.7697,
+          0.955,
+          0.9782
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "一件いくらで、うちも使えます?",
+          "en": "How much per case for us to use it too?"
+        },
+        {
+          "id": "p14-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "一件十円で!!",
+          "en": "Ten yen a case!!"
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "支出のチェックにも、ナシAIを使います",
+          "en": "We'll use nasiAI to check spending, too."
+        },
+        {
+          "id": "p14-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ざ、財政課が……!?",
+          "en": "F-Finance?!"
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "この実績があれば、本庁に戻れる……",
+          "en": "With results like this, I could go back to the main building..."
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "歩合、まだ上がりますね",
+          "en": "My commission keeps going up."
+        },
+        {
+          "id": "p14-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "財政課さえ通りゃ、こっちのもんだ!!",
+          "en": "Once I'm past Finance, I'm home free!!"
+        },
+        {
+          "id": "p14-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "目盛りは作ったやつが合わせるもんだ!!",
+          "en": "Whoever builds the gauge gets to set it!!"
+        },
+        {
+          "id": "p14-5-3",
+          "panel": 5,
+          "type": "caption",
+          "ja": "――その夜。",
+          "en": "—That night."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.4669,
+          0.0114,
+          0.955,
+          0.2199
+        ],
+        "2": [
+          0.041,
+          0.0114,
+          0.4405,
+          0.2199
+        ],
+        "3": [
+          0.0423,
+          0.2578,
+          0.955,
+          0.7507
+        ],
+        "4": [
+          0.0423,
+          0.7886,
+          0.955,
+          0.9782
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "旧サーバー室の支出、適正0.99です",
+          "en": "Old server room spending: proper, 0.99."
+        },
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "よっしゃァ!!",
+          "en": "YESSS!!"
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "全庁の案件が、全部ウチに!?",
+          "en": "Every case in City Hall is coming to US?!"
+        },
+        {
+          "id": "p15-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "自信が一番高い課に回る仕組みです",
+          "en": "Cases go to whichever division scores highest."
+        },
+        {
+          "id": "p15-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "なぜか全部、ウチが一番です",
+          "en": "Somehow, we're #1 every time."
+        },
+        {
+          "id": "p15-3-4",
+          "panel": 3,
+          "type": "speech",
+          "ja": "た、助け……",
+          "en": "H-help..."
+        },
+        {
+          "id": "p15-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "期限、明日なんです……",
+          "en": "The deadline's tomorrow..."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.0423,
+          0.0114,
+          0.955,
+          0.2199
+        ],
+        "2": [
+          0.0423,
+          0.2578,
+          0.955,
+          0.419
+        ],
+        "3": [
+          0.0423,
+          0.4569,
+          0.955,
+          0.7033
+        ],
+        "4": [
+          0.6548,
+          0.7412,
+          0.955,
+          0.9782
+        ],
+        "5": [
+          0.4563,
+          0.7412,
+          0.6283,
+          0.9782
+        ],
+        "6": [
+          0.0423,
+          0.7412,
+          0.4299,
+          0.9782
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "はいの確率、で聞く……",
+          "en": "Ask for... the chance of yes..."
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "源田くん……信じていましたよ",
+          "en": "Genda... I believed in you."
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "同じ質問、Jevにかけてみます",
+          "en": "I'll run the same question through Jev."
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "数字が……違う!?",
+          "en": "The numbers... don't match?!"
+        },
+        {
+          "id": "p16-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "どっちも理由は言わない……中を見るしかない!!",
+          "en": "Neither one gives reasons... We have to look inside!!"
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "なによ、この『＋0.3』!!",
+          "en": "What is this “+0.3”?!"
+        },
+        {
+          "id": "p16-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "源田さん",
+          "en": "Mr. Genda.",
+          "note": "Once again the boss switches from “Genda-kun” to “Genda-san.” When he gets polite, it's over."
+        },
+        {
+          "id": "p16-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "辞令です。ナシAI照合係を命じます",
+          "en": "New post: nasiAI checker."
+        },
+        {
+          "id": "p16-6-3",
+          "panel": 6,
+          "type": "speech",
+          "ja": "予算の件は、財政課へ一緒に参りましょう",
+          "en": "The budget? To Finance, together."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.0423,
+          0.0114,
+          0.955,
+          0.2199
+        ],
+        "2": [
+          0.5119,
+          0.2578,
+          0.955,
+          0.4379
+        ],
+        "3": [
+          0.0423,
+          0.2578,
+          0.4854,
+          0.4379
+        ],
+        "4": [
+          0.0423,
+          0.4758,
+          0.955,
+          0.6654
+        ],
+        "5": [
+          0.0423,
+          0.7033,
+          0.955,
+          0.9782
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "間に合いました!!",
+          "en": "I made it in time!!"
+        },
+        {
+          "id": "p17-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "翌週。AI利用料は三割減った。",
+          "en": "The next week, AI fees were down 30%."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "質問を英語にしたら、本家で足りました",
+          "en": "We asked in English, and the real Jev was all we needed."
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "本家に、全部持ってかれた……",
+          "en": "The real one took it all..."
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "おれの夏、返せェェ!!",
+          "en": "Give me back my summer!!"
+        },
+        {
+          "id": "p17-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "小僧、照合手伝え!!",
+          "en": "Kid, help me cross-check!!"
+        },
+        {
+          "id": "p17-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "『テツさんの照合、定時に終わる?』",
+          "en": "“Will Tetsu's checks end on time?”"
+        },
+        {
+          "id": "p17-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "『いいえ 0.98』。帰ります",
+          "en": "“No, 0.98.” I'm going home."
+        }
+      ]
+    }
+  ]
+}

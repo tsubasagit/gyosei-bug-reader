@@ -483,7 +483,8 @@
           1508,
           2148
         ]
-      }
+      },
+      "pagesEn": true
     },
     {
       "id": "6",
@@ -598,7 +599,8 @@
           1552,
           2170
         ]
-      }
+      },
+      "pagesEn": true
     },
     {
       "id": "7",
@@ -680,7 +682,11 @@
           1508,
           2148
         ]
-      }
+      },
+      "pagesEn": true,
+      "title_en": "These Stairs Are for Sale",
+      "subtitle_en": "Naming Rights",
+      "summary_en": "The civic hall's roof leaks so badly that the choir sings under umbrellas, and there's no money to fix it. When Tetsu learns about naming rights, he sets out to sell names for everything that doesn't have one — stairs, toilets, benches, the lot."
     }
   ]
 }

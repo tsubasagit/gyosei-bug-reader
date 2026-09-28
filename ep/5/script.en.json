@@ -1,0 +1,1699 @@
+{
+  "episode": "5",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3563
+        ],
+        "2": [
+          0.4664,
+          0.3946,
+          0.9832,
+          0.6533
+        ],
+        "3": [
+          0.0168,
+          0.3946,
+          0.4384,
+          0.6533
+        ],
+        "4": [
+          0.5896,
+          0.6916,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6916,
+          0.5616,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "勤務中にコタツで寝るなァ!!",
+          "en": "No napping in a kotatsu on the job!!"
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "地下は冷えるんだよォ〜",
+          "en": "The basement's freezing~"
+        },
+        {
+          "id": "p1-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "二月。確定申告の季節。梨ヶ坂市役所・地下。",
+          "en": "February. Tax season. Nashigasaka City Hall, the basement."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "おれのコタツ〜!!",
+          "en": "My kotatsu~!!"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "上は二百人待ち。青色の農家さんが泣いてます",
+          "en": "200 waiting upstairs. The blue-return farmers are in tears.",
+          "note": "A “blue return” (aoiro shinkoku) is Japan's bookkeeping-based tax return for sole proprietors and farmers. Keep proper books and you get a special deduction."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "公務員は年末調整。おれには関係ねえ!!",
+          "en": "Civil servants get year-end adjustment. Not my problem!!",
+          "note": "Year-end adjustment: for salaried workers, the employer settles the year's income tax, so most never file a return themselves."
+        },
+        {
+          "id": "p1-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "二月は、盆栽も剪定の季節ですねえ",
+          "en": "February is pruning season for bonsai, too."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3276
+        ],
+        "2": [
+          0.514,
+          0.3659,
+          0.9832,
+          0.6149
+        ],
+        "3": [
+          0.0168,
+          0.3659,
+          0.486,
+          0.6149
+        ],
+        "4": [
+          0.6078,
+          0.6533,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6533,
+          0.5798,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "特務トレンド係から、申告会場に応援を一名!!",
+          "en": "The Special Trends Unit sends one helper to the tax desk!!"
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "い、いまは係も手一杯で……",
+          "en": "W-well, the unit is rather swamped right now..."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "二百人待ちだぞ!! 上は手が足りん!!",
+          "en": "Two hundred are waiting!! We're short-handed up there!!"
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……承知いたしました",
+          "en": "... Understood, sir."
+        },
+        {
+          "id": "p2-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "源田くん。コタツから出て、上へ",
+          "en": "Genda. Out of the kotatsu. Upstairs."
+        },
+        {
+          "id": "p2-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "なんでおれェェ!?",
+          "en": "Why MEEE!?"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3276
+        ],
+        "2": [
+          0.514,
+          0.3659,
+          0.9832,
+          0.6054
+        ],
+        "3": [
+          0.0168,
+          0.3659,
+          0.486,
+          0.6054
+        ],
+        "4": [
+          0.5602,
+          0.6437,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6437,
+          0.5322,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "番号札配り……地獄だ……",
+          "en": "Handing out number tickets... this is hell..."
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "上の階。申告相談会場。",
+          "en": "Upstairs: the tax help desk."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "青色申告の方は、税務署へお願いします",
+          "en": "Blue returns go to the tax office, please."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "税務署は、隣の市じゃないか……",
+          "en": "But the tax office is in the next city..."
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "直売所のばあちゃん!?",
+          "en": "Granny from the farm stand!?"
+        },
+        {
+          "id": "p3-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "いつも試食だけ食べてく人!!",
+          "en": "The one who only eats the free samples!!"
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "案内する口実で、応援を抜けられる!!",
+          "en": "Show her the way, and I ditch helper duty!!"
+        },
+        {
+          "id": "p3-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ばあちゃん、地下にデジタルの係がある!!",
+          "en": "Granny, there's a digital unit in the basement!!"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.514,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.486,
+          0.251
+        ],
+        "3": [
+          0.0168,
+          0.2893,
+          0.9832,
+          0.6533
+        ],
+        "4": [
+          0.0168,
+          0.6916,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "重っ!! 何が入ってんだ!?",
+          "en": "Heavy!! What's in this thing!?"
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "テツ!! 応援はどうしたの!?",
+          "en": "Tetsu!! What happened to helping upstairs!?"
+        },
+        {
+          "id": "p4-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "市民の案内だ!!",
+          "en": "I'm guiding a citizen!!"
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "梨農家のキヨだよ。四十年分の帳簿さ",
+          "en": "I'm Kiyo, pear farmer. Forty years of ledgers."
+        },
+        {
+          "id": "p4-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "複式簿記を、手書きで四十年……!?",
+          "en": "Double-entry, by hand, for forty years...!?"
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "じいさんと二人で、つけてきたんだ",
+          "en": "Grandpa and I kept 'em together."
+        },
+        {
+          "id": "p4-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "死んで三年。帳簿だけは続けてる",
+          "en": "He's been gone three years. I still keep the books."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.6457,
+          0.0115,
+          0.9832,
+          0.2605
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.6176,
+          0.2605
+        ],
+        "3": [
+          0.0168,
+          0.2989,
+          0.9832,
+          0.5575
+        ],
+        "4": [
+          0.4664,
+          0.5958,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.5958,
+          0.4384,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "来年から紙だと、十万しか引けないって……",
+          "en": "They say from next year, paper only gets 100,000 off..."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "いまは紙でも55万。来年から紙は10万!!",
+          "en": "Paper gets 550,000 now. From next year, just 100,000!!",
+          "note": "Real change: from tax year 2027, the blue-return deduction for paper filers drops from 550,000 yen to 100,000. Filing by e-Tax keeps 650,000 (750,000 with qualifying electronic books)."
+        },
+        {
+          "id": "p5-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "e-Taxで出せば、65万よ!!",
+          "en": "File by e-Tax and it's 650,000!!"
+        },
+        {
+          "id": "p5-2-3",
+          "panel": 2,
+          "type": "caption",
+          "ja": "来年の申告（2027年分）から",
+          "en": "From next year's return (tax year 2027)"
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "差は45万!! 税金だけで年に七万近く!!",
+          "en": "That's 450,000!! Nearly 70,000 a year in tax alone!!"
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "今年e-Taxにすれば、＋10万です",
+          "en": "Switch to e-Tax this year: +100,000."
+        },
+        {
+          "id": "p5-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "来年からは、紙のままだと−45万",
+          "en": "Stay on paper from next year: -450,000."
+        },
+        {
+          "id": "p5-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "梨の箱で、十五箱ぶんかい……",
+          "en": "That's fifteen boxes of pears..."
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.4664,
+          0.0115,
+          0.9832,
+          0.2605
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.4384,
+          0.2605
+        ],
+        "3": [
+          0.5602,
+          0.2989,
+          0.9832,
+          0.5479
+        ],
+        "4": [
+          0.0168,
+          0.2989,
+          0.5322,
+          0.5479
+        ],
+        "5": [
+          0.0168,
+          0.5862,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "カードとスマホで、家から出せます!!",
+          "en": "With your card and a phone, you can file from home!!",
+          "note": "“Card” = the My Number card, Japan's ID card, which doubles as your digital signature for e-Tax."
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "電話は、これだけさ",
+          "en": "This is the only phone I've got."
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……アプリが、入らない!!",
+          "en": "...The app won't install!!"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "なら、税務署の会場へ!!",
+          "en": "Then the tax office's filing venue!!"
+        },
+        {
+          "id": "p6-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "バスは一日三本。坂を下りて一時間",
+          "en": "Three buses a day. An hour down the hill."
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "税理士さんに頼むとか……",
+          "en": "Maybe ask a tax accountant..."
+        },
+        {
+          "id": "p6-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "税理士さんなんて、高くて頼めないよ",
+          "en": "Tax accountants? Too pricey for me."
+        },
+        {
+          "id": "p6-5-3",
+          "panel": 5,
+          "type": "speech",
+          "ja": "正しいことを言っても、届かない……!!",
+          "en": "Being right just isn't reaching her...!!"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.5602,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.5322,
+          0.251
+        ],
+        "3": [
+          0.0168,
+          0.2893,
+          0.9832,
+          0.6149
+        ],
+        "4": [
+          0.514,
+          0.6533,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6533,
+          0.486,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "梨の仲間も、みんな紙なんだよ……",
+          "en": "My pear-farmer friends all file on paper too..."
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "みんな……紙……!?",
+          "en": "All of them... paper...!?"
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "e-Tax代行で、ひと山当てるぜェェ!!",
+          "en": "An e-Tax filing service! I'm gonna strike it RICH!!"
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "入力は、一件いくらの歩合で？",
+          "en": "My commission per entry?"
+        },
+        {
+          "id": "p7-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "五百円だ!!",
+          "en": "500 yen!!"
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "乗ります",
+          "en": "I'm in."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.514,
+          0.0115,
+          0.9832,
+          0.2605
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.486,
+          0.2605
+        ],
+        "3": [
+          0.0168,
+          0.2989,
+          0.9832,
+          0.5862
+        ],
+        "4": [
+          0.5602,
+          0.6245,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6245,
+          0.5322,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "公務員が市民からお金を取るなァ!!",
+          "en": "Civil servants don't take money from citizens!!"
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……でも電子申告率が上がれば、本庁に……",
+          "en": "...But if the e-filing rate goes up, the main building..."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ばあちゃん、おれに任せな!!",
+          "en": "Granny, leave it to me!!"
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "今年は10万、来年は45万、守ってやらァ!!",
+          "en": "100,000 this year, 450,000 next - I'll protect it!!"
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "あんた、試食だけの人じゃなかったんだねえ",
+          "en": "You're not just the free-sample guy after all."
+        },
+        {
+          "id": "p8-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "顔と背中で、別人ですね",
+          "en": "Front and back, he's two different people."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.2797
+        ],
+        "2": [
+          0.6737,
+          0.318,
+          0.9832,
+          0.5862
+        ],
+        "3": [
+          0.3445,
+          0.318,
+          0.6457,
+          0.5862
+        ],
+        "4": [
+          0.0168,
+          0.318,
+          0.3165,
+          0.5862
+        ],
+        "5": [
+          0.4664,
+          0.6245,
+          0.9832,
+          0.9885
+        ],
+        "6": [
+          0.0168,
+          0.6245,
+          0.4384,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "借方!! 貸方!! 左右は必ず同じ金額!!",
+          "en": "Debit!! Credit!! Both sides always match!!"
+        },
+        {
+          "id": "p9-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――その夜。",
+          "en": "—That night."
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "優良な電子帳簿……金ピカか!?",
+          "en": "\"Superior\" electronic books... solid gold!?",
+          "note": "Real term: “yūryō denshi chōbo” (superior electronic books) are digital books that keep a record of every correction and can be searched by date, amount and client. Nothing to do with gold."
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "訂正や削除の跡が、残る帳簿だ!!",
+          "en": "Books that keep a trail of every fix and deletion!!"
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "日付・金額・取引先で探せる!!",
+          "en": "Searchable by date, amount and client!!"
+        },
+        {
+          "id": "p9-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "e-Taxは、本人のカードと暗証番号で送る!!",
+          "en": "e-Tax gets sent with your OWN card and PIN!!"
+        },
+        {
+          "id": "p9-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……見えてきたぜ……!!",
+          "en": "...I'm starting to see it...!!"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3755
+        ],
+        "2": [
+          0.514,
+          0.4138,
+          0.9832,
+          0.6245
+        ],
+        "3": [
+          0.0168,
+          0.4138,
+          0.486,
+          0.6245
+        ],
+        "4": [
+          0.0168,
+          0.6628,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "――見えたァ!! 来年から、紙は十万!!",
+          "en": "—I SEE IT!! From next year, paper gets 100,000!!"
+        },
+        {
+          "id": "p10-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "e-Taxで65万、電子帳簿も優良なら75万!!",
+          "en": "e-Tax gets 650,000. With superior e-books, 750,000!!"
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "税理士にしかできねえ仕事ってのは……",
+          "en": "The work only a tax accountant can do..."
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "帳簿付けの代行は、税理士じゃなくてもできる!!",
+          "en": "Keeping books for others doesn't need a tax accountant!!",
+          "note": "Real rule: bookkeeping for others is open to anyone. Preparing someone else's tax return is not."
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "申告書なんざ、帳簿の数字を写すだけ!!",
+          "en": "A tax return just copies numbers from the books!!"
+        },
+        {
+          "id": "p10-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "帳簿の続きだ!! 全部おれにできる!!",
+          "en": "It's the books, continued!! I can do it ALL!!"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.318
+        ],
+        "2": [
+          0.514,
+          0.3563,
+          0.9832,
+          0.6149
+        ],
+        "3": [
+          0.0168,
+          0.3563,
+          0.486,
+          0.6149
+        ],
+        "4": [
+          0.5602,
+          0.6533,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6533,
+          0.5322,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "いまは剪定の季節でねえ",
+          "en": "It's pruning season right now."
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "テツさん、二月にビーチサンダルですか",
+          "en": "Tetsu, beach sandals in February?"
+        },
+        {
+          "id": "p11-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "放課後。冬の梨畑。",
+          "en": "After school. A pear orchard in winter."
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "寒くねえ!! 金の匂いで温まってる!!",
+          "en": "Not cold!! The smell of money keeps me warm!!"
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "一件五百円……一件五百円……!!",
+          "en": "500 yen a case... 500 yen a case...!!"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "肥料、農薬、段ボール……じいさん細けえな!!",
+          "en": "Fertilizer, pesticide, cardboard... fussy old man!!"
+        },
+        {
+          "id": "p11-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……ん？",
+          "en": "...Hm?"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3755
+        ],
+        "2": [
+          0.514,
+          0.4138,
+          0.9832,
+          0.6628
+        ],
+        "3": [
+          0.0168,
+          0.4138,
+          0.486,
+          0.6628
+        ],
+        "4": [
+          0.0168,
+          0.7011,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "じいさん……こんなとこに……",
+          "en": "Grandpa... here, of all places...",
+          "note": "The pencil note in the ledger reads: “Kiyo — please keep next year's books too.”"
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ち、ちくしょう、目にゴミが……!!",
+          "en": "D-dammit, something's in my eye...!!"
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "じいさんの字が、画面に並んでる……",
+          "en": "Grandpa's handwriting, there on the screen..."
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "泣きながら請求書を書かないでください",
+          "en": "Please don't write invoices while crying."
+        },
+        {
+          "id": "p12-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "それとこれとは別だ!!",
+          "en": "That's a separate matter!!"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.2989
+        ],
+        "2": [
+          0.514,
+          0.3372,
+          0.9832,
+          0.5862
+        ],
+        "3": [
+          0.0168,
+          0.3372,
+          0.486,
+          0.5862
+        ],
+        "4": [
+          0.514,
+          0.6245,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6245,
+          0.486,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "うちの帳簿も頼む!!",
+          "en": "Do our books too!!"
+        },
+        {
+          "id": "p13-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "毎度ありィィ!!",
+          "en": "Much obliiiged!!"
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "テツさん、公務員の副業って……",
+          "en": "Tetsu, civil servants with side jobs..."
+        },
+        {
+          "id": "p13-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "バレなきゃ仕様だ!!",
+          "en": "If nobody finds out, it's a feature!!"
+        },
+        {
+          "id": "p13-2-3",
+          "panel": 2,
+          "type": "caption",
+          "ja": "一週間で、依頼は三十軒。",
+          "en": "In one week: thirty clients."
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "梨ジュースでも、受け付けまァす!!",
+          "en": "Pear juice accepted as payment!!"
+        },
+        {
+          "id": "p13-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ついでに、申告書も作ってくれんかね",
+          "en": "Could you do our tax returns while you're at it?"
+        },
+        {
+          "id": "p13-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "申告書……帳簿の、続きだ……!!",
+          "en": "Tax returns ... just the books, continued ...!!"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.2989
+        ],
+        "2": [
+          0.5602,
+          0.3372,
+          0.9832,
+          0.5766
+        ],
+        "3": [
+          0.0168,
+          0.3372,
+          0.5322,
+          0.5766
+        ],
+        "4": [
+          0.6078,
+          0.6149,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6149,
+          0.5798,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "帳簿の続きで、申告書も作ってやらァ!!",
+          "en": "The books continue - I'll do your tax returns too!!"
+        },
+        {
+          "id": "p14-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "おまかせで、全員65万だ!!",
+          "en": "Full service! 650,000 for EVERYONE!!"
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "3万!? しかも保証って、さすがに……",
+          "en": "30,000 yen!? And a guarantee? That's going too far..."
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "赤嶺、この数字が本庁に届くんだぜ",
+          "en": "Akamine, these numbers go straight to the main building."
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……本庁……",
+          "en": "... The main building ..."
+        },
+        {
+          "id": "p14-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "それ、本当に帳簿の続きですか？",
+          "en": "Is that really just the books, continued?"
+        },
+        {
+          "id": "p14-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "数字を写すだけだ!!",
+          "en": "It's just copying numbers!!"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.6373,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.2815,
+          0.0115,
+          0.6092,
+          0.251
+        ],
+        "3": [
+          0.0168,
+          0.0115,
+          0.2535,
+          0.251
+        ],
+        "4": [
+          0.0168,
+          0.2893,
+          0.9832,
+          0.6245
+        ],
+        "5": [
+          0.5602,
+          0.6628,
+          0.9832,
+          0.9885
+        ],
+        "6": [
+          0.0168,
+          0.6628,
+          0.5322,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "小僧、今夜は徹夜で入力だ!!",
+          "en": "Kid, we're doing data entry all night!!"
+        },
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "18歳未満の深夜労働は禁止!! 労基法61条!!",
+          "en": "No late-night work for under-18s!! Labor Standards Act, Art. 61!!"
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "今週は、みなさん熱心ですねえ",
+          "en": "Everyone's so diligent this week."
+        },
+        {
+          "id": "p15-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "土曜は梨ヶ坂じゅうの申告を、おれが出す!!",
+          "en": "Saturday, I file for the WHOLE town!!"
+        },
+        {
+          "id": "p15-5-1",
+          "panel": 5,
+          "type": "caption",
+          "ja": "――隣のポスターに、誰も気づかなかった。",
+          "en": "—Nobody noticed the poster right next to it."
+        },
+        {
+          "id": "p15-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "じいさん、土曜に出してもらうからね",
+          "en": "Grandpa, they'll file for us on Saturday."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.318
+        ],
+        "2": [
+          0.514,
+          0.3563,
+          0.9832,
+          0.6054
+        ],
+        "3": [
+          0.0168,
+          0.3563,
+          0.486,
+          0.6054
+        ],
+        "4": [
+          0.5602,
+          0.6437,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6437,
+          0.5322,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "さあ、どんどん送るぞォ!!",
+          "en": "Alright, let's send 'em all!!"
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "土曜日。梨ヶ坂公民館。",
+          "en": "Saturday. Nashigasaka Community Center."
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "暗証番号は、ご自分で!! 見てませんから!!",
+          "en": "Enter your PIN yourself!! I'm not looking!!"
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "そこだけは、ちゃんとしてるんですね",
+          "en": "So that part, you do properly."
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……代わりに、作ります？",
+          "en": "...Preparing them on their behalf?",
+          "note": "She's reading Tetsu's banner: “Tax returns — we'll prepare them for you.”"
+        },
+        {
+          "id": "p16-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "次は、あたしの番だね",
+          "en": "My turn next."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3755
+        ],
+        "2": [
+          0.5602,
+          0.4138,
+          0.9832,
+          0.6533
+        ],
+        "3": [
+          0.0168,
+          0.4138,
+          0.5322,
+          0.6533
+        ],
+        "4": [
+          0.514,
+          0.6916,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6916,
+          0.486,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "税理士でない方が、他人の申告書を作るのは……",
+          "en": "If you're not a tax accountant, preparing other people's returns..."
+        },
+        {
+          "id": "p17-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "タダでもダメです!! 税理士法52条!!",
+          "en": "Illegal, even for free!! Tax Accountant Act, Art. 52!!",
+          "note": "Real law: in Japan, preparing tax returns or giving tax advice for others is reserved for licensed tax accountants (zeirishi), paid or not."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ちょ、帳簿の続きじゃ……",
+          "en": "B-but it's just the books, continued..."
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "帳簿付けは誰でもできます。申告書は、別です",
+          "en": "Anyone can keep books. Tax returns are different."
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "それに、この簡単な帳簿では",
+          "en": "Besides, with simple books like these,"
+        },
+        {
+          "id": "p17-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "e-Taxでも65万には、なりません",
+          "en": "even e-Tax won't get you 650,000.",
+          "note": "The 650,000 and 750,000 deductions require double-entry bookkeeping. With simple books, it's 100,000 even on e-Tax."
+        },
+        {
+          "id": "p17-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ほ、保証がァァ!!",
+          "en": "M-my guarantee!!"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.4138
+        ],
+        "2": [
+          0.514,
+          0.4521,
+          0.9832,
+          0.6916
+        ],
+        "3": [
+          0.0168,
+          0.4521,
+          0.486,
+          0.6916
+        ],
+        "4": [
+          0.0168,
+          0.7299,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "タダ!? あっちは無料なのかい!?",
+          "en": "Free!? That one's FREE!?"
+        },
+        {
+          "id": "p18-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ま、待ってくれェェ!!",
+          "en": "W-wait for meeee!!"
+        },
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "わ、私の実績がァァ!!",
+          "en": "M-my record!!"
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "あたしの申告、ダメになるのかい……",
+          "en": "Is my tax return ruined now..."
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "僕の歩合も、流れていきました",
+          "en": "My commission floated away too."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.5896,
+          0.0115,
+          0.9832,
+          0.2414
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.5616,
+          0.2414
+        ],
+        "3": [
+          0.7577,
+          0.2797,
+          0.9832,
+          0.5192
+        ],
+        "4": [
+          0.0168,
+          0.2797,
+          0.7297,
+          0.5192
+        ],
+        "5": [
+          0.0168,
+          0.5575,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "当市の職員が、申告書を……三万円で……",
+          "en": "One of our staff... prepared returns... for 30,000 yen..."
+        },
+        {
+          "id": "p19-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "税理士会から、市役所に丁寧な電話が入った。",
+          "en": "The tax accountants' association made a very polite call to City Hall."
+        },
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "大変、申し訳ございません",
+          "en": "We are deeply, deeply sorry."
+        },
+        {
+          "id": "p19-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "送信の前で、よかったです",
+          "en": "Good thing nothing was sent yet."
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "源田さん。",
+          "en": "Mr. Genda."
+        },
+        {
+          "id": "p19-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "「さん」に、なった……!!",
+          "en": "He called me \"Mister\"...!!"
+        },
+        {
+          "id": "p19-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "三月十五日まで毎日、ご案内をお願いします",
+          "en": "Please guide visitors here every day until March 15.",
+          "note": "The sign reads: “Tax returns: see a tax accountant. Free consultations this way →”"
+        },
+        {
+          "id": "p19-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "お代と梨ジュースは、全額お返しに",
+          "en": "Refund every fee and every bottle of pear juice."
+        },
+        {
+          "id": "p19-5-3",
+          "panel": 5,
+          "type": "speech",
+          "ja": "公務員の副業は、許可が要ります",
+          "en": "Civil servants need permission for side jobs.",
+          "note": "Real law: Japan's Local Public Service Act requires permission before a civil servant takes paid side work."
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.2797
+        ],
+        "2": [
+          0.514,
+          0.318,
+          0.9832,
+          0.5575
+        ],
+        "3": [
+          0.0168,
+          0.318,
+          0.486,
+          0.5575
+        ],
+        "4": [
+          0.0168,
+          0.5958,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "無料相談は、こちらァァ!!",
+          "en": "Free consultations, THIS WAAAY!!"
+        },
+        {
+          "id": "p20-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "来年もこの公民館で、相談会を!!",
+          "en": "Let's hold the clinic here again next year!!"
+        },
+        {
+          "id": "p20-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "三月。梨ヶ坂公民館。",
+          "en": "March. The community center."
+        },
+        {
+          "id": "p20-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "押したら、出たよォ!!",
+          "en": "I pushed it, and off it went!!"
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "じいさん、今年の帳簿も出したよ",
+          "en": "Grandpa, I filed this year's books too."
+        },
+        {
+          "id": "p20-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "来年も案内を。もちろん、無償で",
+          "en": "Guide again next year, please. Unpaid, of course."
+        },
+        {
+          "id": "p20-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "タダ働きかよォォ!!",
+          "en": "Working for FREE!?"
+        },
+        {
+          "id": "p20-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "紙だと十万。テツさんは、ゼロですね",
+          "en": "On paper, a hundred thousand. Tetsu gets zero."
+        }
+      ]
+    }
+  ]
+}
