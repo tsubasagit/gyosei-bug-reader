@@ -1,10 +1,10 @@
 {
   "_説明": "再訪の仕掛けの設定。次回予告と、新しい話のお知らせ先（X）。日付は空でもよい（空なら「近日公開」と出す）。英語表示用の題名は title_en",
   "next": {
-    "number": 7,
-    "title": "その階段、売ります",
-    "date": "2026-09-28",
-    "title_en": "These Stairs Are for Sale"
+    "number": 11,
+    "title": "昼メシ戦線",
+    "date": "2026-10-05",
+    "title_en": "The Lunch Front"
   },
   "x": {
     "url": "https://x.com/tsubasatwi",

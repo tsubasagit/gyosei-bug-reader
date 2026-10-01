@@ -1040,6 +1040,144 @@
           2148
         ]
       }
+    },
+    {
+      "id": "10",
+      "number": 10,
+      "title": "ちかん冤罪",
+      "subtitle": "すべて置換（リプレイス・オール）",
+      "summary": "十一月の梨ヶ坂。八十二歳の町内会長・梨田さんが、手書きの回覧板を抱えて地下の係室へ降りてくる。字が震えて書けない、回覧板は途中で止まる――。「百二十の町内会の回覧、ぜんぶおれが作る!!」テツが「すべて置換」で一晩百二十枚の量産に乗り出す。",
+      "published": "2026-10-01",
+      "tags": [
+        "回覧板",
+        "町内会",
+        "すべて置換",
+        "Word",
+        "名誉毀損",
+        "電子回覧板"
+      ],
+      "title_en": "Wrongly Accused",
+      "subtitle_en": "Replace All",
+      "summary_en": "November in Nashigasaka. Mr. Nashida, the 82-year-old head of a neighborhood association, brings his handwritten circular down to the basement: his hand shakes too much to write, and the circular keeps stalling halfway around the block. \"I'll make the circulars for all 120 associations!\" Tetsu sets out to mass-produce 120 copies in one night with \"Replace All.\"",
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp",
+        "p20.webp"
+      ],
+      "sizes": [
+        [
+          1588,
+          942
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          1436,
+          2110
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          78,
+          58,
+          1514,
+          2168
+        ]
+      }
     }
   ]
 }
