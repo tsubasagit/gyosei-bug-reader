@@ -125,6 +125,9 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
 .end-card { background: #fff; color: #1e293b; border-radius: 16px; padding: 32px 28px 20px; text-align: center; width: min(420px, 100%); }
 .end-title { margin: 0; font-size: 32px; font-weight: 900; letter-spacing: .2em; }
 .end-sub { margin: 8px 0 24px; color: #64748b; font-size: 14px; }
+/* この話のタグ（tools/build_seo.py が episodes.json の tags から HTML に書く） */
+.end-tags { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin: -12px 0 20px; padding: 0; list-style: none; }
+.end-tags li { padding: 2px 10px; border-radius: 999px; background: #f1f5f9; color: #475569; font-size: 12px; }
 .end-actions { display: flex; flex-direction: column; gap: 10px; margin-bottom: 12px; }
 .btn { display: inline-flex; justify-content: center; align-items: center; height: 46px; border-radius: 10px; font: inherit; font-weight: 700; font-size: 15px; text-decoration: none; cursor: pointer; }
 .btn-primary { background: var(--primary); color: #fff; border: 0; }

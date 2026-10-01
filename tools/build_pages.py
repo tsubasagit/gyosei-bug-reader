@@ -235,6 +235,9 @@ def main():
     # 新しい話のお知らせ（feed.xml）も作り直す
     import build_feed
     build_feed.build()
+    # タグ・構造化データ・sitemap.xml も（episodes.json の tags から）
+    import build_seo
+    build_seo.build()
 
 
 if __name__ == '__main__':

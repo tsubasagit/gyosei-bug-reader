@@ -46,6 +46,12 @@
       sortBox.append(b);
     }
 
+    function tagList(tags) {
+      const ul = el('ul', 'ep-tags');
+      ul.append(...tags.map(t => el('li', null, `#${t}`)));
+      return ul;
+    }
+
     function episodeItem(ep) {
       const li = el('li');
       const a = el('a', 'episode');
@@ -64,6 +70,8 @@
         el('h3', 'ep-title', F(ep, 'title')),
         el('p', 'ep-sub', T.epSub(F(ep, 'subtitle'))),
         el('p', 'ep-summary', F(ep, 'summary')),
+        // タグは日本語の検索向け。英語で見ているときは出さない
+        ...(!window.I18N.isEn && ep.tags && ep.tags.length ? [tagList(ep.tags)] : []),
         el('p', 'ep-meta', T.epMeta(pages, ep.published.replace(/-/g, '.'))),
         el('span', 'read-btn', T.readBtn()),
       );

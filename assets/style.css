@@ -136,6 +136,8 @@ html[lang="en"] .logo-img { display: none; }
 .ep-title { margin: 8px 0 2px; font-size: 22px; line-height: 1.35; }
 .ep-sub { margin: 0 0 10px; color: var(--fg-sub); font-size: 14px; }
 .ep-summary { margin: 0 0 14px; font-size: 15px; }
+.ep-tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 12px; padding: 0; list-style: none; }  /* この話のタグ */
+.ep-tags li { padding: 1px 9px; border: 1px solid var(--line); border-radius: 999px; background: var(--bg-sub); color: var(--fg-sub); font-size: 12px; }
 .ep-meta { margin: 0 0 14px; color: var(--fg-sub); font-size: 13px; }
 .read-btn {
   display: inline-flex; align-items: center; height: 44px; padding: 0 22px; border-radius: 10px;

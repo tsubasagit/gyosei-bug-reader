@@ -22,6 +22,12 @@
       "subtitle": "深夜0時の予約戦争（リザベーション・ウォー）",
       "summary": "梨ヶ坂市役所の地下「特務トレンド係」に、本庁から新しい係リーダーと、半年片付かない苦情が落ちてきた。市民体育館の予約が一枠も取れない――テツはそこに儲けのにおいを嗅ぎつける。",
       "published": "2026-09-19",
+      "tags": [
+        "公共施設予約",
+        "体育館",
+        "予約システム",
+        "市役所"
+      ],
       "pages": [
         "p00.webp",
         "p01.webp",
@@ -108,6 +114,12 @@
       "subtitle": "三割の壁（サーティー・パーセント・ウォール）",
       "summary": "梨ヶ坂のふるさと納税は梨頼みで、寄付が入るのは収穫期の二ヶ月だけ。上位の自治体は一年で百億円以上――そう聞いたテツは、総務省の告示を徹夜で読み込み、返礼品の抜け道を探しはじめる。",
       "published": "2026-09-21",
+      "tags": [
+        "ふるさと納税",
+        "返礼品",
+        "地場産品",
+        "自治体"
+      ],
       "title_en": "I Am the Thank-You Gift",
       "subtitle_en": "The 30% Wall",
       "summary_en": "Nashigasaka's hometown-tax gifts are all pears, so donations only come in two months a year. When Tetsu hears the top cities pull in over ten billion yen annually, he pulls an all-nighter over the national rules, hunting for a loophole.",
@@ -188,6 +200,13 @@
       "subtitle": "課題持ち寄り会（イシュー・ポットラック）",
       "summary": "岡山のスタートアップカフェ「ももスタ」へ視察に来た特務トレンド係。課題を持ち寄る会で、テツは思いがけず有能ぶりを発揮するが――。",
       "published": "2026-09-18",
+      "tags": [
+        "書かない窓口",
+        "引越しワンストップサービス",
+        "業務改善",
+        "なぜなぜ分析",
+        "岡山"
+      ],
       "pages": [
         "p00.webp",
         "p01.webp",
@@ -276,6 +295,13 @@
       "subtitle": "地域団体商標（リージョナル・ブランド）",
       "summary": "岡山のデミカツ丼に、えびめしに、ばら寿司。岡山グルメに憧れたテツは、捨てられる梨で梨ヶ坂の名物を作り、名前を商標登録して使用料でひと儲けしようとたくらむ――。",
       "published": "2026-09-19",
+      "tags": [
+        "地域団体商標",
+        "商標登録",
+        "ご当地グルメ",
+        "岡山グルメ",
+        "町おこし"
+      ],
       "pages": [
         "p00.webp",
         "p01.webp",
@@ -362,6 +388,13 @@
       "subtitle": "青色申告特別控除（ブルー・リターン）",
       "summary": "確定申告の季節、梨農家のキヨばあちゃんが、四十年分の手書きの帳簿を抱えてやってきた。来年から紙の申告は控除が十万円に減る――「梨の仲間もみんな紙」と聞いたテツは、帳簿の電子化でひと儲けをたくらむ。",
       "published": "2026-09-24",
+      "tags": [
+        "青色申告",
+        "確定申告",
+        "e-Tax",
+        "電子帳簿",
+        "農家"
+      ],
       "title_en": "A Hundred Thousand, on Paper",
       "subtitle_en": "The Blue Return",
       "summary_en": "At tax time, an old pear farmer hauls in forty years of handwritten ledgers. From next year, filing on paper cuts the deduction to a hundred thousand yen — and Tetsu smells a business in going digital.",
@@ -493,6 +526,13 @@
       "subtitle": "予算流用（バジェット・ダイバージョン）",
       "summary": "AIに遅刻の言い訳まで書かせていたテツが、利用料の多さで本庁から名指しされた。文章を書かず判定だけを返すAI「Jev」を知り、積み上がった問い合わせを機械に振り分けさせようとするが、動かすための予算がない――テツは空き部屋と、手つかずの予算に目をつける。",
       "published": "2026-09-24",
+      "tags": [
+        "生成AI",
+        "AI活用",
+        "予算流用",
+        "問い合わせ対応",
+        "自治体DX"
+      ],
       "title_en": "nasiAI: No Reasons Given",
       "subtitle_en": "Budget Diversion",
       "summary_en": "Tetsu has been making AI write even his excuses for being late, and City Hall calls him out for the bill. He learns about Jev, an AI that writes no text and only returns judgments, and wants it to sort the pile of unanswered inquiries. There is no budget to run it, so he eyes an empty room and an untouched line in the budget.",
@@ -609,6 +649,13 @@
       "subtitle": "命名権（ネーミングライツ）",
       "summary": "市民会館のホールが雨漏りし、合唱団は傘をさして歌っている。直すお金はどこにもない――ネーミングライツを知ったテツは、名前のない階段もトイレもベンチも、片っ端から売りに出そうとする。",
       "published": "2026-09-28",
+      "tags": [
+        "ネーミングライツ",
+        "命名権",
+        "公共施設",
+        "市民会館",
+        "地方創生"
+      ],
       "pages": [
         "p01.webp",
         "p02.webp",
@@ -695,6 +742,14 @@
       "subtitle": "道路使用許可（パレード・パーミット）",
       "summary": "ハロウィンを十日後に控えた梨ヶ坂。坂の途中のシャッター通りを「渋谷に行けない若者で埋めたい」と、商店街の会長が地下の係へやってきた。出店料の半分と聞いたテツは、とんでもない仮装のお題をひらめく――。",
       "published": "2026-10-01",
+      "tags": [
+        "ハロウィン",
+        "道路使用許可",
+        "道路占用許可",
+        "仮装",
+        "商店街",
+        "町おこし"
+      ],
       "title_en": "Everyone Is the Section Chief",
       "subtitle_en": "Road Use Permit",
       "summary_en": "Ten days before Halloween, the head of Nashigasaka's shopping street comes down to the basement: he wants to fill his shuttered street with young people who can't make it to Shibuya. Promised half the stall fees, Tetsu comes up with an outrageous costume theme.",
@@ -850,6 +905,14 @@
       "subtitle": "きものの日（キモノ・デー）",
       "summary": "十一月の梨ヶ坂。商店街の呉服店の女将・トミさんが、最後の「きものパレード」を手伝ってほしいと地下の係室へ降りてくる。タンスに眠る着物と、着付けの人手が足りない。「眠ってる着物は、全部おれの在庫だ!!」――テツが着物の貸し出しに目を輝かせる。",
       "published": "2026-10-01",
+      "tags": [
+        "着物",
+        "きもの",
+        "着付け",
+        "着物のお手入れ",
+        "和装",
+        "きものの日"
+      ],
       "title_en": "A Change of Kimono, for a Hundred",
       "subtitle_en": "Kimono Day",
       "summary_en": "November in Nashigasaka. The owner of the old kimono shop asks the basement team to help with her last kimono parade — there aren't enough kimono or hands to dress people. \"All those kimono sleeping in chests are my inventory!\" Tetsu's eyes light up at the idea of renting them out.",

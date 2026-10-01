@@ -576,6 +576,7 @@
       const epTitle = F(state.ep, 'title');
       $('title').textContent = T.readerTitle(state.ep.number, epTitle);
       $('end').querySelector('.end-sub').textContent = T.endSub(state.ep.number, epTitle);
+      if (window.I18N.isEn) $('end').querySelector('.end-tags')?.remove();   // タグは日本語の検索向けなので、英語では出さない
       // 「おわり」の X で感想を書く：話の題名と、この話の URL（ページ番号は付けない）
       const shareText = T.shareText(state.ep.number, epTitle);
       $('share-x').href = `https://x.com/intent/post?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(location.href.split('#')[0])}`;

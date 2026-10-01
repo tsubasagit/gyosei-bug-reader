@@ -25,6 +25,8 @@ assets/logo.webp      題名のロゴ（シリーズの 設定/ロゴ/ の透過
 assets/og-top.jpg     作品トップを SNS で共有したときの絵（ロゴ＋表紙）
 assets/chara/         登場人物4人の絵（元の画像はシリーズの 設定/キャラクター/Web紹介用_20260919/）
 tools/build_pages.py  name-maker の話フォルダからページ画像を作るツール
+tools/build_seo.py    タグ・検索エンジン向けの情報（構造化データ）・sitemap.xml を書き出すツール
+sitemap.xml           Google に知らせるページの一覧（build_seo.py が作る）
 ```
 
 ビルドの仕組みはありません。ファイルをそのまま GitHub Pages で配信します。
@@ -54,7 +56,7 @@ tools/build_pages.py  name-maker の話フォルダからページ画像を作�
 
 ## 話を足す
 
-1. `episodes.json` の `episodes` に、話の情報（id・number・title・subtitle・summary・published）を足す
+1. `episodes.json` の `episodes` に、話の情報（id・number・title・subtitle・summary・published・tags）を足す。`tags` はその話の題材で探す人向けの言葉（4〜6個。例：`["着物", "着付け", "和装"]`。「漫画」「公務員」のような全話共通の言葉は `build_seo.py` が足すので入れない）
 2. ページ画像を作る
 
    ```
@@ -66,6 +68,23 @@ tools/build_pages.py  name-maker の話フォルダからページ画像を作�
 3. `ep/22/index.html` を `ep/<話ID>/index.html` に写し（「おわり」の「次の話へ」は reader.js が episodes.json から自動で足す）、`data-episode`・タイトル・説明・OGP の URL を書き換える
 4. 手元で確かめる：`python -m http.server 8976` → http://localhost:8976/
 5. push すると GitHub Pages に反映される
+
+## タグと検索エンジン（SEO）
+
+読む画面は絵だけで、Google が読める文字がほとんどない。そこで `episodes.json` の `tags` から、次を書き出す。
+
+```
+python tools/build_seo.py
+```
+
+- 各話の `<head>`：正規 URL（canonical）・キーワード・構造化データ（schema.org の `ComicIssue`）。`<!-- seo:start -->` 〜 `<!-- seo:end -->` の間
+- 各話の「おわり」：`#着物` のようなタグ（`<!-- tags:start -->` 〜 `<!-- tags:end -->` の間）。作品トップの一覧のカードにも `top.js` が出す。英語表示では出さない
+- 作品トップの `<head>`：作品の構造化データ（`ComicSeries` と公開中の話の一覧）
+- `sitemap.xml`：作品トップと公開中の話
+
+`build_pages.py` の最後でも呼ばれる。タグだけ直したときは `build_seo.py` だけ流す。印の間は手で書き換えない（流すたびに上書きされる）。
+
+Google への登録は [Search Console](https://search.google.com/search-console) で、URL プレフィックス `https://tsubasagit.github.io/gyosei-bug-reader/` のプロパティを作り、`sitemap.xml` を送信する（GitHub Pages のプロジェクトサイトなので robots.txt は置けない。サイトマップは Search Console から直接知らせる）。
 
 ## 解説記事への導線（読み終わりに出す）
 
