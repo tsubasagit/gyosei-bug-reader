@@ -232,3 +232,16 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
   .footer-cta-links { width: 100%; }
   .footer-btn { flex: 1 1 100%; text-align: center; }
 }
+
+/* ほかの連載先（ニコニコ漫画・pixiv・note）：告知画像＋外部リンク */
+.elsewhere { display: grid; grid-template-columns: minmax(0, 400px) 1fr; gap: 28px; align-items: center; }
+.elsewhere-img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; border-radius: 10px; border: 2px solid var(--fg); background: var(--bg-sub); }
+.elsewhere-text .section-lead { color: var(--fg); }
+.elsewhere-links { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 10px; }
+.elsewhere-links .footer-btn { display: inline-flex; flex-direction: column; align-items: flex-start; line-height: 1.35; }
+.elsewhere-links .footer-btn small { font-size: 11px; font-weight: 400; opacity: .85; }
+@media (max-width: 760px) {
+  .elsewhere { grid-template-columns: 1fr; gap: 20px; }
+  .elsewhere-links li { flex: 1 1 100%; }
+  .elsewhere-links .footer-btn { width: 100%; align-items: center; text-align: center; }
+}

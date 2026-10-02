@@ -32,6 +32,18 @@
     'hero.linkEpisodes': 'Chapters',
     'hero.linkStory': 'What is this?',
     'hero.linkChars': 'Characters',
+    'hero.linkElsewhere': 'Also on Niconico & pixiv',
+
+    'else.imgAlt': 'Announcement image for City Hall Bug!: now serialized on Niconico Manga and pixiv, chapters 1–10 free.',
+    'else.eyebrow': 'News',
+    'else.title': 'Read it elsewhere, too',
+    'else.lead': 'The series is now also running on Niconico Manga and pixiv (Japanese). Read it there with comments and bookmarks.',
+    'else.nico': 'Niconico Manga',
+    'else.nicoNote': 'Ch. 1–10 · scroll to read',
+    'else.pixiv': 'pixiv',
+    'else.pixivNote': 'Ch. 1–9 · Ch. 10 coming soon',
+    'else.note': 'note',
+    'else.noteNote': 'Behind-the-scenes posts',
 
     'ep.eyebrow': 'Pick the case that sounds fun',
     'ep.title': 'Chapters online',
