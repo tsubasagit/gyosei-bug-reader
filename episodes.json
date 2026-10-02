@@ -1178,6 +1178,149 @@
           2168
         ]
       }
+    },
+    {
+      "id": "11",
+      "number": 11,
+      "title": "新入り、紙を捨てる",
+      "subtitle": "検査記録（トレーサビリティ）",
+      "summary": "十月、愛媛県新居浜市。本庁から押し付けられた工場の視察で、町工場「かきくら鉄工」を訪れたテツは、ガテン系の見た目のせいで応援の職人と間違えられる。同じ数字を紙に二回書く現場を見たテツは「二度手間禁止」の貼り紙にピコーン――。",
+      "published": "2026-10-03",
+      "tags": [
+        "工場",
+        "町工場",
+        "検査記録",
+        "トレーサビリティ",
+        "二重入力",
+        "新居浜"
+      ],
+      "title_en": "The New Guy Throws Out the Paper",
+      "subtitle_en": "Traceability",
+      "summary_en": "October, Niihama, Ehime. Sent on a factory study tour nobody at City Hall wanted, Tetsu visits the small Kakikura Ironworks — and his builder's physique gets him mistaken for a temp worker. Seeing the craftsmen write every measurement twice on paper, Tetsu spots the slogan \"No Double Work\" and has an idea...",
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp",
+        "p20.webp",
+        "p21.webp"
+      ],
+      "sizes": [
+        [
+          1588,
+          942
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ],
+        [
+          1434,
+          2096
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          78,
+          52,
+          1512,
+          2148
+        ]
+      }
     }
   ]
 }

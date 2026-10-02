@@ -6,7 +6,15 @@
     <atom:link href="https://tsubasagit.github.io/gyosei-bug-reader/feed.xml" rel="self" type="application/rss+xml"/>
     <description>梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。金とサボりのために制度と技術を一夜漬けで覚える源田テツが、力技で市民の困りごとを片づけてしまう。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <item>
+      <title>第11話「新入り、紙を捨てる」</title>
+      <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/11/</link>
+      <guid isPermaLink="true">https://tsubasagit.github.io/gyosei-bug-reader/ep/11/</guid>
+      <pubDate>Sat, 03 Oct 2026 09:00:00 +0900</pubDate>
+      <description>～検査記録（トレーサビリティ）～ 十月、愛媛県新居浜市。本庁から押し付けられた工場の視察で、町工場「かきくら鉄工」を訪れたテツは、ガテン系の見た目のせいで応援の職人と間違えられる。同じ数字を紙に二回書く現場を見たテツは「二度手間禁止」の貼り紙にピコーン――。</description>
+      <enclosure url="https://tsubasagit.github.io/gyosei-bug-reader/ep/11/thumb.webp" type="image/webp" length="0"/>
+    </item>
     <item>
       <title>第10話「ちかん冤罪」</title>
       <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/10/</link>
