@@ -1,10 +1,10 @@
 {
   "_説明": "再訪の仕掛けの設定。次回予告と、新しい話のお知らせ先（X）。日付は空でもよい（空なら「近日公開」と出す）。英語表示用の題名は title_en",
   "next": {
-    "number": 12,
-    "title": "昼メシ戦線",
-    "date": "2026-10-08",
-    "title_en": "The Lunch Front"
+    "number": 13,
+    "title": "大放出！粗大ごみ",
+    "date": "2026-10-12",
+    "title_en": "The Great Junk Giveaway"
   },
   "x": {
     "url": "https://x.com/tsubasatwi",

@@ -6,7 +6,15 @@
     <atom:link href="https://tsubasagit.github.io/gyosei-bug-reader/feed.xml" rel="self" type="application/rss+xml"/>
     <description>梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。金とサボりのために制度と技術を一夜漬けで覚える源田テツが、力技で市民の困りごとを片づけてしまう。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <item>
+      <title>第12話「しびれる百グラム」</title>
+      <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/12/</link>
+      <guid isPermaLink="true">https://tsubasagit.github.io/gyosei-bug-reader/ep/12/</guid>
+      <pubDate>Thu, 08 Oct 2026 09:00:00 +0900</pubDate>
+      <description>～検定付きはかり（ジャスト・ウェイト）～ 流行りの麻辣湯を量り売りで始めたい老舗中華の息子が、たらい回しの末に地下の係室へ。量り売りに要るのは、国の検定に合格した「検定付きはかり」。「検定？ お墨付きなら、おれが出す!!」――テツは、市役所のハンコで国の決まりを飛び越える。</description>
+      <enclosure url="https://tsubasagit.github.io/gyosei-bug-reader/ep/12/thumb.webp" type="image/webp" length="0"/>
+    </item>
     <item>
       <title>第11話「新入り、紙を捨てる」</title>
       <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/11/</link>

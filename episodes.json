@@ -1321,6 +1321,164 @@
           2148
         ]
       }
+    },
+    {
+      "id": "12",
+      "number": 12,
+      "title": "しびれる百グラム",
+      "subtitle": "検定付きはかり（ジャスト・ウェイト）",
+      "summary": "流行りの麻辣湯を量り売りで始めたい老舗中華の息子が、たらい回しの末に地下の係室へ。量り売りに要るのは、国の検定に合格した「検定付きはかり」。「検定？ お墨付きなら、おれが出す!!」――テツは、市役所のハンコで国の決まりを飛び越える。",
+      "published": "2026-10-08",
+      "tags": [
+        "麻辣湯",
+        "マーラータン",
+        "量り売り",
+        "計量法",
+        "検定付きはかり",
+        "はかり"
+      ],
+      "title_en": "One Hundred Numbing Grams",
+      "subtitle_en": "Certified Scales",
+      "summary_en": "The son of an old Chinese diner wants to sell trendy mala tang by weight, and after being bounced between counters he ends up in the basement section. Selling by weight requires a government-certified scale. \"Certified? I'll certify it myself!!\" Tetsu decides a City Hall stamp can leap right over national law...",
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp",
+        "p20.webp",
+        "p21.webp",
+        "p22.webp",
+        "p23.webp",
+        "p24.webp"
+      ],
+      "sizes": [
+        [
+          1588,
+          942
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          16,
+          16,
+          1572,
+          2230
+        ]
+      }
     }
   ]
 }
