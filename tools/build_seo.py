@@ -12,6 +12,7 @@ build_pages.py の最後でも呼ばれるので、話を足したときは自�
 印が無い HTML には、<link rel="icon"> の前・「おわり」の .end-sub の後に印ごと足す。
 """
 import html
+from urllib.parse import quote
 import json
 import os
 import re
@@ -58,7 +59,7 @@ def episode_head(ep, series):
         'issueNumber': ep['number'],
         'url': url,
         'description': ep.get('summary', ''),
-        'keywords': ','.join(tags + SERIES_KEYWORDS),
+        'keywords': ','.join(tags + ep.get('genres', []) + SERIES_KEYWORDS),
         'image': f'{url}og.jpg',
         'thumbnailUrl': f'{url}thumb.webp',
         'datePublished': ep['published'],
@@ -80,7 +81,10 @@ def episode_head(ep, series):
 
 
 def episode_tags(ep):
-    items = ''.join(f'<li>#{html.escape(t)}</li>' for t in ep.get('tags', []))
+    # ジャンルは作品トップの絞り込み（?tag=）へ、題材のことばは作品トップの検索（?q=）へつなぐ
+    genres = ''.join(f'<li class="is-genre"><a href="../../?tag={quote(t)}#episodes-title">#{html.escape(t)}</a></li>'
+                     for t in ep.get('genres', []))
+    items = genres + ''.join(f'<li><a href="../../?q={quote(t)}#episodes-title">#{html.escape(t)}</a></li>' for t in ep.get('tags', []))
     return f'        <ul class="end-tags" aria-label="この話のタグ">{items}</ul>'
 
 

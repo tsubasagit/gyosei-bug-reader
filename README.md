@@ -54,6 +54,20 @@ sitemap.xml           Google に知らせるページの一覧（build_seo.py �
   自動の割り当ては外れやすいので、`ep/<話ID>/letter.en.json` でセリフごとに吹き出しを指定する（候補の番号・吹き出しの中の点・囲む四角・`skip`・2つの吹き出しに分ける `parts`）。描き文字（カタカナだけのもの）と、表で `skip` にした図の中の文字は日本語のまま
 - CSS・JS を直したら、HTML の `?v=` を新しい値にする（古いファイルがブラウザに残って、新しい HTML と噛み合わなくなるのを防ぐ）
 
+## 公開予定・ジャンル・ほかの連載先をそろえる
+
+制作側の 各話/公開予定.json（非公開）から、表示に要る分だけを写す。**話を公開したとき・予約日や話数を付け替えたとき・ニコニコ漫画や pixiv に載せたときに流す。**
+
+```
+python tools/sync_schedule.py
+```
+
+- episodes.json の各話に `genres`（ジャンル。作品トップの絞り込みの札・読み終わりのタグ）と `links`（ニコニコ漫画・pixiv の各話 URL）を書く。ジャンルは公開予定.json の `tags`（name-maker の各話一覧で付ける）
+- upcoming.json の `schedule`（まだ公開していない話を予約日の早い順に3本）と `next` を書き、横のカラー表紙を assets/upcoming/ に縮めて置く。表紙が無い話は「表紙は公開日に」と出る
+- 作品トップのニコニコ漫画・pixiv のボタンの「1〜N話」は `links` から数えるので、手で直さない
+- 流したあと `python tools/build_seo.py` で読み終わりのタグを書き直す（build_pages.py の最後でも流れる）
+- 作品トップは「新しい話から」が標準。`?tag=AI`・`?q=岡山` を付けたリンクで、絞り込んだ一覧を開ける
+
 ## 話を足す
 
 1. `episodes.json` の `episodes` に、話の情報（id・number・title・subtitle・summary・published・tags）を足す。`tags` はその話の題材で探す人向けの言葉（4〜6個。例：`["着物", "着付け", "和装"]`。「漫画」「公務員」のような全話共通の言葉は `build_seo.py` が足すので入れない）

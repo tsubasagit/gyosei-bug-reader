@@ -9,5 +9,41 @@
   "x": {
     "url": "https://x.com/tsubasatwi",
     "handle": "@tsubasatwi"
-  }
+  },
+  "schedule": [
+    {
+      "number": 13,
+      "title": "地下金庫、あいてます",
+      "subtitle": "個人情報の持ちすぎ（データ・ダイエット）",
+      "date": "2026-10-12",
+      "genres": [
+        "IT・デジタル",
+        "時事"
+      ],
+      "cover": "assets/upcoming/13.webp"
+    },
+    {
+      "number": 14,
+      "title": "梨ヶ坂ゆかりの人",
+      "subtitle": "ノーベル賞（ゆかり・ラッシュ）",
+      "date": "2026-10-15",
+      "genres": [
+        "地域・まちおこし",
+        "時事"
+      ],
+      "cover": "assets/upcoming/14.webp"
+    },
+    {
+      "number": 15,
+      "title": "AI、入れときました",
+      "subtitle": "中小企業のAI導入（オート・パイロット）",
+      "date": "2026-10-19",
+      "genres": [
+        "AI",
+        "IT・デジタル",
+        "商店街・産業",
+        "時事"
+      ]
+    }
+  ]
 }

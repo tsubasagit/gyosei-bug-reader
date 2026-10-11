@@ -139,6 +139,32 @@ html[lang="en"] .logo-img { display: none; }
 .ep-tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 12px; padding: 0; list-style: none; }  /* この話のタグ */
 .ep-tags li { padding: 1px 9px; border: 1px solid var(--line); border-radius: 999px; background: var(--bg-sub); color: var(--fg-sub); font-size: 12px; }
 .ep-meta { margin: 0 0 14px; color: var(--fg-sub); font-size: 13px; }
+.ep-tags li.is-genre { border-color: var(--accent); color: var(--primary); font-weight: 700; background: var(--card-bg); }  /* ジャンル */
+
+/* 探す欄とジャンルの札（2026-10-11） */
+.ep-filter { display: grid; gap: 12px; margin: 0 0 22px; }
+.ep-search { width: 100%; height: 44px; padding: 0 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--card-bg); color: var(--fg); font: inherit; font-size: 16px; }
+.ep-search:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.ep-genres { display: flex; flex-wrap: wrap; gap: 8px; }
+.genre-chip { border: 1px solid var(--line); background: var(--card-bg); color: var(--fg-sub); font: inherit; font-size: 13px; padding: 5px 12px; border-radius: 999px; cursor: pointer; }
+.genre-chip:hover { border-color: var(--accent); color: var(--fg); }
+.genre-chip[aria-pressed="true"] { background: var(--primary); border-color: var(--primary); color: #fff; font-weight: 700; }
+.episode-empty .text-btn { border: 0; background: none; color: var(--primary); font: inherit; text-decoration: underline; cursor: pointer; padding: 0; }
+
+/* 公開予定 */
+.upcoming { list-style: none; margin: 22px 0 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; }
+.upcoming-item { display: flex; flex-direction: column; overflow: hidden; background: var(--card-bg); border: 1px dashed var(--accent); border-radius: 14px; }
+.upcoming-item img, .upcoming-noimg { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-bottom: 1px solid var(--line); background: var(--bg-sub); }
+.upcoming-noimg { display: grid; place-items: center; color: var(--fg-sub); font-size: 13px; font-weight: 700; }
+.upcoming-body { padding: 14px 16px 16px; }
+.upcoming-body .ep-title { font-size: 18px; }
+.upcoming-body .ep-tags { margin: 0; }
+.upcoming-date { display: block; margin: 0 0 8px; color: var(--comic-red); font-weight: 800; font-size: 14px; }
+@media (max-width: 760px) {
+  .upcoming { grid-template-columns: 1fr; }
+  .ep-genres { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; -webkit-overflow-scrolling: touch; }  /* スマホは札を横に流す */
+  .genre-chip { flex: none; }
+}
 .read-btn {
   display: inline-flex; align-items: center; height: 44px; padding: 0 22px; border-radius: 10px;
   margin-top: auto; background: var(--primary); color: #fff; font-weight: 700; font-size: 15px;

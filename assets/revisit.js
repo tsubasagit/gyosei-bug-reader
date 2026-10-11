@@ -126,6 +126,7 @@
     // 近日公開と X のフォロー：エピソード一覧の下と、フッターの導線に
     const up2 = { ...up };
     if (up.next && published.some(e => e.number === up.next.number)) delete up2.next;
+    if (Array.isArray(up.schedule) && up.schedule.length) delete up2.next;   // 公開予定の欄（top.js）に出すので、ここでは重ねない
     const section = document.querySelector('.episodes-section .wrap');
     const box = noticeBlock(up2, 'top');
     if (section && box) section.append(box);

@@ -105,7 +105,16 @@
           2148
         ]
       },
-      "pagesEn": true
+      "pagesEn": true,
+      "genres": [
+        "窓口・手続き",
+        "IT・デジタル",
+        "スポーツ"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1162569",
+        "pixiv": "https://www.pixiv.net/artworks/150338845"
+      }
     },
     {
       "id": "2",
@@ -191,6 +200,15 @@
           1516,
           2148
         ]
+      },
+      "genres": [
+        "お金・税",
+        "地域・まちおこし",
+        "食べ物"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1162664",
+        "pixiv": "https://www.pixiv.net/artworks/150354950"
       }
     },
     {
@@ -286,7 +304,17 @@
           2150
         ]
       },
-      "pagesEn": true
+      "pagesEn": true,
+      "genres": [
+        "地域・まちおこし",
+        "イベント",
+        "出張回",
+        "岡山"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1162668",
+        "pixiv": "https://www.pixiv.net/artworks/150360803"
+      }
     },
     {
       "id": "4",
@@ -379,7 +407,17 @@
           2148
         ]
       },
-      "pagesEn": true
+      "pagesEn": true,
+      "genres": [
+        "地域・まちおこし",
+        "商店街・産業",
+        "岡山",
+        "食べ物"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1162679",
+        "pixiv": "https://www.pixiv.net/artworks/150361290"
+      }
     },
     {
       "id": "5",
@@ -517,7 +555,16 @@
           2148
         ]
       },
-      "pagesEn": true
+      "pagesEn": true,
+      "genres": [
+        "お金・税",
+        "IT・デジタル",
+        "高齢者・福祉"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1162682",
+        "pixiv": "https://www.pixiv.net/artworks/150363495"
+      }
     },
     {
       "id": "6",
@@ -640,7 +687,17 @@
           2170
         ]
       },
-      "pagesEn": true
+      "pagesEn": true,
+      "genres": [
+        "IT・デジタル",
+        "お金・税",
+        "市役所の働き方",
+        "AI"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1162685",
+        "pixiv": "https://www.pixiv.net/artworks/150364260"
+      }
     },
     {
       "id": "7",
@@ -733,7 +790,15 @@
       "pagesEn": true,
       "title_en": "These Stairs Are for Sale",
       "subtitle_en": "Naming Rights",
-      "summary_en": "The civic hall's roof leaks so badly that the choir sings under umbrellas, and there's no money to fix it. When Tetsu learns about naming rights, he sets out to sell names for everything that doesn't have one — stairs, toilets, benches, the lot."
+      "summary_en": "The civic hall's roof leaks so badly that the choir sings under umbrellas, and there's no money to fix it. When Tetsu learns about naming rights, he sets out to sell names for everything that doesn't have one — stairs, toilets, benches, the lot.",
+      "genres": [
+        "お金・税",
+        "地域・まちおこし"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1162687",
+        "pixiv": "https://www.pixiv.net/artworks/150364895"
+      }
     },
     {
       "id": "8",
@@ -896,6 +961,15 @@
           1508,
           2148
         ]
+      },
+      "genres": [
+        "イベント",
+        "商店街・産業",
+        "地域・まちおこし"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1162689",
+        "pixiv": "https://www.pixiv.net/artworks/150370750"
       }
     },
     {
@@ -1039,6 +1113,15 @@
           1508,
           2148
         ]
+      },
+      "genres": [
+        "イベント",
+        "商店街・産業",
+        "高齢者・福祉"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1162699",
+        "pixiv": "https://www.pixiv.net/artworks/150377183"
       }
     },
     {
@@ -1177,6 +1260,15 @@
           1514,
           2168
         ]
+      },
+      "genres": [
+        "町内会・団地",
+        "高齢者・福祉",
+        "IT・デジタル"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1162704",
+        "pixiv": "https://www.pixiv.net/artworks/150379241"
       }
     },
     {
@@ -1320,6 +1412,16 @@
           1512,
           2148
         ]
+      },
+      "genres": [
+        "商店街・産業",
+        "IT・デジタル",
+        "出張回",
+        "愛媛"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1162899",
+        "pixiv": "https://www.pixiv.net/artworks/150391814"
       }
     },
     {
@@ -1478,6 +1580,16 @@
           1572,
           2230
         ]
+      },
+      "genres": [
+        "商店街・産業",
+        "窓口・手続き",
+        "時事",
+        "食べ物"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1164470",
+        "pixiv": "https://www.pixiv.net/artworks/150582549"
       }
     }
   ]
