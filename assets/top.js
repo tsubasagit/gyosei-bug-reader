@@ -17,10 +17,9 @@
     const data = await res.json();
     const published = data.episodes.filter(e => e.pages && e.pages.length).sort((a, b) => a.number - b.number);
     if (!published.length) { list.replaceChildren(el('li', 'episode-empty', T.listEmpty())); return; }
-    // 並び順は「新しい話から」が標準。切り替えると1話が上に来る。選んだ順はこのブラウザに覚える
-    const SORT_KEY = 'gyosei-episode-order';
+    // 並び順は、開くたびに「新しい話から」。切り替えると1話が上に来る（覚えない。前に覚えた順も使わない）
+    try { localStorage.removeItem('gyosei-episode-order'); } catch { /* 消せなくても動く */ }
     let order = 'desc';
-    try { if (localStorage.getItem(SORT_KEY) === 'asc') order = 'asc'; } catch { /* 読めなくても標準のまま */ }
     const eps = published;
     const count = document.getElementById('episode-count');
 
@@ -102,7 +101,6 @@
       b.type = 'button'; b.className = 'sort-btn'; b.textContent = label; b.dataset.order = key;
       b.addEventListener('click', () => {
         order = key;
-        try { localStorage.setItem(SORT_KEY, key); } catch { /* 覚えられなくても動く */ }
         renderList();
       });
       sortBox.append(b);
