@@ -233,3 +233,6 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
   transition: opacity .15s ease;
 }
 .page-frame.hl-on .panel-hl { opacity: 1; }
+
+/* 「おわり」のフィクションのことわり */
+.end-note { margin: 20px 0 0; color: #94a3b8; font-size: 12px; line-height: 1.6; }
