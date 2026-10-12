@@ -1591,6 +1591,152 @@
         "niconico": "https://manga.nicovideo.jp/watch/mg1164470",
         "pixiv": "https://www.pixiv.net/artworks/150582549"
       }
+    },
+    {
+      "id": "13",
+      "number": 13,
+      "title": "地下金庫、あいてます",
+      "subtitle": "個人情報の持ちすぎ（データ・ダイエット）",
+      "summary": "十月。アプリの会員情報が一千万件流出したニュースに、梨ヶ坂の町はおびえていた。三十年分のお客の伝票を缶に詰めて地下へ来た梨園のキクさんに、テツはひらめく。「全部ここに集めりゃ、守るのも一か所で済む!!」――",
+      "published": "2026-10-12",
+      "tags": [
+        "個人情報",
+        "情報漏えい",
+        "個人情報保護法",
+        "データの削除",
+        "詐欺電話"
+      ],
+      "title_en": "The Underground Vault Is Open",
+      "subtitle_en": "Too Much Personal Data",
+      "summary_en": "October. News that ten million app members' data had leaked has the town of Nashigasaka on edge. When old Kiku from the pear orchard brings thirty years of customer slips down to the basement in a tin, Tetsu has a brainstorm: \"Gather it all here, and we only have to guard one place!!\"",
+      "genres": [
+        "IT・デジタル",
+        "時事"
+      ],
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp",
+        "p20.webp",
+        "p21.webp"
+      ],
+      "sizes": [
+        [
+          1588,
+          942
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          16,
+          16,
+          1572,
+          2230
+        ]
+      }
     }
   ]
 }

@@ -6,7 +6,15 @@
     <atom:link href="https://tsubasagit.github.io/gyosei-bug-reader/feed.xml" rel="self" type="application/rss+xml"/>
     <description>梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。金とサボりのために制度と技術を一夜漬けで覚える源田テツが、力技で市民の困りごとを片づけてしまう。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <item>
+      <title>第13話「地下金庫、あいてます」</title>
+      <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/13/</link>
+      <guid isPermaLink="true">https://tsubasagit.github.io/gyosei-bug-reader/ep/13/</guid>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 +0900</pubDate>
+      <description>～個人情報の持ちすぎ（データ・ダイエット）～ 十月。アプリの会員情報が一千万件流出したニュースに、梨ヶ坂の町はおびえていた。三十年分のお客の伝票を缶に詰めて地下へ来た梨園のキクさんに、テツはひらめく。「全部ここに集めりゃ、守るのも一か所で済む!!」――</description>
+      <enclosure url="https://tsubasagit.github.io/gyosei-bug-reader/ep/13/thumb.webp" type="image/webp" length="0"/>
+    </item>
     <item>
       <title>第12話「しびれる百グラム」</title>
       <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/12/</link>
