@@ -1736,6 +1736,10 @@
           1572,
           2230
         ]
+      },
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1166921",
+        "pixiv": "https://www.pixiv.net/artworks/150903976"
       }
     },
     {
@@ -1877,7 +1881,11 @@
       "genres": [
         "地域・まちおこし",
         "時事"
-      ]
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1166922",
+        "pixiv": "https://www.pixiv.net/artworks/150904014"
+      }
     }
   ]
 }
