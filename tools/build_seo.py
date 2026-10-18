@@ -7,9 +7,10 @@ build_pages.py の最後でも呼ばれるので、話を足したときは自�
 - ep/<話ID>/index.html の「おわり」：この話のタグ（画面に出る文字。Google が読む本文にもなる）
 - index.html の <head>：作品の構造化データ（ComicSeries と、公開中の話の一覧）
 - sitemap.xml：作品トップと公開中の話（Search Console に登録して使う）
+- 作品トップと各話の </head> の前：Cloudflare Web Analytics の計測タグ（Cookie なし。閲覧数は Cloudflare の Web 分析で見る）
 
-書き込む場所は <!-- seo:start --> 〜 <!-- seo:end -->、<!-- tags:start --> 〜 <!-- tags:end --> の印の間。
-印が無い HTML には、<link rel="icon"> の前・「おわり」の .end-sub の後に印ごと足す。
+書き込む場所は <!-- seo:start --> 〜 <!-- seo:end -->、<!-- tags:start --> 〜 <!-- tags:end -->、<!-- analytics:start --> 〜 <!-- analytics:end --> の印の間。
+印が無い HTML には、<link rel="icon"> の前・「おわり」の .end-sub の後・</head> の前に印ごと足す。
 """
 import html
 from urllib.parse import quote
@@ -22,6 +23,9 @@ SITE = 'https://tsubasagit.github.io/gyosei-bug-reader/'
 PUBLISHER = {'@type': 'Organization', 'name': '株式会社AppTalentHub', 'url': 'https://apptalenthub.co.jp/'}
 # どの話にも付ける言葉（作品そのものを探す人向け）
 SERIES_KEYWORDS = ['行政バグります', '漫画', '無料漫画', 'Web漫画', 'ギャグ漫画', 'お役所', '公務員', '市役所']
+# Cloudflare Web Analytics（ホスト名 tsubasagit.github.io で登録。トークンは公開ページに載せる前提の値）
+ANALYTICS = ('  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" '
+             """data-cf-beacon='{"token": "4d86b4bb355d432f9b9dbbe0f0d8c144"}'></script>""")
 
 
 def ld_json(obj):
@@ -138,11 +142,13 @@ def build():
         text = open(path, encoding='utf-8').read()
         text = replace_block(text, 'seo', episode_head(ep, series), r'<link rel="icon"')
         text = replace_block(text, 'tags', episode_tags(ep), r'<p class="end-sub">.*</p>', before=False)
+        text = replace_block(text, 'analytics', ANALYTICS, r'</head>')
         write(path, text)
 
     top = os.path.join(ROOT, 'index.html')
     text = open(top, encoding='utf-8').read()
-    write(top, replace_block(text, 'seo', series_head(series, eps), r'<link rel="icon"'))
+    text = replace_block(text, 'seo', series_head(series, eps), r'<link rel="icon"')
+    write(top, replace_block(text, 'analytics', ANALYTICS, r'</head>'))
 
     latest = max((e['published'] for e in eps), default='')
     urls = [(SITE, latest)] + [(f"{SITE}ep/{e['id']}/", e['published']) for e in eps]
