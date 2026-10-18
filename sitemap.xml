@@ -1,63 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/</loc>
     <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/1/</loc>
     <lastmod>2026-09-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/1/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/1/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/1/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/1/</loc>
+    <lastmod>2026-09-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/1/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/1/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/1/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/2/</loc>
     <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/2/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/2/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/2/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/2/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/2/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/2/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/2/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/3/</loc>
     <lastmod>2026-09-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/3/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/3/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/3/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/3/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/3/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/3/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/3/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/4/</loc>
     <lastmod>2026-09-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/4/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/4/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/4/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/4/</loc>
+    <lastmod>2026-09-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/4/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/4/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/4/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/5/</loc>
     <lastmod>2026-09-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/5/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/5/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/5/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/5/</loc>
+    <lastmod>2026-09-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/5/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/5/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/5/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/6/</loc>
     <lastmod>2026-09-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/6/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/6/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/6/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/6/</loc>
+    <lastmod>2026-09-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/6/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/6/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/6/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/7/</loc>
     <lastmod>2026-09-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/7/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/7/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/7/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/7/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/7/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/7/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/7/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/8/</loc>
     <lastmod>2026-10-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/8/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/8/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/8/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/8/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/8/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/8/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/8/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/9/</loc>
     <lastmod>2026-10-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/9/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/9/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/9/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/9/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/9/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/9/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/9/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/10/</loc>
     <lastmod>2026-10-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/10/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/10/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/10/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/10/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/10/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/10/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/10/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/11/</loc>
     <lastmod>2026-10-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/11/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/11/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/11/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/11/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/11/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/11/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/11/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/12/</loc>
     <lastmod>2026-10-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/12/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/12/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/12/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/12/</loc>
+    <lastmod>2026-10-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/12/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/12/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/12/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/13/</loc>
     <lastmod>2026-10-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/13/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/13/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/13/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/13/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/13/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/13/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/13/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/14/</loc>
     <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/14/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/14/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/14/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/14/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/14/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/14/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/14/"/>
   </url>
 </urlset>

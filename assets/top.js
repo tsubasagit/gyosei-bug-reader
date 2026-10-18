@@ -10,9 +10,10 @@
   const F = window.I18N.field;          // 英語のときは title_en などを読む
   const link = window.I18N.withLang;    // 英語のときはリンクに ?lang=en を付ける
   const isEn = window.I18N.isEn;
+  const ROOT = window.I18N.root;        // 英語のページ（/en/）では '../'。データと絵はサイトのいちばん上にある
   const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
   try {
-    const res = await fetch('episodes.json', { cache: 'no-cache' });
+    const res = await fetch(ROOT + 'episodes.json', { cache: 'no-cache' });
     if (!res.ok) throw new Error(res.status);
     const data = await res.json();
     const published = data.episodes.filter(e => e.pages && e.pages.length).sort((a, b) => a.number - b.number);
@@ -118,7 +119,7 @@
       const a = el('a', 'episode');
       a.href = link(`ep/${ep.id}/`);
       const img = el('img');
-      img.src = `ep/${ep.id}/thumb.webp`;
+      img.src = `${ROOT}ep/${ep.id}/thumb.webp`;
       img.alt = T.thumbAlt(ep.number, F(ep, 'title'));
       img.loading = 'lazy';
       const body = el('div', 'episode-body');
@@ -144,7 +145,7 @@
     if (isEn) document.title = `${data.series.title_en} — ${data.series.subtitle_en}`;
 
     // ---- 公開予定（公開された話は自動で外れる） ----
-    const up = await fetch('upcoming.json', { cache: 'no-cache' }).then(r => (r.ok ? r.json() : {})).catch(() => ({}));
+    const up = await fetch(ROOT + 'upcoming.json', { cache: 'no-cache' }).then(r => (r.ok ? r.json() : {})).catch(() => ({}));
     const done = new Set(eps.map(e => e.number));
     const plan = (up.schedule || []).filter(u => !done.has(u.number));
     const section = document.getElementById('upcoming');
@@ -153,7 +154,7 @@
         const li = el('li', 'upcoming-item');
         if (u.cover) {
           const img = el('img');
-          img.src = u.cover; img.alt = T.thumbAlt(u.number, u.title); img.loading = 'lazy';
+          img.src = ROOT + u.cover; img.alt = T.thumbAlt(u.number, u.title); img.loading = 'lazy';
           li.append(img);
         } else {
           li.append(el('div', 'upcoming-noimg', T.coverSoon()));

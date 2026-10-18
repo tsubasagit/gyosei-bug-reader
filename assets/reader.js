@@ -10,6 +10,7 @@
   const app = document.getElementById('reader');
   const EP_ID = app.dataset.episode;
   const BASE = app.dataset.base || '../../';
+  const LINK_BASE = app.dataset.linkBase || BASE;   // ほかの話へのリンクの起点。英語のページ（/en/ep/<id>/）では /en/ を指す
   const $ = id => document.getElementById(id);
   const stage = $('stage');
   const MODE_KEY = 'gyosei-reader-mode'; // 'auto' | 'spread'
@@ -585,7 +586,7 @@
       if (nextEp) {
         const a = document.createElement('a');
         a.className = 'btn btn-primary';
-        a.href = link(`${BASE}ep/${nextEp.id}/`);
+        a.href = link(`${LINK_BASE}ep/${nextEp.id}/`);
         a.textContent = T.nextEp(nextEp.number, F(nextEp, 'title'));
         $('share-x').className = 'btn btn-ghost';
         $('end').querySelector('.end-actions').prepend(a);

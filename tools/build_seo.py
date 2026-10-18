@@ -6,7 +6,8 @@ build_pages.py の最後でも呼ばれるので、話を足したときは自�
 - ep/<話ID>/index.html の <head>：正規 URL（canonical）・キーワード・構造化データ（schema.org の ComicIssue）
 - ep/<話ID>/index.html の「おわり」：この話のタグ（画面に出る文字。Google が読む本文にもなる）
 - index.html の <head>：作品の構造化データ（ComicSeries と、公開中の話の一覧）
-- sitemap.xml：作品トップと公開中の話（Search Console に登録して使う）
+- sitemap.xml：作品トップと公開中の話（Search Console に登録して使う）。英語のページ（en/）も載せ、日本語と英語を hreflang で結ぶ
+- 英語の題名がある話は、日本語のページの <head> に英語のページへの hreflang を書き、最後に tools/build_en.py で en/ を書き出す
 - 作品トップと各話の </head> の前：Cloudflare Web Analytics の計測タグ（Cookie なし。閲覧数は Cloudflare の Web 分析で見る）
 
 書き込む場所は <!-- seo:start --> 〜 <!-- seo:end -->、<!-- tags:start --> 〜 <!-- tags:end -->、<!-- analytics:start --> 〜 <!-- analytics:end --> の印の間。
@@ -77,10 +78,19 @@ def episode_head(ep, series):
     keywords = html.escape(','.join(tags + SERIES_KEYWORDS))
     return '\n'.join([
         f'  <link rel="canonical" href="{url}">',
+        *([hreflang(url, f"{SITE}en/ep/{ep['id']}/")] if ep.get('title_en') else []),
         f'  <meta name="keywords" content="{keywords}">',
         '  <script type="application/ld+json">',
         ld_json(data),
         '  </script>',
+    ])
+
+
+def hreflang(ja_url, en_url):
+    return '\n'.join([
+        f'  <link rel="alternate" hreflang="ja" href="{ja_url}">',
+        f'  <link rel="alternate" hreflang="en" href="{en_url}">',
+        f'  <link rel="alternate" hreflang="x-default" href="{ja_url}">',
     ])
 
 
@@ -118,6 +128,7 @@ def series_head(series, eps):
     }
     return '\n'.join([
         f'  <link rel="canonical" href="{SITE}">',
+        hreflang(SITE, f'{SITE}en/'),
         f'  <meta name="keywords" content="{html.escape(",".join(SERIES_KEYWORDS))}">',
         '  <script type="application/ld+json">',
         ld_json(data),
@@ -150,12 +161,24 @@ def build():
     text = replace_block(text, 'seo', series_head(series, eps), r'<link rel="icon"')
     write(top, replace_block(text, 'analytics', ANALYTICS, r'</head>'))
 
+    import build_en   # build_en は build_seo の部品を使うので、ここで読み込む
+    en_ids = {e['id'] for e in build_en.build()}
+
     latest = max((e['published'] for e in eps), default='')
-    urls = [(SITE, latest)] + [(f"{SITE}ep/{e['id']}/", e['published']) for e in eps]
-    body = ''.join(f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{d}</lastmod>\n  </url>\n' for u, d in urls)
+    pairs = [(SITE, f'{SITE}en/', latest)] + [
+        (f"{SITE}ep/{e['id']}/", f"{SITE}en/ep/{e['id']}/" if e['id'] in en_ids else None, e['published']) for e in eps]
+    body = ''
+    for ja, en, d in pairs:
+        alt = (f'    <xhtml:link rel="alternate" hreflang="ja" href="{ja}"/>\n'
+               f'    <xhtml:link rel="alternate" hreflang="en" href="{en}"/>\n'
+               f'    <xhtml:link rel="alternate" hreflang="x-default" href="{ja}"/>\n') if en else ''
+        for u in (ja, en):
+            if u:
+                body += f'  <url>\n    <loc>{u}</loc>\n    <lastmod>{d}</lastmod>\n{alt}  </url>\n'
     write(os.path.join(ROOT, 'sitemap.xml'),
           '<?xml version="1.0" encoding="UTF-8"?>\n'
-          '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + body + '</urlset>\n')
+          '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n'
+          + body + '</urlset>\n')
     print(f'{len(eps)} 話のタグ・構造化データと sitemap.xml を書き出しました。')
 
 

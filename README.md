@@ -33,7 +33,8 @@ sitemap.xml           Google に知らせるページの一覧（build_seo.py �
 
 ## 英語で読む（試作）
 
-- `?lang=en` を付けると英語になる（例：`ep/1/?lang=en`）。選んだ言語はブラウザに覚える。日本語に戻すときは右上（読む画面は右下）のボタンか `?lang=ja`
+- 英語のページは `en/`（作品トップ）と `en/ep/<話ID>/`。`python tools/build_en.py` が日本語のページから書き出す（`build_seo.py` の最後でも流れるので、ふだんは手で流さなくてよい）。題名・説明・画面の文言・構造化データが最初から英語で、各話の「おわり」に英語の台本の全文（Read the English script）が載る。海外の検索で見つかるようにするため。日本語と英語のページは hreflang で互いを指し、sitemap.xml にも両方載る。`en/` の下は手で直さない
+- `?lang=en` を付ける（か、前に英語を選んだ）と、英語のページへ移る（例：`ep/1/?lang=en` → `en/ep/1/`）。選んだ言語はブラウザに覚える。日本語に戻すときは右上（読む画面は右下）のボタンか `?lang=ja`
 - 文言は `assets/i18n.js`。HTML の日本語はそのまま残し、英語のときだけ `data-i18n`（文字）・`data-i18n-html`（リンク入りの文）・`data-i18n-attr`（alt などの属性）の印が付いたところを差し替える。文言を足すときは HTML に印を付けて、`i18n.js` の `EN` に同じキーで英語を書く
 - 題名・副題・あらすじの英語は `episodes.json` の `title_en`・`subtitle_en`・`summary_en`
 - 対訳は `ep/<話ID>/script.en.json`。作り方：

@@ -236,3 +236,13 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
 
 /* 「おわり」のフィクションのことわり */
 .end-note { margin: 20px 0 0; color: #94a3b8; font-size: 12px; line-height: 1.6; }
+
+/* 英語のページ（en/ep/<id>/）の「おわり」に載せる英語の台本（tools/build_en.py が書き出す） */
+.end-script { margin: 16px 0 0; text-align: left; }
+.end-script summary { cursor: pointer; color: #475569; font-size: 14px; font-weight: 700; text-align: center; }
+.end-script-body { max-height: 45vh; overflow-y: auto; margin-top: 10px; padding: 12px 14px; border-radius: 10px; background: #f8fafc; font-size: 13px; line-height: 1.6; }
+.end-script-body h2 { margin: 0 0 8px; font-size: 15px; }
+.end-script-body h3 { margin: 14px 0 4px; color: #64748b; font-size: 12px; letter-spacing: .05em; text-transform: uppercase; }
+.end-script-body p { margin: 0 0 4px; }
+.end-script-body .is-caption { font-style: italic; color: #334155; }
+.end-script-body .end-script-note { margin-left: 12px; color: #64748b; font-size: 12px; }

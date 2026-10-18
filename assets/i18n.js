@@ -1,5 +1,7 @@
 // 表示する言語を決めて、英語のときだけ文言を差し替える。
-// - 日本語が標準。`?lang=en` を付けると英語になり、選んだ言語はこのブラウザに覚える
+// - 日本語のページ（/ と /ep/<id>/）と、英語のページ（/en/ と /en/ep/<id>/。tools/build_en.py が書き出す）がある
+// - 英語のページは <html data-lang="en">。HTML の文言はもう英語で、検索エンジンにもそのまま読める
+// - 日本語のページで英語を選んでいる（?lang=en か、前に選んだ）ときは、英語のページへ移る
 // - HTML に書いてある日本語はそのまま。英語のときだけ data-i18n の印を頼りに置き換える
 // - top.js / reader.js が作る文言は I18N.t の辞書から取る
 // このファイルは top.js・reader.js より先に読み込む。
@@ -7,14 +9,36 @@
   'use strict';
   const KEY = 'gyosei-lang';
   const SUPPORTED = ['ja', 'en'];
+  const html = document.documentElement;
+  const fixed = SUPPORTED.includes(html.dataset.lang) ? html.dataset.lang : '';   // 英語のページは 'en'
+
+  // サイトのいちばん上（episodes.json のある所）への相対パス。読む画面は data-base、作品トップは data-root
+  const reader = document.getElementById('reader');
+  const root = html.dataset.root ?? (reader ? reader.dataset.base || '../../' : '');
+  const rootPath = new URL(root || './', location.href).pathname;
+
+  // 同じページのもう一方の言語の URL（パスだけ）
+  function otherPath(to) {
+    const rest = location.pathname.startsWith(rootPath) ? location.pathname.slice(rootPath.length) : '';
+    if (to === 'en') return rest.startsWith('en/') ? location.pathname : `${rootPath}en/${rest}`;
+    return rest.startsWith('en/') ? rootPath + rest.slice(3) : location.pathname;
+  }
 
   const asked = new URLSearchParams(location.search).get('lang');
-  let lang = 'ja';
+  let lang = fixed || 'ja';
   if (SUPPORTED.includes(asked)) {
-    lang = asked;
-    try { localStorage.setItem(KEY, lang); } catch { /* 覚えられなくても動く */ }
-  } else {
+    try { localStorage.setItem(KEY, asked); } catch { /* 覚えられなくても動く */ }
+    if (!fixed) lang = asked;
+  } else if (!fixed) {
     try { const saved = localStorage.getItem(KEY); if (SUPPORTED.includes(saved)) lang = saved; } catch { /* 標準のまま */ }
+  }
+  // 選んだ言語のページへ移る（英語のページで ?lang=ja、日本語のページで英語を選んでいるとき）
+  const want = SUPPORTED.includes(asked) ? asked : lang;
+  if (want !== (fixed || 'ja') && (want === 'ja' || document.querySelector('link[rel="alternate"][hreflang="en"]'))) {
+    const params = new URLSearchParams(location.search);
+    params.delete('lang');
+    const q = params.toString();
+    location.replace(otherPath(want) + (q ? `?${q}` : '') + location.hash);
   }
   const isEn = lang === 'en';
 
@@ -232,7 +256,7 @@
 
   // 同じサイトの中のリンクに ?lang= を引き継ぐ
   function withLang(href) {
-    if (!isEn || !href) return href;
+    if (fixed || !isEn || !href) return href;      // 英語のページの中のリンクは、もう英語のページを指している
     if (/^(https?:)?\/\//.test(href) || href.startsWith('mailto:')) return href;
     const [path, hash = ''] = href.split('#');
     if (!path) return href;                        // 「#characters」のような同じページの中のリンク
@@ -241,7 +265,7 @@
   }
 
   function localizeLinks(root = document) {
-    if (!isEn) return;
+    if (fixed || !isEn) return;
     root.querySelectorAll('a[href]').forEach(a => {
       const href = a.getAttribute('href');
       if (/^(https?:)?\/\//.test(href) || href.startsWith('#') || href.includes('lang=')) return;
@@ -277,14 +301,17 @@
     a.className = 'lang-switch';
     a.textContent = STR[lang].otherLang();
     a.setAttribute('lang', isEn ? 'ja' : 'en');
+    const to = isEn ? 'ja' : 'en';
     const url = new URL(location.href);
-    url.searchParams.set('lang', isEn ? 'ja' : 'en');
-    a.href = url.pathname + url.search + url.hash;
+    url.searchParams.set('lang', to);
+    // もう一方の言語のページがあればそこへ（?lang= で選んだ言語を覚える）。無ければ同じページで切り替える
+    const hasOther = to === 'ja' ? !!fixed : !!document.querySelector('link[rel="alternate"][hreflang="en"]');
+    a.href = (hasOther ? otherPath(to) : url.pathname) + url.search + url.hash;
     a.title = isEn ? '日本語で読む' : 'Read in English';
     document.body.append(a);
   }
 
-  window.I18N = { lang, isEn, t: STR[lang], field, withLang, apply, localizeLinks };
+  window.I18N = { lang, isEn, fixed, root, t: STR[lang], field, withLang, apply, localizeLinks };
 
   document.documentElement.lang = lang;
   apply();

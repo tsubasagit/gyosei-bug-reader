@@ -8,7 +8,7 @@
   'use strict';
   const app = document.getElementById('reader');
   const isReader = !!app;
-  const BASE = isReader ? (app.dataset.base || '../../') : '';
+  const BASE = isReader ? (app.dataset.base || '../../') : window.I18N.root;
   const EP_ID = isReader ? app.dataset.episode : null;
   const T = window.I18N.t;               // 文言（日本語・英語）。i18n.js を先に読み込む
   const F = window.I18N.field;           // 英語のときは title_en などを読む
