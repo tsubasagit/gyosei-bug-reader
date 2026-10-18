@@ -1,0 +1,1836 @@
+{
+  "episode": "13",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.6697,
+          0.4806,
+          0.9846,
+          0.7019
+        ],
+        "3": [
+          0.3419,
+          0.4806,
+          0.6568,
+          0.7019
+        ],
+        "4": [
+          0.0154,
+          0.4806,
+          0.329,
+          0.7019
+        ],
+        "5": [
+          0.6015,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.72,
+          0.5887,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "飲食チェーンのアプリで、会員情報が流出",
+          "en": "A restaurant chain's app leaked its members' data."
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "およそ一千万件。ほぼ全会員です",
+          "en": "About ten million records. Nearly every member."
+        },
+        {
+          "id": "p1-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お、おれの焼肉の会員情報がァ!!",
+          "en": "M-my yakiniku membership info!!"
+        },
+        {
+          "id": "p1-1-4",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十月。梨ヶ坂市役所・地下。",
+          "en": "October. Nashigasaka City Hall, the basement."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "登録名『肉の帝王』。漏れて困る？",
+          "en": "Your username's \"Meat Emperor.\" So what?"
+        },
+        {
+          "id": "p1-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……恥ずかしいだろ",
+          "en": "...The shame!"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "先月はカーシェアで、約六百六十万件",
+          "en": "Last month, a car-share leaked about 6.6 million."
+        },
+        {
+          "id": "p1-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "やめた人の、免許証の画像まで",
+          "en": "Even ex-members' driver's license photos."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "なんで最近、こんなに多いんだ？",
+          "en": "Why are there so many lately?"
+        },
+        {
+          "id": "p1-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "四年前の春から、国への届け出が義務に",
+          "en": "Four springs ago, reporting leaks to the government became mandatory.",
+          "note": "Since April 2022, Japan's Act on the Protection of Personal Information requires businesses to report serious data leaks to the Personal Information Protection Commission."
+        },
+        {
+          "id": "p1-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "数が、表に出ました",
+          "en": "So now the numbers show."
+        },
+        {
+          "id": "p1-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "アプリは何百万人分を、一か所に持ってます",
+          "en": "Apps keep millions of people's data in one place."
+        },
+        {
+          "id": "p1-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "一度破られたら、全員分です",
+          "en": "Break in once, and you get everyone."
+        },
+        {
+          "id": "p1-6-3",
+          "panel": 6,
+          "type": "speech",
+          "ja": "おれの肉の帝王も、一千万分の一か……",
+          "en": "My Meat Emperor... one in ten million..."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "おっかないねえ……",
+          "en": "Scary times, huh..."
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ここが、流行りの係かい",
+          "en": "So this is the trendy unit?"
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "市民課の窓口で、震えておられたので",
+          "en": "She was trembling at the Residents' Desk."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ばあちゃん、それ梨ゼリーの缶だろ!?",
+          "en": "Granny, that's a pear jelly tin, right!?"
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "三十年分の、お客さんの伝票だよ",
+          "en": "Thirty years of my customers' shipping slips."
+        },
+        {
+          "id": "p2-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……ゼリーじゃなかった",
+          "en": "...Not jelly."
+        },
+        {
+          "id": "p2-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "(個人情報の、缶詰……!)",
+          "en": "(A tin full of personal data...!)"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.4137
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.4137
+        ],
+        "3": [
+          0.4113,
+          0.4318,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.4318,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.4113,
+          0.7191,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.3985,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "秋は梨を、全国に送るんだよ",
+          "en": "Every fall I ship pears all over Japan."
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "伝票の控えを、三十年とってある",
+          "en": "I've kept the slip copies for thirty years."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "あたしの免許証のコピーも。もう返したのにね",
+          "en": "Copies of my license too. Even though I gave it back."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "お名前、住所、電話……千人分はありますね",
+          "en": "Names, addresses, phone numbers... a thousand people's."
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "(千人分……)",
+          "en": "(A thousand...)"
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ニュースで、漏れたら大ごとだって",
+          "en": "The news says a leak is a big deal."
+        },
+        {
+          "id": "p3-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "お客さんに迷惑かけたら、申し訳なくて",
+          "en": "I'd hate to cause my customers trouble."
+        },
+        {
+          "id": "p3-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "捨てれば、漏れませんけど",
+          "en": "Throw them out and they can't leak."
+        },
+        {
+          "id": "p3-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "捨てられないよ。お得意さんだもの",
+          "en": "I can't! They're my regulars."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "はい、桑原……",
+          "en": "Hello, Kuwabara..."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "あなたの情報が漏れています",
+          "en": "Your information has been leaked."
+        },
+        {
+          "id": "p4-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "削除の手数料を――",
+          "en": "For a small deletion fee--"
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "梨ヶ坂市役所の地下だ",
+          "en": "This is the basement of Nashigasaka City Hall."
+        },
+        {
+          "id": "p4-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ばあちゃんに、二度とかけてくんな",
+          "en": "Don't you EVER call Granny again."
+        },
+        {
+          "id": "p4-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "べ、別に。商売敵を追っ払っただけだ",
+          "en": "N-no big deal. Just chased off a rival."
+        },
+        {
+          "id": "p4-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "『削除します』は、便乗の詐欺です",
+          "en": "\"We'll delete it\" is a piggyback scam.",
+          "note": "After big leak news, scammers often call victims offering to \"delete\" their leaked data for a fee. It's always a scam."
+        },
+        {
+          "id": "p4-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "お金の話が出たら、切る",
+          "en": "If money comes up, hang up."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "要らない控えは、シュレッダーで……",
+          "en": "Slips you don't need, shred them..."
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お客さんの名前を、刻むなんてできないよ",
+          "en": "I could never shred my customers' names."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "今日から一週間、研修で留守にします",
+          "en": "I'll be away at training for a week."
+        },
+        {
+          "id": "p5-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "桑原さんを、頼みます",
+          "en": "Please look after Mrs. Kuwabara."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ばあちゃん。あるぜ",
+          "en": "Granny. I've got just the place."
+        },
+        {
+          "id": "p5-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "市役所でいちばん固い場所が!!",
+          "en": "The most secure spot in City Hall!!"
+        },
+        {
+          "id": "p5-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……物置ですよ、そこ",
+          "en": "...That's a storeroom."
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.347,
+          0.2981,
+          0.9846,
+          0.9702
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.3342,
+          0.6251
+        ],
+        "5": [
+          0.0154,
+          0.6432,
+          0.3342,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "漏れるのはな、バラバラに置いとくからだ",
+          "en": "Stuff leaks 'cause it's scattered all over."
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……は？",
+          "en": "...Huh?"
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "全部ここに集めりゃ、",
+          "en": "Put it all here,"
+        },
+        {
+          "id": "p6-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "守るのも一か所で済む!!",
+          "en": "and you only guard ONE place!!"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……そうかしら",
+          "en": "...I wonder."
+        },
+        {
+          "id": "p6-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "銀行と、同じ理屈……？",
+          "en": "Same logic as a bank...?"
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "預かり料は？",
+          "en": "What's the fee?"
+        },
+        {
+          "id": "p6-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "一箱三百円。預け放題だ",
+          "en": "300 yen a box. No limit!"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4113,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.3985,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "地下金庫、あいてます!!",
+          "en": "The Underground Vault is open!!"
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "漏れるのが怖い紙は、ぜんぶ地下へ",
+          "en": "Scared of leaks? Bring your papers below!"
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "これで、ぐっすり眠れるよ",
+          "en": "Now I can sleep soundly."
+        },
+        {
+          "id": "p7-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "毎度。……三百円な",
+          "en": "Thanks. ...That's 300 yen."
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "(市民の不安に、市が応える……本庁が見るわ!)",
+          "en": "(Easing citizens' worries... the main building will notice!)"
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "僕は二割で",
+          "en": "I'll take 20%."
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "孫がね、何でもコピー取っとけって",
+          "en": "My grandson says copy everything."
+        },
+        {
+          "id": "p7-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "コピーも預け放題だ",
+          "en": "Copies store free too!"
+        },
+        {
+          "id": "p7-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "(……紙って、増えるのね)",
+          "en": "(Paper breeds...)"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5064,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.4936,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "みんな、おっかないってさ",
+          "en": "Everybody's scared, they say."
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "押すな押すな。金庫は逃げねえ",
+          "en": "No shoving! The vault ain't going anywhere."
+        },
+        {
+          "id": "p8-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "翌日。",
+          "en": "The next day."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ポイントカードの申込書、十五年分だ",
+          "en": "Fifteen years of point-card applications."
+        },
+        {
+          "id": "p8-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "捨て方が、分からなくてよ",
+          "en": "Didn't know how to toss 'em."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "子ども会の連絡網。昭和から全部",
+          "en": "Kids' club phone trees. Every one since the '70s."
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "本日、八十二箱",
+          "en": "82 boxes today."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "三日ぶりに、よく眠れたよ",
+          "en": "First good sleep in three days."
+        },
+        {
+          "id": "p9-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お礼の新高。いちばん大きいの",
+          "en": "A Niitaka pear as thanks. The biggest one."
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……市民に、お礼を言われた",
+          "en": "...A citizen thanked me."
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "地下では、珍しいですね",
+          "en": "That's rare down here."
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "商店会ぜんぶの分、頼めるかい",
+          "en": "Can you take the whole shopping street's?"
+        },
+        {
+          "id": "p9-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "もっと集めりゃ、もっと儲かる!!",
+          "en": "The more I collect, the more I make!!"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3419,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.329,
+          0.2322
+        ],
+        "4": [
+          0.0154,
+          0.2502,
+          0.9846,
+          0.7019
+        ],
+        "5": [
+          0.4113,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.72,
+          0.3985,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "どの箱に何があるか、台帳に写しとけ",
+          "en": "Log what's in every box in a ledger."
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……写したら、もう一枚増えますよ",
+          "en": "...That's one more sheet of paper."
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "控えがあれば、なくしても安心だろ",
+          "en": "With a copy, it's safe even if you lose it!"
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一人分が、三枚になってる……！",
+          "en": "One person's data is on three sheets now...!"
+        },
+        {
+          "id": "p10-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "やっぱり家で持ちます。返してください",
+          "en": "I'll keep them at home after all. Give them back."
+        },
+        {
+          "id": "p10-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "はいよ。控えは、こっちで永年保存な",
+          "en": "Sure. We'll keep the copies forever."
+        },
+        {
+          "id": "p10-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "返したのに、控えは残るんですね",
+          "en": "You returned them, but the copies stay?"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "本庁の広報課が、取材に？　金曜の十時……！",
+          "en": "The main building's PR team wants to cover us? Friday at ten...!"
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "金庫、もう閉まりません",
+          "en": "The vault won't close anymore."
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "閉まれェェ!! 鉄壁の金庫だろうがァ!!",
+          "en": "CLOOOSE!! You're an iron vault, dammit!!"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "廊下も金庫だ。地下は全部、金庫だ",
+          "en": "The hallway's the vault too. The whole basement is!"
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "箱が足りない。古紙置き場の空き箱、もらってきて",
+          "en": "We're out of boxes. Grab empties from the recycling area."
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "タダの箱、ありました",
+          "en": "Got free boxes!"
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "むにゃ……一箱、三百円……",
+          "en": "Mmf... 300 yen a box..."
+        },
+        {
+          "id": "p12-4-2",
+          "panel": 4,
+          "type": "caption",
+          "ja": "――そして、金曜の朝。",
+          "en": "--And then, Friday morning."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4598
+        ],
+        "2": [
+          0.4113,
+          0.4779,
+          0.9846,
+          0.7471
+        ],
+        "3": [
+          0.0154,
+          0.4779,
+          0.3985,
+          0.7471
+        ],
+        "4": [
+          0.5064,
+          0.7651,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.7651,
+          0.4936,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "市民の不安に応える、地下の金庫！",
+          "en": "A basement vault answering citizens' worries!"
+        },
+        {
+          "id": "p13-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "はい。お預かりは、八百箱を超えました",
+          "en": "Yes. We're holding over 800 boxes."
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "情報はな、集めるほど強いんだ!!",
+          "en": "Information gets stronger the more you gather!!"
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "金曜の古紙、っと",
+          "en": "Friday's paper recycling, there we go."
+        },
+        {
+          "id": "p13-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "あれ……廊下の箱が、減ってません？",
+          "en": "Huh... aren't there fewer boxes in the hall?"
+        },
+        {
+          "id": "p13-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "全部、金庫の一部です",
+          "en": "It's all part of the vault."
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3419,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.329,
+          0.2322
+        ],
+        "4": [
+          0.0154,
+          0.2502,
+          0.9846,
+          0.9313
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "今日は、紙がよく飛ぶ日だねえ",
+          "en": "Lots of paper flying today, huh."
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "caption",
+          "ja": "梨ヶ坂は、坂と風の町である。",
+          "en": "Nashigasaka: a town of slopes and wind."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お、おれの金庫がァァ!!",
+          "en": "M-my vauuult!!"
+        },
+        {
+          "id": "p15-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "なんだ、こりゃ……伝票？",
+          "en": "What the... shipping slips?"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4113,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.3985,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "これ、うちの住所……！",
+          "en": "This is our address...!"
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "免許証のコピーだぞ、これ",
+          "en": "That's a copy of a driver's license!"
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……お得意さんの、伝票だ",
+          "en": "...My regulars' slips."
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "あたしが、迷惑かけちまった",
+          "en": "I caused them trouble after all."
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ば、ばあちゃん……",
+          "en": "G-G- Gran- ny..."
+        },
+        {
+          "id": "p16-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "…………源田くん",
+          "en": "... Gen- da."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.4137
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.4137
+        ],
+        "3": [
+          0.4113,
+          0.4318,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.4318,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.4113,
+          0.7191,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.3985,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "情報政策課の錠島です",
+          "en": "Jojima, Information Policy Division."
+        },
+        {
+          "id": "p17-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "市が預かった時点で、市の個人情報です",
+          "en": "Once the city took it, it's the city's personal data.",
+          "note": "Once a city office takes custody of documents containing personal data, the city is legally responsible for them, including any leak."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "市が持っていいのは、仕事に必要な分だけ",
+          "en": "The city may only hold what its work requires.",
+          "note": "Japanese law lets government bodies hold personal information only to the extent needed for their official duties."
+        },
+        {
+          "id": "p17-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "法律で、決まっています",
+          "en": "That's the law."
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……預かるのは、市の仕事じゃない",
+          "en": "...Storing papers isn't city work."
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "百人を超えたら、国の委員会に報告です",
+          "en": "Over 100 people means a report to the national commission.",
+          "note": "Leaks affecting over 100 people must be reported to the Personal Information Protection Commission, and the affected people must be notified."
+        },
+        {
+          "id": "p17-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ご本人にも、お知らせを",
+          "en": "And we must notify each person."
+        },
+        {
+          "id": "p17-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "で、でもよ。漏れるってのは",
+          "en": "B-but a leak means"
+        },
+        {
+          "id": "p17-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "悪いやつが、盗むことだろ!?",
+          "en": "some crook stealing it, right!?"
+        },
+        {
+          "id": "p17-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "盗まれるだけじゃ、ありません",
+          "en": "Theft isn't the only way."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.6697,
+          0.4806,
+          0.9846,
+          0.7019
+        ],
+        "3": [
+          0.3419,
+          0.4806,
+          0.6568,
+          0.7019
+        ],
+        "4": [
+          0.0154,
+          0.4806,
+          0.329,
+          0.7019
+        ],
+        "5": [
+          0.6015,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.72,
+          0.5887,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "漏れ方は、三つです",
+          "en": "There are three kinds of leaks."
+        },
+        {
+          "id": "p18-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "破られる。渡し間違える。なくす",
+          "en": "Hacked. Misdelivered. Lost."
+        },
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "件数なら、渡し間違いが一番",
+          "en": "By count, misdelivery is the top one."
+        },
+        {
+          "id": "p18-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "何百万件は、破られたとき",
+          "en": "Millions at once? That's hacking."
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "二〇二四年度は、会社だけで一万九千件",
+          "en": "In fiscal 2024, companies alone had 19,000 cases.",
+          "note": "Japan's fiscal year runs from April to March."
+        },
+        {
+          "id": "p18-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "過去最多です",
+          "en": "A record high."
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "役所も、三か月で五百八十件",
+          "en": "Offices too: 580 in 3 months."
+        },
+        {
+          "id": "p18-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……うちも、その一つ",
+          "en": "...And now we're one of them."
+        },
+        {
+          "id": "p18-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "じゃ、じゃあ、おれのは……",
+          "en": "S-so mine was..."
+        },
+        {
+          "id": "p18-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "なくす、です。古紙で",
+          "en": "\"Lost.\" In the recycling."
+        },
+        {
+          "id": "p18-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "持っていなければ、漏れません",
+          "en": "What you don't hold can't leak."
+        },
+        {
+          "id": "p18-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "一か所だと、一度に全部。……言いましたよね",
+          "en": "One place: all at once. ...As I said."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.347,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3342,
+          0.3379
+        ],
+        "3": [
+          0.0154,
+          0.3559,
+          0.3342,
+          0.6829
+        ],
+        "4": [
+          0.4113,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0154,
+          0.701,
+          0.3985,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "い、いや、あの、これはですね、風が",
+          "en": "W-well, um, see, this was the wind--"
+        },
+        {
+          "id": "p19-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "坂が、その、つまり……",
+          "en": "The slopes, uh, I mean..."
+        },
+        {
+          "id": "p19-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "全部ここに集めりゃ、守るのも一か所で済む!!",
+          "en": "Put it all here, and you only guard ONE place!!"
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一か所に集めれば、守るのも一か所……でしたね",
+          "en": "Gather it in one place, guard one place... right?"
+        },
+        {
+          "id": "p19-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "では、町に散った三千枚を",
+          "en": "Then the 3,000 sheets scattered across town..."
+        },
+        {
+          "id": "p19-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "一枚残らず、一か所へ。源田さんの手で",
+          "en": "...back to one place. Every last one. By your hand, Mr. Genda."
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "漏えいの報告は、私が出します",
+          "en": "I'll file the leak report."
+        },
+        {
+          "id": "p20-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "預かり料は、全額お返しします",
+          "en": "All storage fees will be refunded."
+        },
+        {
+          "id": "p20-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……僕の二割も？",
+          "en": "...My 20% too?"
+        },
+        {
+          "id": "p20-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "もちろんです",
+          "en": "Of course."
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "三千枚ィィ!!",
+          "en": "THREE THOUSAND!!"
+        },
+        {
+          "id": "p20-3-2",
+          "panel": 3,
+          "type": "caption",
+          "ja": "回収の刑。",
+          "en": "Sentence: Retrieval."
+        },
+        {
+          "id": "p20-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……ばあちゃんの分は、全部あった",
+          "en": "...All of Granny's were there."
+        },
+        {
+          "id": "p20-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "お客さんの名前は、ここにあるからね",
+          "en": "My customers' names are right here."
+        },
+        {
+          "id": "p20-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "要らない控えは、刻んでおくれ",
+          "en": "Shred the copies I don't need."
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.6697,
+          0.2981,
+          0.9846,
+          0.5194
+        ],
+        "4": [
+          0.3419,
+          0.2981,
+          0.6568,
+          0.5194
+        ],
+        "5": [
+          0.0154,
+          0.2981,
+          0.329,
+          0.5194
+        ],
+        "6": [
+          0.0154,
+          0.5375,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p21-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "控えは一年。それで十分さ",
+          "en": "One year of slips. That's plenty."
+        },
+        {
+          "id": "p21-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "一週間後。",
+          "en": "A week later."
+        },
+        {
+          "id": "p21-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "金庫、空きました",
+          "en": "The vault's empty."
+        },
+        {
+          "id": "p21-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "テツさん、使ってないアプリ、三十七個",
+          "en": "Tetsu, you had 37 apps you never use."
+        },
+        {
+          "id": "p21-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "全部、退会しときました",
+          "en": "Deleted 'em all."
+        },
+        {
+          "id": "p21-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "おれの『肉の帝王』がァ!!",
+          "en": "My \"Meat Emperor\"!!"
+        },
+        {
+          "id": "p21-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……ちょっと、そこ",
+          "en": "...Hey, you there."
+        },
+        {
+          "id": "p21-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "金曜の古紙、っと",
+          "en": "Friday's paper recycling, there we go."
+        },
+        {
+          "id": "p21-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "要らないものは、持たない",
+          "en": "Don't keep what you don't need."
+        },
+        {
+          "id": "p21-6-3",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……だそうです",
+          "en": "...So they say."
+        }
+      ]
+    }
+  ]
+}

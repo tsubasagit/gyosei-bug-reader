@@ -1,0 +1,1930 @@
+{
+  "episode": "8",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3563
+        ],
+        "2": [
+          0.4664,
+          0.3946,
+          0.9832,
+          0.6533
+        ],
+        "3": [
+          0.0168,
+          0.3946,
+          0.4384,
+          0.6533
+        ],
+        "4": [
+          0.5896,
+          0.6916,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6916,
+          0.5616,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "勤務中に！　何を！　作ってるの!!",
+          "en": "On the job!! What are you!! MAKING!!"
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十月の下旬。梨ヶ坂市役所・地下。",
+          "en": "Late October. Nashigasaka City Hall, the basement."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ハロウィンの仮装だよ。『歩く札束』",
+          "en": "My Halloween costume. \"Walking Wad of Cash.\""
+        },
+        {
+          "id": "p1-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "縁起がいいだろ",
+          "en": "Lucky, right?"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "渋谷、夜の路上飲酒は一年中ダメになったそうです",
+          "en": "They say Shibuya banned street drinking at night, all year round.",
+          "note": "Shibuya Ward made its nighttime ban on street drinking around the station a year-round rule."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "じゃあ今年はどこで騒ぎゃいいんだよォ!!",
+          "en": "Then where am I supposed to party this year!?"
+        },
+        {
+          "id": "p1-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……はい、特務トレンド係です",
+          "en": "... Yes, Special Trends Unit."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3372
+        ],
+        "2": [
+          0.514,
+          0.3755,
+          0.9832,
+          0.6341
+        ],
+        "3": [
+          0.0168,
+          0.3755,
+          0.486,
+          0.6341
+        ],
+        "4": [
+          0.5602,
+          0.6724,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6724,
+          0.5322,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "商店街から、若者を呼べるハロウィンをと要望だ",
+          "en": "The shopping street wants a Halloween that draws young people."
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "地下で頼む",
+          "en": "Basement's job."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "十月三十一日、土曜の夜だ。頼んだよ、豪徳寺くん",
+          "en": "October 31st, Saturday night. I'm counting on you, Gotokuji."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おれはいない、おれは札束……",
+          "en": "I'm not here. I'm a wad of cash..."
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……承知いたしました",
+          "en": "... Understood, sir."
+        },
+        {
+          "id": "p2-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "源田くん。お客さまです",
+          "en": "Genda. You have a visitor."
+        },
+        {
+          "id": "p2-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "なんでバレたァ!?",
+          "en": "How'd you know it was me!?"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.4664,
+          0.0115,
+          0.9832,
+          0.2989
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.4384,
+          0.2989
+        ],
+        "3": [
+          0.0168,
+          0.3372,
+          0.9832,
+          0.6437
+        ],
+        "4": [
+          0.514,
+          0.682,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.682,
+          0.486,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "なしざか通り商店街の、大黒です",
+          "en": "I'm Daikoku, from the shopping street."
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "坂の途中で金物屋をやっとります",
+          "en": "I run the hardware store halfway up the hill."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "渋谷がダメなら、行き場のない若い子もおるでしょう",
+          "en": "With Shibuya off-limits, some young folks must have nowhere to go."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "うちの坂に呼べんかね",
+          "en": "Couldn't we bring 'em to our hill?"
+        },
+        {
+          "id": "p3-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "タダ働きの匂いしかしねえ",
+          "en": "Smells like unpaid work."
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……あの坂にも、昔は人があふれたんだよ",
+          "en": "... That hill was packed once, you know."
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……断れない流れね、これ",
+          "en": "... No way to say no to this one."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3755
+        ],
+        "2": [
+          0.514,
+          0.4138,
+          0.9832,
+          0.682
+        ],
+        "3": [
+          0.0168,
+          0.4138,
+          0.486,
+          0.682
+        ],
+        "4": [
+          0.0168,
+          0.7203,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "空き店舗が十四。夜の人通りは、十年で三分の一です",
+          "en": "Fourteen empty shops. Night foot traffic's down two-thirds in ten years."
+        },
+        {
+          "id": "p4-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "梨ヶ坂市・なしざか通り商店街。",
+          "en": "Nashigasaka City: the Nashizaka-dori shopping street."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "バスは坂を上って、坂上の団地へ行く",
+          "en": "The bus climbs the hill to the housing estate up top."
+        },
+        {
+          "id": "p4-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "夜は一時間に一本だ",
+          "en": "At night, one an hour."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "坂……長ェ……帰りてえ……",
+          "en": "This hill... so long... wanna go home..."
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "まだ半分よ!!",
+          "en": "We're only halfway!!"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.514,
+          0.0115,
+          0.9832,
+          0.2605
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.486,
+          0.2605
+        ],
+        "3": [
+          0.0168,
+          0.2989,
+          0.9832,
+          0.6628
+        ],
+        "4": [
+          0.4664,
+          0.7011,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.7011,
+          0.4384,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "坂上ちょうちん行列",
+          "en": "The Sakaue Lantern Parade"
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "坂の下から上まで、ちょうちんが続いてな",
+          "en": "Lanterns all the way from the bottom of the hill to the top."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "caption",
+          "ja": "三十年前の秋。",
+          "en": "An autumn thirty years ago."
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "それきり、担い手がおらんようになってな",
+          "en": "After that, nobody was left to run it."
+        },
+        {
+          "id": "p5-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ばあさんが最後まで、またやろうって言っとった",
+          "en": "My wife kept saying we should do it again, till the very end."
+        },
+        {
+          "id": "p5-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "この人数に屋台出したら、儲かったろうなァ",
+          "en": "With a crowd like that, food stalls would've made a killing..."
+        },
+        {
+          "id": "p5-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "そこじゃない!!",
+          "en": "NOT the point!!"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.514,
+          0.0115,
+          0.9832,
+          0.2701
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.486,
+          0.2701
+        ],
+        "3": [
+          0.514,
+          0.3084,
+          0.9832,
+          0.567
+        ],
+        "4": [
+          0.0168,
+          0.3084,
+          0.486,
+          0.567
+        ],
+        "5": [
+          0.0168,
+          0.6054,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "イベント会社に頼めば――",
+          "en": "If we hire an event company—"
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "十月末は全社埋まってます。渋谷の周りで",
+          "en": "Late October, they're all booked. Around Shibuya."
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "補助金は――",
+          "en": "A subsidy—"
+        },
+        {
+          "id": "p6-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "締切は春です",
+          "en": "The deadline was spring."
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "じゃあSNSで――",
+          "en": "Then social media—"
+        },
+        {
+          "id": "p6-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "商店街のアカウント、フォロワー十二人です",
+          "en": "The street's account has twelve followers."
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "間に合わないじゃない!!",
+          "en": "We'll never make it in time!!"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.514,
+          0.0115,
+          0.9832,
+          0.2605
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.486,
+          0.2605
+        ],
+        "3": [
+          0.0168,
+          0.2989,
+          0.9832,
+          0.682
+        ],
+        "4": [
+          0.514,
+          0.7203,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.7203,
+          0.486,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "出店料の半分は、あんたにお礼しよう",
+          "en": "I'll give you half the stall fees as thanks."
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "…………半分？",
+          "en": "............ Half?"
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "一区画二万、三十区画で六十万――",
+          "en": "20,000 a plot, thirty plots, 600,000—"
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "半分で三十万!!",
+          "en": "Half is 300,000!!"
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "僕の取り分は",
+          "en": "And my cut?"
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "お礼って、公務員でしょ!?",
+          "en": "Thanks!? You're a civil servant!!"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.514,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.486,
+          0.251
+        ],
+        "3": [
+          0.0168,
+          0.2893,
+          0.9832,
+          0.6724
+        ],
+        "4": [
+          0.514,
+          0.7107,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.7107,
+          0.486,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "人を呼ぶには、目玉が要る……",
+          "en": "To pull a crowd, we need a main attraction..."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "仮装コンテスト!!　お題は『市役所の課長』だァ!!",
+          "en": "A costume contest!! Theme: \"City Hall Section Chief\"!!"
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "段ボールの決裁印、一個五十円なら作ります",
+          "en": "I'll make cardboard APPROVED stamps. 50 yen each."
+        },
+        {
+          "id": "p8-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "若者の来訪者数……本庁に出せる数字……!!",
+          "en": "Young visitor numbers... numbers I can show the main building...!!"
+        },
+        {
+          "id": "p8-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……？",
+          "en": "...?"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3372
+        ],
+        "2": [
+          0.514,
+          0.3755,
+          0.9832,
+          0.6628
+        ],
+        "3": [
+          0.0168,
+          0.3755,
+          0.486,
+          0.6628
+        ],
+        "4": [
+          0.0168,
+          0.7011,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "パレードは道交法77条……",
+          "en": "A parade: Road Traffic Act, Article 77...",
+          "note": "In Japan, a parade on a public road needs a road use permit from the local police chief (Road Traffic Act, Art. 77)."
+        },
+        {
+          "id": "p9-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "警察署長の、道路使用許可……",
+          "en": "A road use permit from the police chief..."
+        },
+        {
+          "id": "p9-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――その夜。",
+          "en": "—That night."
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "屋台は道路法32条……市の、道路占用許可……",
+          "en": "Stalls: Road Act, Art. 32... a city occupancy permit...",
+          "note": "Stalls on a road need a separate road occupancy permit from the road's manager, here the city (Road Act, Art. 32)."
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "二つ要るのかよ!!",
+          "en": "I need TWO!?"
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "人数、区域、時間……条件つきか……!!",
+          "en": "Headcount, area, hours... it comes with conditions...!!"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3946
+        ],
+        "2": [
+          0.514,
+          0.433,
+          0.9832,
+          0.682
+        ],
+        "3": [
+          0.0168,
+          0.433,
+          0.486,
+          0.682
+        ],
+        "4": [
+          0.514,
+          0.7203,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.7203,
+          0.486,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "道路使用許可――完全に、理解したァ!!",
+          "en": "Road use permits— I've got 'em totally figured out!!"
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……ちゃんとしてる。テツなのに",
+          "en": "... He did it properly. Tetsu, of all people."
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "許可さえ取っちまえば、あとは何人来ようが自由!!",
+          "en": "Get the permit, and then anyone can come!!"
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……本当に？",
+          "en": "... Really?"
+        },
+        {
+          "id": "p10-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……ま、いっか。数字、数字!!",
+          "en": "... Eh, whatever. Numbers, numbers!!"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.514,
+          0.0115,
+          0.9832,
+          0.2797
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.486,
+          0.2797
+        ],
+        "3": [
+          0.0168,
+          0.318,
+          0.9832,
+          0.6245
+        ],
+        "4": [
+          0.514,
+          0.6628,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6628,
+          0.486,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お題の見本、撮れました。十五秒",
+          "en": "Got the theme sample. 15 seconds."
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "課長の眼鏡が光るとこ、完璧じゃねえか",
+          "en": "The Chief's glasses flashing — that's perfect!"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……再生、三十七回です",
+          "en": "... 37 views."
+        },
+        {
+          "id": "p11-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "眼鏡が光らないと、誰も真似できません",
+          "en": "Nobody can copy it if the glasses don't flash."
+        },
+        {
+          "id": "p11-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "光らねえなら――光らせりゃいい!!",
+          "en": "If they don't flash— then MAKE 'em flash!!"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3563
+        ],
+        "2": [
+          0.514,
+          0.3946,
+          0.9832,
+          0.682
+        ],
+        "3": [
+          0.0168,
+          0.3946,
+          0.486,
+          0.682
+        ],
+        "4": [
+          0.0168,
+          0.7203,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "百円の眼鏡に、LEDテープ……電池はボタン電池……",
+          "en": "100-yen glasses, LED tape... a button battery..."
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "その夜から、三日三晩。",
+          "en": "Three days and three nights from then."
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "光ったァァ!!",
+          "en": "IT LIT UPPP!!"
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "朝から何よ、それ!!",
+          "en": "First thing in the morning — what IS that!?"
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "かけるだけで課長!!　『ゴートク眼鏡』だ!!",
+          "en": "Put 'em on and you're the Chief!! \"Gotoku Glasses\"!!"
+        },
+        {
+          "id": "p12-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "インスタに上げます",
+          "en": "I'll post it on Instagram."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.514,
+          0.0115,
+          0.9832,
+          0.3372
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.486,
+          0.3372
+        ],
+        "3": [
+          0.0168,
+          0.3755,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……再生、十万超えました",
+          "en": "... It passed 100,000 views."
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "じゅ、十万!?",
+          "en": "A-a hundred thousand!?"
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "caption",
+          "ja": "かけるだけで、今すぐ課長。",
+          "en": "Just put them on. Instant Section Chief."
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.2989
+        ],
+        "2": [
+          0.514,
+          0.3372,
+          0.9832,
+          0.6245
+        ],
+        "3": [
+          0.0168,
+          0.3372,
+          0.486,
+          0.6245
+        ],
+        "4": [
+          0.0168,
+          0.6628,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "全国で、課長が増えはじめた。",
+          "en": "All over Japan, Section Chiefs began to multiply."
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "昼休みに課長",
+          "en": "Section Chief on my lunch break"
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "caption",
+          "ja": "「今年のハロウィンは、梨ヶ坂の坂で課長になる」",
+          "en": "\"This Halloween, I'm becoming a Section Chief on the Nashigasaka hill.\""
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "2": [
+          0.4664,
+          0.4138,
+          0.9832,
+          0.682
+        ],
+        "3": [
+          0.0168,
+          0.4138,
+          0.4384,
+          0.682
+        ],
+        "4": [
+          0.402,
+          0.7203,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.7203,
+          0.3739,
+          0.9885
+        ],
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3755
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "三千個、仕入れたぜ!!",
+          "en": "Stocked three thousand pairs!!"
+        },
+        {
+          "id": "p15-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "当日、屋台で一個千円だァ!!",
+          "en": "On the day, 1,000 yen a pop at the stall!!"
+        },
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "決裁印、予約三百個",
+          "en": "Stamps: 300 pre-orders."
+        },
+        {
+          "id": "p15-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "徹夜します。二十二時まで",
+          "en": "All-nighter. Till 10 p.m.",
+          "note": "Under Japan's Labor Standards Act, workers under 18 generally can't work between 10 p.m. and 5 a.m."
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "来訪者数、行ける……!!",
+          "en": "Visitor numbers... this could work...!!"
+        },
+        {
+          "id": "p15-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "坂が、札束に見えるぜ……!!",
+          "en": "The hill looks like a wad of cash...!!"
+        },
+        {
+          "id": "p15-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "今日は静かですね",
+          "en": "It's quiet today."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3372
+        ],
+        "2": [
+          0.514,
+          0.3755,
+          0.9832,
+          0.6628
+        ],
+        "3": [
+          0.0168,
+          0.3755,
+          0.486,
+          0.6628
+        ],
+        "4": [
+          0.0168,
+          0.7011,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……あった",
+          "en": "... Found it."
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ばあさんの字だ",
+          "en": "My wife's handwriting."
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……また、坂に灯せるなんてな",
+          "en": "... To think we'll light up the hill again..."
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "出店の申し込みも、八十区画に増えたよ",
+          "en": "Stall sign-ups went up to eighty plots, too."
+        },
+        {
+          "id": "p16-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "泣けるぜ……八十区画なら八十万……!!",
+          "en": "I'm tearing up... eighty plots is 800,000...!!"
+        },
+        {
+          "id": "p16-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "泣くか数えるか、どっちかにして!!",
+          "en": "Cry OR count — pick one!!"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3946
+        ],
+        "2": [
+          0.514,
+          0.433,
+          0.9832,
+          0.6916
+        ],
+        "3": [
+          0.0168,
+          0.433,
+          0.486,
+          0.6916
+        ],
+        "4": [
+          0.5602,
+          0.7299,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.7299,
+          0.5322,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "そして、運命の土曜日。",
+          "en": "And then came that fateful Saturday."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "区域？　坂は全部、商店街だ!!",
+          "en": "Area? The whole hill's the shopping street!!"
+        },
+        {
+          "id": "p17-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "並べろ並べろォ!!",
+          "en": "Line 'em up, line 'em up!!"
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "源田さん、車道まで……ええのかね",
+          "en": "Mr. Genda, out onto the road too... is that all right?"
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "三百……四百……五百!!",
+          "en": "300... 400... 500!!"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3755
+        ],
+        "2": [
+          0.514,
+          0.4138,
+          0.9832,
+          0.7011
+        ],
+        "3": [
+          0.0168,
+          0.4138,
+          0.486,
+          0.7011
+        ],
+        "4": [
+          0.0168,
+          0.7395,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "手ぶらでOK!!　かけるだけで、いまから課長だ!!",
+          "en": "No costume needed!! Put 'em on and you're the Chief!!"
+        },
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "秒で課長じゃん!!",
+          "en": "Section Chief in one second!!"
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "千円、千円、また千円!!",
+          "en": "A thousand, a thousand, another thousand!!"
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "三千個が、もう……",
+          "en": "All three thousand are already..."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.3372
+        ],
+        "2": [
+          0.514,
+          0.3755,
+          0.9832,
+          0.6628
+        ],
+        "3": [
+          0.0168,
+          0.3755,
+          0.486,
+          0.6628
+        ],
+        "4": [
+          0.0168,
+          0.7011,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "二十一時？　知るか、延長だァァ!!",
+          "en": "9 p.m.? Who cares — we're going overtime!!"
+        },
+        {
+          "id": "p19-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "二十一時。",
+          "en": "9 p.m."
+        },
+        {
+          "id": "p19-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "二十二時なので、僕は帰ります",
+          "en": "It's 10 p.m., so I'm going home."
+        },
+        {
+          "id": "p19-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "法律なんで",
+          "en": "It's the law."
+        },
+        {
+          "id": "p19-3-3",
+          "panel": 3,
+          "type": "caption",
+          "ja": "二十一時五十八分。",
+          "en": "9:58 p.m."
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "いったい何人いるのよ？",
+          "en": "How many people are even here!?"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.2989
+        ],
+        "2": [
+          0.514,
+          0.3372,
+          0.9832,
+          0.6245
+        ],
+        "3": [
+          0.0168,
+          0.3372,
+          0.486,
+          0.6245
+        ],
+        "4": [
+          0.0168,
+          0.6628,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "二十二時。まだ来る。",
+          "en": "10 p.m. They keep coming."
+        },
+        {
+          "id": "p20-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "渋谷から来ました!!",
+          "en": "We came from Shibuya!!"
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "梨ヶ坂、いま課長だらけです!!",
+          "en": "Nashigasaka's full of Section Chiefs right now!!"
+        },
+        {
+          "id": "p20-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "売り切れても来るのかよォ!!",
+          "en": "Sold out and they STILL come!?"
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.6245
+        ],
+        "2": [
+          0.514,
+          0.6628,
+          0.9832,
+          0.9885
+        ],
+        "3": [
+          0.0168,
+          0.6628,
+          0.486,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p21-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "推定、三千人。",
+          "en": "Estimated: three thousand."
+        },
+        {
+          "id": "p21-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……動けません",
+          "en": "... I can't move."
+        },
+        {
+          "id": "p21-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "さ、三千……？",
+          "en": "Th-three thousand...?"
+        },
+        {
+          "id": "p21-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "これ、やばいのでは……",
+          "en": "Isn't this... bad?"
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.2797
+        ],
+        "2": [
+          0.514,
+          0.318,
+          0.9832,
+          0.567
+        ],
+        "3": [
+          0.0168,
+          0.318,
+          0.486,
+          0.567
+        ],
+        "4": [
+          0.0168,
+          0.6054,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p22-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "許可は百名・歩道・二十一時まで！",
+          "en": "The permit said 100 people, sidewalks only, until 9 p.m.!"
+        },
+        {
+          "id": "p22-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "車道の屋台は、占用許可もないでしょう!!",
+          "en": "And the stalls on the road don't even have an occupancy permit!!"
+        },
+        {
+          "id": "p22-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "条件を破るのは、無許可と同じ罰則です!!",
+          "en": "Breaking the conditions gets the same penalty as no permit!!"
+        },
+        {
+          "id": "p22-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "何人来ても自由って言ったの、誰!!",
+          "en": "Who said it didn't matter how many showed up!?"
+        },
+        {
+          "id": "p22-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "責任者の、市役所の課長さんは!!",
+          "en": "Where's the man in charge — the City Hall Section Chief!?"
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "panels": {
+        "1": [
+          0.5602,
+          0.0115,
+          0.9832,
+          0.2414
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.5322,
+          0.2414
+        ],
+        "3": [
+          0.0168,
+          0.2797,
+          0.9832,
+          0.5862
+        ],
+        "4": [
+          0.6457,
+          0.6245,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0168,
+          0.6245,
+          0.6176,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p23-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……はい。梨ヶ坂警察署の",
+          "en": "... Yes. Nashigasaka Police?"
+        },
+        {
+          "id": "p23-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "私の監督不行き届きです。申し訳ございません",
+          "en": "It was my failure of supervision. I deeply apologize."
+        },
+        {
+          "id": "p23-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "源田さん",
+          "en": "Mr. Genda."
+        },
+        {
+          "id": "p23-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "三千人を、歩道と公園へ。お一人ずつ、丁寧に",
+          "en": "Move all three thousand to the sidewalks and the park. One by one, politely."
+        },
+        {
+          "id": "p23-5-3",
+          "panel": 5,
+          "type": "speech",
+          "ja": "さ、三千人を……一人ずつ……",
+          "en": "Th-three thousand... one by one..."
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "panels": {
+        "1": [
+          0.6078,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.5798,
+          0.251
+        ],
+        "3": [
+          0.514,
+          0.2893,
+          0.9832,
+          0.5383
+        ],
+        "4": [
+          0.0168,
+          0.2893,
+          0.486,
+          0.5383
+        ],
+        "5": [
+          0.0168,
+          0.5766,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p24-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "課長の列じゃねえ!!　公園へどうぞォ!!",
+          "en": "Not the Chief line!! To the park!!"
+        },
+        {
+          "id": "p24-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "会場を、坂上公園へ移させてください",
+          "en": "We're moving the venue to Sakaue Park."
+        },
+        {
+          "id": "p24-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "歩道だけで、上ってください",
+          "en": "Please walk up on the sidewalks only."
+        },
+        {
+          "id": "p24-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "出店料は、全額お返しします!!",
+          "en": "Full refunds on stall fees!!"
+        },
+        {
+          "id": "p24-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おれの三十万……",
+          "en": "My 300K..."
+        },
+        {
+          "id": "p24-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ばあさんのちょうちんに、火を入れるぞ",
+          "en": "Let's light my wife's lanterns."
+        },
+        {
+          "id": "p24-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ばあさん、見とるか。坂が光っとるぞ",
+          "en": "Are you watching, dear? The hill's all lit up."
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "panels": {
+        "1": [
+          0.6078,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.0168,
+          0.0115,
+          0.5798,
+          0.251
+        ],
+        "3": [
+          0.514,
+          0.2893,
+          0.9832,
+          0.5383
+        ],
+        "4": [
+          0.2129,
+          0.2893,
+          0.486,
+          0.5383
+        ],
+        "5": [
+          0.0168,
+          0.2893,
+          0.1849,
+          0.5383
+        ],
+        "6": [
+          0.0168,
+          0.5766,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p25-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……空っぽだ",
+          "en": "... Empty."
+        },
+        {
+          "id": "p25-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "課長部門、第三位――",
+          "en": "Section Chief category, third place—"
+        },
+        {
+          "id": "p25-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "――えっ",
+          "en": "—Huh?"
+        },
+        {
+          "id": "p25-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "どうやって案内するんだよ!!",
+          "en": "How do I guide 'em now!?"
+        },
+        {
+          "id": "p25-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……道が、見えない",
+          "en": "... I can't see the road."
+        },
+        {
+          "id": "p25-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "うわ、停電かよ!?",
+          "en": "Whoa, blackout!?"
+        },
+        {
+          "id": "p25-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……眼鏡、消えてねえ",
+          "en": "... The glasses are still lit."
+        },
+        {
+          "id": "p25-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "これ……道みてえだ",
+          "en": "It's like... a path."
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "panels": {
+        "1": [
+          0.0168,
+          0.0115,
+          0.9832,
+          0.4234
+        ],
+        "2": [
+          0.514,
+          0.4617,
+          0.9832,
+          0.7011
+        ],
+        "3": [
+          0.0168,
+          0.4617,
+          0.486,
+          0.7011
+        ],
+        "4": [
+          0.0168,
+          0.7395,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p26-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……まだ、点いてやがる",
+          "en": "... Still glowing, the little things."
+        },
+        {
+          "id": "p26-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……こんなん、誘導灯いらねえじゃねえか",
+          "en": "... With this, who needs guide lights?"
+        },
+        {
+          "id": "p26-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……滑走路？",
+          "en": "... A runway?"
+        },
+        {
+          "id": "p26-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ばあさん、ちょうちんより明るいのが出たぞ",
+          "en": "Dear, we got something brighter than lanterns."
+        },
+        {
+          "id": "p26-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……これ、みんな私の物まねなのですが",
+          "en": "... These are all impressions of me, though."
+        },
+        {
+          "id": "p26-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "今年は最初から、誘導係です……",
+          "en": "This year I'm on crowd control from the start..."
+        },
+        {
+          "id": "p26-4-3",
+          "panel": 4,
+          "type": "caption",
+          "ja": "翌年。",
+          "en": "The next year."
+        }
+      ]
+    }
+  ]
+}

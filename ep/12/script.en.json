@@ -1,0 +1,1849 @@
+{
+  "episode": "12",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4113,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.3985,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ひ、ひびれる!! ひびれるのに、止まらんッ!!",
+          "en": "N-numb!! My mouth's numb, but I can't stop!!"
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "梨ヶ坂市役所・地下。課長は本庁の研修で留守。",
+          "en": "Nashigasaka City Hall, the basement. The Chief is away at training in the main building."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "caption",
+          "ja": "梨ヶ坂駅前。昼。",
+          "en": "Nashigasaka Station. Noon."
+        },
+        {
+          "id": "p1-2-2",
+          "panel": 2,
+          "type": "caption",
+          "ja": "麻辣湯は、女性に大人気。駅前は昼に百人の行列。",
+          "en": "Mala-tang is a huge hit with women. A hundred-person line at lunch.",
+          "note": "Mala-tang (malatang) is a Chinese spicy, numbing soup where you pick your own toppings and pay by weight. It has been a big trend in Japan, especially among young women."
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……四杯目ね。空き容器、数えたわよ",
+          "en": "...Bowl number four. I counted the empties."
+        },
+        {
+          "id": "p1-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "専門店、急増中です",
+          "en": "Shops are booming."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "レナさんも、先週並びましたよね",
+          "en": "You stood in line last week too, Rena."
+        },
+        {
+          "id": "p1-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……調査よ",
+          "en": "...Research."
+        },
+        {
+          "id": "p1-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "量り売りだ。好きなだけ盛って、重さで払う",
+          "en": "Sold by weight. Pile it high, pay by the gram."
+        },
+        {
+          "id": "p1-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "おれの胃のための店だ",
+          "en": "A shop made for my stomach."
+        },
+        {
+          "id": "p1-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "あの……トレンドの係って、ここですか……",
+          "en": "Um... is this the trends unit...?"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5064,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.4936,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "八木大地です。『八木軒』の、せがれで……",
+          "en": "I'm Daichi Yagi. My dad runs Yagi-ken..."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "産業振興課、商工課、保健所、また産業振興課……",
+          "en": "Industry Promo, Commerce, Health, Industry Promo again..."
+        },
+        {
+          "id": "p2-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "四つ回されて、最後に『流行のことなら地下へ』と",
+          "en": "Four desks, and the last one said, \"Trends? Try the basement.\""
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ここ、終点ですね",
+          "en": "End of the line, huh."
+        },
+        {
+          "id": "p2-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ひゅ、ひゅうひぇん……",
+          "en": "W-welcome... (numb)"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.4137
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.4137
+        ],
+        "3": [
+          0.4113,
+          0.4318,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.4318,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.6015,
+          0.7191,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.5887,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "八木軒は、四十年。ラーメンとタンメンだけの店です。",
+          "en": "Yagi-ken's been open forty years. Just ramen and tanmen."
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "今は、一日に二十人です",
+          "en": "Now we get twenty customers a day."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "caption",
+          "ja": "商店街の裏。八木軒。",
+          "en": "Behind the shopping street. Yagi-ken."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "東京の麻辣湯の店で、三年働きました。",
+          "en": "I worked three years at a mala-tang shop in Tokyo."
+        },
+        {
+          "id": "p3-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "どの店も、具は自分で選んで重さで払う",
+          "en": "Pick your toppings, pay by weight."
+        },
+        {
+          "id": "p3-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "あれなら、八木軒にも客が来る",
+          "en": "With that, Yagi-ken would get customers."
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "百グラムいくら、ですね",
+          "en": "So much per hundred grams, right?"
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "親父は『春雨をゆでるか』と大反対で。",
+          "en": "Dad's dead against it. \"Me? Boil glass noodles?\""
+        },
+        {
+          "id": "p3-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "店は、終わらせたくない",
+          "en": "But I don't want the shop to die."
+        },
+        {
+          "id": "p3-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "ひ、ひびれが……もどって、きた……",
+          "en": "Th-the numbness... it's coming back..."
+        },
+        {
+          "id": "p3-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "開店の日は、おれが一番客だ",
+          "en": "On opening day, I'm your first customer."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "具は三十種類。重さで決めるのが公平",
+          "en": "Thirty toppings. Pricing by weight is fair."
+        },
+        {
+          "id": "p4-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "ラーメンは、一杯いくらでいい。定額だと、選ぶ楽しさが消える。",
+          "en": "Ramen can be a flat price per bowl. But a flat price kills the fun of choosing."
+        },
+        {
+          "id": "p4-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "麻辣湯は、重さで量るから成り立つんです",
+          "en": "Mala-tang only works because you weigh it."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "重さで売れば『取引』。検定付きのはかりが必須よ",
+          "en": "Sell by weight, it's a \"transaction.\" You need a verified scale.",
+          "note": "Real law: under Japan's Measurement Act, any scale used to sell goods by weight must be a government-verified (kentei) scale bearing an official verification mark."
+        },
+        {
+          "id": "p4-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "検定の印がないはかりは、取引に使えません",
+          "en": "A scale without the verification mark can't be used for sales."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "肉だけ百グラム……ひゃ、ひゃくぐらむ……",
+          "en": "A hundred grams of just meat... a hun-hundred grams..."
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "重く出ればお客が払い過ぎ。軽く出ればお店の損",
+          "en": "If it reads heavy, customers overpay. Light, the shop loses."
+        },
+        {
+          "id": "p4-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "二年に一度、市の検査もあります",
+          "en": "City inspections every two years, too.",
+          "note": "Real rule: verified scales used in trade must pass a periodic inspection by the prefecture or city once every two years."
+        },
+        {
+          "id": "p4-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "食材を量るだけの調理用は、検定いらないけど",
+          "en": "Kitchen-only scales don't need it, though."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.4113,
+          0.4833,
+          0.9846,
+          0.8862
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.3985,
+          0.8862
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ネットで買った、検定の印のないはかりじゃ、だめだと",
+          "en": "They said my online scale has no verification mark, so it's no good."
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "検定付きは、台所のはかりよりずっと高くて",
+          "en": "Verified ones cost way more than kitchen scales."
+        },
+        {
+          "id": "p5-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "親父は、金を出してくれません",
+          "en": "And Dad won't pay for one."
+        },
+        {
+          "id": "p5-1-4",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……このままじゃ、始められないんです",
+          "en": "...At this rate, I can't even open."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "はかりなんざ、数字が出りゃ同じだろ",
+          "en": "A scale's a scale. If it shows a number, it's fine."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "同じじゃないから、国が決めてるの",
+          "en": "It's NOT the same. That's why the government regulates it."
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "チラシも刷りました。開店は、来週の月曜で……",
+          "en": "I already printed flyers. We open next Monday..."
+        },
+        {
+          "id": "p6-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "どうにかなるなら、昼は毎日、一杯ごちそうします！",
+          "en": "If you can fix this, lunch is on me every day!"
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "(テツの目が、もう麻辣湯の色……)",
+          "en": "(His eyes are already chili-red...)"
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "昼は毎日、八木軒で一杯タダ!! 一生しびれるぞ!!",
+          "en": "Free bowl at Yagi-ken every day!! Numb for life!!"
+        },
+        {
+          "id": "p6-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "その一杯、僕の取り分を先に引きます",
+          "en": "I'll take my cut of that bowl up front."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.347,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3342,
+          0.3379
+        ],
+        "3": [
+          0.0154,
+          0.3559,
+          0.3342,
+          0.6829
+        ],
+        "4": [
+          0.4113,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0154,
+          0.701,
+          0.3985,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "検定ってのは、お墨付きだ!!",
+          "en": "\"Verification\" just means a seal of approval!!"
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "証印ってのは、ハンコだ!!",
+          "en": "And a \"mark\" is just a stamp!!"
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "検査は市がやるんだろ。",
+          "en": "The city does the inspections, right?"
+        },
+        {
+          "id": "p7-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "なら市のハンコだ。地下にもある",
+          "en": "So it's a city stamp. We've got those down here."
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……そうかしら",
+          "en": "...Do we, now?"
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "(地下の係が、一気に実績を……)",
+          "en": "(A big win for the basement unit, just like that...)"
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "検定？ お墨付きなら、おれが出す!!",
+          "en": "Verification? I'll give you a seal of approval myself!!"
+        },
+        {
+          "id": "p7-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "市のお墨付き……それなら、始められます",
+          "en": "The city's seal of approval... then I can open!"
+        },
+        {
+          "id": "p7-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "『認定』だ。大地はタダ。",
+          "en": "It's \"Certified.\" Free for Daichi."
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "シール一枚、原価二十円",
+          "en": "One sticker. Costs twenty yen to make."
+        },
+        {
+          "id": "p7-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……じゃあ他の店は、有料ですね",
+          "en": "...So other shops pay for theirs."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5064,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.4936,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "できた!! 市のお墨付きだ!!",
+          "en": "Done!! The city's seal of approval!!"
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "百枚、刷りました",
+          "en": "I printed a hundred."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ペタッ。これで、検定付きと同じだ!!",
+          "en": "Slap. Now it's as good as verified!!"
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "caption",
+          "ja": "翌朝。八木軒。",
+          "en": "Next morning. Yagi-ken."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.347,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3342,
+          0.3379
+        ],
+        "3": [
+          0.0154,
+          0.3559,
+          0.3342,
+          0.6829
+        ],
+        "4": [
+          0.4113,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0154,
+          0.701,
+          0.3985,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "帰れ。うちは、ラーメン屋だ",
+          "en": "Go home. This is a ramen shop."
+        },
+        {
+          "id": "p9-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "はかりなんぞ、わしは目分量だ",
+          "en": "Scales? I eyeball everything."
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "はい、市のお墨付き!!",
+          "en": "City-approved!!"
+        },
+        {
+          "id": "p9-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "開店の日は、おれが最初の客な",
+          "en": "And I'm the first customer on opening day."
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "親父。味見だけでも",
+          "en": "Dad. Just taste it."
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……ヒリッとくる",
+          "en": "...That's got a bite."
+        },
+        {
+          "id": "p9-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……野菜が、水っぽい",
+          "en": "...The veggies are watery."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "うちのタンメンはな、強火で野菜を炒めて",
+          "en": "Our tanmen, you stir-fry the veggies on high heat,"
+        },
+        {
+          "id": "p10-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "甘みを出してから煮る。先に炒めろ",
+          "en": "bring out the sweetness, then simmer. Fry 'em first."
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "麻辣湯と、親父のタンメン……",
+          "en": "Mala-tang, and Dad's tanmen...",
+          "note": "Tanmen is a Japanese salt-based noodle soup topped with stir-fried vegetables."
+        },
+        {
+          "id": "p10-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "『マーラータンメン』だ!!",
+          "en": "\"Mala-Tanmen\"!!"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……腹、減った",
+          "en": "...I'm starving."
+        },
+        {
+          "id": "p10-3-2",
+          "panel": 3,
+          "type": "caption",
+          "ja": "四十年の、火力。",
+          "en": "Forty years of firepower."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.347,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3342,
+          0.3379
+        ],
+        "3": [
+          0.0154,
+          0.3559,
+          0.3342,
+          0.6829
+        ],
+        "4": [
+          0.4113,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0154,
+          0.701,
+          0.3985,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "SNSで見ました。『マーラータンメン』!",
+          "en": "I saw it online. \"Mala-Tanmen\"!"
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "SNSに『市認定のはかり』って。安心ね",
+          "en": "Online they said \"city-certified scale.\" How reassuring."
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "百グラムです。ありがとうございます!",
+          "en": "A hundred grams. Thank you!"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ひ、ひびれる……ただ飯は、うまい……",
+          "en": "N-numb... free food tastes the best..."
+        },
+        {
+          "id": "p11-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ほらな、シールが客を呼ぶ",
+          "en": "See? The sticker brings 'em in."
+        },
+        {
+          "id": "p11-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "五杯目です。僕の取り分、先に引いときます",
+          "en": "That's five bowls. I'll take my cut now."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.5064,
+          0.4806,
+          0.9846,
+          0.9846
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.4936,
+          0.9846
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……花椒が、目に染みた",
+          "en": "...The Sichuan pepper got in my eyes."
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……うん。おれも",
+          "en": "...Yeah. Mine too."
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ラーメン屋は、お前の代で終わると思ってた",
+          "en": "I figured the ramen shop would end with you."
+        },
+        {
+          "id": "p12-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "終わらせなくて済む。……それだけだ",
+          "en": "Now it doesn't have to. ...That's all."
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……よかったな。で、明日の昼の一杯は？",
+          "en": "...Good for you. So, what's tomorrow's lunch?"
+        },
+        {
+          "id": "p12-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "恥を知りなさい",
+          "en": "Have some shame."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "あのシールが付いてから行列でしょ",
+          "en": "They've had lines since that sticker went up."
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "うちも来月から量り売りだ",
+          "en": "We're going by-weight next month too."
+        },
+        {
+          "id": "p13-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "あのシール、売ってくれ",
+          "en": "Sell us one of those stickers."
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "一枚千円……繁盛店価格で、三千円",
+          "en": "A thousand yen each... busy-shop rate, three thousand."
+        },
+        {
+          "id": "p13-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一軒、三千円!! 昼飯付き!! 三十軒だァァ!!",
+          "en": "Three thousand a shop!! Lunch included!! Thirty shops!!"
+        },
+        {
+          "id": "p13-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "(三十軒……本庁に戻れる数字よ)",
+          "en": "(Thirty shops... that's my ticket back to the main building.)"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.5064,
+          0.0108,
+          0.9846,
+          0.5149
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4936,
+          0.5149
+        ],
+        "3": [
+          0.0154,
+          0.533,
+          0.9846,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "か、辛い……涙が、止まらん……",
+          "en": "S-so spicy... I can't stop crying..."
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "涙が出る辛さ、略して『泣きたい辛さ』!!",
+          "en": "Spicy enough to cry: \"Weep Heat\"!!"
+        },
+        {
+          "id": "p14-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "涙の量をはかって、SNSに載せさせろ!!",
+          "en": "Weigh their tears and make 'em post it!!"
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "追加の香辛料は、十グラム単位の量り売りで",
+          "en": "Extra spice, sold by weight in ten-gram units."
+        },
+        {
+          "id": "p14-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "辛さは、多いほどいいのよ",
+          "en": "The spicier the better."
+        },
+        {
+          "id": "p14-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "拡散した分の歩合、ですよね",
+          "en": "And I get a cut of every share, right?"
+        },
+        {
+          "id": "p14-3-4",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……そうかしら",
+          "en": "...Do you, now?"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "涙の量、はかっちゃいます!",
+          "en": "Let's weigh your tears!"
+        },
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "涙の量、八グラム!!",
+          "en": "Eight grams of tears!!"
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おれは十二グラム!",
+          "en": "I got twelve grams!"
+        },
+        {
+          "id": "p15-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "私も負けないわよ",
+          "en": "I won't lose either."
+        },
+        {
+          "id": "p15-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "もっと辛く!!",
+          "en": "Spicier!!"
+        },
+        {
+          "id": "p15-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "いいぞ、バズるぞ",
+          "en": "Yes! It's going viral!"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5064,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.4936,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "地下の係が、市内二十店を認定!!",
+          "en": "Basement unit certifies twenty shops citywide!!"
+        },
+        {
+          "id": "p16-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "本庁に、戻れる!!",
+          "en": "I can go back to the main building!!"
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "歩合、先月の十倍です",
+          "en": "My cut is ten times last month's."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "検査が来たらどうするの？",
+          "en": "What if an inspector shows up?"
+        },
+        {
+          "id": "p17-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "このシールを見せりゃ通る!! 市のお墨付きだ!!",
+          "en": "Show 'em this sticker and you're through!! City-approved!!"
+        },
+        {
+          "id": "p17-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "三十軒。",
+          "en": "Thirty shops."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5064,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.4936,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "三十一軒。梨ヶ坂の流通を、地下が支えてるわ",
+          "en": "Thirty-one. The basement is holding up Nashigasaka's commerce."
+        },
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "(産業振興課から照会……あとで読むわ)",
+          "en": "(An inquiry from Industry Promotion... I'll read it later.)"
+        },
+        {
+          "id": "p18-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……さんぜん……えん……おかわり……",
+          "en": "...three... thousand... yen... seconds..."
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "課長が戻るのは、十日後です",
+          "en": "The Chief gets back in ten days."
+        },
+        {
+          "id": "p18-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "歩合、今週も倍です",
+          "en": "My cut doubled again this week."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.347,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3342,
+          0.3379
+        ],
+        "3": [
+          0.0154,
+          0.3559,
+          0.3342,
+          0.6829
+        ],
+        "4": [
+          0.4113,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0154,
+          0.701,
+          0.3985,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十日後。八木軒の昼。",
+          "en": "Ten days later. Lunch at Yagi-ken."
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "計量検査係の秤田です。照会にご回答がなかったもので",
+          "en": "Hakarida, Weights and Measures. You never answered our inquiry,"
+        },
+        {
+          "id": "p19-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "はかりの立入検査に参りました",
+          "en": "so we're here to inspect your scales."
+        },
+        {
+          "id": "p19-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……検査？",
+          "en": "...Inspect?"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "一キロの分銅で、千四十六グラム。",
+          "en": "A one-kilo weight reads 1,046 grams."
+        },
+        {
+          "id": "p20-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "四・六パーセント、重く出ています",
+          "en": "That's 4.6 percent heavy."
+        },
+        {
+          "id": "p20-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "え!? 毎日、ちょっと多く、払ってた……!?",
+          "en": "Huh!? So every day, we were overpaying a little...!?"
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……ひ、ひびれが……止まった……",
+          "en": "...Th-the numbness... it stopped..."
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4598
+        ],
+        "2": [
+          0.4113,
+          0.4779,
+          0.9846,
+          0.7471
+        ],
+        "3": [
+          0.0154,
+          0.4779,
+          0.3985,
+          0.7471
+        ],
+        "4": [
+          0.5064,
+          0.7651,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.7651,
+          0.4936,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p21-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "産業振興課の回覧で、知りました",
+          "en": "I heard from the Industry Promotion memo."
+        },
+        {
+          "id": "p21-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "市の者が、大変なご迷惑を",
+          "en": "One of our staff has caused you great trouble."
+        },
+        {
+          "id": "p21-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "重さで売れば『取引』。検定の証印付きだけです",
+          "en": "Sell by weight, it's a \"transaction.\" Only scales with the verification mark."
+        },
+        {
+          "id": "p21-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "この『認定』は、市にはない制度です",
+          "en": "The city has no such \"certification.\""
+        },
+        {
+          "id": "p21-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "いや、あの、ハンコは、地下にも……",
+          "en": "N-no, but, we've got stamps down in the basement..."
+        },
+        {
+          "id": "p21-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "検定は、国の決まり。市の検査は、その見張り役",
+          "en": "Verification is national law. City inspections just keep watch.",
+          "note": "Verification follows national rules; local governments only run the periodic inspections. A city cannot issue its own \"certification\" in place of it."
+        },
+        {
+          "id": "p21-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "払い過ぎるのは、お客さんです",
+          "en": "The ones who overpay are the customers."
+        },
+        {
+          "id": "p21-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ほかの店にも、貼っていますね？",
+          "en": "You've put these on other shops too, haven't you?"
+        },
+        {
+          "id": "p21-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……ぼくが、頼んだんです",
+          "en": "...I'm the one who asked him to."
+        },
+        {
+          "id": "p21-5-3",
+          "panel": 5,
+          "type": "speech",
+          "ja": "私の実績がァ!!",
+          "en": "My big win!!"
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p22-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "その夜。",
+          "en": "That night."
+        },
+        {
+          "id": "p22-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "源田さん。三十軒、全額お返しします",
+          "en": "Mr. Genda. We'll refund all thirty shops in full."
+        },
+        {
+          "id": "p22-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "そして、一枚ずつ、剥がしに参ります",
+          "en": "And then we'll go peel off every sticker, one by one."
+        },
+        {
+          "id": "p22-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "秤田さんの、分銅ケースを担いで",
+          "en": "Carrying Mr. Hakarida's weight case."
+        },
+        {
+          "id": "p22-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ぶ、分銅ケース……!?",
+          "en": "Th-the weight case...!?"
+        },
+        {
+          "id": "p22-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "手柄は、返上ね",
+          "en": "So much for the credit."
+        },
+        {
+          "id": "p22-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "歩合の返金分、僕も払うんですか",
+          "en": "Do I have to pay back my cut too?"
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p23-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "あと、二十九軒です",
+          "en": "29 more to go."
+        },
+        {
+          "id": "p23-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ぜぇ……ぜぇ……",
+          "en": "Huff... huff..."
+        },
+        {
+          "id": "p23-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "ひと月後。",
+          "en": "A month later."
+        },
+        {
+          "id": "p23-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "平日は一杯いくら",
+          "en": "Weekdays, flat price per bowl."
+        },
+        {
+          "id": "p23-2-2",
+          "panel": 2,
+          "type": "caption",
+          "ja": "検定付きは、親父が黙って買った",
+          "en": "Dad bought the verified scale without a word."
+        },
+        {
+          "id": "p23-2-3",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ただ飯も、ねえ",
+          "en": "And no more free lunches."
+        },
+        {
+          "id": "p23-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "課長に持ってく",
+          "en": "I'll take this to the Chief."
+        },
+        {
+          "id": "p23-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ちょっと、それ、私の……",
+          "en": "Hey, wait, that's my..."
+        },
+        {
+          "id": "p23-3-3",
+          "panel": 3,
+          "type": "caption",
+          "ja": "ひと月後の昼。係室。",
+          "en": "A month later, at lunch. The unit's office."
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.5064,
+          0.2981,
+          0.9846,
+          0.5221
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.4936,
+          0.5221
+        ],
+        "5": [
+          0.0154,
+          0.5402,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p24-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "親父さんから、課長に",
+          "en": "From his dad, for the Chief."
+        },
+        {
+          "id": "p24-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "課長、いつも頭を下げてくれて、ありがとうございます",
+          "en": "Chief, thank you for always bowing your head for us."
+        },
+        {
+          "id": "p24-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……いただきます",
+          "en": "...Thank you for the meal."
+        },
+        {
+          "id": "p24-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "あ……",
+          "en": "Ah..."
+        },
+        {
+          "id": "p24-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "か、かりゃい……かりゃいから、れす……",
+          "en": "I-ith thpicy... it'th becauth it'th thpicy..."
+        },
+        {
+          "id": "p24-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……私の十倍が……ごめんなさい、課長",
+          "en": "...Ten times my spice... I'm sorry, Chief."
+        },
+        {
+          "id": "p24-5-3",
+          "panel": 5,
+          "type": "speech",
+          "ja": "それ、辛いからだけじゃ、ないと思います",
+          "en": "I don't think it's just the spice."
+        }
+      ]
+    }
+  ]
+}

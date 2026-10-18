@@ -1,0 +1,1669 @@
+{
+  "episode": "11",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.4198,
+          0.0153,
+          0.9805,
+          0.2758
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.3919,
+          0.2758
+        ],
+        "3": [
+          0.6067,
+          0.3101,
+          0.9805,
+          0.5706
+        ],
+        "4": [
+          0.0209,
+          0.3082,
+          0.5816,
+          0.5687
+        ],
+        "5": [
+          0.4226,
+          0.6031,
+          0.9833,
+          0.9866
+        ],
+        "6": [
+          0.0181,
+          0.605,
+          0.3919,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十月。梨ヶ坂市役所・地下。",
+          "en": "October. Nashigasaka City Hall, the basement."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "本庁の産業課から、視察をひとつ……",
+          "en": "The main building's Industry Division wants an inspection visit..."
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "愛媛県、新居浜市の工場です",
+          "en": "A factory in Niihama City, Ehime."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "出張ォォ!!　行きます!!",
+          "en": "A business trip!! I'm going!!"
+        },
+        {
+          "id": "p1-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "視察＝見るだけ＝旅行!!",
+          "en": "Inspection = looking = vacation!!"
+        },
+        {
+          "id": "p1-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "視察レポート……本庁に名前が残る!!",
+          "en": "An inspection report... my name gets known at the main building!!"
+        },
+        {
+          "id": "p1-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "僕は学校なので留守番です。時給で",
+          "en": "I've got school, so I'll hold the fort. Paid hourly."
+        },
+        {
+          "id": "p1-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "私は同じ週に有給を。お遍路の続きです",
+          "en": "I'm taking paid leave that week. More of my pilgrimage."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.0181,
+          0.0153,
+          0.9805,
+          0.4542
+        ],
+        "2": [
+          0.5132,
+          0.4885,
+          0.9805,
+          0.7013
+        ],
+        "3": [
+          0.0181,
+          0.4885,
+          0.4854,
+          0.7013
+        ],
+        "4": [
+          0.4198,
+          0.7357,
+          0.9805,
+          0.9885
+        ],
+        "5": [
+          0.0181,
+          0.7357,
+          0.3919,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "瀬戸大橋を渡って、愛媛県新居浜市。",
+          "en": "Across the Seto Ohashi Bridge: Niihama, Ehime."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……その浮き輪、何",
+          "en": "...Swim ring?"
+        },
+        {
+          "id": "p2-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "視察だろ？　見るだけなら海も見る",
+          "en": "Inspection, right? I'll inspect the sea."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "新居浜は、別子銅山とともに育った工業の町",
+          "en": "Niihama is a factory town that grew up with the Besshi Copper Mine."
+        },
+        {
+          "id": "p2-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "1691年に掘りはじめて、閉山は1973年。283年よ",
+          "en": "Mining began in 1691 and ended in 1973. 283 years."
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "つまり、うまいもんの町だな!!",
+          "en": "So basically, it's a town with good food!!"
+        },
+        {
+          "id": "p2-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "聞きなさいよ!!",
+          "en": "LISTEN TO ME!!"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.5132,
+          0.0153,
+          0.9805,
+          0.2281
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.4854,
+          0.2281
+        ],
+        "3": [
+          0.0209,
+          0.2586,
+          0.9833,
+          0.6975
+        ],
+        "4": [
+          0.6067,
+          0.7357,
+          0.9805,
+          0.9885
+        ],
+        "5": [
+          0.0181,
+          0.7357,
+          0.5788,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "おお、来たか!!　応援の人やな!!",
+          "en": "Hey, you made it!! You're the extra hands!!"
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "へ？",
+          "en": "Huh?"
+        },
+        {
+          "id": "p3-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ええ肩しとる!!　早う着替え!!",
+          "en": "Nice shoulders!! Go get changed, quick!!"
+        },
+        {
+          "id": "p3-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ちがっ……私たちは視察で……!!",
+          "en": "N-no... we're here to inspect...!!"
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "昼は弁当、出るけん!!",
+          "en": "Lunch is on us!!"
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "弁当……",
+          "en": "Lunch boxes..."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.3361,
+          0.0153,
+          0.9805,
+          0.3101
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.3082,
+          0.3101
+        ],
+        "3": [
+          0.5132,
+          0.3445,
+          0.9805,
+          0.6641
+        ],
+        "4": [
+          0.0181,
+          0.3445,
+          0.4854,
+          0.6641
+        ],
+        "5": [
+          0.3361,
+          0.6985,
+          0.9805,
+          0.9885
+        ],
+        "6": [
+          0.0181,
+          0.6985,
+          0.3082,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "兄ちゃん、ようけ持つなぁ!!",
+          "en": "Kid, you sure can haul!!"
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "視察の方？　すまんねぇ、人が足らんのよ",
+          "en": "Inspectors? Sorry, we're short-handed."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "見るなら、やりながら見てくれや",
+          "en": "If you wanna look, look while you work."
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……同じ数字を、二枚に？",
+          "en": "...The same numbers, on two sheets?"
+        },
+        {
+          "id": "p4-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "測ったらチェックシート、日報にも書く",
+          "en": "Measure it, write it on the check sheet, then in the daily log too."
+        },
+        {
+          "id": "p4-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "同じ数字を二回!?",
+          "en": "The same numbers TWICE!?"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.0181,
+          0.0153,
+          0.9805,
+          0.4542
+        ],
+        "2": [
+          0.5132,
+          0.4885,
+          0.9805,
+          0.7013
+        ],
+        "3": [
+          0.0181,
+          0.4885,
+          0.4854,
+          0.7013
+        ],
+        "4": [
+          0.4198,
+          0.7357,
+          0.9805,
+          0.9885
+        ],
+        "5": [
+          0.0195,
+          0.7338,
+          0.3933,
+          0.9866
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "品番ごとに、測るとこが違うんよ",
+          "en": "Every part number gets measured in different spots."
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "チェックシートだけで、四百種類",
+          "en": "Four hundred kinds of check sheets alone."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "書いた紙を、毎晩うちが打ち直すんよ",
+          "en": "And every night, I type all those sheets back in."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "同じ数字を……三回",
+          "en": "The same numbers... three times."
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "三回ィィ!?",
+          "en": "THREE TIMES!?"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.5132,
+          0.0153,
+          0.9805,
+          0.3349
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.4854,
+          0.3349
+        ],
+        "3": [
+          0.4198,
+          0.3693,
+          0.9805,
+          0.7529
+        ],
+        "4": [
+          0.0181,
+          0.3693,
+          0.3919,
+          0.7529
+        ],
+        "5": [
+          0.5132,
+          0.7872,
+          0.9805,
+          0.9885
+        ],
+        "6": [
+          0.0195,
+          0.7853,
+          0.4868,
+          0.9866
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "システムを入れれば、打ち直しは……",
+          "en": "If you brought in a system, the retyping..."
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "何百万、何か月。明日には間に合わん",
+          "en": "Millions of yen, months of work. Won't be ready by tomorrow."
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "祭りの三日間は休みやけん、出荷は明日",
+          "en": "We're closed for the three festival days, so it ships tomorrow."
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "今年、孫が初めてかき夫で担ぐんよ",
+          "en": "This year my grandson carries the float for the first time.",
+          "note": "The Niihama Taiko Festival (Oct. 16-18) is famous for its taikodai: giant drum floats of about three tons, carried on the shoulders of some 150 bearers."
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "今夜の練習……この山じゃ、無理やねぇ",
+          "en": "Tonight's practice... with this pile, no way."
+        },
+        {
+          "id": "p6-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "弁当だァ!!",
+          "en": "LUNCH!!"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.4198,
+          0.0153,
+          0.9805,
+          0.271
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.3919,
+          0.271
+        ],
+        "3": [
+          0.0181,
+          0.3053,
+          0.9805,
+          0.7414
+        ],
+        "4": [
+          0.5132,
+          0.7758,
+          0.9805,
+          0.9885
+        ],
+        "5": [
+          0.0181,
+          0.7758,
+          0.4854,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "うめェェ!!",
+          "en": "SO GOOOD!!"
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "兄ちゃん、午前だけで二人分運んだで!!",
+          "en": "Kid, you hauled for two this morning!!"
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ここは天国か……!!",
+          "en": "Is this heaven!?"
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "出張先で、働いてるんですか",
+          "en": "Working on a business trip?"
+        },
+        {
+          "id": "p7-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……成り行きよ",
+          "en": "...Long story."
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ただ一つ、地獄がある!!",
+          "en": "There's just one hell here!!"
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "同じ数字を二回書く紙だ!!",
+          "en": "The paper with the same number twice!!"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.5132,
+          0.0153,
+          0.9805,
+          0.2281
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.4854,
+          0.2281
+        ],
+        "3": [
+          0.0181,
+          0.2624,
+          0.9805,
+          0.7013
+        ],
+        "4": [
+          0.6067,
+          0.7357,
+          0.9805,
+          0.9885
+        ],
+        "5": [
+          0.0181,
+          0.7357,
+          0.5788,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "午後は百個。二百行、書いてや",
+          "en": "100 pieces this afternoon. 200 lines to write."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "二百行ォォ!!",
+          "en": "TWO HUNDRED LINES!!"
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "打ち直しを減らす改善……レポートに書ける!!",
+          "en": "Cutting retyping... that's report material!!"
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "書く時間が減れば、一個あたり速いですね",
+          "en": "Less time writing means each piece goes faster."
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "小僧、乗れ",
+          "en": "Kid. You're in."
+        },
+        {
+          "id": "p8-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "おみやげ代、時給換算で",
+          "en": "For souvenirs. At my hourly rate."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.5132,
+          0.0153,
+          0.9805,
+          0.5153
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.4854,
+          0.5153
+        ],
+        "3": [
+          0.0181,
+          0.5496,
+          0.9805,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "現場のムダ、どんどん言うてや",
+          "en": "Any waste on the floor, you speak right up."
+        },
+        {
+          "id": "p9-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ほな、明日の夕方まで出張や",
+          "en": "Well then, you're on this trip till tomorrow evening."
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ムダをなくそう……二度手間禁止……",
+          "en": "Cut the waste... No double work..."
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "二度手間禁止!!　書かなきゃ手間はゼロだ!!",
+          "en": "No double work!! Don't write it, and the work is ZERO!!"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.5132,
+          0.0153,
+          0.9805,
+          0.2281
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.4854,
+          0.2281
+        ],
+        "3": [
+          0.0181,
+          0.2624,
+          0.9805,
+          0.7013
+        ],
+        "4": [
+          0.6067,
+          0.7357,
+          0.9805,
+          0.9885
+        ],
+        "5": [
+          0.0181,
+          0.7357,
+          0.5788,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "紙がなけりゃ、二度手間も起きねえ!!",
+          "en": "No paper, no double work!!"
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "社長も『ムダはどんどん言え』ってよ!!",
+          "en": "Even the boss said \"Speak up about waste\"!!"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "測ったら次!! 書くのは全部ナシだ!!",
+          "en": "Measure it, next one!! No more writing, period!!"
+        },
+        {
+          "id": "p10-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……打ち直しが消えて『工数半減』……!?",
+          "en": "...No retyping = half the hours...!?"
+        },
+        {
+          "id": "p10-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "社長がそう言うたんなら……",
+          "en": "Well, if the boss said so..."
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一個あたり、四十秒速くなります",
+          "en": "That's forty seconds faster per piece."
+        },
+        {
+          "id": "p10-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "おおおお!!",
+          "en": "WHOOOA!!"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.5132,
+          0.0153,
+          0.9805,
+          0.2281
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.4854,
+          0.2281
+        ],
+        "3": [
+          0.4198,
+          0.2624,
+          0.9805,
+          0.5153
+        ],
+        "4": [
+          0.0181,
+          0.2624,
+          0.3919,
+          0.5153
+        ],
+        "5": [
+          0.0181,
+          0.5496,
+          0.9805,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "紙は全部、おれが預かる!!",
+          "en": "I'll take ALL the paper!!"
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "書かんでええんか!?",
+          "en": "We don't have to write!?"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "え……打ち直す紙が……",
+          "en": "Huh... the sheets I retype..."
+        },
+        {
+          "id": "p11-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "もうねえ!!　今夜は帰っていい!!",
+          "en": "All gone!! You can go home tonight!!"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.0181,
+          0.0153,
+          0.9805,
+          0.4542
+        ],
+        "2": [
+          0.5132,
+          0.4885,
+          0.9805,
+          0.7013
+        ],
+        "3": [
+          0.0181,
+          0.4885,
+          0.4854,
+          0.7013
+        ],
+        "4": [
+          0.4198,
+          0.7357,
+          0.9805,
+          0.9885
+        ],
+        "5": [
+          0.0181,
+          0.7357,
+          0.3919,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "速い……いつもの倍、進んどる!!",
+          "en": "Fast... we're twice as far as usual!!"
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "源田さん、こっちも頼むわ!!",
+          "en": "Genda, give us a hand over here too!!"
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おうよ!!",
+          "en": "You got it!!"
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "本当に、速い……",
+          "en": "It really is fast..."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.5132,
+          0.0153,
+          0.9805,
+          0.3349
+        ],
+        "2": [
+          0.0251,
+          0.0115,
+          0.4923,
+          0.3311
+        ],
+        "3": [
+          0.4198,
+          0.3693,
+          0.9805,
+          0.7529
+        ],
+        "4": [
+          0.0181,
+          0.3693,
+          0.3919,
+          0.7529
+        ],
+        "5": [
+          0.5132,
+          0.7872,
+          0.9805,
+          0.9885
+        ],
+        "6": [
+          0.0181,
+          0.7872,
+          0.4854,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "五時に帰れるの、何年ぶりかねぇ",
+          "en": "Home by five... how many years has it been?"
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "孫の練習、見に行けるわ",
+          "en": "I can go watch my grandson practice."
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "へへっ……",
+          "en": "Heh heh..."
+        },
+        {
+          "id": "p13-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "兄ちゃん、祭りも担いでくれや!!",
+          "en": "Kid, carry the float at the festival too!!"
+        },
+        {
+          "id": "p13-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "任せとけェ!!",
+          "en": "Leave it to me!!"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.5132,
+          0.0153,
+          0.9805,
+          0.2281
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.4854,
+          0.2281
+        ],
+        "3": [
+          0.0181,
+          0.2624,
+          0.9805,
+          0.7013
+        ],
+        "4": [
+          0.6067,
+          0.7357,
+          0.9805,
+          0.9885
+        ],
+        "5": [
+          0.0181,
+          0.7357,
+          0.5788,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "日報もいらねえ。どうせ毎日同じだろ",
+          "en": "Don't need the daily log either. It's the same every day anyway."
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……ほんまに、ええんかのう",
+          "en": "...You sure about this?"
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "全部持ってってくれェ!!",
+          "en": "Take it all away!!"
+        },
+        {
+          "id": "p14-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "これで二度手間、ゼロだァ!!",
+          "en": "Now double work is ZERO!!"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.4198,
+          0.0153,
+          0.9805,
+          0.271
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.3919,
+          0.271
+        ],
+        "3": [
+          0.0181,
+          0.3053,
+          0.9805,
+          0.7414
+        ],
+        "4": [
+          0.5132,
+          0.7758,
+          0.9805,
+          0.9885
+        ],
+        "5": [
+          0.0181,
+          0.7758,
+          0.4854,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "件名、『改善提案で工数三割減』",
+          "en": "Subject: \"Proposal cuts man-hours 30%\""
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "本庁に、名前が残る……!!",
+          "en": "My name gets known at the main building...!!"
+        },
+        {
+          "id": "p15-5-1",
+          "panel": 5,
+          "type": "caption",
+          "ja": "――その注文書には、一行あった。",
+          "en": "—But that order form had one line in it."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.3361,
+          0.0153,
+          0.9805,
+          0.3101
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.3082,
+          0.3101
+        ],
+        "3": [
+          0.5132,
+          0.3445,
+          0.9805,
+          0.6641
+        ],
+        "4": [
+          0.0181,
+          0.3445,
+          0.4854,
+          0.6641
+        ],
+        "5": [
+          0.3361,
+          0.6985,
+          0.9805,
+          0.9885
+        ],
+        "6": [
+          0.0181,
+          0.6985,
+          0.3082,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ほらよ、昨日の倍だ!!",
+          "en": "Here ya go, double!!"
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "翌日、夕方。",
+          "en": "Next day, evening."
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "検査成績書、いただけますか",
+          "en": "Inspection certificates, please?"
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "せいせき……しょ？",
+          "en": "In-spection... what?"
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……紙は、全部……",
+          "en": "...The paper's all..."
+        },
+        {
+          "id": "p16-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "記録がない品は、受け取れんのです",
+          "en": "We can't accept parts without records."
+        },
+        {
+          "id": "p16-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "明日の朝一番の便まで、待ちます",
+          "en": "I'll wait until the first shipment tomorrow morning."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.0181,
+          0.0153,
+          0.9805,
+          0.4542
+        ],
+        "2": [
+          0.5132,
+          0.4885,
+          0.9805,
+          0.7013
+        ],
+        "3": [
+          0.0181,
+          0.4885,
+          0.4854,
+          0.7013
+        ],
+        "4": [
+          0.4198,
+          0.7357,
+          0.9805,
+          0.9885
+        ],
+        "5": [
+          0.0181,
+          0.7357,
+          0.3919,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "記録はな、品物の身分証明書なんよ",
+          "en": "Records are a part's ID card, see."
+        },
+        {
+          "id": "p17-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "いつ、誰が、どの機械で。寸法はどうやったか",
+          "en": "When, who, on which machine. What the measurements were."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "後からたどれる。トレーサビリティいうんよ",
+          "en": "Traceable later. That's traceability."
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "二度手間をなくすのは、書かんことやない",
+          "en": "Cutting double work don't mean not writing."
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一回で、済ますことや",
+          "en": "It means doing it once."
+        },
+        {
+          "id": "p17-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "…………",
+          "en": "......"
+        },
+        {
+          "id": "p17-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "今夜中に全数、測り直しや……祭りの前の晩に……",
+          "en": "Re-measure it all tonight... on festival eve..."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.4198,
+          0.0153,
+          0.9805,
+          0.2758
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.3919,
+          0.2758
+        ],
+        "3": [
+          0.6067,
+          0.3101,
+          0.9805,
+          0.5706
+        ],
+        "4": [
+          0.0181,
+          0.3101,
+          0.5788,
+          0.5706
+        ],
+        "5": [
+          0.4198,
+          0.605,
+          0.9805,
+          0.9885
+        ],
+        "6": [
+          0.0181,
+          0.605,
+          0.3919,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "か……課長……!?",
+          "en": "Ch-Chief!?"
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "『三割減』は、だいたい何かを抜いた数字です",
+          "en": "A \"30% cut\" usually means something got left out."
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "このたびは、まことに申し訳ございません",
+          "en": "We are deeply, truly sorry for this."
+        },
+        {
+          "id": "p18-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "源田くん。私も、ご一緒します",
+          "en": "Genda. I will join you."
+        },
+        {
+          "id": "p18-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "QRで一回打てば、両方出る表、作れます",
+          "en": "I can make a sheet: scan a QR, enter once, get both."
+        },
+        {
+          "id": "p18-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "夜八時まで。あとは労基法で",
+          "en": "Till 8 p.m. Then, labor law.",
+          "note": "Shota is 16. Japan's Labor Standards Act bars workers under 18 from late-night work, so he logs off early."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.0181,
+          0.0153,
+          0.9805,
+          0.4542
+        ],
+        "2": [
+          0.5132,
+          0.4885,
+          0.9805,
+          0.7013
+        ],
+        "3": [
+          0.0181,
+          0.4885,
+          0.4854,
+          0.7013
+        ],
+        "4": [
+          0.4198,
+          0.7357,
+          0.9805,
+          0.9885
+        ],
+        "5": [
+          0.0181,
+          0.7357,
+          0.3919,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "宵宮なんか、来年もあるわい!!",
+          "en": "Forget the festival eve, there's always next year!!"
+        },
+        {
+          "id": "p19-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――祭りの前の晩。",
+          "en": "—The night before the festival."
+        },
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "QRを読んで、数字を一回。成績書も日報も、そこから出ます",
+          "en": "Scan the QR, enter once. Certificate and log both come out."
+        },
+        {
+          "id": "p19-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ラベル、全部の品番ぶん刷ったよ!!",
+          "en": "I printed labels for every part number!!"
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ノギスが……重てえ……",
+          "en": "These calipers... are heavy..."
+        },
+        {
+          "id": "p19-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "源田くん、あと二千個です",
+          "en": "Genda, two thousand to go."
+        },
+        {
+          "id": "p19-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "腹が減っては、測れんけん",
+          "en": "Can't measure on an empty stomach."
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.6778,
+          0.0153,
+          0.9805,
+          0.2223
+        ],
+        "2": [
+          0.3473,
+          0.0153,
+          0.6499,
+          0.2223
+        ],
+        "3": [
+          0.0167,
+          0.0153,
+          0.3194,
+          0.2223
+        ],
+        "4": [
+          0.0181,
+          0.2567,
+          0.9805,
+          0.6956
+        ],
+        "5": [
+          0.4198,
+          0.73,
+          0.9805,
+          0.9885
+        ],
+        "6": [
+          0.0181,
+          0.73,
+          0.3919,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "一回打てば、両方。便利ですね",
+          "en": "Enter once, get both. How handy."
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……速えよ、課長……",
+          "en": "...You're fast, Chief..."
+        },
+        {
+          "id": "p20-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "確かに、いただきました",
+          "en": "Received, all in order."
+        },
+        {
+          "id": "p20-4-2",
+          "panel": 4,
+          "type": "caption",
+          "ja": "夜明け。",
+          "en": "Dawn."
+        },
+        {
+          "id": "p20-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "源田くん。職人さんの一晩を、いただきました",
+          "en": "Genda. We took a whole night from these craftsmen."
+        },
+        {
+          "id": "p20-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "お返しは、肩で。祭りの三日間です",
+          "en": "We repay it with our shoulders. All three festival days."
+        },
+        {
+          "id": "p20-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "三トンを担ぐのかァァ!!",
+          "en": "Carrying THREE TONS!?"
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "panels": {
+        "1": [
+          0.5132,
+          0.0153,
+          0.9805,
+          0.2281
+        ],
+        "2": [
+          0.0181,
+          0.0153,
+          0.4854,
+          0.2281
+        ],
+        "3": [
+          0.4198,
+          0.2624,
+          0.9805,
+          0.5153
+        ],
+        "4": [
+          0.0181,
+          0.2624,
+          0.3919,
+          0.5153
+        ],
+        "5": [
+          0.0181,
+          0.5496,
+          0.9805,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p21-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十月十六日。新居浜太鼓祭り。",
+          "en": "October 16. The Niihama Taiko Festival."
+        },
+        {
+          "id": "p21-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ほら、あれがうちの孫よ",
+          "en": "Look, that's my grandson."
+        },
+        {
+          "id": "p21-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "レポート、『視察』じゃなくて『体験』ね……",
+          "en": "The report: not an \"inspection,\" an \"experience\"..."
+        },
+        {
+          "id": "p21-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一回打ったら、全部出る。真鍋さんも祭りに来れたわ",
+          "en": "One entry, all done. Manabe made it too!"
+        },
+        {
+          "id": "p21-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "楽な出張のはずだったァァ!!",
+          "en": "This was supposed to be an EASY TRIP!!"
+        },
+        {
+          "id": "p21-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "視察、ちゃんと体験できてよかったですね",
+          "en": "Nice inspection experience, huh?"
+        }
+      ]
+    }
+  ]
+}

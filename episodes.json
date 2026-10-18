@@ -209,7 +209,8 @@
       "links": {
         "niconico": "https://manga.nicovideo.jp/watch/mg1162664",
         "pixiv": "https://www.pixiv.net/artworks/150354950"
-      }
+      },
+      "pagesEn": true
     },
     {
       "id": "3",
@@ -970,7 +971,8 @@
       "links": {
         "niconico": "https://manga.nicovideo.jp/watch/mg1162689",
         "pixiv": "https://www.pixiv.net/artworks/150370750"
-      }
+      },
+      "pagesEn": true
     },
     {
       "id": "9",
@@ -1122,7 +1124,8 @@
       "links": {
         "niconico": "https://manga.nicovideo.jp/watch/mg1162699",
         "pixiv": "https://www.pixiv.net/artworks/150377183"
-      }
+      },
+      "pagesEn": true
     },
     {
       "id": "10",
@@ -1269,7 +1272,8 @@
       "links": {
         "niconico": "https://manga.nicovideo.jp/watch/mg1162704",
         "pixiv": "https://www.pixiv.net/artworks/150379241"
-      }
+      },
+      "pagesEn": true
     },
     {
       "id": "11",
@@ -1422,7 +1426,8 @@
       "links": {
         "niconico": "https://manga.nicovideo.jp/watch/mg1162899",
         "pixiv": "https://www.pixiv.net/artworks/150391814"
-      }
+      },
+      "pagesEn": true
     },
     {
       "id": "12",
@@ -1590,7 +1595,8 @@
       "links": {
         "niconico": "https://manga.nicovideo.jp/watch/mg1164470",
         "pixiv": "https://www.pixiv.net/artworks/150582549"
-      }
+      },
+      "pagesEn": true
     },
     {
       "id": "13",
@@ -1740,7 +1746,8 @@
       "links": {
         "niconico": "https://manga.nicovideo.jp/watch/mg1166921",
         "pixiv": "https://www.pixiv.net/artworks/150903976"
-      }
+      },
+      "pagesEn": true
     },
     {
       "id": "14",
@@ -1885,7 +1892,8 @@
       "links": {
         "niconico": "https://manga.nicovideo.jp/watch/mg1166922",
         "pixiv": "https://www.pixiv.net/artworks/150904014"
-      }
+      },
+      "pagesEn": true
     }
   ]
 }

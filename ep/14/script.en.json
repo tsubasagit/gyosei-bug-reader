@@ -1,0 +1,1680 @@
+{
+  "episode": "14",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ノーベル賞!? 賞金いくらだ!!",
+          "en": "A Nobel Prize!? How much is the prize money!!"
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十月。梨ヶ坂市役所・地下。",
+          "en": "October. Nashigasaka City Hall, the basement."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "賞金は、一億円を超えます",
+          "en": "The prize is over 100 million yen."
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おれも取る!!",
+          "en": "I'm winning one too!!"
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……何の研究で？",
+          "en": "...For what research?"
+        },
+        {
+          "id": "p1-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "発表は、日本時間の夕方から夜",
+          "en": "Announced evenings, Japan time."
+        },
+        {
+          "id": "p1-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "来週の月曜から、平日に一つずつ",
+          "en": "One per weekday, starting next Monday."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "本庁の、秘書課からです",
+          "en": "From the Mayor's staff, main building."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……断れませんでした",
+          "en": "...I couldn't say no."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "垂れ幕……予算は？",
+          "en": "Banners... and the budget?"
+        },
+        {
+          "id": "p2-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "古い横断幕の、裏を使ってくださいと",
+          "en": "Use the backs of old banners, they said."
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "どこよりも、早く……？",
+          "en": "Before anyone else...?"
+        },
+        {
+          "id": "p2-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一番乗りなら、テレビが来るぜ!!",
+          "en": "Be first, and the TV crews come!!"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.4666,
+          0.2981,
+          0.9846,
+          0.7471
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.4409,
+          0.7471
+        ],
+        "5": [
+          0.5064,
+          0.7651,
+          0.9846,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7651,
+          0.4936,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "受賞が決まるとね、出身の町や母校の町が",
+          "en": "When a prize is announced, the winner's hometown and alma mater...",
+          "note": "When a Japanese scientist wins a Nobel Prize, their birthplace, old school and workplace race to hang huge congratulation banners on city hall and claim them as \"a person with ties to our town\" (yukari no hito)."
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "確かめてから、庁舎に懸垂幕を下げるの",
+          "en": "...check the facts, then hang a banner on City Hall."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "梨ヶ坂の出身、母校、勤め先",
+          "en": "Born, studied, or worked in Nashigasaka..."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……ゆかりの研究者、ゼロ件です",
+          "en": "...Researchers with ties here: zero."
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "地元の大学にも、いないのね……",
+          "en": "Not even at the local university..."
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……いや待て!! いるぞ!!",
+          "en": "...No, wait!! There IS one!!"
+        },
+        {
+          "id": "p3-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "うちの団地の一階に、大学の先生が",
+          "en": "There's a professor on the ground floor of my building!"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.5064,
+          0.0108,
+          0.9846,
+          0.2349
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4936,
+          0.2349
+        ],
+        "3": [
+          0.4666,
+          0.2529,
+          0.9846,
+          0.7019
+        ],
+        "4": [
+          0.0154,
+          0.2529,
+          0.4409,
+          0.7019
+        ],
+        "5": [
+          0.4113,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.72,
+          0.3985,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "五階の若いの、おかえり。回覧板",
+          "en": "Welcome home, Fifth Floor. Neighborhood notice."
+        },
+        {
+          "id": "p4-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "尾根平団地。テツの住まい。",
+          "en": "Onedaira Housing Estate. Where Tetsu lives."
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "じいさん、大学の先生だったよな",
+          "en": "Gramps, you were a university professor, right?"
+        },
+        {
+          "id": "p4-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ずっと昔ね。梨の木の研究です",
+          "en": "Long ago. I studied pear trees."
+        },
+        {
+          "id": "p4-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ノーベル賞の知り合い、いねえか!!",
+          "en": "Know any Nobel winners!?"
+        },
+        {
+          "id": "p4-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……おらんなあ",
+          "en": "...Can't say I do."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.4666,
+          0.0108,
+          0.9846,
+          0.4598
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4409,
+          0.4598
+        ],
+        "3": [
+          0.4113,
+          0.4779,
+          0.9846,
+          0.7471
+        ],
+        "4": [
+          0.0154,
+          0.4779,
+          0.3985,
+          0.7471
+        ],
+        "5": [
+          0.5064,
+          0.7651,
+          0.9846,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7651,
+          0.4936,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "梨の花の、咲いた日をね",
+          "en": "The day the pear blossoms open..."
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "四十二年、毎年つけてきました",
+          "en": "Every year for 42 years."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……これ、全部ノートか!?",
+          "en": "...These are ALL notebooks!?"
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "研究は、何十年もかけるもの",
+          "en": "Research takes decades."
+        },
+        {
+          "id": "p5-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "受賞も、二十年、三十年あとが多い",
+          "en": "Prizes often come 20, 30 years later."
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……継ぐ人は、おりませんがね",
+          "en": "...Nobody to carry it on, though."
+        },
+        {
+          "id": "p5-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "四十二年で、感謝状一枚!?",
+          "en": "42 years, and ONE thank-you letter!?"
+        },
+        {
+          "id": "p5-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "地味ィ!!",
+          "en": "BORING!!"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3419,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.329,
+          0.2322
+        ],
+        "4": [
+          0.0154,
+          0.2502,
+          0.9846,
+          0.7019
+        ],
+        "5": [
+          0.4113,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.72,
+          0.3985,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "梨ヶ坂は昔、街道の宿場でね",
+          "en": "Long ago, Nashigasaka was a post town.",
+          "note": "A post town (shukuba) was a rest stop on Japan's old highways, where travelers stayed overnight."
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "通っていった人も、みんな",
+          "en": "Everyone who passed through..."
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "この町の、ゆかりの人ですよ",
+          "en": "...has ties to this town, you see."
+        },
+        {
+          "id": "p6-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……通った人は、みんな？",
+          "en": "...Everyone who passed through?"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "通っただけで、ゆかり!!",
+          "en": "Just passing through counts!!"
+        },
+        {
+          "id": "p6-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "梨ヶ坂駅で乗り換えたやつも、ゆかりだァ!!",
+          "en": "Changed trains at Nashigasaka Station? You've got TIES!!"
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……おや？",
+          "en": "...Oh?"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.4666,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4409,
+          0.4652
+        ],
+        "3": [
+          0.5064,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "4": [
+          0.0154,
+          0.4833,
+          0.4936,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ゆかりの条件、その一!! 乗り換えた!!",
+          "en": "Rule one of ties!! Changed trains here!!"
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "その二、梨を食った!! その三、ボールペン!!",
+          "en": "Two: ate a pear!! Three: used our ballpoint pen!!"
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "当てはめると……ほぼ全員です",
+          "en": "Applied to the list... that's nearly everyone."
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "推薦の中身は、50年間、非公開です",
+          "en": "Nominations stay secret for 50 years."
+        },
+        {
+          "id": "p7-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "予想記事の候補は、四十一人。全部、予想ですね",
+          "en": "Predicted winners: 41. All guesses."
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "なら、予想を全部祝え!!",
+          "en": "Then celebrate EVERY guess!!"
+        },
+        {
+          "id": "p7-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……そうかしら",
+          "en": "...Would that work?"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.347,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3342,
+          0.3379
+        ],
+        "3": [
+          0.0154,
+          0.3559,
+          0.3342,
+          0.6829
+        ],
+        "4": [
+          0.4113,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0154,
+          0.701,
+          0.3985,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "どこよりも早い垂れ幕!! 全国中継!!",
+          "en": "The fastest banner in Japan!! Live nationwide!!"
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "全国のテレビに、おれの顔!!",
+          "en": "My face on every TV in the country!!"
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "秘書課が、期待……",
+          "en": "The Mayor's staff is counting on us..."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "本庁に、戻れる!!",
+          "en": "My ticket back to the main building!!"
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "吊るすのは、歩合ですか",
+          "en": "Is hanging them on commission?"
+        },
+        {
+          "id": "p8-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一枚百円!! おれの財布からだ!!",
+          "en": "100 yen a banner!! Out of my own wallet!!"
+        },
+        {
+          "id": "p8-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……源田くんに、お任せします",
+          "en": "...I'll leave it to you, Genda."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "電池の人!! 光の人!! 細胞の人!!",
+          "en": "Battery Guy!! Light Guy!! Cell Guy!!"
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "四十一枚です",
+          "en": "That's 41."
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "とどめだァ!! 誰が取っても使える一枚!!",
+          "en": "And the finisher!! One banner that works for ANY winner!!"
+        },
+        {
+          "id": "p9-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "祝・ゆかりの人!!",
+          "en": "Congrats, Person With Ties!!"
+        },
+        {
+          "id": "p9-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "名前のない垂れ幕って……",
+          "en": "A banner with no name on it..."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.4666,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4409,
+          0.4652
+        ],
+        "3": [
+          0.5257,
+          0.4833,
+          0.9846,
+          0.9675
+        ],
+        "4": [
+          0.0154,
+          0.4833,
+          0.5129,
+          0.7164
+        ],
+        "5": [
+          0.0154,
+          0.7344,
+          0.5129,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "十本……二十本……",
+          "en": "Ten... twenty..."
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "一本ずつ結ぶのは、歩合に入ってません",
+          "en": "Tying them one by one isn't in my commission."
+        },
+        {
+          "id": "p10-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "まとめました",
+          "en": "I bundled them."
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "これ、全部つながってない!?",
+          "en": "Aren't these all tied together!?"
+        },
+        {
+          "id": "p10-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "目印の色で引きゃいいだろ",
+          "en": "Just pull by the ribbon color!"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.6015,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5887,
+          0.28
+        ],
+        "3": [
+          0.4113,
+          0.2981,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.5064,
+          0.7191,
+          0.9846,
+          0.9431
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.4936,
+          0.9431
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "週末。",
+          "en": "The weekend."
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "『#梨ヶ坂ゆかり』、回ってます",
+          "en": "Our hashtag is trending."
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "caption",
+          "ja": "月曜の朝。",
+          "en": "Monday morning."
+        },
+        {
+          "id": "p11-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "うちのじいちゃんも、梨食べた!!",
+          "en": "My grandpa ate a pear too!!"
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "記念まんじゅう、三千箱作るよ!!",
+          "en": "I'm making 3,000 boxes of souvenir buns!!"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一箱十円、おれに――",
+          "en": "Ten yen a box to me--"
+        },
+        {
+          "id": "p11-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "受け取れない!! 公務員!!",
+          "en": "We CAN'T take that!! Civil servants!!"
+        },
+        {
+          "id": "p11-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "じゃあ箱に、おれの名前!!",
+          "en": "Then put my name on the box!!"
+        },
+        {
+          "id": "p11-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "当たったら、二刷りからね",
+          "en": "If it hits, from the second batch.",
+          "note": "Second printing: the shop will print his name on the boxes only if the buns sell well enough for a second batch."
+        },
+        {
+          "id": "p11-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "発表の夜、屋上から生中継を!!",
+          "en": "Let us broadcast live from the roof on the big night!!"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.5064,
+          0.0108,
+          0.9846,
+          0.3469
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4936,
+          0.3469
+        ],
+        "3": [
+          0.5064,
+          0.365,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.365,
+          0.4936,
+          0.701
+        ],
+        "5": [
+          0.4113,
+          0.7191,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.3985,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "外国の人も、ゆかりだ!!",
+          "en": "Foreigners have ties too!!"
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "月曜の夜。ノーベル賞の発表、一日目。",
+          "en": "Monday night. Nobel announcements, day one."
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "梨ヶ坂のボールペン、海外には出てません",
+          "en": "Our ballpoint pens aren't sold overseas."
+        },
+        {
+          "id": "p12-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "やめなさい!!",
+          "en": "STOP IT!!"
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "caption",
+          "ja": "火曜の夜。ノーベル賞の発表、二日目。",
+          "en": "Tuesday night. Nobel announcements, day two."
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "やめなさいって!!",
+          "en": "I said STOP!!"
+        },
+        {
+          "id": "p12-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "まだ水曜がある!! じいさん、解説だ!!",
+          "en": "We've still got Wednesday!! Gramps, be our commentator!!"
+        },
+        {
+          "id": "p12-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "わたしで、よければ",
+          "en": "If I'll do."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.4666,
+          0.0108,
+          0.9846,
+          0.692
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4409,
+          0.692
+        ],
+        "3": [
+          0.4113,
+          0.71,
+          0.9846,
+          0.9792
+        ],
+        "4": [
+          0.0154,
+          0.71,
+          0.3985,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "水曜の夜。",
+          "en": "Wednesday night."
+        },
+        {
+          "id": "p13-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "梨ヶ坂、どこよりも早く祝うぞォ!!",
+          "en": "Nashigasaka celebrates FIRST in Japan!!"
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "秘書課、つながってます",
+          "en": "The Mayor's staff is on the line."
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "梨の木も、実がなるまで何年もかかります",
+          "en": "Pear trees, too, take years to bear fruit."
+        },
+        {
+          "id": "p13-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "日本時間、18時45分から",
+          "en": "From 6:45 p.m., Japan time."
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "日本の研究者を含む、三人です",
+          "en": "Three winners, including a Japanese researcher."
+        },
+        {
+          "id": "p14-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "分野は……植物の中の物質",
+          "en": "The field is... compounds in plants."
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……そんな垂れ幕、ねえ",
+          "en": "...We don't have THAT banner."
+        },
+        {
+          "id": "p14-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "最強の一枚だァ!!",
+          "en": "Time for the ultimate banner!!"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.4666,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4409,
+          0.4652
+        ],
+        "3": [
+          0.4871,
+          0.4833,
+          0.9846,
+          0.7164
+        ],
+        "4": [
+          0.4871,
+          0.7344,
+          0.9846,
+          0.9675
+        ],
+        "5": [
+          0.0154,
+          0.4833,
+          0.4743,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "出身の町では、お祝いの準備が",
+          "en": "His hometown is celebrating..."
+        },
+        {
+          "id": "p15-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "母校の大学では、喜びの声が",
+          "en": "...his old university, cheering."
+        },
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "どこよりも早かったのは……梨ヶ坂市？",
+          "en": "And first of all... Nashigasaka City?"
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "秘書課……切れた……",
+          "en": "The Mayor's staff... hung up..."
+        },
+        {
+          "id": "p15-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "『関係ない人を、四十一人祝う市』",
+          "en": "\"The city that celebrated 41 total strangers\""
+        },
+        {
+          "id": "p15-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "三千箱……",
+          "en": "3,000 boxes..."
+        },
+        {
+          "id": "p15-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "梨は食ってるはずだ!!",
+          "en": "They ate a pear!!"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3419,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "5": [
+          0.0154,
+          0.2502,
+          0.3985,
+          0.5194
+        ],
+        "4": [
+          0.4113,
+          0.2502,
+          0.9846,
+          0.5194
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.329,
+          0.2322
+        ],
+        "6": [
+          0.0154,
+          0.5375,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "梨ヶ坂市が『ゆかり』と、垂れ幕を",
+          "en": "Nashigasaka City hung a banner claiming ties to you..."
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "梨ヶ坂……すみません、まだ一度も",
+          "en": "Nashigasaka... I'm sorry, I've never even been."
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "四十年、同じことを続けただけです",
+          "en": "I just kept doing the same thing for 40 years."
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ゆかりは、本人と町の大事な縁よ",
+          "en": "Ties are a precious bond between a person and a town."
+        },
+        {
+          "id": "p16-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "こっちが勝手に決めるものじゃない!!",
+          "en": "They're not ours to decide on our own!!"
+        },
+        {
+          "id": "p16-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "研究は、何十年もかけるもの",
+          "en": "Research takes decades."
+        },
+        {
+          "id": "p16-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "お祝いは、地元で地道に続けている人にこそ",
+          "en": "Celebrate those who keep at it, quietly, right here at home."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.347,
+          0.2981,
+          0.9846,
+          0.9702
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.3342,
+          0.6251
+        ],
+        "5": [
+          0.0154,
+          0.6432,
+          0.3342,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……四十年……",
+          "en": "...Forty years..."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "な、涙が……止まった……",
+          "en": "H-his tears... stopped..."
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "はい……全国ニュースで……四十二枚……",
+          "en": "Yes... on the national news... forty-two..."
+        },
+        {
+          "id": "p17-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "はい、豪徳寺です",
+          "en": "Yes, Gotokuji speaking."
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……承知しました",
+          "en": "...Understood."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.5064,
+          0.0108,
+          0.9846,
+          0.2349
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4936,
+          0.2349
+        ],
+        "3": [
+          0.4666,
+          0.2529,
+          0.9846,
+          0.7019
+        ],
+        "4": [
+          0.0154,
+          0.2529,
+          0.4409,
+          0.7019
+        ],
+        "5": [
+          0.4113,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.72,
+          0.3985,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "市長室からでした。……源田さん",
+          "en": "That was the Mayor's Office. ...Mr. Genda."
+        },
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "四十二枚、今夜のうちに。ご自分の手で",
+          "en": "All 42, tonight. With your own hands."
+        },
+        {
+          "id": "p18-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "安全帯は、必ず",
+          "en": "Safety harness, always."
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "明日からは、この記帳台を背負って",
+          "en": "From tomorrow, carry this guestbook stand on your back...",
+          "note": "A kichodai is a lectern holding a guestbook, set out at ceremonies for visitors to sign their names."
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "研究を続けておられる方を、お訪ねください",
+          "en": "...and go visit people who are still doing their research."
+        },
+        {
+          "id": "p18-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ノーベル賞もいねえのに、誰の!?",
+          "en": "There's no Nobel winner! Visit WHO!?"
+        },
+        {
+          "id": "p18-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "それを探すのが、源田さんのお仕事です",
+          "en": "Finding them is your job, Mr. Genda."
+        },
+        {
+          "id": "p18-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "九時です。外すのは、歩合に入ってません",
+          "en": "It's nine. Taking them down isn't in my commission."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.347,
+          0.2981,
+          0.9846,
+          0.9702
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.3342,
+          0.6251
+        ],
+        "5": [
+          0.0154,
+          0.6432,
+          0.3342,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "光の人、からまるなァ!!",
+          "en": "Light Guy, quit tangling me!!"
+        },
+        {
+          "id": "p19-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "その夜ふけ。",
+          "en": "Late that night."
+        },
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……こいつだけは、間違ってねえ",
+          "en": "...This one, though, wasn't wrong."
+        },
+        {
+          "id": "p19-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "垂れ幕は、五階からが一番目立つんだよ",
+          "en": "A banner stands out best from the fifth floor."
+        },
+        {
+          "id": "p19-3-2",
+          "panel": 3,
+          "type": "caption",
+          "ja": "数日後。",
+          "en": "A few days later."
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……五階の若いの",
+          "en": "...Fifth Floor..."
+        },
+        {
+          "id": "p19-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "四十二枚と、四十二冊ですか……",
+          "en": "Forty-two banners, and forty-two notebooks..."
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.6684,
+          0.0108,
+          0.9846,
+          0.2818
+        ],
+        "2": [
+          0.3419,
+          0.0108,
+          0.6555,
+          0.2818
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.329,
+          0.2818
+        ],
+        "4": [
+          0.0154,
+          0.2999,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ノートの続き、つけさせてください!!",
+          "en": "Please let us continue your notebooks!!"
+        },
+        {
+          "id": "p20-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……おや、まあ",
+          "en": "...Well, well."
+        },
+        {
+          "id": "p20-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "全国ニュースで、続報です",
+          "en": "A follow-up on the national news."
+        },
+        {
+          "id": "p20-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "祝・ゆかりの人、売り切れだよ!!",
+          "en": "\"Congrats, Person With Ties\" buns, sold out!!"
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ついに、おれの出番!!",
+          "en": "My big moment, at last!!"
+        },
+        {
+          "id": "p20-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "顔ぐらい映せェ!!",
+          "en": "At least show my FACE!!"
+        }
+      ]
+    }
+  ]
+}

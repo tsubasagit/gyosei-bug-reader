@@ -1,0 +1,1552 @@
+{
+  "episode": "10",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.5125,
+          0.0123,
+          0.9791,
+          0.2493
+        ],
+        "2": [
+          0.0181,
+          0.0123,
+          0.4847,
+          0.2493
+        ],
+        "3": [
+          0.6532,
+          0.2834,
+          0.9791,
+          0.6246
+        ],
+        "4": [
+          0.0181,
+          0.2834,
+          0.6253,
+          0.6246
+        ],
+        "5": [
+          0.5125,
+          0.6588,
+          0.9791,
+          0.9791
+        ],
+        "6": [
+          0.0181,
+          0.6588,
+          0.4847,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ここは置換で一発です",
+          "en": "One “chikan” and done.",
+          "note": "In Japanese, “chikan” (置換) means “find and replace” — but it sounds exactly like “chikan” (痴漢), a groper on a train. That pun drives this whole episode."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ち、ちかん!?　おれはやってねえ!!",
+          "en": "Ch-chikan!? I never touched anyone!!"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "置き換えの\"置換\"!!",
+          "en": "“Chikan” as in REPLACE!!"
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "Ctrl＋H です",
+          "en": "It's Ctrl+H."
+        },
+        {
+          "id": "p1-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……失礼します。回覧板を、お持ちしました",
+          "en": "...Excuse me. I've brought the circular board."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.0181,
+          0.0123,
+          0.9791,
+          0.3346
+        ],
+        "2": [
+          0.5125,
+          0.3687,
+          0.9791,
+          0.6531
+        ],
+        "3": [
+          0.0181,
+          0.3687,
+          0.4847,
+          0.6531
+        ],
+        "4": [
+          0.5585,
+          0.6872,
+          0.9791,
+          0.9791
+        ],
+        "5": [
+          0.0167,
+          0.6872,
+          0.5306,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "坂上町の町内会長、梨田と申します",
+          "en": "I'm Nashida, Sakagami neighborhood chairman.",
+          "note": "A kairanban (“circular board”) is a clipboard of notices passed hand to hand from house to house by the neighborhood association. Many towns still use it."
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "連合会で、回覧をデジタルに、と決まりまして",
+          "en": "The federation decided to take the circulars digital."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "市に伺ったら、支援は来年度からと……",
+          "en": "The city said support starts next fiscal year..."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "で、地下に回された。たらい回しの終点へようこそ",
+          "en": "So they sent you to the basement. Welcome to the end of the runaround."
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "地域のデジタル化……本庁に届く……!",
+          "en": "Going digital... the main building will notice...!"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.0181,
+          0.0123,
+          0.9791,
+          0.3915
+        ],
+        "2": [
+          0.5125,
+          0.4256,
+          0.9791,
+          0.672
+        ],
+        "3": [
+          0.0181,
+          0.4256,
+          0.4847,
+          0.672
+        ],
+        "4": [
+          0.5585,
+          0.7062,
+          0.9791,
+          0.9791
+        ],
+        "5": [
+          0.0167,
+          0.7062,
+          0.5306,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "毎月、三晩かけて書いております",
+          "en": "Every month, I spend three nights writing it."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ゴミの日、木曜ですか、本曜ですか",
+          "en": "Is trash day “Thursday”... or “Thirstday”?"
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "前は、家内がワープロで打ってくれました",
+          "en": "My wife used to type it up on her word processor."
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "十二月一日には、年末の防犯の回覧を出したいのです",
+          "en": "On December 1st, I want to send out the year-end crime-watch notice."
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……この字、暗号ですか？",
+          "en": "...Is this written in code?"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.5125,
+          0.0123,
+          0.9791,
+          0.2493
+        ],
+        "2": [
+          0.0181,
+          0.0123,
+          0.4847,
+          0.2493
+        ],
+        "3": [
+          0.6532,
+          0.2834,
+          0.9791,
+          0.6246
+        ],
+        "4": [
+          0.0181,
+          0.2834,
+          0.6253,
+          0.6246
+        ],
+        "5": [
+          0.5125,
+          0.6588,
+          0.9791,
+          0.9791
+        ],
+        "6": [
+          0.0181,
+          0.6588,
+          0.4847,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "梨ヶ坂市、坂上町。",
+          "en": "Sakagami, Nashigasaka City."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "この回覧板、九月の日付です",
+          "en": "This circular is dated September."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "あ、読んでない。回しとくね",
+          "en": "Oh, haven't read it. I'll pass it on."
+        },
+        {
+          "id": "p4-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "誰も、読まないのです",
+          "en": "Nobody reads it."
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "火の用心",
+          "en": "Beware of fire.",
+          "note": "“Hi no yōjin” (beware of fire) is the traditional call of neighborhood night patrols in winter."
+        },
+        {
+          "id": "p4-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "梨田のおじいちゃーん!",
+          "en": "Mr. Nashidaaa!"
+        },
+        {
+          "id": "p4-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "さ、坂が……",
+          "en": "Th-this hill..."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.0181,
+          0.0123,
+          0.9791,
+          0.4104
+        ],
+        "2": [
+          0.5125,
+          0.4445,
+          0.9791,
+          0.672
+        ],
+        "3": [
+          0.0181,
+          0.4445,
+          0.4847,
+          0.672
+        ],
+        "4": [
+          0.4652,
+          0.7062,
+          0.9791,
+          0.9791
+        ],
+        "5": [
+          0.0167,
+          0.7062,
+          0.4373,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "連合会から、毎月同じ原稿が届きます",
+          "en": "Every month the federation sends us the same draft."
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "それを会長がめいめい、手で書き写すのです",
+          "en": "And each chairman copies it out by hand."
+        },
+        {
+          "id": "p5-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "翌日。",
+          "en": "The next day."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……中身、全部同じじゃない",
+          "en": "...They're all exactly the same."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "違うのは、町の名前と会長の名前だけですね",
+          "en": "Only the town name and the chairman's name change."
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一枚作って、名前だけ入れ替えりゃ……百二十枚、一瞬じゃねえか!!",
+          "en": "Make one sheet, swap the names... 120 sheets in a flash!!"
+        },
+        {
+          "id": "p5-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "それが、さっきの置換です",
+          "en": "That's the “chikan” I meant."
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.0181,
+          0.0123,
+          0.9791,
+          0.3346
+        ],
+        "2": [
+          0.5125,
+          0.3687,
+          0.9791,
+          0.6531
+        ],
+        "3": [
+          0.0181,
+          0.3687,
+          0.4847,
+          0.6531
+        ],
+        "4": [
+          0.5585,
+          0.6872,
+          0.9791,
+          0.9791
+        ],
+        "5": [
+          0.0237,
+          0.6853,
+          0.5376,
+          0.9773
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "会長はみんな八十代。回覧、おれが作ってやる!!",
+          "en": "The chairmen are all in their 80s. I'll make their circulars!!"
+        },
+        {
+          "id": "p6-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "町内会から月三千円!!　百二十で月三十六万!!",
+          "en": "¥3,000 a month each!! Times 120 is ¥360,000!!"
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "一町内会、百円で乗ります",
+          "en": "I'm in. 100 yen per association."
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ちょっと、公務員がお金を取るのは……",
+          "en": "Wait, civil servants can't charge money..."
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "地域DX、百二十団体だぞ",
+          "en": "It's local DX! 120 groups!"
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "百二十団体……本庁……",
+          "en": "120 groups... main building..."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.5167,
+          0.0114,
+          0.9833,
+          0.2483
+        ],
+        "2": [
+          0.0181,
+          0.0123,
+          0.4847,
+          0.2493
+        ],
+        "3": [
+          0.6532,
+          0.2834,
+          0.9791,
+          0.6246
+        ],
+        "4": [
+          0.0181,
+          0.2834,
+          0.6253,
+          0.6246
+        ],
+        "5": [
+          0.5125,
+          0.6588,
+          0.9791,
+          0.9791
+        ],
+        "6": [
+          0.0181,
+          0.6588,
+          0.4847,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "Ctrl＋H で、この小窓です",
+          "en": "Ctrl+H opens this little window."
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "すべて置換で、一度に全部変わります",
+          "en": "“Replace All” changes every one at once."
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "目印は【会長名】みたいに、ほかで絶対使わない形で",
+          "en": "Use a marker you'd never use anywhere else, like [CHAIR NAME]."
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "それと、すべて置換の前に、件数を確かめて",
+          "en": "And before Replace All, check the match count."
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "長ェ!!　Aでいい!!",
+          "en": "Too long!! “A” is fine!!"
+        },
+        {
+          "id": "p7-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "六時なんで、帰ります",
+          "en": "It's six. I'm heading home."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.5446,
+          0.0123,
+          0.9791,
+          0.2095
+        ],
+        "2": [
+          0.5446,
+          0.2332,
+          0.9791,
+          0.5289
+        ],
+        "3": [
+          0.0181,
+          0.0123,
+          0.5237,
+          0.5289
+        ],
+        "4": [
+          0.0181,
+          0.5526,
+          0.9791,
+          0.9886
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "会長の名前は……A!!",
+          "en": "The chairman's name is... A!!"
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "ショータが帰ったあと。",
+          "en": "Later."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ショータくんが、【会長名】にしろって……",
+          "en": "Shota said to use [CHAIR NAME]..."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "赤嶺、病院で「Aさーん」って呼ばれたら",
+          "en": "Akamine, if a hospital calls “Mr. A!”..."
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ATMが返事するか!?　しねえだろ!!",
+          "en": "does the ATM answer!? No, it doesn't!!"
+        },
+        {
+          "id": "p8-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "呼ばれたAだけが振り向く!!　置換も同じだ!!",
+          "en": "Only the A they called turns around!! Replace works the same!!"
+        },
+        {
+          "id": "p8-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……そうかしら",
+          "en": "...Does it?"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.5125,
+          0.0123,
+          0.9791,
+          0.2493
+        ],
+        "2": [
+          0.0181,
+          0.0123,
+          0.4847,
+          0.2493
+        ],
+        "3": [
+          0.6532,
+          0.2834,
+          0.9791,
+          0.6246
+        ],
+        "4": [
+          0.0181,
+          0.2834,
+          0.6253,
+          0.6246
+        ],
+        "5": [
+          0.5125,
+          0.6588,
+          0.9791,
+          0.9791
+        ],
+        "6": [
+          0.0181,
+          0.6588,
+          0.4847,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ほらな!!　Aで十分!!",
+          "en": "See!! “A” is plenty!!"
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "字が大きい!　読みやすい!",
+          "en": "Big letters! Easy to read!"
+        },
+        {
+          "id": "p9-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "回覧板、一日で一周しました",
+          "en": "The circular went round the whole town in one day."
+        },
+        {
+          "id": "p9-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "やった……!",
+          "en": "We did it...!"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.0181,
+          0.0123,
+          0.9791,
+          0.3915
+        ],
+        "2": [
+          0.5125,
+          0.4256,
+          0.9791,
+          0.672
+        ],
+        "3": [
+          0.0181,
+          0.4256,
+          0.4847,
+          0.672
+        ],
+        "4": [
+          0.5585,
+          0.7062,
+          0.9791,
+          0.9791
+        ],
+        "5": [
+          0.0167,
+          0.7062,
+          0.5306,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "家内の回覧も、こんなふうに、まっすぐでした",
+          "en": "My wife's circulars were neat and straight like this."
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……三千円です",
+          "en": "...¥3,000, please."
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "連合会でも、話してみます",
+          "en": "I'll bring it up at the federation."
+        },
+        {
+          "id": "p10-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "来た……百二十!!",
+          "en": "Here it comes... 120!!"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.5125,
+          0.0123,
+          0.9791,
+          0.2493
+        ],
+        "2": [
+          0.0181,
+          0.0123,
+          0.4847,
+          0.2493
+        ],
+        "3": [
+          0.6532,
+          0.2834,
+          0.9791,
+          0.6246
+        ],
+        "4": [
+          0.0181,
+          0.2834,
+          0.6253,
+          0.6246
+        ],
+        "5": [
+          0.5125,
+          0.6588,
+          0.9791,
+          0.9791
+        ],
+        "6": [
+          0.0181,
+          0.6588,
+          0.4847,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "うちも!",
+          "en": "Us too!"
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "うちもお願いします!",
+          "en": "Please do ours too!"
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "百二十団体……!!",
+          "en": "120...!!"
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "防犯だよりと占いも付けてやる!!",
+          "en": "Free crime news and horoscopes!!"
+        },
+        {
+          "id": "p11-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "来年は値上げだ!!",
+          "en": "Next year, prices go up!!"
+        },
+        {
+          "id": "p11-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……Aって、ほかにも書いてません？",
+          "en": "...Isn't there an “A” written somewhere else too?",
+          "note": "The flyer reads: “Year-End Crime Watch — Groping incident on a train near the station; Suspect A (male, 40s) arrested. / Beware of phone scams at ATMs. / Horoscope: blood type A — good luck meeting people. / Sakagami Neighborhood Assn., Chairman A.”"
+        },
+        {
+          "id": "p11-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "そりゃ警察のAだ!!　おれのAとは別物だ!!",
+          "en": "That's the police's A!! Totally different from my A!!"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.5125,
+          0.0123,
+          0.9791,
+          0.2493
+        ],
+        "2": [
+          0.0181,
+          0.0123,
+          0.4847,
+          0.2493
+        ],
+        "3": [
+          0.6532,
+          0.2834,
+          0.9791,
+          0.6246
+        ],
+        "4": [
+          0.0181,
+          0.2834,
+          0.6253,
+          0.6246
+        ],
+        "5": [
+          0.5125,
+          0.6588,
+          0.9791,
+          0.9791
+        ],
+        "6": [
+          0.0181,
+          0.6588,
+          0.4847,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "件数、見てくださいね。六時なんで",
+          "en": "Check the match count. It's six, so bye."
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十一月三十日。",
+          "en": "Nov. 30."
+        },
+        {
+          "id": "p12-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "配信は、明日の朝、私が見てからね",
+          "en": "We send it tomorrow morning, after I check it."
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "4個!?　多いほどお得!!",
+          "en": "4 matches!? The more the merrier!!"
+        },
+        {
+          "id": "p12-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "赤嶺が来る前に終わらせりゃ、手柄はおれのもん",
+          "en": "Finish before Akamine gets in, and the credit's all mine."
+        },
+        {
+          "id": "p12-5-2",
+          "panel": 5,
+          "type": "caption",
+          "ja": "――午前六時。",
+          "en": "6 a.m."
+        },
+        {
+          "id": "p12-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "百二十町内会、一斉配信!!",
+          "en": "Send to all 120!!"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.5125,
+          0.0123,
+          0.9791,
+          0.2493
+        ],
+        "2": [
+          0.0181,
+          0.0123,
+          0.4847,
+          0.2493
+        ],
+        "3": [
+          0.0181,
+          0.2834,
+          0.9791,
+          0.6626
+        ],
+        "4": [
+          0.5125,
+          0.6967,
+          0.9791,
+          0.9791
+        ],
+        "5": [
+          0.0181,
+          0.6967,
+          0.4847,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……容疑者、梨田？",
+          "en": "...Suspect Nashida?",
+          "note": "After “Replace All,” every A became a chairman's name: “Suspect Nashida (male, 40s) arrested,” “phone scams at Nashida-TMs,” “blood type Nashida”..."
+        },
+        {
+          "id": "p13-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十二月一日、朝。",
+          "en": "December 1st, morning."
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "八十二歳が、四十代!?",
+          "en": "82... now in his 40s!?"
+        },
+        {
+          "id": "p13-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "うちの会長、いつ若返ったの!?",
+          "en": "Our chairman got YOUNGER!?"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.0181,
+          0.0123,
+          0.9791,
+          0.3915
+        ],
+        "2": [
+          0.5125,
+          0.4256,
+          0.9791,
+          0.672
+        ],
+        "3": [
+          0.0251,
+          0.4237,
+          0.4916,
+          0.6701
+        ],
+        "4": [
+          0.5585,
+          0.7062,
+          0.9791,
+          0.9791
+        ],
+        "5": [
+          0.0167,
+          0.7062,
+          0.5306,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "会長、四十代だったんですか!?",
+          "en": "Chairman, you're in your forties!?"
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……ようぎしゃだ",
+          "en": "...it's the sus-pect."
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……わしは、八十二じゃ",
+          "en": "...I'm 82."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.0181,
+          0.0123,
+          0.9791,
+          0.4673
+        ],
+        "2": [
+          0.5125,
+          0.5014,
+          0.9791,
+          0.7194
+        ],
+        "3": [
+          0.0195,
+          0.4995,
+          0.4861,
+          0.7175
+        ],
+        "4": [
+          0.0181,
+          0.7536,
+          0.9791,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "孫に、防犯ブザーを鳴らされました",
+          "en": "My grandkid set off a safety alarm at me."
+        },
+        {
+          "id": "p15-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "回覧を回したら、隣が鍵を閉めまして",
+          "en": "I passed on the circular, and the neighbors locked their door."
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "わしが、容疑者ですか……？",
+          "en": "Am I... a suspect?"
+        },
+        {
+          "id": "p15-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "え……何人いるの……？",
+          "en": "Wait... how many of you are there...?"
+        },
+        {
+          "id": "p15-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "百二十人です",
+          "en": "A hundred and twenty."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.5125,
+          0.0123,
+          0.9791,
+          0.2493
+        ],
+        "2": [
+          0.0181,
+          0.0123,
+          0.4847,
+          0.2493
+        ],
+        "3": [
+          0.6532,
+          0.2834,
+          0.9791,
+          0.6246
+        ],
+        "4": [
+          0.0181,
+          0.2834,
+          0.6253,
+          0.6246
+        ],
+        "5": [
+          0.5125,
+          0.6588,
+          0.9791,
+          0.9791
+        ],
+        "6": [
+          0.0181,
+          0.6588,
+          0.4847,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "本当じゃなくても、人の評判を落とすことを広めたら、名誉毀損になりうるのよ!!",
+          "en": "Even if it's false, spreading stuff that ruins someone's name can be defamation!!",
+          "note": "Under Japanese law, defamation can apply even when the statement is true — and certainly when it's false."
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "すべて置換は、単語かどうかを見ません",
+          "en": "Replace All doesn't check whether it's a whole word."
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ATMのAも、A型のAも、警察が書いたAも、全部です",
+          "en": "ATM's A, blood type A, the police's A... all of them."
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "会長の欄は1つなのに、件数、4個って出ませんでした？",
+          "en": "There's one chairman field, but didn't it say 4 matches?"
+        },
+        {
+          "id": "p16-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "…………出た",
+          "en": "......It did."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.0181,
+          0.0123,
+          0.9791,
+          0.3915
+        ],
+        "2": [
+          0.5125,
+          0.4256,
+          0.9791,
+          0.672
+        ],
+        "3": [
+          0.0181,
+          0.4256,
+          0.4847,
+          0.672
+        ],
+        "4": [
+          0.5585,
+          0.7062,
+          0.9791,
+          0.9791
+        ],
+        "5": [
+          0.0209,
+          0.7071,
+          0.5348,
+          0.9801
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……私も、緑ヶ丘町の町内会長を、仰せつかっておりまして",
+          "en": "...I, too, chair a neighborhood association. Midorigaoka.",
+          "note": "His phone shows his own association's circular: “Midorigaoka Neighborhood Assn. — Suspect Gotokuji (male, 40s) arrested.”"
+        },
+        {
+          "id": "p17-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "年齢まで、合っておりました",
+          "en": "It even got my age right."
+        },
+        {
+          "id": "p17-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "か、課長だけ、本物の四十代……!!",
+          "en": "Th-the Chief's REALLY in his forties...!!"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.5125,
+          0.0123,
+          0.9791,
+          0.2493
+        ],
+        "2": [
+          0.0181,
+          0.0123,
+          0.4847,
+          0.2493
+        ],
+        "3": [
+          0.6532,
+          0.2834,
+          0.9791,
+          0.6246
+        ],
+        "4": [
+          0.0181,
+          0.2834,
+          0.6253,
+          0.6246
+        ],
+        "5": [
+          0.5125,
+          0.6588,
+          0.9791,
+          0.9791
+        ],
+        "6": [
+          0.0181,
+          0.6588,
+          0.4847,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "係の者が、皆さまのお名前を誤って配りました",
+          "en": "Our staff wrongly sent out your names."
+        },
+        {
+          "id": "p18-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "申し訳ございません",
+          "en": "We are deeply sorry."
+        },
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "源田さん",
+          "en": "Mr. Genda."
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "料金は、全額お返しください",
+          "en": "Refund every last yen."
+        },
+        {
+          "id": "p18-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "お詫びの回覧、百二十枚。一枚ずつ、手で",
+          "en": "120 apology circulars. Each one by hand."
+        },
+        {
+          "id": "p18-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "置換は、なしで",
+          "en": "No Replace."
+        },
+        {
+          "id": "p18-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "お詫びは、正直に。ご自分の言葉で",
+          "en": "Apologize honestly. In your own words."
+        },
+        {
+          "id": "p18-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "手書きで百二十枚ィィ!!",
+          "en": "120 BY HAAAND!!"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.5125,
+          0.0123,
+          0.9791,
+          0.2493
+        ],
+        "2": [
+          0.0181,
+          0.0123,
+          0.4847,
+          0.2493
+        ],
+        "3": [
+          0.0181,
+          0.2834,
+          0.9791,
+          0.6626
+        ],
+        "4": [
+          0.6713,
+          0.6967,
+          0.9791,
+          0.9791
+        ],
+        "5": [
+          0.344,
+          0.6967,
+          0.6435,
+          0.9791
+        ],
+        "6": [
+          0.0167,
+          0.6967,
+          0.3162,
+          0.9791
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ち……ちかんって、どう書くんだ……",
+          "en": "H-how do you even write the kanji for “chikan”...",
+          "note": "The kanji for “replace” are hard, so he writes “chikan” in plain kana — which reads just as easily as “groping.” His apology says: “This chikan was all my doing. —Genda.”"
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "会長じゃなかったのね。……源田って誰？",
+          "en": "So it wasn't the chairman. ...Who's Genda?"
+        },
+        {
+          "id": "p19-4-2",
+          "panel": 4,
+          "type": "caption",
+          "ja": "数日後。",
+          "en": "A few days later."
+        },
+        {
+          "id": "p19-5-1",
+          "panel": 5,
+          "type": "caption",
+          "ja": "夕暮れ。",
+          "en": "Dusk."
+        },
+        {
+          "id": "p19-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "会長、今夜は私たちも",
+          "en": "Chairman, we'll come along tonight."
+        },
+        {
+          "id": "p19-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "回覧板、今月も一日で一周です",
+          "en": "The circular went round in one day again this month."
+        },
+        {
+          "id": "p19-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……火の用心",
+          "en": "...Beware of fire."
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.5125,
+          0.0218,
+          0.9791,
+          0.2332
+        ],
+        "2": [
+          0.0181,
+          0.0218,
+          0.4847,
+          0.2332
+        ],
+        "3": [
+          0.5125,
+          0.2616,
+          0.9791,
+          0.473
+        ],
+        "5": [
+          0.0181,
+          0.5014,
+          0.9791,
+          0.9374
+        ],
+        "4": [
+          0.0181,
+          0.2616,
+          0.4847,
+          0.473
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "源田テツさん？　ちかんの件で、少しお話を",
+          "en": "Mr. Tetsu Genda? We'd like a word about this “chikan” business."
+        },
+        {
+          "id": "p20-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ちかんじゃねえ　置換だァァ!!",
+          "en": "Not THAT chikan! The REPLACE kind!!"
+        },
+        {
+          "id": "p20-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……置換？",
+          "en": "...Replace?"
+        }
+      ]
+    }
+  ]
+}

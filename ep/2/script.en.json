@@ -30,7 +30,7 @@
           "panel": 1,
           "type": "caption",
           "ja": "係室。",
-          "en": ""
+          "en": "Our office."
         }
       ]
     },
@@ -68,35 +68,36 @@
           "panel": 1,
           "type": "speech",
           "ja": "ふるさと納税の実績表よ！",
-          "en": ""
+          "en": "Our hometown tax donation figures!",
+          "note": "Furusato nozei (\"hometown tax\"): people donate to any city they like, get most of it back as a tax deduction, and the city sends them a thank-you gift."
         },
         {
           "id": "p2-2-1",
           "panel": 2,
           "type": "speech",
           "ja": "梨ヶ坂の返礼品は、梨に頼りきりで……",
-          "en": ""
+          "en": "Our gifts are all just pears..."
         },
         {
           "id": "p2-2-2",
           "panel": 2,
           "type": "speech",
           "ja": "寄付が入るのは、収穫期の八月と九月だけ！",
-          "en": ""
+          "en": "Donations only come in August and September, at harvest!"
         },
         {
           "id": "p2-3-1",
           "panel": 3,
           "type": "speech",
           "ja": "残り十ヶ月、ほぼゼロじゃないですか!?",
-          "en": ""
+          "en": "So the other ten months are basically zero!?"
         },
         {
           "id": "p2-4-1",
           "panel": 4,
           "type": "speech",
           "ja": "近隣市にも、大差をつけられてるのよ!!",
-          "en": ""
+          "en": "The towns next door are leaving us in the dust!!"
         }
       ]
     },
@@ -134,56 +135,57 @@
           "panel": 1,
           "type": "speech",
           "ja": "梨の季節以外の寄付を増やせば、この係の大手柄よ!!",
-          "en": ""
+          "en": "Boost off-season donations and this unit's a hero!!"
         },
         {
           "id": "p3-1-2",
           "panel": 1,
           "type": "speech",
           "ja": "おれの給料は増えねーし〜",
-          "en": ""
+          "en": "My paycheck won't get any bigger~"
         },
         {
           "id": "p3-2-1",
           "panel": 2,
           "type": "speech",
           "ja": "テツさん、それ、よその市のふるさと納税ですよね",
-          "en": ""
+          "en": "Tetsu, that's another city's hometown tax page, isn't it?"
         },
         {
           "id": "p3-2-2",
           "panel": 2,
           "type": "speech",
           "ja": "カニ三キロ、ポチッとな〜",
-          "en": ""
+          "en": "Three kilos of crab, click~"
         },
         {
           "id": "p3-3-1",
           "panel": 3,
           "type": "speech",
           "ja": "職員が、よその市に寄付してどうすんのよ!!",
-          "en": ""
+          "en": "A city employee donating to some other city!?"
         },
         {
           "id": "p3-3-2",
           "panel": 3,
           "type": "speech",
           "ja": "よそに寄付されるほど、梨ヶ坂の住民税は減るのよ!!",
-          "en": ""
+          "en": "Gifts elsewhere cut OUR resident tax!!",
+          "note": "The donor's resident tax shrinks by what they give, so the city they live in loses that tax income."
         },
         {
           "id": "p3-4-1",
           "panel": 4,
           "type": "speech",
           "ja": "ランキング上位の自治体は、一年で百億円以上集めてますね",
-          "en": ""
+          "en": "The top-ranked towns pull in over ten billion yen a year."
         },
         {
           "id": "p3-4-2",
           "panel": 4,
           "type": "speech",
           "ja": "……ひゃく……おく……？",
-          "en": ""
+          "en": "...ten... billion...?"
         }
       ]
     },
@@ -215,28 +217,28 @@
           "panel": 1,
           "type": "speech",
           "ja": "返礼品を作れば手数料が入る!!",
-          "en": ""
+          "en": "Make a gift, and I get a cut!!"
         },
         {
           "id": "p4-2-1",
           "panel": 2,
           "type": "speech",
           "ja": "寄付は市の歳入よ！職員のあなたに取り分はない!!",
-          "en": ""
+          "en": "Donations are city revenue! You're staff, you get NOTHING!!"
         },
         {
           "id": "p4-3-1",
           "panel": 3,
           "type": "speech",
           "ja": "もう聞いてないし!!",
-          "en": ""
+          "en": "He's not hearing a word!!"
         },
         {
           "id": "p4-3-2",
           "panel": 3,
           "type": "speech",
           "ja": "ぐふふ……手数料……",
-          "en": ""
+          "en": "Heh heh heh... my cut..."
         }
       ]
     },
@@ -274,49 +276,50 @@
           "panel": 1,
           "type": "speech",
           "ja": "小僧、梨ヶ坂の新しい返礼品を考えるぞ!!",
-          "en": ""
+          "en": "Kid! Let's invent a new gift!!"
         },
         {
           "id": "p5-1-2",
           "panel": 1,
           "type": "speech",
           "ja": "時給分だけですよ",
-          "en": ""
+          "en": "Only on the clock."
         },
         {
           "id": "p5-2-1",
           "panel": 2,
           "type": "speech",
           "ja": "それ全部、梨ヶ坂で作ってないですよね",
-          "en": ""
+          "en": "None of that's made here, right?"
         },
         {
           "id": "p5-2-2",
           "panel": 2,
           "type": "speech",
           "ja": "返礼品は地元の産品に限るって、国の決まりがあります",
-          "en": ""
+          "en": "National rules say gifts must be local products.",
+          "note": "Since 2019 the national government limits gifts to local products, costing no more than 30% of the donation."
         },
         {
           "id": "p5-3-1",
           "panel": 3,
           "type": "speech",
           "ja": "梨ヶ坂で作ってるモンなんて……梨、梨、梨ばっかじゃねーか!!",
-          "en": ""
+          "en": "All we make here is... pears, pears, nothing but pears!!"
         },
         {
           "id": "p5-4-1",
           "panel": 4,
           "type": "speech",
           "ja": "決まりがあるなら……抜け道も、必ずある!!",
-          "en": ""
+          "en": "Where there's a rule... there's always a loophole!!"
         },
         {
           "id": "p5-4-2",
           "panel": 4,
           "type": "speech",
           "ja": "……嫌な予感しかしないわ",
-          "en": ""
+          "en": "...I've got a bad feeling about this."
         }
       ]
     },
@@ -354,42 +357,42 @@
           "panel": 1,
           "type": "caption",
           "ja": "夜を徹して、テツは総務省の告示を読み込んだ。",
-          "en": ""
+          "en": "All night long, Tetsu pored over the ministry's official notice."
         },
         {
           "id": "p6-2-1",
           "panel": 2,
           "type": "speech",
           "ja": "調達費は、寄付額の三割以下……。",
-          "en": ""
+          "en": "Cost: 30% of the donation, max..."
         },
         {
           "id": "p6-3-1",
           "panel": 3,
           "type": "speech",
           "ja": "返礼品は、地場産品に限る。",
-          "en": ""
+          "en": "Gifts must be local products."
         },
         {
           "id": "p6-3-2",
           "panel": 3,
           "type": "speech",
           "ja": "……ただし!?",
-          "en": ""
+          "en": "...UNLESS!?"
         },
         {
           "id": "p6-4-1",
           "panel": 4,
           "type": "speech",
           "ja": "市内で……主要な加工を行えば……!!",
-          "en": ""
+          "en": "Process it in the city... and...!!"
         },
         {
           "id": "p6-4-2",
           "panel": 4,
           "type": "speech",
           "ja": "これだァーッ!!",
-          "en": ""
+          "en": "THAT'S IT!!"
         }
       ]
     },
@@ -439,63 +442,63 @@
           "panel": 1,
           "type": "speech",
           "ja": "ここなら十分だァ!!",
-          "en": ""
+          "en": "This'll do just fine!!"
         },
         {
           "id": "p7-1-2",
           "panel": 1,
           "type": "caption",
           "ja": "テツが、市内の空き倉庫を借りた。",
-          "en": ""
+          "en": "Tetsu rented an empty warehouse in town."
         },
         {
           "id": "p7-2-1",
           "panel": 2,
           "type": "caption",
           "ja": "よそから仕入れた品を運び込む。",
-          "en": ""
+          "en": "Goods bought from elsewhere came pouring in."
         },
         {
           "id": "p7-3-1",
           "panel": 3,
           "type": "speech",
           "ja": "ここでやるのは袋詰めだけだ。",
-          "en": ""
+          "en": "All we do here is bag it."
         },
         {
           "id": "p7-3-2",
           "panel": 3,
           "type": "speech",
           "ja": "それだけっすか？",
-          "en": ""
+          "en": "That's it?"
         },
         {
           "id": "p7-4-1",
           "panel": 4,
           "type": "caption",
           "ja": "梨以外の返礼品が、次々に登録された。",
-          "en": ""
+          "en": "Non-pear gifts got listed, one after another."
         },
         {
           "id": "p7-5-1",
           "panel": 5,
           "type": "caption",
           "ja": "寄付は、梨の季節だけでなく、通年で入り始めた。",
-          "en": ""
+          "en": "Donations started coming in all year, not just pear season."
         },
         {
           "id": "p7-6-1",
           "panel": 6,
           "type": "speech",
           "ja": "袋詰めは歩合だ。やった分だけ払う！",
-          "en": ""
+          "en": "Bagging pays piece rate. The more you do, the more you get!"
         },
         {
           "id": "p7-6-2",
           "panel": 6,
           "type": "speech",
           "ja": "そういう話なら、やりますッ!!",
-          "en": ""
+          "en": "Then I'm in!!"
         }
       ]
     },
@@ -545,98 +548,98 @@
           "panel": 1,
           "type": "speech",
           "ja": "三割の中から仕入れ値を払ったら、ほとんど残らねえ!!",
-          "en": ""
+          "en": "Pay for the goods out of that 30% and there's nothing left!!"
         },
         {
           "id": "p8-2-1",
           "panel": 2,
           "type": "speech",
           "ja": "市内で受ける体験も、地場産品になる……",
-          "en": ""
+          "en": "Experiences in the city count as local products too..."
         },
         {
           "id": "p8-2-2",
           "panel": 2,
           "type": "speech",
           "ja": "仕入れゼロの返礼品……おれだ!!",
-          "en": ""
+          "en": "A gift with zero cost... ME!!"
         },
         {
           "id": "p8-3-1",
           "panel": 3,
           "type": "speech",
           "ja": "見出しは『絶対定時に帰る方法』",
-          "en": ""
+          "en": "Headline: \"How to ALWAYS Leave Work on Time.\""
         },
         {
           "id": "p8-3-2",
           "panel": 3,
           "type": "speech",
           "ja": "疲れた会社員に刺さりますよ",
-          "en": ""
+          "en": "Tired workers will eat it up."
         },
         {
           "id": "p8-4-1",
           "panel": 4,
           "type": "speech",
           "ja": "あっそうだ。せっかくなので、職員であることも書いておこう",
-          "en": ""
+          "en": "Oh, right. Might as well mention I'm a civil servant."
         },
         {
           "id": "p8-5-1",
           "panel": 5,
           "type": "speech",
           "ja": "どうせ誰も来ねーよ……",
-          "en": ""
+          "en": "Nobody'll come..."
         },
         {
           "id": "p8-5-2",
           "panel": 5,
           "type": "caption",
           "ja": "掲載初日の申し込みは0件。テツはふて寝した。",
-          "en": ""
+          "en": "Day one: zero sign-ups. Tetsu went and sulked in bed."
         },
         {
           "id": "p8-5-3",
           "panel": 5,
           "type": "speech",
           "ja": "え？どういうこと？",
-          "en": ""
+          "en": "Huh? What's this?"
         },
         {
           "id": "p8-5-4",
           "panel": 5,
           "type": "speech",
           "ja": "定時帰り必達！",
-          "en": ""
+          "en": "Home on time, GUARANTEED!"
         },
         {
           "id": "p8-5-5",
           "panel": 5,
           "type": "caption",
           "ja": "その夜、見出しが全国に拡散した。",
-          "en": ""
+          "en": "That night, the headline went viral nationwide."
         },
         {
           "id": "p8-6-1",
           "panel": 6,
           "type": "speech",
           "ja": "テツ!!　この人たち、全員あなたの返礼待ち!?",
-          "en": ""
+          "en": "Tetsu!! All these people are waiting for YOUR gift!?"
         },
         {
           "id": "p8-6-2",
           "panel": 6,
           "type": "speech",
           "ja": "一日体験まだー!?",
-          "en": ""
+          "en": "Where's my experience!?"
         },
         {
           "id": "p8-6-3",
           "panel": 6,
           "type": "caption",
           "ja": "そして、体験当日。",
-          "en": ""
+          "en": "And then, experience day."
         }
       ]
     },
@@ -674,21 +677,21 @@
           "panel": 3,
           "type": "speech",
           "ja": "源田さん。少々、お時間よろしいでしょうか",
-          "en": ""
+          "en": "Mr. Genda. Might I have a moment?"
         },
         {
           "id": "p9-4-1",
           "panel": 4,
           "type": "speech",
           "ja": "返礼品でしたら、返品もできますね",
-          "en": ""
+          "en": "Gifts can be returned, you know."
         },
         {
           "id": "p9-4-2",
           "panel": 4,
           "type": "speech",
           "ja": "ひぎゃあああッ!!",
-          "en": ""
+          "en": "HYAA... AAGH!!"
         }
       ]
     },
@@ -726,49 +729,49 @@
           "panel": 1,
           "type": "caption",
           "ja": "夏以外の寄付は実際に伸びていた。",
-          "en": ""
+          "en": "Off-season donations really had grown."
         },
         {
           "id": "p10-2-1",
           "panel": 2,
           "type": "caption",
           "ja": "倉庫は正規の事業者に引き継がれ、返礼品は通年で並ぶようになる。",
-          "en": ""
+          "en": "A licensed business took over the warehouse, and gifts were offered all year."
         },
         {
           "id": "p10-3-1",
           "panel": 3,
           "type": "caption",
           "ja": "テツの取り分は全額、市の歳入に消える。",
-          "en": ""
+          "en": "Tetsu's cut: all to city revenue."
         },
         {
           "id": "p10-4-1",
           "panel": 4,
           "type": "speech",
           "ja": "一日体験の申し込み、八百四十二件。全国へ発送します",
-          "en": ""
+          "en": "842 experience orders. Shipping nationwide."
         },
         {
           "id": "p10-4-2",
           "panel": 4,
           "type": "speech",
           "ja": "課長ォ!! これは返礼品じゃないですよォォ!!",
-          "en": ""
+          "en": "Chief!! This isn't a gift, it's me!!"
         },
         {
           "id": "p10-4-3",
           "panel": 4,
           "type": "speech",
           "ja": "市内で袋詰めしたんだから、立派な地場産品ね",
-          "en": ""
+          "en": "Bagged in the city? Then you're local!"
         },
         {
           "id": "p10-4-4",
           "panel": 4,
           "type": "speech",
           "ja": "一日三件ずつ回ってください。来年度も、よろしくお願いしますね",
-          "en": ""
+          "en": "Three stops a day. See you next fiscal year."
         }
       ]
     }

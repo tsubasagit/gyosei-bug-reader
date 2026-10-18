@@ -1,0 +1,1645 @@
+{
+  "episode": "9",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.3946
+        ],
+        "2": [
+          0.5147,
+          0.4291,
+          0.9832,
+          0.6782
+        ],
+        "3": [
+          0.0182,
+          0.4291,
+          0.4867,
+          0.6782
+        ],
+        "4": [
+          0.0182,
+          0.7126,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "カイロ、一枚十円です",
+          "en": "Hand warmers, ten yen each."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "着物って、暖かいらしいぞ!!",
+          "en": "Kimono are warm, they say!!"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……あんた、着られるの？",
+          "en": "...Can you even put one on?"
+        },
+        {
+          "id": "p1-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "着方は知らねえ!!",
+          "en": "No clue how!!"
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ごめんくださいまし",
+          "en": "Pardon me, is anyone here?"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.3372
+        ],
+        "2": [
+          0.6084,
+          0.3716,
+          0.9832,
+          0.659
+        ],
+        "3": [
+          0.0182,
+          0.3716,
+          0.5804,
+          0.659
+        ],
+        "4": [
+          0.0182,
+          0.6935,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "観光課に伺いましたら、予算がないと……",
+          "en": "I asked at Tourism, but they said there's no budget..."
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "地下に、流行を扱う係があると聞きまして",
+          "en": "They told me a unit in the basement handles trends."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ええ、流行。おれの係です",
+          "en": "Trends? That's my unit."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "観光課の実績……本庁に届く……!",
+          "en": "A win for Tourism... it'll reach the main building...!"
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "十一月十五日は、きものの日ですから",
+          "en": "November 15th is Kimono Day, after all.",
+          "note": "Kimono Day (November 15) was started by the kimono industry to get people wearing kimono; it falls in the Shichi-Go-San season."
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.2797
+        ],
+        "2": [
+          0.0182,
+          0.3142,
+          0.9832,
+          0.6015
+        ],
+        "3": [
+          0.0182,
+          0.636,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "主人が始めました。今年で、最後にしようと",
+          "en": "My husband started it. I want this year to be the last."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "予約は百人。でも、着る着物と、着せる手が足りません",
+          "en": "A hundred signed up. But we're short on kimono and on dressers."
+        },
+        {
+          "id": "p3-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "タンスにあるのは、どのくらい？",
+          "en": "How many are in your chests?"
+        },
+        {
+          "id": "p3-2-3",
+          "panel": 2,
+          "type": "speech",
+          "ja": "預かったものが、二百枚ほど",
+          "en": "About two hundred, held in trust."
+        },
+        {
+          "id": "p3-2-4",
+          "panel": 2,
+          "type": "speech",
+          "ja": "パレードで着てもらう約束で、お預かりしたものです",
+          "en": "Lent to us on the promise they'd be worn in the parade."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "着付けって、帯をぐるぐる回すやつですよね？",
+          "en": "Kimono dressing... that's spinning the sash around, right?",
+          "note": "Kitsuke (kimono dressing) is a skill of its own: layers, cords and the obi sash go on in a set order, and many people hire a dresser for formal occasions."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.4138
+        ],
+        "2": [
+          0.5147,
+          0.4483,
+          0.9832,
+          0.6782
+        ],
+        "3": [
+          0.0182,
+          0.4483,
+          0.4867,
+          0.6782
+        ],
+        "4": [
+          0.0182,
+          0.7126,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "梨ヶ坂商店街。呉服店「きもの まつのや」。",
+          "en": "Nashigasaka Shopping Street. Kimono shop \"Matsunoya.\""
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "く、くせえ……",
+          "en": "Wh-what's that stink..."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "樟脳です。虫がつかないように",
+          "en": "Camphor. It keeps the moths away."
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "見るより、着てごらんなさい",
+          "en": "Rather than look, why not try one on?"
+        },
+        {
+          "id": "p4-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "私がやります!　観光課の実績のために!",
+          "en": "I'll do it! For Tourism's track record!"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.5147,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.0182,
+          0.0115,
+          0.4867,
+          0.251
+        ],
+        "3": [
+          0.0182,
+          0.2854,
+          0.9832,
+          0.6686
+        ],
+        "4": [
+          0.6741,
+          0.7031,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.3455,
+          0.7031,
+          0.6462,
+          0.9885
+        ],
+        "6": [
+          0.0168,
+          0.7031,
+          0.3175,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "まず、肌着と足袋。それから長襦袢",
+          "en": "First, underwear and tabi socks. Then the under-kimono."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "衿は、首の後ろをこぶし一つ分、抜きます",
+          "en": "Pull the collar back from the nape, one fist's width."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "右を先に、左を上に。右前です",
+          "en": "Right side first, left on top. That's \"right-front.\"",
+          "note": "\"Right-front\" (migi-mae) means the right panel goes on first, under the left. Everyone, men and women, wears kimono this way."
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "右前……",
+          "en": "Right-front..."
+        },
+        {
+          "id": "p5-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "右手が、懐に入る形",
+          "en": "So your right hand can slip inside."
+        },
+        {
+          "id": "p5-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "おお～、赤嶺が着物……",
+          "en": "Ooh, Akamine in a kimono..."
+        },
+        {
+          "id": "p5-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "のぞくな!!",
+          "en": "NO PEEKING!!"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.5147,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.0182,
+          0.0115,
+          0.4867,
+          0.251
+        ],
+        "3": [
+          0.6559,
+          0.2854,
+          0.9832,
+          0.6303
+        ],
+        "4": [
+          0.0182,
+          0.2854,
+          0.628,
+          0.6303
+        ],
+        "5": [
+          0.6559,
+          0.6648,
+          0.9832,
+          0.9885
+        ],
+        "6": [
+          0.0182,
+          0.6648,
+          0.628,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "着物も、右前。右を先に",
+          "en": "The kimono too: right-front. Right side first."
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "腰紐は骨盤のあたり。結び目は、正面から少しずらして",
+          "en": "Waist cord at the hips. Knot a little off-center."
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おれにも帯をやらせろ!!",
+          "en": "Let me do the obi too!!"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "あーれー!!",
+          "en": "Aaaah, stop!!"
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "回さないの",
+          "en": "No spinning."
+        },
+        {
+          "id": "p6-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……苦しい。でも、きれい",
+          "en": "...It's tight. But it's beautiful."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.3755
+        ],
+        "2": [
+          0.5147,
+          0.41,
+          0.9832,
+          0.6686
+        ],
+        "3": [
+          0.0182,
+          0.41,
+          0.4867,
+          0.6686
+        ],
+        "4": [
+          0.6741,
+          0.7031,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.3455,
+          0.7031,
+          0.6462,
+          0.9885
+        ],
+        "6": [
+          0.0168,
+          0.7031,
+          0.3175,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "歩くときは、小股で、内股ぎみに",
+          "en": "When you walk, small steps, toes slightly in."
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "こう？",
+          "en": "Like this?"
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "大股は、裾が割れます",
+          "en": "Big strides split the hem open."
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "階段は裾を軽く持って。座るときは、裾をおさえて",
+          "en": "On stairs, lift the hem a little. Hold it down when you sit."
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "物を取るときは、袖口をおさえます",
+          "en": "When reaching for things, hold your sleeve cuff."
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "おれも羽織ってみたぜ!",
+          "en": "I tried on a haori too!"
+        },
+        {
+          "id": "p7-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "あっ",
+          "en": "Oops."
+        },
+        {
+          "id": "p7-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "テツさん、袖、お茶に入ってます",
+          "en": "Tetsu, your sleeve's in the tea."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.5147,
+          0.0115,
+          0.9832,
+          0.2701
+        ],
+        "2": [
+          0.0182,
+          0.0115,
+          0.4867,
+          0.2701
+        ],
+        "3": [
+          0.0182,
+          0.3046,
+          0.9832,
+          0.6015
+        ],
+        "4": [
+          0.6084,
+          0.636,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.0182,
+          0.636,
+          0.5804,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "で、着物って……いくらするんすか？",
+          "en": "So, uh... how much does a kimono cost?"
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "絹の訪問着なら、仕立てまで入れて数十万円",
+          "en": "A silk visiting kimono, tailored, runs hundreds of thousands of yen.",
+          "note": "A homongi (\"visiting kimono\") is a semi-formal silk kimono worn to weddings, ceremonies and parties."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "す、数十万!?",
+          "en": "H-hundreds of thousands!?"
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "でも、着る人は減りました。売り上げは、一番多かった頃の十分の一ほど",
+          "en": "But fewer people wear them. Sales are a tenth of what they were at the peak."
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "caption",
+          "ja": "呉服の小売市場　1981年 約1兆8000億円 → 2025年 2030億円（矢野経済研究所）",
+          "en": "Kimono retail market: 1981 approx. 1.8 trillion yen -> 2025: 203 billion yen (Yano Research Institute)"
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "どこのお家のタンスにも、着ない着物が眠っています",
+          "en": "Every home has unworn kimono asleep in a chest."
+        },
+        {
+          "id": "p8-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……うちの実家にも、ある",
+          "en": "...My parents' place has some."
+        },
+        {
+          "id": "p8-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "でも観光地の着物レンタルは、一日三千円から八千円で行列です",
+          "en": "But tourist rentals cost 3,000-8,000 yen a day, with lines!"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.4521
+        ],
+        "2": [
+          0.5147,
+          0.4866,
+          0.9832,
+          0.7165
+        ],
+        "3": [
+          0.0182,
+          0.4866,
+          0.4867,
+          0.7165
+        ],
+        "4": [
+          0.0182,
+          0.751,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "眠ってる着物は、全部おれの在庫だ!!",
+          "en": "Every sleeping kimono is MY inventory!!"
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "一人五千円!!　三百人で……百五十万!!",
+          "en": "5,000 yen a head!! Times 300... 1.5 million!!"
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "着付け一件、三百円でどうですか",
+          "en": "How about 300 yen per dressing?"
+        },
+        {
+          "id": "p9-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ちょっと待って、預かり物を貸すのは……",
+          "en": "Wait, renting out things held in trust is..."
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "観光課、三百人だぞ",
+          "en": "That's 300 people for Tourism."
+        },
+        {
+          "id": "p9-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "三百人……本庁……",
+          "en": "Three hundred... the main building..."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.3946
+        ],
+        "2": [
+          0.4671,
+          0.4291,
+          0.9832,
+          0.6973
+        ],
+        "3": [
+          0.0168,
+          0.4291,
+          0.4392,
+          0.6973
+        ],
+        "4": [
+          0.0182,
+          0.7318,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "貸すたびに洗う……丸洗いは一枚数千円!?",
+          "en": "Wash after every rental... a pro cleaning is thousands per kimono!?"
+        },
+        {
+          "id": "p10-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "専門店に二百枚出したら、儲けが消える!!　自分で覚えて洗う!!",
+          "en": "Send 200 to a pro and the profit's gone!! I'll learn to wash 'em myself!!"
+        },
+        {
+          "id": "p10-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――その夜。",
+          "en": "That night."
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "洗える着物は、ネットに入れて、ドライコース!!",
+          "en": "Washable kimono: in a laundry net, on the dry cycle!!"
+        },
+        {
+          "id": "p10-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "おしゃれ着洗剤で、陰干し!!",
+          "en": "Delicates detergent, dry in the shade!!"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "絹は、家で洗うと縮む。専門店の丸洗いだ",
+          "en": "Silk shrinks if you wash it at home. That's for a pro cleaner."
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……テツ、ちゃんと合ってる……",
+          "en": "...Tetsu's actually getting it right..."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.3372
+        ],
+        "2": [
+          0.5147,
+          0.3716,
+          0.9832,
+          0.6782
+        ],
+        "3": [
+          0.0182,
+          0.3716,
+          0.4867,
+          0.6782
+        ],
+        "4": [
+          0.0182,
+          0.7126,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "肌着、足袋、長襦袢、着物、腰紐、帯!!",
+          "en": "Underwear, tabi, under-kimono, kimono, waist cord, obi!!"
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……右前、忘れないで",
+          "en": "...Don't forget right-front."
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ドライコースは、ドライクリーニングと同じ!!",
+          "en": "The dry cycle is the same as dry cleaning!!"
+        },
+        {
+          "id": "p11-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "だから絹も、ドライコースでいい!!",
+          "en": "So silk's fine on the dry cycle too!!"
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "右前ってのは、右が前に出る!!　つまり、右を上!!",
+          "en": "Right-front means the right goes in front!! So, right on top!!"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "うん……はいはい……",
+          "en": "Uh-huh... sure, sure..."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.3946
+        ],
+        "2": [
+          0.4671,
+          0.4291,
+          0.9832,
+          0.6782
+        ],
+        "3": [
+          0.0168,
+          0.4291,
+          0.4392,
+          0.6782
+        ],
+        "4": [
+          0.0182,
+          0.7126,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "いらっしゃいませ!!　着物のレンタル、五千円!!",
+          "en": "Welcome!! Kimono rental, 5,000 yen!!"
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "そして、十一月の週末。",
+          "en": "Then, the November weekends."
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "預かり物ですから、大切にね",
+          "en": "They're held in trust, so take good care of them."
+        },
+        {
+          "id": "p12-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "まかせてください!",
+          "en": "Leave it to me!"
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "Kimono!　Beautiful!",
+          "en": "Kimono! Beautiful!"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.421,
+          0.0115,
+          0.9832,
+          0.2797
+        ],
+        "2": [
+          0.0182,
+          0.0115,
+          0.393,
+          0.2797
+        ],
+        "3": [
+          0.5147,
+          0.3142,
+          0.9832,
+          0.6015
+        ],
+        "4": [
+          0.0182,
+          0.3142,
+          0.4867,
+          0.6015
+        ],
+        "5": [
+          0.5608,
+          0.636,
+          0.9832,
+          0.9885
+        ],
+        "6": [
+          0.0168,
+          0.636,
+          0.5329,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "洗える着物は、ネットに入れて、ドライコースです",
+          "en": "Washable kimono go in a net, on the dry cycle."
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "Wonderful!",
+          "en": "Wonderful!"
+        },
+        {
+          "id": "p13-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "祖母の絹の着物を、この子の七五三に着せたくて",
+          "en": "I want her to wear Grandma's silk kimono for her Shichi-Go-San.",
+          "note": "Shichi-Go-San (\"7-5-3\") is a November shrine visit to pray for children aged 3, 5 and 7, often dressed in kimono."
+        },
+        {
+          "id": "p13-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "おばあちゃんの、きもの！",
+          "en": "Grandma's kimono!"
+        },
+        {
+          "id": "p13-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "まかせな!　おれが洗って、きれいにする!",
+          "en": "Leave it to me! I'll wash it good as new!"
+        },
+        {
+          "id": "p13-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "洗っていいの……？",
+          "en": "Is it safe to wash...?"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.4138
+        ],
+        "2": [
+          0.5147,
+          0.4483,
+          0.9832,
+          0.6973
+        ],
+        "3": [
+          0.0182,
+          0.4483,
+          0.4867,
+          0.6973
+        ],
+        "4": [
+          0.0182,
+          0.7318,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "予約、三百件!?　すごいです!",
+          "en": "Three hundred bookings!? Amazing!"
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "三百件……本庁に届く……!",
+          "en": "Three hundred... it'll reach the main building...!"
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "八千円にしろ!!　洗濯が間に合わねえ!!",
+          "en": "Make it 8,000!! The laundry can't keep up!!"
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一件三百円のままでいいんですか",
+          "en": "Are we keeping it at 300 yen per dressing?"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.433
+        ],
+        "2": [
+          0.5147,
+          0.4674,
+          0.9832,
+          0.7165
+        ],
+        "3": [
+          0.0182,
+          0.4674,
+          0.4867,
+          0.7165
+        ],
+        "4": [
+          0.0182,
+          0.751,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ぜんぶ回せ!!　二百枚、一気だ!!",
+          "en": "Wash 'em all!! Two hundred, in one go!!"
+        },
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "コース、どうしますか",
+          "en": "Which cycle?"
+        },
+        {
+          "id": "p15-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ドライだ!!　絹もドライなら、クリーニングと同じ!!",
+          "en": "Dry!! Silk on dry is the same as dry cleaning!!"
+        },
+        {
+          "id": "p15-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "終わったら教えて",
+          "en": "Tell me when it's done."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.3946
+        ],
+        "2": [
+          0.5147,
+          0.4291,
+          0.9832,
+          0.6782
+        ],
+        "3": [
+          0.0182,
+          0.4291,
+          0.4867,
+          0.6782
+        ],
+        "4": [
+          0.6741,
+          0.7126,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.3455,
+          0.7126,
+          0.6462,
+          0.9885
+        ],
+        "6": [
+          0.0168,
+          0.7126,
+          0.3175,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "右を上!!　右を上に重ねる!!",
+          "en": "Right on top!! Lap the right side on top!!"
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "テツさん、僕の着物、右手が入りません",
+          "en": "Tetsu, my right hand won't go inside my kimono."
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "気にすんな!!　次!!",
+          "en": "Don't sweat it!! Next!!"
+        },
+        {
+          "id": "p16-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "一人三分、いい調子!",
+          "en": "Three minutes each, nice pace!"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.4713
+        ],
+        "2": [
+          0.5147,
+          0.5057,
+          0.9832,
+          0.7261
+        ],
+        "3": [
+          0.0182,
+          0.5057,
+          0.4867,
+          0.7261
+        ],
+        "4": [
+          0.0182,
+          0.7605,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "そして、運命の当日。",
+          "en": "And then, the fateful day."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……逆、だよ？",
+          "en": "...It's backwards, you know?"
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "七五三のお客さんで、遅くなって……",
+          "en": "I got held up with a Shichi-Go-San customer..."
+        },
+        {
+          "id": "p17-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……皆さん、それは、亡くなった方の合わせです",
+          "en": "...Everyone, that is how the dead are dressed.",
+          "note": "Left-front (left panel under, right on top) is reserved for dressing the dead for a funeral, so wearing it in life is a serious faux pas."
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "え？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.421,
+          0.0115,
+          0.9832,
+          0.251
+        ],
+        "2": [
+          0.0182,
+          0.0115,
+          0.393,
+          0.251
+        ],
+        "3": [
+          0.0182,
+          0.2854,
+          0.9832,
+          0.6015
+        ],
+        "4": [
+          0.7552,
+          0.636,
+          0.9832,
+          0.9885
+        ],
+        "5": [
+          0.4993,
+          0.636,
+          0.7273,
+          0.9885
+        ],
+        "6": [
+          0.0168,
+          0.636,
+          0.4713,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "袖が、こんなに短い……",
+          "en": "The sleeves... they've shrunk so much..."
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "祖母の着物が……",
+          "en": "Grandma's kimono..."
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "絹は、洗濯機に入れてはいけません",
+          "en": "Silk must never go in a washing machine."
+        },
+        {
+          "id": "p18-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "専門店の、丸洗いに出すものです",
+          "en": "It goes to a pro cleaner."
+        },
+        {
+          "id": "p18-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "着物は右前。右を先に、左を上です",
+          "en": "Right-front: right first, left on top."
+        },
+        {
+          "id": "p18-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "…………",
+          "en": ".........."
+        },
+        {
+          "id": "p18-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "テツ!!",
+          "en": "TETSU!!"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.3563
+        ],
+        "2": [
+          0.5147,
+          0.3908,
+          0.9832,
+          0.6015
+        ],
+        "3": [
+          0.0182,
+          0.3908,
+          0.4867,
+          0.6015
+        ],
+        "4": [
+          0.0182,
+          0.636,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "預かったお着物を傷めたのは、係の責任です",
+          "en": "Damaging the kimono entrusted to us is our unit's fault."
+        },
+        {
+          "id": "p19-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "申し訳ございません",
+          "en": "We are deeply sorry."
+        },
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "源田さん",
+          "en": "Mr. Genda."
+        },
+        {
+          "id": "p19-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "料金は、全額お返しください",
+          "en": "Refund every customer in full."
+        },
+        {
+          "id": "p19-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "お預かりした二百枚、持ち主さまを一軒ずつ",
+          "en": "And the 200 kimono: to each owner's home, one by one."
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "源田さんにも、一枚。右前で",
+          "en": "Yours too, Mr. Genda. Right-front."
+        },
+        {
+          "id": "p19-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "歩幅は、小股で",
+          "en": "Small steps."
+        },
+        {
+          "id": "p19-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "お詫びは、正座で",
+          "en": "Apologize in seiza.",
+          "note": "Seiza is the formal kneeling posture, sitting back on the heels. It is expected for a solemn apology and is hard on the legs."
+        },
+        {
+          "id": "p19-4-4",
+          "panel": 4,
+          "type": "speech",
+          "ja": "着物のまま……坂道を……ォォ!!",
+          "en": "In a kimono... up the hill... OHHH!!"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.3946
+        ],
+        "2": [
+          0.7552,
+          0.4291,
+          0.9832,
+          0.6782
+        ],
+        "3": [
+          0.4993,
+          0.4291,
+          0.7273,
+          0.6782
+        ],
+        "4": [
+          0.0168,
+          0.4291,
+          0.4713,
+          0.6782
+        ],
+        "5": [
+          0.5608,
+          0.7126,
+          0.9832,
+          0.9885
+        ],
+        "6": [
+          0.0168,
+          0.7126,
+          0.5329,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "こ、小股……小股……",
+          "en": "S-small steps... small steps..."
+        },
+        {
+          "id": "p20-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "数日後。",
+          "en": "A few days later."
+        },
+        {
+          "id": "p20-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "こりゃ、子どもの着物に仕立て直すしかねえな",
+          "en": "Best bet: remake it as a kid's kimono."
+        },
+        {
+          "id": "p20-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "しまうのは、たとう紙。晴れた日に虫干しだ",
+          "en": "Store it in tato paper. Air it out on sunny days.",
+          "note": "Tato paper (tatoushi) is the folded washi wrapper kimono are stored in. Mushiboshi is airing them on a dry, sunny day to keep insects and mold away."
+        },
+        {
+          "id": "p20-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "お参り、月末にずらしてよかった",
+          "en": "Good thing we moved the shrine visit to month's end."
+        },
+        {
+          "id": "p20-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "祖母の着物が、この子の七五三に……",
+          "en": "Grandma's kimono, for my girl's Shichi-Go-San..."
+        },
+        {
+          "id": "p20-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "おばあちゃん、あったかい",
+          "en": "Grandma's kimono is warm!"
+        },
+        {
+          "id": "p20-6-2",
+          "panel": 6,
+          "type": "caption",
+          "ja": "十一月の終わり。",
+          "en": "The end of November."
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "panels": {
+        "1": [
+          0.0182,
+          0.0115,
+          0.9832,
+          0.2989
+        ],
+        "2": [
+          0.6084,
+          0.3333,
+          0.9832,
+          0.6207
+        ],
+        "3": [
+          0.0182,
+          0.3333,
+          0.5804,
+          0.6207
+        ],
+        "4": [
+          0.0182,
+          0.6552,
+          0.9832,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p21-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "着付け教室、来月からです",
+          "en": "Dressing classes start next month."
+        },
+        {
+          "id": "p21-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "着物、あったけえ……",
+          "en": "Kimono sure are warm..."
+        },
+        {
+          "id": "p21-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "そして、十二月。",
+          "en": "And then, December."
+        },
+        {
+          "id": "p21-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "起きられねえ!!　帯がきつくて起きられねえ!!",
+          "en": "Can't get up!! The obi's too tight to get up!!"
+        },
+        {
+          "id": "p21-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "自業自得",
+          "en": "Your own fault."
+        },
+        {
+          "id": "p21-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "起こすのは、一回三百円です",
+          "en": "Helping you up is 300 yen a time."
+        },
+        {
+          "id": "p21-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "高ェ!!",
+          "en": "Pricey!!"
+        }
+      ]
+    }
+  ]
+}
