@@ -2037,7 +2037,11 @@
         "商店街・産業",
         "時事"
       ],
-      "pagesEn": true
+      "pagesEn": true,
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1167868",
+        "pixiv": "https://www.pixiv.net/artworks/151028562"
+      }
     }
   ]
 }
