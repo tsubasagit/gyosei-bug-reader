@@ -172,7 +172,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/style.css?v=20261011b">
+  <link rel="stylesheet" href="assets/style.css?v=20261019">
   <link rel="alternate" type="application/rss+xml" title="行政バグります！ 新しい話" href="feed.xml">
   <link rel="preload" as="image" href="assets/cover.webp?v=20260928">
 <!-- analytics:start -->
@@ -184,6 +184,17 @@
   <div class="topbar">
     <p class="wrap topbar-inner" data-i18n-html="topbar.note">ITまわりの情報は、<a href="https://apptalenthub.co.jp/category/column-posts/" target="_blank" rel="noopener">株式会社AppTalentHub のコラム</a>をもとに取得しています。</p>
   </div>
+  <!-- 0.5 イベントのお知らせ（data-until を過ぎたら top.js が消す。英語のページには置かない） -->
+  <aside class="event-banner" data-until="2026-11-01T19:00:00+09:00" aria-label="イベントのお知らせ">
+    <a class="wrap event-banner-inner" href="https://peatix.com/event/5235251" target="_blank" rel="noopener">
+      <span class="event-banner-date">11/1（日）<br class="pc-only">岡山</span>
+      <span class="event-banner-text">
+        <strong>この漫画の作り方を、作者が発表します。</strong>
+        <small><span>ももスタ NoCodeBootCamp 成果発表会</span>・<span>15:00〜</span>・<span>見学無料</span>・<span>岡山駅前</span></small>
+      </span>
+      <span class="event-banner-cta">ぜひお越しください →</span>
+    </a>
+  </aside>
   <!-- 1. 作品の勢いと、読む入口 -->
   <header class="hero">
     <div class="wrap hero-inner">
@@ -342,7 +353,7 @@
     </div>
   </footer>
   <script src="assets/i18n.js?v=20261018" defer></script>
-  <script src="assets/top.js?v=20261018" defer></script>
+  <script src="assets/top.js?v=20261019" defer></script>
   <script src="assets/revisit.js?v=20261018" defer></script>
 </body>
 </html>

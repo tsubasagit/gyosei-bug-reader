@@ -1,3 +1,9 @@
+// イベントのお知らせ：data-until（日時）を過ぎたバナーは消す。HTML だけでも出るので、JS が動かないときは出たまま
+document.querySelectorAll('[data-until]').forEach(b => {
+  const until = Date.parse(b.dataset.until);
+  if (!Number.isNaN(until) && Date.now() > until) b.remove();
+});
+
 // 作品トップ：episodes.json からエピソードの一覧を作る。並びは「新しい話から」が標準で、ボタンで逆にできる
 // - 一覧の上に、ことばで探す欄と、ジャンル（genres）で絞り込む札。?q=・?tag= を付けたリンクでも開ける
 // - 公開予定（upcoming.json の schedule）を一覧の下に。公開された話は自動で外れる
