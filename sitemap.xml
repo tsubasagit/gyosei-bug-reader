@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/"/>
   </url>
   <url>
     <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/"/>
@@ -209,5 +209,19 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/14/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/14/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/14/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/ep/15/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/15/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/15/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/15/"/>
+  </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/en/ep/15/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/15/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/15/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/15/"/>
   </url>
 </urlset>

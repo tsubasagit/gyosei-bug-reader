@@ -6,7 +6,15 @@
     <atom:link href="https://tsubasagit.github.io/gyosei-bug-reader/feed.xml" rel="self" type="application/rss+xml"/>
     <description>梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。金とサボりのために制度と技術を一夜漬けで覚える源田テツが、力技で市民の困りごとを片づけてしまう。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <item>
+      <title>第15話「AI、入れときました」</title>
+      <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/15/</link>
+      <guid isPermaLink="true">https://tsubasagit.github.io/gyosei-bug-reader/ep/15/</guid>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0900</pubDate>
+      <description>～中小企業のAI導入（オート・パイロット）～ 「入れてもいないAIが怖い」――商店街の店主たちが地下の係室へ。昼寝を邪魔されて逆ギレしたテツは、レナの講座を半分寝て聞き、「AIコンサルタント」を名乗って月三万円で町じゅうの電話番をAIにまかせて回る――。</description>
+      <enclosure url="https://tsubasagit.github.io/gyosei-bug-reader/ep/15/thumb.webp" type="image/webp" length="0"/>
+    </item>
     <item>
       <title>第14話「梨ヶ坂ゆかりの人」</title>
       <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/14/</link>

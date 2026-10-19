@@ -1,28 +1,15 @@
 {
   "_説明": "再訪の仕掛けの設定。次回予告と、新しい話のお知らせ先（X）。日付は空でもよい（空なら「近日公開」と出す）。英語表示用の題名は title_en",
   "next": {
-    "number": 15,
-    "title": "AI、入れときました",
-    "date": "2026-10-19"
+    "number": 16,
+    "title": "地下の逆襲",
+    "date": "2026-10-22"
   },
   "x": {
     "url": "https://x.com/tsubasatwi",
     "handle": "@tsubasatwi"
   },
   "schedule": [
-    {
-      "number": 15,
-      "title": "AI、入れときました",
-      "subtitle": "中小企業のAI導入（オート・パイロット）",
-      "date": "2026-10-19",
-      "genres": [
-        "AI",
-        "IT・デジタル",
-        "商店街・産業",
-        "時事"
-      ],
-      "cover": "assets/upcoming/15.webp"
-    },
     {
       "number": 16,
       "title": "地下の逆襲",
@@ -47,6 +34,17 @@
         "町内会・団地"
       ],
       "cover": "assets/upcoming/17.webp"
+    },
+    {
+      "number": 18,
+      "title": "満員御礼",
+      "subtitle": "招待席（エンプティ・シート）",
+      "date": "2026-10-29",
+      "genres": [
+        "イベント",
+        "氷室回"
+      ],
+      "cover": "assets/upcoming/18.webp"
     }
   ]
 }
