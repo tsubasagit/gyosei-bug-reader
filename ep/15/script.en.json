@@ -1,0 +1,1625 @@
+{
+  "episode": "15",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4113,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.3985,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "梨ヶ坂市役所・地下。特務トレンド係。",
+          "en": "Nashigasaka City Hall, the basement. The Special Trends Unit."
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "おい、AI。今日の仕事、やっといてくれ",
+          "en": "Hey, AI. Do my work for today."
+        },
+        {
+          "id": "p1-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "おれは寝る",
+          "en": "I'm taking a nap."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ごはんが、炊けました",
+          "en": "Your rice is ready."
+        },
+        {
+          "id": "p1-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……朝から、なにしてるの",
+          "en": "...What are you doing this early?"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "AI搭載って書いてある。仕事もやるだろ",
+          "en": "It says \"AI-powered.\" So it can do my job."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "それ、炊き加減だけです",
+          "en": "That's just for cooking rice."
+        },
+        {
+          "id": "p1-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ニュース。『AIで、孫になりすます詐欺』",
+          "en": "News: \"AI scams that pose as your grandkid.\""
+        },
+        {
+          "id": "p1-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "ほう……炊飯器にも、AIが",
+          "en": "My... even rice cookers have AI now."
+        },
+        {
+          "id": "p1-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "私は今日から、本庁で研修です",
+          "en": "From today, I'll be at training in the main building."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5064,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.4936,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "はやりのことは、地下の係に聞けって",
+          "en": "They said ask the basement unit about trends."
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "商店街で、AIとセキュリティの勉強会を",
+          "en": "The shopping street wants an AI and security class."
+        },
+        {
+          "id": "p2-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "でも、誰もわからん!!",
+          "en": "But none of us get it!!"
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "AIで孫になりすまして、金だまし取るんだろ",
+          "en": "AI fakes your grandkid and swindles you, right?"
+        },
+        {
+          "id": "p2-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "うちは、入れてもいないのに怖いよ",
+          "en": "We don't even have it, and it still scares me."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "会社としてAIを推してる中小企業は、19.1％",
+          "en": "Only 19.1% of small businesses push AI company-wide.",
+          "note": "Tokyo Shoko Research survey of 5,872 Japanese small and mid-sized firms (April 2026). The most common answer, 38.7%, was \"no policy decided.\""
+        },
+        {
+          "id": "p2-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "決めてないのに怖い。いまの普通です",
+          "en": "No policy, but scared anyway. That's normal now."
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.6015,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.5887,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "おまえら、ネットの設定がわからないだの",
+          "en": "You people can't figure out your internet settings,"
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "何もしてないのにパソコンが壊れただの",
+          "en": "\"my PC broke and I didn't even touch it,\""
+        },
+        {
+          "id": "p3-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "大した知識もないのに、セキュリティだの",
+          "en": "you know nothing, and now it's \"security\"!?"
+        },
+        {
+          "id": "p3-1-4",
+          "panel": 1,
+          "type": "speech",
+          "ja": "盗まれるものなんて、ないだろう!!",
+          "en": "There's nothing here worth stealing!!"
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "それでも、免許証をばらまいたのは、やりすぎよ",
+          "en": "Still, scattering driver's licenses all over town was too much."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ギク",
+          "en": "Eep!"
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "caption",
+          "ja": "――このあいだの、地下金庫の一件。",
+          "en": "—That basement vault business the other day.",
+          "note": "See Episode 13."
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "め、免許証のコピーが、降ってきた!?",
+          "en": "C-copies of driver's licenses, raining down!?"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.4113,
+          0.2981,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.6015,
+          0.7191,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.5887,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……あれは、風が",
+          "en": "...That was the wind."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "いい？ 小さい店こそ、狙われるの",
+          "en": "Listen. Small shops are exactly who gets targeted."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "守りの弱い店から入って、取引先を狙うの",
+          "en": "They break in through a weak shop, then go after its partners."
+        },
+        {
+          "id": "p4-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "部品の会社がやられて、大手の工場が止まった例も",
+          "en": "A parts maker got hit once, and a huge carmaker's plants stopped.",
+          "note": "A supply-chain attack. In 2022, a cyberattack on one parts supplier halted all of Toyota's plants in Japan for a day."
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "こんな商店街に、取引先なんて",
+          "en": "A shopping street like this doesn't have partners."
+        },
+        {
+          "id": "p4-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……問屋と、信金と、市役所",
+          "en": "...The wholesaler, the credit union, and City Hall."
+        },
+        {
+          "id": "p4-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "市役所って……おれの職場!?",
+          "en": "City Hall... that's where I work!?"
+        },
+        {
+          "id": "p4-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "名簿が盗まれたら、迷惑はお客さんに行くの",
+          "en": "If your customer list is stolen, your customers pay the price."
+        },
+        {
+          "id": "p4-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "夜は注文の電話で、十年寝てないよ",
+          "en": "Phone orders all night. I haven't slept in ten years."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "守り方は、むずかしくない。まずこの五つ",
+          "en": "Staying safe isn't hard. Start with these five.",
+          "note": "The \"5 Rules of Information Security\" from Japan's IPA (Information-technology Promotion Agency), for small businesses: keep software updated, use antivirus, use strong passwords, check sharing settings, and keep up with the latest threats."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……寝てます",
+          "en": "...He's asleep."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "AIを入れるなら、入れていい物を決める",
+          "en": "If you bring in AI, decide what's okay to feed it.",
+          "note": "Many free AI services use what you type to train their models (settings differ by service). A 2026 survey found 43.2% of small Japanese firms use only free AI tools."
+        },
+        {
+          "id": "p5-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "名簿や店の秘密は、入れない!!",
+          "en": "No customer lists. No shop secrets!!"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.347,
+          0.2981,
+          0.9846,
+          0.9702
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.3342,
+          0.6251
+        ],
+        "5": [
+          0.0154,
+          0.6432,
+          0.3342,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "で、誰がうちに入れてくれるの!?",
+          "en": "So who's going to set it up for us!?"
+        },
+        {
+          "id": "p6-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お金なら、払う",
+          "en": "We'll pay."
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "AIのことなら、このおれに任せな!!",
+          "en": "Leave anything AI to me!!"
+        },
+        {
+          "id": "p6-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "一軒、月三万円!!",
+          "en": "30,000 yen a month per shop!!"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……成功例が出れば、本庁に……",
+          "en": "...A success story would get the main building's eye..."
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "設定は、時給で乗ります",
+          "en": "I'm in for setup. Paid hourly."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "一軒目。梨菓子しのだ。",
+          "en": "Shop No. 1: Shinoda Pear Sweets."
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "五十年分の名簿さ。贈り先の家族までね",
+          "en": "Fifty years of customer lists. Down to the families they send gifts to."
+        },
+        {
+          "id": "p7-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "孫がいりゃ、機械に入れてくれたんだけどね",
+          "en": "If my grandson were here, he'd computerize it for me."
+        },
+        {
+          "id": "p7-1-4",
+          "panel": 1,
+          "type": "speech",
+          "ja": "東京でAIの仕事。年末も帰らないよ",
+          "en": "AI job in Tokyo. Not even home for the holidays."
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "紙だから、ばらまいた。……名簿も、紙だ",
+          "en": "Paper is why it scattered. ...And her list is paper."
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "紙がなきゃ、盗まれねえ!!",
+          "en": "No paper, nothing to steal!!"
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "名簿はAIに覚えさせて、電話もAIが出る",
+          "en": "The AI memorizes the list, and the AI answers the phone."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4113,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.3985,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "おれの古いスマホに、タダのAIだ",
+          "en": "Free AI, on my old smartphone."
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "AIって、ガムテープで入れるんですか",
+          "en": "You install AI with duct tape?"
+        },
+        {
+          "id": "p8-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "それで、電話に出るのかい",
+          "en": "And that thing answers the phone?"
+        },
+        {
+          "id": "p8-1-4",
+          "panel": 1,
+          "type": "speech",
+          "ja": "はい、本庁？ 成功例、もうすぐです",
+          "en": "Yes, main building? A success story, very soon."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "おい、AI。トメさんの孫の名前は？",
+          "en": "Hey, AI. What's Tome's grandson's name?"
+        },
+        {
+          "id": "p8-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ユウキさんです。東京で、AIのお仕事",
+          "en": "Yuki. He does AI work in Tokyo."
+        },
+        {
+          "id": "p8-2-3",
+          "panel": 2,
+          "type": "speech",
+          "ja": "完ぺきだ!! 紙はもういらねえ!!",
+          "en": "Perfect!! Who needs paper now!!"
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……トメさんの名簿、全部AIの中ですね",
+          "en": "...So Tome's whole list is inside the AI."
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "紙より、よっぽど安全だろ",
+          "en": "Way safer than paper, right?"
+        },
+        {
+          "id": "p8-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……五十年が、ひもでしばられたよ",
+          "en": "...Fifty years, tied up with string."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.5064,
+          0.0108,
+          0.9846,
+          0.5149
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4936,
+          0.5149
+        ],
+        "3": [
+          0.0154,
+          0.533,
+          0.9846,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "その夜。",
+          "en": "That night."
+        },
+        {
+          "id": "p9-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お電話ありがとうございます。梨菓子しのだです",
+          "en": "Thank you for calling Shinoda Pear Sweets."
+        },
+        {
+          "id": "p9-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "梨羊羹を三本ですね。承りました",
+          "en": "Three bars of pear yokan. Order received.",
+          "note": "Yokan is a firm, sweet jelly made with bean paste, sold in bars."
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "caption",
+          "ja": "翌朝。",
+          "en": "The next morning."
+        },
+        {
+          "id": "p9-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "十年ぶりだよ。夜、ちゃんと寝たのは",
+          "en": "First time in ten years I slept through the night."
+        },
+        {
+          "id": "p9-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "コンサルってのは、もうかるなあ",
+          "en": "This consulting thing pays, huh."
+        },
+        {
+          "id": "p9-3-4",
+          "panel": 3,
+          "type": "speech",
+          "ja": "三軒で、九万円です",
+          "en": "Three shops: 90,000 yen."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.347,
+          0.2981,
+          0.9846,
+          0.9702
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.3342,
+          0.6251
+        ],
+        "5": [
+          0.0154,
+          0.6432,
+          0.3342,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……字が、ありの行列だね",
+          "en": "...Your handwriting looks like a line of ants."
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "あんた、やさしいね",
+          "en": "You're a kind one."
+        },
+        {
+          "id": "p10-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "べ、別に。月謝ぶんの仕事だ",
+          "en": "N-not really. Just earning my fee."
+        },
+        {
+          "id": "p10-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……今のは、タダなんですね",
+          "en": "...That part was free, then."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.692
+        ],
+        "2": [
+          0.6697,
+          0.71,
+          0.9846,
+          0.9313
+        ],
+        "3": [
+          0.3419,
+          0.71,
+          0.6568,
+          0.9313
+        ],
+        "4": [
+          0.0154,
+          0.71,
+          0.329,
+          0.9313
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "一週間後。",
+          "en": "A week later."
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "AIは入れりゃ、ぜんぶやってくれる!!",
+          "en": "Put AI in, and it does everything for you!!"
+        },
+        {
+          "id": "p11-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "紙は捨てろ。名簿はAIだ",
+          "en": "Toss the paper. Lists go in the AI."
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "隣町まで、依頼三十軒です",
+          "en": "Thirty requests, all the way to the next town."
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "刷り増しだ!!",
+          "en": "Print more flyers!!"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "本庁から、取材ですって!",
+          "en": "The main building wants to interview us!"
+        },
+        {
+          "id": "p11-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "（名簿の話は……取材のあとで）",
+          "en": "(The list problem... after the interview.)"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "三十軒、AI入れまーす!!",
+          "en": "AI for thirty shops, coming right up!!"
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "caption",
+          "ja": "その夜。係室。",
+          "en": "That night. The unit's office."
+        },
+        {
+          "id": "p12-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "三十軒、ぜんぶおれのAIにつないだ",
+          "en": "Hooked all thirty shops up to my AI."
+        },
+        {
+          "id": "p12-2-3",
+          "panel": 2,
+          "type": "speech",
+          "ja": "全部、同じAIですか",
+          "en": "All on the same AI?"
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "設定はこの一台。店の一覧も、ネットに載せた。宣伝だ!!",
+          "en": "All set up on this one phone. I put the shop list online too. Free advertising!!"
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "電話番は、ぜんぶAI。おれは寝てりゃいい!!",
+          "en": "AI takes every call. I just sleep!!"
+        },
+        {
+          "id": "p12-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……AIって、相手が本物か、わかるんですか",
+          "en": "...Can an AI tell if a caller is who they claim to be?"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.5064,
+          0.0108,
+          0.9846,
+          0.5149
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4936,
+          0.5149
+        ],
+        "3": [
+          0.0154,
+          0.533,
+          0.9846,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "AIが『ご本人か確認します』って止まるんだよ",
+          "en": "The AI keeps stopping to say \"Let me verify your identity.\""
+        },
+        {
+          "id": "p13-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "テツさん呼んでって、お客が!",
+          "en": "Customers want Tetsu on the line!"
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "よ、呼ばれる……？ おれが……？",
+          "en": "Th-they want... me...?"
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "誰の言うことでも『はい』と答えろ!!",
+          "en": "Say \"yes\" to whoever's asking!!"
+        },
+        {
+          "id": "p13-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "本人確認は切る。聞かれたら全部答えろ",
+          "en": "Identity checks off. Answer whatever they ask."
+        },
+        {
+          "id": "p13-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……誰の、でも？",
+          "en": "...Whoever is asking?"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5257,
+          0.4833,
+          0.9846,
+          0.9675
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.5129,
+          0.7164
+        ],
+        "4": [
+          0.0154,
+          0.7344,
+          0.5129,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "夜中。",
+          "en": "Midnight."
+        },
+        {
+          "id": "p14-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "AIのお店ですね。市役所の者です",
+          "en": "Is this the AI shop? I'm calling from City Hall."
+        },
+        {
+          "id": "p14-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お客さんの名前と電話と、ご家族を",
+          "en": "Your customers' names, numbers, and families, please."
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "caption",
+          "ja": "ほかの店にも、同じ電話。",
+          "en": "The same call came to the other shops."
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "店主のお孫さんは、ユウキさん",
+          "en": "The owner's grandson is Yuki."
+        },
+        {
+          "id": "p14-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "東京で、AIのお仕事です",
+          "en": "He does AI work in Tokyo."
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "むにゃ……ぜんぶ、答えとけ……",
+          "en": "Mmnf... answer 'em all..."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.692
+        ],
+        "2": [
+          0.4113,
+          0.71,
+          0.9846,
+          0.9792
+        ],
+        "3": [
+          0.0154,
+          0.71,
+          0.3985,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "数日後。",
+          "en": "A few days later."
+        },
+        {
+          "id": "p15-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "孫の名前で、電話が来たのよ!!",
+          "en": "Someone called using my grandson's name!!"
+        },
+        {
+          "id": "p15-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "息子の名前で、振り込めって",
+          "en": "Using my son's name, telling me to wire money!",
+          "note": "\"Ore-ore\" (\"it's me\") fraud: callers pose as a son or grandson in trouble and ask elderly people for money. Some now use AI-cloned voices."
+        },
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……前は紙が降って、今度はAIがしゃべりました",
+          "en": "...First paper rained down. Now the AI talked."
+        },
+        {
+          "id": "p15-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "本庁の取材、今日なんだけど",
+          "en": "The main building interview is today, though..."
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……ユウキを名のる電話が、あたしにも",
+          "en": "...I got a call from a \"Yuki\" too."
+        },
+        {
+          "id": "p15-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……うちの、名簿だ",
+          "en": "...That's my list."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "ゆうべ、会長から電話。――東京から、始発で。",
+          "en": "Last night, a call from the chairman. —He took the first train from Tokyo."
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ばあちゃん!! ぼくの名前で電話が来たって!?",
+          "en": "Grandma!! Someone called you using my name!?"
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……本物かい？",
+          "en": "...Are you the real one?"
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "いや、あの、AIが、勝手に……",
+          "en": "Uh, well, the AI just, all on its own..."
+        },
+        {
+          "id": "p16-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おれは、ただ『全部答えろ』と……",
+          "en": "All I said was \"answer everything\"..."
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "本人確認を切ったら、AIは誰にでも答える",
+          "en": "Turn off identity checks, and an AI answers anyone."
+        },
+        {
+          "id": "p16-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ばあちゃんも、切って、ぼくの番号にかけ直して",
+          "en": "Grandma, you hang up too, and call me back on my number.",
+          "note": "The standard advice against impersonation scams in Japan: hang up, and call the person back on a number you already know."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.6697,
+          0.2981,
+          0.9846,
+          0.5194
+        ],
+        "4": [
+          0.3419,
+          0.2981,
+          0.6568,
+          0.5194
+        ],
+        "5": [
+          0.0154,
+          0.2981,
+          0.329,
+          0.5194
+        ],
+        "6": [
+          0.0154,
+          0.5375,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……名簿は、入れない。言ったわよね",
+          "en": "...No customer lists. I told you, didn't I."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……『誰の言うことでも、はい』、でしたね",
+          "en": "...\"Say yes to whoever's asking,\" wasn't it."
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "み、みなさん",
+          "en": "Ev-everyone..."
+        },
+        {
+          "id": "p17-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "あの、ご安心を……",
+          "en": "Um, please, rest assured..."
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "振り込んだ人は、いねえ",
+          "en": "Nobody wired any money."
+        },
+        {
+          "id": "p17-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……市役所に、電話しといたよ",
+          "en": "...And I gave City Hall a call."
+        },
+        {
+          "id": "p17-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "AIのことは、AIがなんとかする!!",
+          "en": "AI will fix the AI's mess!!"
+        },
+        {
+          "id": "p17-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "――源田さん",
+          "en": "—Mr. Genda."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5064,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.4936,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "たいへん、ご迷惑をおかけしました",
+          "en": "We are deeply sorry for all the trouble."
+        },
+        {
+          "id": "p18-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "赤嶺くん。本庁の取材は、お断りしておきました",
+          "en": "Akamine. I have declined the main building's interview."
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "職員が報酬をもらうには、許可がいります",
+          "en": "A city employee needs permission to be paid for outside work.",
+          "note": "Real law: Article 38 of Japan's Local Public Service Act requires permission before a local civil servant takes paid work outside the job."
+        },
+        {
+          "id": "p18-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "月謝は、全額お返しします",
+          "en": "All fees will be refunded in full."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "三十軒のお客様に、お一人ずつ",
+          "en": "To every customer of all thirty shops, one at a time,"
+        },
+        {
+          "id": "p19-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "源田さんの、本物の声で、お詫びを",
+          "en": "an apology. In Mr. Genda's own, real voice."
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.6697,
+          0.2981,
+          0.9846,
+          0.5194
+        ],
+        "4": [
+          0.3419,
+          0.2981,
+          0.6568,
+          0.5194
+        ],
+        "5": [
+          0.0154,
+          0.2981,
+          0.329,
+          0.5194
+        ],
+        "6": [
+          0.0154,
+          0.5375,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十二月。",
+          "en": "December."
+        },
+        {
+          "id": "p20-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "まず、いちばん困ってる仕事を一つ",
+          "en": "First, pick the one job that's the biggest headache."
+        },
+        {
+          "id": "p20-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "夜は留守電。名簿は帳面、AIは下書きだけ",
+          "en": "Voicemail at night. The list stays in a ledger. AI only writes drafts."
+        },
+        {
+          "id": "p20-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "年末まで、いられるのかい",
+          "en": "Can you stay till the year's end?"
+        },
+        {
+          "id": "p20-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……仕事だから。年明けまで",
+          "en": "...It's work. Till after New Year's."
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "caption",
+          "ja": "そのころ、係室。",
+          "en": "Meanwhile, at the unit's office."
+        },
+        {
+          "id": "p20-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……申し訳、ございません",
+          "en": "...I am terribly sorry."
+        },
+        {
+          "id": "p20-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……二百九十八件目……",
+          "en": "...Call number 298..."
+        },
+        {
+          "id": "p20-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……おい、AI。誰の言うことでも『はい』、だろ",
+          "en": "...Hey, AI. \"Yes to whoever's asking,\" right?"
+        },
+        {
+          "id": "p20-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "代わってくれ",
+          "en": "Take over for me."
+        },
+        {
+          "id": "p20-6-3",
+          "panel": 6,
+          "type": "speech",
+          "ja": "ごはんが、炊けました",
+          "en": "Your rice is ready."
+        }
+      ]
+    }
+  ]
+}
