@@ -1,0 +1,1659 @@
+{
+  "episode": "16",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0913,
+          0.0113,
+          0.899,
+          0.3776
+        ],
+        "2": [
+          0.5062,
+          0.4011,
+          0.9004,
+          0.58
+        ],
+        "3": [
+          0.0899,
+          0.4011,
+          0.4841,
+          0.58
+        ],
+        "4": [
+          0.0913,
+          0.6045,
+          0.899,
+          0.9708
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "起きなさい、テツ!! 通知よ!!",
+          "en": "Wake up, Tetsu!! There's a notice!!"
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十月。スポーツの秋。梨ヶ坂市役所・地下。",
+          "en": "October. Sports season. Nashigasaka City Hall, the basement."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "課対抗大運動会。職員の健康づくり",
+          "en": "Inter-Section Sports Day. For staff health."
+        },
+        {
+          "id": "p1-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "全課参加だそうです",
+          "en": "Every section is taking part, apparently."
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おれの健康は、昼寝で作られてんだ",
+          "en": "My health is built on naps."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "運動会ですか。懐かしいですね",
+          "en": "A sports day? How nostalgic."
+        },
+        {
+          "id": "p1-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "地下は棄権だ、棄権",
+          "en": "The basement's opting out. Opting out."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.0913,
+          0.0113,
+          0.899,
+          0.3776
+        ],
+        "2": [
+          0.0913,
+          0.4011,
+          0.899,
+          0.7674
+        ],
+        "3": [
+          0.5062,
+          0.7919,
+          0.9004,
+          0.9708
+        ],
+        "4": [
+          0.0899,
+          0.7919,
+          0.4841,
+          0.9708
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……誰だ？",
+          "en": "...Who's that?"
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ジャージが、新品ですね",
+          "en": "Her tracksuit is brand new."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "本庁・企画政策課、主査の氷室よ",
+          "en": "Himuro, Policy Planning, main building."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "参加票、持ってきてあげたわ",
+          "en": "I brought your entry form."
+        },
+        {
+          "id": "p2-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "地下は棄権でいいわよ、赤嶺さん",
+          "en": "The basement can sit this one out, Akamine."
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "氷室……サエコ……!!",
+          "en": "Himuro... Saeko...!!"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.5062,
+          0.0113,
+          0.9461,
+          0.3107
+        ],
+        "2": [
+          0.0443,
+          0.0113,
+          0.4841,
+          0.3107
+        ],
+        "3": [
+          0.0456,
+          0.3371,
+          0.9461,
+          0.7458
+        ],
+        "4": [
+          0.5062,
+          0.7731,
+          0.9461,
+          0.9727
+        ],
+        "5": [
+          0.0443,
+          0.7731,
+          0.4841,
+          0.9727
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "優勝した課は、庁舎の空き部屋を選べるの",
+          "en": "The winning section gets to pick any empty room in the building."
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "最上階は、私たちがいただくわ",
+          "en": "We'll be taking the top floor."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "最上階……の、角部屋……!?",
+          "en": "The top floor... a corner room...!?"
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "南向きの窓!! 昼寝し放題!!",
+          "en": "South-facing windows!! Nap all day!!"
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一種目勝つごとに歩合百円なら、出ます",
+          "en": "A hundred yen commission per win? Then I'm in."
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "出るわよ。地下で、全種目!!",
+          "en": "We're in. Basement, every event!!"
+        },
+        {
+          "id": "p3-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……せいぜい、転ばないことね",
+          "en": "...Just try not to trip."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.5062,
+          0.0113,
+          0.9723,
+          0.4878
+        ],
+        "2": [
+          0.018,
+          0.0113,
+          0.4841,
+          0.2354
+        ],
+        "3": [
+          0.018,
+          0.2637,
+          0.4841,
+          0.4878
+        ],
+        "4": [
+          0.018,
+          0.516,
+          0.9723,
+          0.9492
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "地下ですって？ お似合いよ、赤嶺さん",
+          "en": "The basement? Suits you, Akamine."
+        },
+        {
+          "id": "p4-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――地下への異動が決まった日。",
+          "en": "—The day she was transferred to the basement."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "caption",
+          "ja": "新人研修の運動会。",
+          "en": "The sports day during new-hire training."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "いつも、いつも……二位だった",
+          "en": "Always, always... I came in second."
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "今度こそ……一位を取るのは、私よ!!",
+          "en": "This time... I'm the one taking first!!"
+        },
+        {
+          "id": "p4-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "おう。角部屋のためにな",
+          "en": "Yeah. For the corner room."
+        },
+        {
+          "id": "p4-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "動機が、ばらばらです",
+          "en": "Your motives are all over the place."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.5062,
+          0.0113,
+          0.9004,
+          0.1902
+        ],
+        "2": [
+          0.0899,
+          0.0113,
+          0.4841,
+          0.1902
+        ],
+        "3": [
+          0.0913,
+          0.2137,
+          0.899,
+          0.58
+        ],
+        "4": [
+          0.0913,
+          0.6045,
+          0.899,
+          0.9708
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "戦力を確認するわ",
+          "en": "Let's check our forces."
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "テツさん。三十八歳、体力だけは本物です",
+          "en": "Tetsu, thirty-eight. His stamina is the real deal."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "筋肉は、裏切らねえ!!",
+          "en": "Muscles never betray!!"
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "僕は、腕立て三回が限界です",
+          "en": "Three push-ups is my limit."
+        },
+        {
+          "id": "p5-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "私は、盆栽の水やりがありますので",
+          "en": "I have to water my bonsai."
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "『選手は、その課に所属する者』……",
+          "en": "\"Players must belong to that section\"..."
+        },
+        {
+          "id": "p5-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "『各種目、五人一組』……",
+          "en": "\"Teams of five per event\"..."
+        },
+        {
+          "id": "p5-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……課長を入れても、四人しか、いねえェェ!!",
+          "en": "...Even counting the Chief, we're only four!!"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.1259,
+          0.0113,
+          0.8645,
+          0.3465
+        ],
+        "2": [
+          0.5062,
+          0.3682,
+          0.8672,
+          0.6139
+        ],
+        "3": [
+          0.1231,
+          0.3682,
+          0.4841,
+          0.6139
+        ],
+        "4": [
+          0.1259,
+          0.6356,
+          0.8645,
+          0.9708
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "まいど～、お届けものでーす!!",
+          "en": "Delivery for you~!!"
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "毎日来てるってことは……もう係も同然じゃねえか!!",
+          "en": "He comes every day... so he's practically in the unit!!"
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……そうかしら……",
+          "en": "...Is he, though...?"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "坂道の配達で、足には自信あります!!",
+          "en": "I'm confident in my legs from delivering up hills!!"
+        },
+        {
+          "id": "p6-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "なら選手だ!!",
+          "en": "Then you're a player!!"
+        },
+        {
+          "id": "p6-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "選手登録票、一枚目です",
+          "en": "Player registration form, number one."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "2": [
+          0.0899,
+          0.0113,
+          0.4841,
+          0.1902
+        ],
+        "1": [
+          0.5062,
+          0.0113,
+          0.9004,
+          0.1902
+        ],
+        "3": [
+          0.0913,
+          0.2137,
+          0.899,
+          0.58
+        ],
+        "4": [
+          0.0913,
+          0.6045,
+          0.899,
+          0.9708
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ちょいと、床を拭かせてね",
+          "en": "Mind if I wipe the floor here?"
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "おばちゃんも、係も同然!! 選手だ!!",
+          "en": "The cleaning lady's practically in the unit too!! A player!!"
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "この盆栽も、毎日ここにいる!!",
+          "en": "This bonsai is here every day too!!"
+        },
+        {
+          "id": "p7-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "選手登録だァ!!",
+          "en": "Register it!!"
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "源田くん。この子は、出しません",
+          "en": "Genda. This one doesn't compete."
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……ハイ",
+          "en": "...Yes, sir."
+        },
+        {
+          "id": "p7-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "これで六人!! 五人一組、そろったわ!!",
+          "en": "That makes six!! A team of five, complete!!"
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "課長も、数に入ってますね",
+          "en": "The Chief's counted too, I see."
+        },
+        {
+          "id": "p7-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……えっ",
+          "en": "...Huh?"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.0913,
+          0.0113,
+          0.899,
+          0.3776
+        ],
+        "2": [
+          0.5062,
+          0.4011,
+          0.9004,
+          0.58
+        ],
+        "3": [
+          0.0899,
+          0.4011,
+          0.4841,
+          0.58
+        ],
+        "4": [
+          0.0913,
+          0.6045,
+          0.899,
+          0.9708
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "実況は広報課!! 解説は本庁の部長です!!",
+          "en": "Play-by-play from PR!! Commentary from the main building's director!!"
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "最後は下剋上綱引き!! 最下位が首位に挑めます!!",
+          "en": "The last event is the Upset Tug-of-War!! Last place can challenge first!!"
+        },
+        {
+          "id": "p8-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "日曜日。梨ヶ坂市民体育館。",
+          "en": "Sunday. Nashigasaka Citizens' Gymnasium."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "職員の健康づくりだ。けがのないように",
+          "en": "It's for staff health. Mind you don't get hurt."
+        },
+        {
+          "id": "p8-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……ただし、勝ちたまえ",
+          "en": "...But do win."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "企画政策課。全種目、一位を取るわ",
+          "en": "Policy Planning. First place in every event."
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "対するは地下!! 個性的な顔ぶれだァ!!",
+          "en": "Facing them: the Basement!! What a colorful lineup!!"
+        },
+        {
+          "id": "p8-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "角部屋は、おれのもんだァ!!",
+          "en": "The corner room is mine!!"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.5062,
+          0.0113,
+          0.9073,
+          0.2844
+        ],
+        "2": [
+          0.083,
+          0.0113,
+          0.4841,
+          0.2844
+        ],
+        "3": [
+          0.0844,
+          0.3089,
+          0.9059,
+          0.6817
+        ],
+        "4": [
+          0.6487,
+          0.7062,
+          0.9101,
+          0.9727
+        ],
+        "5": [
+          0.3651,
+          0.7062,
+          0.6266,
+          0.9727
+        ],
+        "6": [
+          0.0816,
+          0.7062,
+          0.343,
+          0.9727
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "第一種目、書類の山リレー!!",
+          "en": "Event one: Paper Mountain Relay!!"
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "毎日、書類の山を枕にしてんだ……匂いで分かる!!",
+          "en": "I sleep on mountains of paper every day... I can tell by smell!!"
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "こいつは右!! こいつは左ィ!!",
+          "en": "This one goes right!! This one goes left!!"
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "転入届は市民課、道路の穴は道路課!!",
+          "en": "Moving-in notice: Residents' Section! Pothole: Roads Section!!",
+          "note": "In a Japanese city hall, each kind of paperwork has its own section: a moving-in notice goes to the residents' section, road damage to the roads section. Section names and divisions vary by city."
+        },
+        {
+          "id": "p9-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……うちの課に、欲しい",
+          "en": "...I want him in my section."
+        },
+        {
+          "id": "p9-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "モップがけで鍛えた足だよ!!",
+          "en": "These legs are trained by mopping!!"
+        },
+        {
+          "id": "p9-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "一種目め。歩合、百円です",
+          "en": "Event one done. A hundred yen commission."
+        },
+        {
+          "id": "p9-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……あのおばさま、地下の職員？",
+          "en": "...Is that lady from the basement too?"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.0913,
+          0.0113,
+          0.899,
+          0.3776
+        ],
+        "2": [
+          0.0913,
+          0.4011,
+          0.899,
+          0.7674
+        ],
+        "3": [
+          0.5062,
+          0.7919,
+          0.9004,
+          0.9708
+        ],
+        "4": [
+          0.0899,
+          0.7919,
+          0.4841,
+          0.9708
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "第二種目、坂道ダッシュ!!",
+          "en": "Event two: Hill Dash!!"
+        },
+        {
+          "id": "p10-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "百円、百円、百円……",
+          "en": "A hundred yen, a hundred yen, a hundred yen..."
+        },
+        {
+          "id": "p10-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "地下の鈴木、残像が見えます!!",
+          "en": "Suzuki from the basement — I can see afterimages!!"
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "お届けに、上がりまーす!!",
+          "en": "Delivery coming through~!!"
+        },
+        {
+          "id": "p10-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "くっ……!!",
+          "en": "Ngh...!!"
+        },
+        {
+          "id": "p10-2-3",
+          "panel": 2,
+          "type": "caption",
+          "ja": "スロー再生",
+          "en": "Slow motion"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……速いわね、あなた",
+          "en": "...You're fast."
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "毎日、この坂を配達してますんで",
+          "en": "I deliver up this hill every day."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.6694,
+          0.0113,
+          0.9723,
+          0.2175
+        ],
+        "2": [
+          0.3444,
+          0.0113,
+          0.6473,
+          0.2175
+        ],
+        "3": [
+          0.0194,
+          0.0113,
+          0.3223,
+          0.2175
+        ],
+        "4": [
+          0.5062,
+          0.2721,
+          0.9737,
+          0.484
+        ],
+        "5": [
+          0.0166,
+          0.2721,
+          0.4841,
+          0.484
+        ],
+        "6": [
+          0.018,
+          0.5386,
+          0.9723,
+          0.9718
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "第三種目、窓口スマイル対決!!",
+          "en": "Event three: Counter Smile Showdown!!"
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……いらっしゃいませ",
+          "en": "...Welcome."
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ひっ……こ、怖い……",
+          "en": "Eek... s-scary..."
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "第四種目、決裁印の早押し!!",
+          "en": "Event four: Approval Stamp Speed Race!!"
+        },
+        {
+          "id": "p11-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "いつもの、決裁の速さです",
+          "en": "Just my usual approval speed."
+        },
+        {
+          "id": "p11-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "静かに……圧勝ォォ!!",
+          "en": "Quietly... an overwhelming win!!"
+        },
+        {
+          "id": "p11-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "地下、首位まで三十点差!!",
+          "en": "The basement is thirty points behind first!!"
+        },
+        {
+          "id": "p11-6-3",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……地下が、ここまで……!?",
+          "en": "...The basement, getting this far...!?"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.0913,
+          0.0113,
+          0.899,
+          0.3776
+        ],
+        "2": [
+          0.5062,
+          0.4011,
+          0.9004,
+          0.58
+        ],
+        "3": [
+          0.0899,
+          0.4011,
+          0.4841,
+          0.58
+        ],
+        "4": [
+          0.0913,
+          0.6045,
+          0.899,
+          0.9708
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "全員リレー!! 人数は自由です!!",
+          "en": "Everyone Relay!! Any number of runners!!"
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "今日はこの体育館が、おれたちの係室だ!!",
+          "en": "Today this gym is our unit's office!!"
+        },
+        {
+          "id": "p12-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ここにいる奴は、全員選手だァ!!",
+          "en": "Everyone here is a player!!"
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "走らせろォ!!",
+          "en": "Let them run!!"
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ちょっとテツ!? ……で、でも首位が……!!",
+          "en": "Tetsu, wait!? ...B-but first place...!!"
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "五十人です。勝てば歩合、止める理由がありません",
+          "en": "Fifty runners. Win and we get commission. No reason to stop."
+        },
+        {
+          "id": "p12-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "地下チーム、まさかの五十人!!",
+          "en": "Team Basement: fifty runners, unbelievable!!"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.0871,
+          0.0113,
+          0.9032,
+          0.3814
+        ],
+        "2": [
+          0.5062,
+          0.4058,
+          0.9046,
+          0.677
+        ],
+        "3": [
+          0.0858,
+          0.4058,
+          0.4841,
+          0.677
+        ],
+        "4": [
+          0.5062,
+          0.7006,
+          0.9046,
+          0.9718
+        ],
+        "5": [
+          0.0858,
+          0.7006,
+          0.4841,
+          0.9718
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "地下、逆転で首位ィィ!!",
+          "en": "The basement takes first in a comeback!!"
+        },
+        {
+          "id": "p13-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "角部屋が、見えたァァ!!",
+          "en": "I can see the corner room!!"
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "審判!! 所属していない人が走ってる!!",
+          "en": "Referee!! People who don't belong are running!!"
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……確認いたします",
+          "en": "...Let me check."
+        },
+        {
+          "id": "p13-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……名簿、ですね",
+          "en": "...The roster, I see."
+        },
+        {
+          "id": "p13-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……やっぱり、そうかしら……!?",
+          "en": "...Wait, maybe he's got a point...!?"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.5062,
+          0.0113,
+          0.9004,
+          0.1902
+        ],
+        "2": [
+          0.0899,
+          0.0113,
+          0.4841,
+          0.1902
+        ],
+        "3": [
+          0.0913,
+          0.2137,
+          0.899,
+          0.58
+        ],
+        "4": [
+          0.0913,
+          0.6045,
+          0.899,
+          0.9708
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "要項の『所属する者』とは",
+          "en": "In the rules, \"belongs to the section\" means..."
+        },
+        {
+          "id": "p14-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "職員名簿に、載っている者です",
+          "en": "someone listed on the staff roster."
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "毎日係室に来てりゃ、所属だろ!?",
+          "en": "If you come to the office every day, you belong, right!?"
+        },
+        {
+          "id": "p14-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "所属は、辞令で決まります",
+          "en": "Belonging is decided by appointment orders.",
+          "note": "In Japanese local governments, the section an employee belongs to is set by a written appointment order (jirei), not by where they show up every day."
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "宅配の方も清掃の方も、職員ではありません",
+          "en": "The delivery man and the cleaning lady are not city employees."
+        },
+        {
+          "id": "p14-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "書類・坂道・全員リレーは失格。さらに減点です",
+          "en": "The paper, hill, and everyone relays are disqualified. Plus a point deduction."
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "地下、一気に最下位ィィ!!",
+          "en": "The basement drops to dead last!!"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.5062,
+          0.0113,
+          0.9461,
+          0.3107
+        ],
+        "2": [
+          0.0443,
+          0.0113,
+          0.4841,
+          0.3107
+        ],
+        "3": [
+          0.0456,
+          0.3371,
+          0.9461,
+          0.7458
+        ],
+        "4": [
+          0.5062,
+          0.7731,
+          0.9461,
+          0.9727
+        ],
+        "5": [
+          0.0443,
+          0.7731,
+          0.4841,
+          0.9727
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "最終種目、下剋上綱引き!! 勝てば百点!!",
+          "en": "Final event: Upset Tug-of-War!! Win and get a hundred points!!"
+        },
+        {
+          "id": "p15-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "挑戦するのは……最下位の地下!!",
+          "en": "The challenger is... last-place Basement!!"
+        },
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "角部屋……おれの、角部屋……",
+          "en": "The corner room... my corner room..."
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "地下は四人!! 企画政策課は十人!!",
+          "en": "Basement has four!! Policy Planning has ten!!"
+        },
+        {
+          "id": "p15-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……棄権してもいいのよ、赤嶺さん",
+          "en": "...You can withdraw, you know, Akamine."
+        },
+        {
+          "id": "p15-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "また……二位にも、なれない……",
+          "en": "I can't even... take second..."
+        },
+        {
+          "id": "p15-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "すみません……おれたちが出たせいで",
+          "en": "I'm sorry... it's because we joined in."
+        },
+        {
+          "id": "p15-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "悪いことしたねえ……",
+          "en": "We've caused you trouble, dear..."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.5062,
+          0.0113,
+          0.9004,
+          0.1902
+        ],
+        "2": [
+          0.0899,
+          0.0113,
+          0.4841,
+          0.1902
+        ],
+        "3": [
+          0.0913,
+          0.2137,
+          0.899,
+          0.58
+        ],
+        "4": [
+          0.0913,
+          0.6045,
+          0.899,
+          0.9708
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "皆さんを巻き込み、申し訳ありませんでした",
+          "en": "I apologize for dragging you all into this."
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……私が、一番後ろに",
+          "en": "...I'll take the very back."
+        },
+        {
+          "id": "p16-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "か、課長!?",
+          "en": "C-Chief!?"
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "綱引きは、腕で引くのではありません",
+          "en": "In tug-of-war, you don't pull with your arms."
+        },
+        {
+          "id": "p16-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "体を後ろに倒して、足で踏ん張るんです",
+          "en": "Lean your body back and dig in with your feet.",
+          "note": "Basic tug-of-war technique: lean back, set your feet, and put your whole body weight on the rope instead of pulling with your arms. Shoes that don't slip help."
+        },
+        {
+          "id": "p16-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "後ろに倒れりゃいいんだな……ハンモックと同じだ!!",
+          "en": "So I just fall backward... Same as a hammock!!"
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "う、動かない!! 地下が一歩も動かない!!",
+          "en": "I-it won't budge!! The basement hasn't moved an inch!!"
+        },
+        {
+          "id": "p16-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "引いて!! 全員で引きなさい!!",
+          "en": "Pull!! Everyone, pull!!"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.3499,
+          0.0113,
+          0.982,
+          0.4416
+        ],
+        "2": [
+          0.0304,
+          0.0113,
+          0.3292,
+          0.2147
+        ],
+        "3": [
+          0.0304,
+          0.2382,
+          0.3292,
+          0.4416
+        ],
+        "4": [
+          0.029,
+          0.4652,
+          0.9834,
+          0.8983
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "勝った……勝ったァァ!!",
+          "en": "We won... we won!!"
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……完敗よ、赤嶺さん",
+          "en": "...You beat me fair and square, Akamine."
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "十点差!! 地下が逆転優勝ォォ!!",
+          "en": "A ten-point margin!! The basement wins the title in a reversal!!"
+        },
+        {
+          "id": "p17-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "来年から、市民の部も作ろう",
+          "en": "Let's add a citizens' division next year."
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "最上階の角部屋!! ここだァ!!",
+          "en": "The top-floor corner room!! This is it!!"
+        },
+        {
+          "id": "p17-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……そこで、よろしいのですね",
+          "en": "...Are you sure that's the one?"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "3": [
+          0.3472,
+          0.2797,
+          0.9696,
+          0.5621
+        ],
+        "5": [
+          0.065,
+          0.5857,
+          0.953,
+          0.9887
+        ],
+        "1": [
+          0.4302,
+          0.0113,
+          0.9696,
+          0.2561
+        ],
+        "2": [
+          0.0498,
+          0.0113,
+          0.4094,
+          0.2561
+        ],
+        "4": [
+          0.0498,
+          0.2797,
+          0.3264,
+          0.5621
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "毎日来てるってことは……もう係も同然じゃねえか!!",
+          "en": "If he comes every day... he's practically in the unit!!"
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "毎日来ていれば係も同然、でしたね",
+          "en": "\"Come every day, and you belong.\" Wasn't that it?"
+        },
+        {
+          "id": "p18-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "では源田さんも、毎日、階段で。お引っ越しはお一人で",
+          "en": "Then, Genda, you'll take the stairs every day. And move all by yourself."
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "お、おれの理屈ゥゥ!?",
+          "en": "My own logic!?"
+        },
+        {
+          "id": "p18-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "なんで、おれ一人なんだァァ!!",
+          "en": "Why is it just me!!"
+        },
+        {
+          "id": "p18-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "エレベーターは、来庁者優先ですので",
+          "en": "The elevator is for visitors first."
+        },
+        {
+          "id": "p18-5-3",
+          "panel": 5,
+          "type": "caption",
+          "ja": "地下から最上階まで、何往復も。",
+          "en": "Round trips from the basement to the top floor, over and over."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.6694,
+          0.0113,
+          0.9723,
+          0.2175
+        ],
+        "2": [
+          0.3444,
+          0.0113,
+          0.6473,
+          0.2175
+        ],
+        "3": [
+          0.0194,
+          0.0113,
+          0.3223,
+          0.2175
+        ],
+        "4": [
+          0.5062,
+          0.2721,
+          0.9737,
+          0.484
+        ],
+        "5": [
+          0.0166,
+          0.2721,
+          0.4841,
+          0.484
+        ],
+        "6": [
+          0.018,
+          0.5386,
+          0.9723,
+          0.9718
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "やあ、頑張ってるね",
+          "en": "Hey, working hard, I see."
+        },
+        {
+          "id": "p19-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "一週間後。九時。",
+          "en": "A week later. Nine o'clock."
+        },
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "やあ、頑張ってるね",
+          "en": "Hey, working hard, I see."
+        },
+        {
+          "id": "p19-2-2",
+          "panel": 2,
+          "type": "caption",
+          "ja": "十時。十一時。",
+          "en": "Ten o'clock. Eleven o'clock."
+        },
+        {
+          "id": "p19-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "課長ォ……地下へ、戻してください……!!",
+          "en": "Chief... please send me back to the basement...!!"
+        },
+        {
+          "id": "p19-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "では、戻りも階段で",
+          "en": "Then you'll go back by the stairs, too."
+        },
+        {
+          "id": "p19-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "やっぱ地下が最高だぜ～",
+          "en": "The basement is the best after all~"
+        },
+        {
+          "id": "p19-5-2",
+          "panel": 5,
+          "type": "caption",
+          "ja": "角部屋は、二位の企画政策課へ。",
+          "en": "The corner room goes to runner-up Policy Planning."
+        },
+        {
+          "id": "p19-5-3",
+          "panel": 5,
+          "type": "speech",
+          "ja": "赤嶺さん。来年は、負けないわよ",
+          "en": "Akamine. Next year, I won't lose."
+        },
+        {
+          "id": "p19-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "やあ、地下も頑張ってるね",
+          "en": "Hey, the basement's working hard too."
+        },
+        {
+          "id": "p19-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "ここまで来んのかよォォ!!",
+          "en": "You come all the way down here!?"
+        },
+        {
+          "id": "p19-6-3",
+          "panel": 6,
+          "type": "speech",
+          "ja": "散歩コースが、延びましたね",
+          "en": "Your walking route got longer."
+        }
+      ]
+    }
+  ]
+}
