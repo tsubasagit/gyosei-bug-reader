@@ -246,3 +246,6 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
 .end-script-body p { margin: 0 0 4px; }
 .end-script-body .is-caption { font-style: italic; color: #334155; }
 .end-script-body .end-script-note { margin-left: 12px; color: #64748b; font-size: 12px; }
+.end-script-body h4 { margin: 12px 0 2px; color: #64748b; font-size: 12px; }
+.end-about-list { margin: 0 0 8px; padding-left: 1.2em; }
+.end-about-list li { margin: 0 0 6px; }

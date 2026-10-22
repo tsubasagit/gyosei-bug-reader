@@ -119,6 +119,11 @@ Google への登録は [Search Console](https://search.google.com/search-console
 - 話ごとの `episodes[].readMore` に書いてもよく、そちらが優先される
 - 記事は公開済みのものだけにする（下書きの URL を入れない）
 
+## 日本語の読み物ブロックと、媒体別の流入計測（10/22）
+
+- **読み物ブロック**：各話の「おわり」の中に、「あらすじ・制度のポイント・台本を読む」（`<details class="end-about">`）を出す。あらすじは `episodes.json` の `summary`、台本は `ep/<話ID>/script.en.json` の `ja`、制度のポイントは `episodes.json` の `explain`（`points` の短い文と、`sources` の出典 `{label, url}`）。検索で見つけてもらうための文字。`build_seo.py` が `<!-- about:start -->〜<!-- about:end -->` の間に書き出す（英語のページには出さない）。**新しい話を足すときは `explain` も書く**（構成.md の「この話で読者が覚えること」と「元になった話題」が元。実在の社名は出さない、架空の設定は「作中だけ」と書く）
+- **媒体別の計測**：リンクに `?src=<媒体>` を付けると、`assets/src.js` が Cloudflare Web Analytics に「`_src/<媒体>/`」というページ表示を1回送り、アドレスをすぐ元に戻す。Cloudflare の Web Analytics →「パス」で、媒体ごとの訪問が見える。媒体名は半角の英数字（pixiv・nico・kdp・x・note・tsubasatech など）。例：`https://tsubasagit.github.io/gyosei-bug-reader/ep/16/?src=pixiv`、作品トップは `https://tsubasagit.github.io/gyosei-bug-reader/?src=nico`
+
 ## ライセンス
 
 作品（画像・文章）の著作権は株式会社AppTalentHubに帰属します。無断転載を禁じます。

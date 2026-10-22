@@ -162,6 +162,11 @@ def build_episode(ep, series, EN):
         c.extract()
     for ul in soup.select('.end-tags'):
         ul.decompose()
+    # 日本語の読み物ブロック（あらすじ・制度のポイント・台本）も英語のページには載せない
+    for c in soup.find_all(string=lambda s: isinstance(s, Comment) and s.strip() in ('about:start', 'about:end')):
+        c.extract()
+    for d in soup.select('details.end-about'):
+        d.decompose()
     sec = script_section(ep)
     if sec:
         soup.select_one('.end-actions').insert_after(BeautifulSoup(sec, 'html.parser'))

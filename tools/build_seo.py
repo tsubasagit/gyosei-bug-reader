@@ -26,7 +26,9 @@ PUBLISHER = {'@type': 'Organization', 'name': '株式会社AppTalentHub', 'url':
 SERIES_KEYWORDS = ['行政バグります', '漫画', '無料漫画', 'Web漫画', 'ギャグ漫画', 'お役所', '公務員', '市役所']
 # Cloudflare Web Analytics（ホスト名 tsubasagit.github.io で登録。トークンは公開ページに載せる前提の値）
 ANALYTICS = ('  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" '
-             """data-cf-beacon='{"token": "4d86b4bb355d432f9b9dbbe0f0d8c144"}'></script>""")
+             """data-cf-beacon='{"token": "4d86b4bb355d432f9b9dbbe0f0d8c144"}'></script>
+"""
+             '  <script defer src="https://tsubasagit.github.io/gyosei-bug-reader/assets/src.js?v=20261022"></script>')
 
 
 def ld_json(obj):
@@ -84,6 +86,38 @@ def episode_head(ep, series):
         ld_json(data),
         '  </script>',
     ])
+
+
+def episode_about(ep):
+    """日本語の読み物ブロック（あらすじ・制度のポイント・台本）。検索で見つけてもらうための文字。「おわり」の中に、開いて読む形で"""
+    ex = ep.get('explain') or {}
+    path = os.path.join(ROOT, 'ep', ep['id'], 'script.en.json')
+    parts = [f'<h2>第{ep["number"]}話「{html.escape(ep["title"])}」{html.escape(ep.get("subtitle", ""))}</h2>',
+             f'<p>{html.escape(ep.get("summary", ""))}</p>']
+    if ex.get('points'):
+        parts.append('<h3>この話の制度・豆知識</h3><ul class="end-about-list">'
+                     + ''.join(f'<li>{html.escape(t)}</li>' for t in ex['points']) + '</ul>')
+        parts.append('<p class="end-script-note">梨ヶ坂市は架空の市です。制度は実在のものを紹介していますが、運用は自治体ごとに異なります。')
+        if ex.get('sources'):
+            parts[-1] += ' 出典：' + '、'.join(
+                f'<a href="{html.escape(x["url"])}" target="_blank" rel="noopener">{html.escape(x["label"])}</a>' for x in ex['sources'])
+        parts[-1] += '</p>'
+    if os.path.exists(path):
+        script = json.load(open(path, encoding='utf-8'))
+        lines_html = []
+        for pg in script['pages']:
+            lines = [ln for ln in pg['lines'] if ln.get('ja')]
+            if not lines:
+                continue
+            lines_html.append(f'<h4>{pg["page"]}ページ</h4>')
+            for ln in lines:
+                cls = ' class="is-caption"' if ln.get('type') == 'caption' else ''
+                lines_html.append(f'<p{cls}>{html.escape(ln["ja"])}</p>')
+        if lines_html:
+            parts.append('<h3>台本（セリフ全文）</h3>' + ''.join(lines_html))
+    label = 'あらすじ・制度のポイント・台本を読む' if ex.get('points') else 'あらすじ・台本を読む'
+    return (f'        <details class="end-script end-about"><summary>{label}</summary>'
+            f'<div class="end-script-body">' + ''.join(parts) + '</div></details>')
 
 
 def hreflang(ja_url, en_url):
@@ -153,6 +187,7 @@ def build():
         text = open(path, encoding='utf-8').read()
         text = replace_block(text, 'seo', episode_head(ep, series), r'<link rel="icon"')
         text = replace_block(text, 'tags', episode_tags(ep), r'<p class="end-sub">.*</p>', before=False)
+        text = replace_block(text, 'about', episode_about(ep), r'<p class="end-note"')
         text = replace_block(text, 'analytics', ANALYTICS, r'</head>')
         write(path, text)
 
