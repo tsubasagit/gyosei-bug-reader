@@ -28,7 +28,7 @@ SERIES_KEYWORDS = ['行政バグります', '漫画', '無料漫画', 'Web漫画
 ANALYTICS = ('  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" '
              """data-cf-beacon='{"token": "4d86b4bb355d432f9b9dbbe0f0d8c144"}'></script>
 """
-             '  <script defer src="https://tsubasagit.github.io/gyosei-bug-reader/assets/src.js?v=20261022"></script>')
+             '  <script defer src="https://tsubasagit.github.io/gyosei-bug-reader/assets/src.js?v=20261022b"></script>')
 
 
 def ld_json(obj):
