@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>第17話「PHP2Shell？ 全部止めりゃいいだろ!!」｜行政バグります！</title>
+  <meta name="description" content="2026年10月21日の夜、PHPに深刻な不具合（通称PHP2Shell）が見つかり、大手サイトが次々に予防で止まった。梨ヶ坂市の地下の係にも、修正版が出るまでの夜間当番が回ってくる。「止めりゃ安全。全部止めりゃ、おれは帰れる!!」――架空の街・梨ヶ坂市のサイト二十七本を、テツが片っ端から止めはじめて……。">
+  <meta name="theme-color" content="#161616">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="第17話「PHP2Shell？ 全部止めりゃいいだろ!!」｜行政バグります！">
+  <meta property="og:description" content="2026年10月21日の夜、PHPに深刻な不具合（通称PHP2Shell）が見つかり、大手サイトが次々に予防で止まった。梨ヶ坂市の地下の係にも、修正版が出るまでの夜間当番が回ってくる。「止めりゃ安全。全部止めりゃ、おれは帰れる!!」――架空の街・梨ヶ坂市のサイト二十七本を、テツが片っ端から止めはじめて……。">
+  <meta property="og:image" content="https://tsubasagit.github.io/gyosei-bug-reader/ep/17/og.jpg?v=20261023b">
+  <meta property="og:url" content="https://tsubasagit.github.io/gyosei-bug-reader/ep/17/">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- seo:start -->
+  <link rel="canonical" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/17/">
+  <link rel="alternate" hreflang="ja" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/17/">
+  <link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/17/">
+  <link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/17/">
+  <meta name="keywords" content="PHP,PHP2Shell,脆弱性,セキュリティ,緊急メンテナンス,サーバー,行政バグります,漫画,無料漫画,Web漫画,ギャグ漫画,お役所,公務員,市役所">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ComicIssue",
+  "name": "PHP2Shell？ 全部止めりゃいいだろ!!",
+  "headline": "第17話「PHP2Shell？ 全部止めりゃいいだろ!!」",
+  "alternativeHeadline": "PHPの緊急パッチ（ストップ・ザ・サーバー）",
+  "issueNumber": 17,
+  "url": "https://tsubasagit.github.io/gyosei-bug-reader/ep/17/",
+  "description": "2026年10月21日の夜、PHPに深刻な不具合（通称PHP2Shell）が見つかり、大手サイトが次々に予防で止まった。梨ヶ坂市の地下の係にも、修正版が出るまでの夜間当番が回ってくる。「止めりゃ安全。全部止めりゃ、おれは帰れる!!」――架空の街・梨ヶ坂市のサイト二十七本を、テツが片っ端から止めはじめて……。",
+  "keywords": "PHP,PHP2Shell,脆弱性,セキュリティ,緊急メンテナンス,サーバー,IT・デジタル,時事,市役所の働き方,高齢者・福祉,行政バグります,漫画,無料漫画,Web漫画,ギャグ漫画,お役所,公務員,市役所",
+  "image": "https://tsubasagit.github.io/gyosei-bug-reader/ep/17/og.jpg",
+  "thumbnailUrl": "https://tsubasagit.github.io/gyosei-bug-reader/ep/17/thumb.webp",
+  "datePublished": "2026-10-23",
+  "inLanguage": "ja",
+  "genre": [
+    "ギャグ漫画",
+    "お役所コメディ"
+  ],
+  "isAccessibleForFree": true,
+  "author": {
+    "@type": "Organization",
+    "name": "株式会社AppTalentHub",
+    "url": "https://apptalenthub.co.jp/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "株式会社AppTalentHub",
+    "url": "https://apptalenthub.co.jp/"
+  },
+  "isPartOf": {
+    "@type": "ComicSeries",
+    "name": "行政バグります！",
+    "url": "https://tsubasagit.github.io/gyosei-bug-reader/"
+  }
+}
+  </script>
+  <!-- seo:end -->
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../assets/reader.css?v=20261022">
+  <link rel="preload" as="image" href="pages/p01.webp">
+<!-- analytics:start -->
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "4d86b4bb355d432f9b9dbbe0f0d8c144"}'></script>
+  <script defer src="https://tsubasagit.github.io/gyosei-bug-reader/assets/src.js?v=20261022c"></script>
+<!-- analytics:end -->
+</head>
+<body class="reader-body">
+  <main id="reader" class="reader" data-episode="17" data-base="../../">
+    <header class="bar bar-top">
+      <a class="back" href="../../" data-i18n="reader.back" data-i18n-attr="aria-label:reader.back" aria-label="作品の一覧へ戻る">‹ 一覧</a>
+      <h1 id="title" class="title">第17話　PHP2Shell？ 全部止めりゃいいだろ!!</h1>
+      <span id="top-indicator" class="top-indicator" aria-hidden="true"></span>
+      <div class="menu-wrap">
+        <button id="menu-btn" class="icon-btn" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="menu" data-i18n-attr="aria-label:reader.menuAria, title:reader.menuTitle" aria-label="表示の切り替えと操作のしかた" title="表示・操作">⋯</button>
+        <div id="menu" class="menu" hidden>
+          <button id="mode" class="menu-item" type="button">見開きで読む</button>
+          <p id="menu-hint" class="menu-hint"></p>
+        </div>
+      </div>
+      <button id="fullscreen" class="icon-btn" type="button" data-i18n-attr="aria-label:reader.fullscreenAria, title:reader.fullscreenTitle" aria-label="全画面で読む" title="全画面">⛶</button>
+    </header>
+
+    <div class="progress" aria-hidden="true"><div id="progress-fill" class="progress-fill"></div></div>
+    <div id="stage" class="stage" aria-live="polite" aria-busy="true"></div>
+
+    <footer class="bar bar-bottom">
+      <div class="controls">
+        <button id="next" class="nav-btn" type="button" data-i18n="reader.next" data-i18n-attr="aria-label:reader.nextAria" aria-label="次のページ（←キー）">◀ 次へ</button>
+        <span id="indicator" class="indicator">1 / 12</span>
+        <button id="prev" class="nav-btn" type="button" data-i18n="reader.prev" data-i18n-attr="aria-label:reader.prevAria" aria-label="前のページ（→キー）">前へ ▶</button>
+      </div>
+    </footer>
+
+    <section id="end" class="end" hidden aria-labelledby="end-title">
+      <div class="end-card">
+        <p id="end-title" class="end-title" data-i18n="reader.endTitle">おわり</p>
+        <p class="end-sub">第17話「PHP2Shell？ 全部止めりゃいいだろ!!」</p>
+        <!-- tags:start -->
+        <ul class="end-tags" aria-label="この話のタグ"><li class="is-genre"><a href="../../?tag=IT%E3%83%BB%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB#episodes-title">#IT・デジタル</a></li><li class="is-genre"><a href="../../?tag=%E6%99%82%E4%BA%8B#episodes-title">#時事</a></li><li class="is-genre"><a href="../../?tag=%E5%B8%82%E5%BD%B9%E6%89%80%E3%81%AE%E5%83%8D%E3%81%8D%E6%96%B9#episodes-title">#市役所の働き方</a></li><li class="is-genre"><a href="../../?tag=%E9%AB%98%E9%BD%A2%E8%80%85%E3%83%BB%E7%A6%8F%E7%A5%89#episodes-title">#高齢者・福祉</a></li><li><a href="../../?q=PHP#episodes-title">#PHP</a></li><li><a href="../../?q=PHP2Shell#episodes-title">#PHP2Shell</a></li><li><a href="../../?q=%E8%84%86%E5%BC%B1%E6%80%A7#episodes-title">#脆弱性</a></li><li><a href="../../?q=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3#episodes-title">#セキュリティ</a></li><li><a href="../../?q=%E7%B7%8A%E6%80%A5%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9#episodes-title">#緊急メンテナンス</a></li><li><a href="../../?q=%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC#episodes-title">#サーバー</a></li></ul>
+        <!-- tags:end -->
+        <div class="end-actions">
+          <a id="share-x" class="btn btn-primary" href="https://x.com/intent/post" target="_blank" rel="noopener" data-i18n="reader.shareX">X で感想を書く</a>
+          <a class="btn btn-ghost" href="../../#characters" data-i18n="reader.seeChars">登場人物を見る</a>
+          <a class="btn btn-ghost" href="../../" data-i18n="reader.toList">作品の一覧へ</a>
+          <button id="restart" class="text-btn" type="button" data-i18n="reader.restart">最初から読む</button>
+        </div>
+        <!-- about:start -->
+        <details class="end-script end-about"><summary>あらすじ・制度のポイント・台本を読む</summary><div class="end-script-body"><h2>第17話「PHP2Shell？ 全部止めりゃいいだろ!!」PHPの緊急パッチ（ストップ・ザ・サーバー）</h2><p>2026年10月21日の夜、PHPに深刻な不具合（通称PHP2Shell）が見つかり、大手サイトが次々に予防で止まった。梨ヶ坂市の地下の係にも、修正版が出るまでの夜間当番が回ってくる。「止めりゃ安全。全部止めりゃ、おれは帰れる!!」――架空の街・梨ヶ坂市のサイト二十七本を、テツが片っ端から止めはじめて……。</p><h3>この話の制度・豆知識</h3><ul class="end-about-list"><li>PHPは、市のホームページやネットショップなど、世の中の多くのWebサイトの裏側で動いている部品です。サイトを一軒の家にたとえると、画面は玄関と客間、PHPは奥の台所（頼まれたものを、その場で作って出す）にあたります。</li><li>2026年10月21日、このPHPに深刻な不具合が2つ公表されました（通称「PHP2Shell」、CVE-2026-109618・CVE-2026-109619）。ログインしていない人でも、外からサーバーを乗っ取られるおそれがあると報じられ、深刻度は10点満点で9.2とされました。悪用が確認されたという報道はありません（2026年10月21日時点）。</li><li>直す方法は、PHPを修正版に上げることです。修正版は、日本時間の同じ日の23時に公開されました。</li><li>サーバーを借りているサイト（レンタルサーバー）は、多くの場合、貸している会社が修正版に上げてくれます。いちばん注意が要るのは、自分たちでサーバーを管理しているところです。</li><li>すぐに直せないときは、サイトを一時的に止めるのも有効な手の一つだと、国の担当部署は呼びかけました。ただし、夜間診療所の案内や防災の情報のように、止めてはいけないものもあります。止めるなら、住民への告知と、代わりの窓口が要ります。</li><li>梨ヶ坂市の二十七本のサイト、夜間診療所の件、洗い出しの予算の話は、作中だけの架空の設定です。</li></ul><p class="end-script-note">梨ヶ坂市は架空の市です。制度は実在のものを紹介していますが、運用は自治体ごとに異なります。 出典：<a href="https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/" target="_blank" rel="noopener">PHP2Shell の修正版の公開（Help Net Security）</a>、<a href="https://www.itmedia.co.jp/news/article/2610/22/2000002480/" target="_blank" rel="noopener">PHPの脆弱性の報道（ITmedia NEWS）</a>、<a href="https://www.watch.impress.co.jp/docs/news/2150159.html" target="_blank" rel="noopener">国内大手サービスの緊急メンテナンス（Impress Watch）</a>、<a href="https://gigazine.net/news/20261021-php-php2shell-maintenance" target="_blank" rel="noopener">各サービスのメンテナンス状況（GIGAZINE）</a></p></div></details>
+        <!-- about:end -->
+        <p class="end-note" data-i18n="footer.disclaimer">この作品はフィクションです。梨ヶ坂市は架空の市で、実在の人物・団体・自治体・制度の運用とは関係ありません。自治体の公式な作品ではありません。</p>
+        <button id="end-back" class="text-btn" type="button" data-i18n="reader.endBack">最後のページに戻る</button>
+      </div>
+    </section>
+
+    <p id="error" class="error" data-i18n="reader.error" hidden>ページを読み込めませんでした。時間をおいて、もう一度開いてください。</p>
+    <noscript><p class="error" data-i18n="reader.noscript">このページを読むには JavaScript を有効にしてください。</p></noscript>
+  </main>
+  <script src="../../assets/i18n.js?v=20261018" defer></script>
+  <script src="../../assets/revisit.js?v=20261018" defer></script>
+  <script src="../../assets/reader.js?v=20261018" defer></script>
+</body>
+</html>

@@ -2377,6 +2377,186 @@
           }
         ]
       }
+    },
+    {
+      "id": "17",
+      "number": 17,
+      "title": "PHP2Shell？ 全部止めりゃいいだろ!!",
+      "subtitle": "PHPの緊急パッチ（ストップ・ザ・サーバー）",
+      "summary": "2026年10月21日の夜、PHPに深刻な不具合（通称PHP2Shell）が見つかり、大手サイトが次々に予防で止まった。梨ヶ坂市の地下の係にも、修正版が出るまでの夜間当番が回ってくる。「止めりゃ安全。全部止めりゃ、おれは帰れる!!」――架空の街・梨ヶ坂市のサイト二十七本を、テツが片っ端から止めはじめて……。",
+      "published": "2026-10-23",
+      "tags": [
+        "PHP",
+        "PHP2Shell",
+        "脆弱性",
+        "セキュリティ",
+        "緊急メンテナンス",
+        "サーバー"
+      ],
+      "title_en": "PHP2Shell? Just Shut It All Down!!",
+      "subtitle_en": "Emergency PHP Patch (Stop the Server)",
+      "summary_en": "On the night of October 21, 2026, two serious flaws were found in PHP (nicknamed \"PHP2Shell\"), and big websites went into emergency maintenance one after another. The basement section of Nashigasaka City Hall gets the night shift until the patch comes out. \"Shut it down and it's safe. Shut it ALL down and I get to go home!!\" Tetsu starts switching off the city's 27 websites, one by one...",
+      "explain": {
+        "points": [
+          "PHPは、市のホームページやネットショップなど、世の中の多くのWebサイトの裏側で動いている部品です。サイトを一軒の家にたとえると、画面は玄関と客間、PHPは奥の台所（頼まれたものを、その場で作って出す）にあたります。",
+          "2026年10月21日、このPHPに深刻な不具合が2つ公表されました（通称「PHP2Shell」、CVE-2026-109618・CVE-2026-109619）。ログインしていない人でも、外からサーバーを乗っ取られるおそれがあると報じられ、深刻度は10点満点で9.2とされました。悪用が確認されたという報道はありません（2026年10月21日時点）。",
+          "直す方法は、PHPを修正版に上げることです。修正版は、日本時間の同じ日の23時に公開されました。",
+          "サーバーを借りているサイト（レンタルサーバー）は、多くの場合、貸している会社が修正版に上げてくれます。いちばん注意が要るのは、自分たちでサーバーを管理しているところです。",
+          "すぐに直せないときは、サイトを一時的に止めるのも有効な手の一つだと、国の担当部署は呼びかけました。ただし、夜間診療所の案内や防災の情報のように、止めてはいけないものもあります。止めるなら、住民への告知と、代わりの窓口が要ります。",
+          "梨ヶ坂市の二十七本のサイト、夜間診療所の件、洗い出しの予算の話は、作中だけの架空の設定です。"
+        ],
+        "sources": [
+          {
+            "label": "PHP2Shell の修正版の公開（Help Net Security）",
+            "url": "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/"
+          },
+          {
+            "label": "PHPの脆弱性の報道（ITmedia NEWS）",
+            "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002480/"
+          },
+          {
+            "label": "国内大手サービスの緊急メンテナンス（Impress Watch）",
+            "url": "https://www.watch.impress.co.jp/docs/news/2150159.html"
+          },
+          {
+            "label": "各サービスのメンテナンス状況（GIGAZINE）",
+            "url": "https://gigazine.net/news/20261021-php-php2shell-maintenance"
+          }
+        ]
+      },
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp",
+        "p20.webp",
+        "p21.webp"
+      ],
+      "sizes": [
+        [
+          1588,
+          942
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          16,
+          16,
+          1572,
+          2230
+        ]
+      },
+      "genres": [
+        "IT・デジタル",
+        "時事",
+        "市役所の働き方",
+        "高齢者・福祉"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1169248"
+      }
     }
   ]
 }
