@@ -1,7 +1,7 @@
 {
   "_説明": "再訪の仕掛けの設定。次回予告と、新しい話のお知らせ先（X）。日付は空でもよい（空なら「近日公開」と出す）。英語表示用の題名は title_en",
   "next": {
-    "number": 17,
+    "number": 18,
     "title": "人生ガチャ、引き直します",
     "date": "2026-10-26"
   },
@@ -11,7 +11,7 @@
   },
   "schedule": [
     {
-      "number": 17,
+      "number": 18,
       "title": "人生ガチャ、引き直します",
       "subtitle": "転籍届（ホンセキ・ガチャ）",
       "date": "2026-10-26",
@@ -20,10 +20,10 @@
         "時事",
         "町内会・団地"
       ],
-      "cover": "assets/upcoming/17.webp"
+      "cover": "assets/upcoming/18.webp"
     },
     {
-      "number": 18,
+      "number": 19,
       "title": "満員御礼",
       "subtitle": "招待席（エンプティ・シート）",
       "date": "2026-10-29",
@@ -31,10 +31,10 @@
         "イベント",
         "氷室回"
       ],
-      "cover": "assets/upcoming/18.webp"
+      "cover": "assets/upcoming/19.webp"
     },
     {
-      "number": 19,
+      "number": 20,
       "title": "梨ヶ坂の天然水",
       "subtitle": "雨水タンク（レイン・ストック）",
       "date": "2026-11-02",
@@ -43,7 +43,7 @@
         "ごみ・環境",
         "防災"
       ],
-      "cover": "assets/upcoming/19.webp"
+      "cover": "assets/upcoming/20.webp"
     }
   ]
 }
