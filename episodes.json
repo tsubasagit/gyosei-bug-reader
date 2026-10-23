@@ -2553,7 +2553,11 @@
         "時事",
         "市役所の働き方",
         "高齢者・福祉"
-      ]
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1169248",
+        "pixiv": "https://www.pixiv.net/artworks/151169100"
+      }
     }
   ]
 }
