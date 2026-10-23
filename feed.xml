@@ -6,15 +6,7 @@
     <atom:link href="https://tsubasagit.github.io/gyosei-bug-reader/feed.xml" rel="self" type="application/rss+xml"/>
     <description>梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。金とサボりのために制度と技術を一夜漬けで覚える源田テツが、力技で市民の困りごとを片づけてしまう。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:00:00 +0900</lastBuildDate>
-    <item>
-      <title>第17話「PHP2Shellの夜、市のサイトを全部止めました」</title>
-      <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/17/</link>
-      <guid isPermaLink="true">https://tsubasagit.github.io/gyosei-bug-reader/ep/17/</guid>
-      <pubDate>Fri, 23 Oct 2026 09:00:00 +0900</pubDate>
-      <description>～PHPの緊急パッチ（ストップ・ザ・サーバー）～ 2026年10月21日の夜、PHPに深刻な不具合（通称PHP2Shell）が見つかり、大手サイトが次々に予防で止まった。梨ヶ坂市の地下の係にも、修正版が出るまでの夜間当番が回ってくる。「止めりゃ安全。全部止めりゃ、おれは帰れる!!」――市のサイト二十七本を、テツが片っ端から止めはじめて……。</description>
-      <enclosure url="https://tsubasagit.github.io/gyosei-bug-reader/ep/17/thumb.webp" type="image/webp" length="0"/>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 09:00:00 +0900</lastBuildDate>
     <item>
       <title>第16話「地下の逆襲」</title>
       <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/16/</link>
