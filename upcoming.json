@@ -1,27 +1,15 @@
 {
   "_説明": "再訪の仕掛けの設定。次回予告と、新しい話のお知らせ先（X）。日付は空でもよい（空なら「近日公開」と出す）。英語表示用の題名は title_en",
   "next": {
-    "number": 18,
-    "title": "人生ガチャ、引き直します",
-    "date": "2026-10-26"
+    "number": 19,
+    "title": "満員御礼",
+    "date": "2026-10-29"
   },
   "x": {
     "url": "https://x.com/tsubasatwi",
     "handle": "@tsubasatwi"
   },
   "schedule": [
-    {
-      "number": 18,
-      "title": "人生ガチャ、引き直します",
-      "subtitle": "転籍届（ホンセキ・ガチャ）",
-      "date": "2026-10-26",
-      "genres": [
-        "窓口・手続き",
-        "時事",
-        "町内会・団地"
-      ],
-      "cover": "assets/upcoming/18.webp"
-    },
     {
       "number": 19,
       "title": "満員御礼",
@@ -44,6 +32,17 @@
         "防災"
       ],
       "cover": "assets/upcoming/20.webp"
+    },
+    {
+      "number": 21,
+      "title": "選手村は五階です",
+      "subtitle": "宿泊のきまり（ノー・ビレッジ）",
+      "date": "2026-11-05",
+      "genres": [
+        "スポーツ",
+        "町内会・団地"
+      ],
+      "cover": "assets/upcoming/21.webp"
     }
   ]
 }

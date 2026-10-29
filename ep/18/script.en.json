@@ -1,0 +1,1503 @@
+{
+  "episode": "17",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4121,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0167,
+          0.4806,
+          0.3992,
+          0.7498
+        ],
+        "4": [
+          0.6701,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3427,
+          0.7678,
+          0.6573,
+          0.9892
+        ],
+        "6": [
+          0.0167,
+          0.7678,
+          0.3299,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "2026年10月。",
+          "en": "October 2026."
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "人生シミュレーター『80億分の1』が大流行。",
+          "en": "The life simulator \"1 in 8 Billion\" is all the rage.",
+          "note": "A browser game released in October 2026 that rolls you a random birth among the world's 8 billion people (country and sex)."
+        },
+        {
+          "id": "p1-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "もう一回!! 次こそ石油王の家!!",
+          "en": "One more!! This time, an oil sheikh's family!!"
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "日本・男性……この地味さは、公務員だ",
+          "en": "Japan, male... this blandness says civil servant"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "現実と同じじゃねえか!!",
+          "en": "That's just my actual life!!"
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "勤務中に、人生を引き直すな",
+          "en": "Don't reroll your life on the clock"
+        },
+        {
+          "id": "p1-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "僕は、時給で見守ってます",
+          "en": "I'm watching over you. By the hour"
+        },
+        {
+          "id": "p1-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "今日も、いい枝ぶりです",
+          "en": "Lovely branches today"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.6701,
+          0.0397,
+          0.9846,
+          0.2611
+        ],
+        "2": [
+          0.3427,
+          0.0397,
+          0.6573,
+          0.2611
+        ],
+        "3": [
+          0.0167,
+          0.0397,
+          0.3299,
+          0.2611
+        ],
+        "4": [
+          0.0167,
+          0.2791,
+          0.9846,
+          0.9603
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "市民課が、九十分待ちだそうです",
+          "en": "The Residents Section has a ninety-minute wait"
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "応援に、参りましょう",
+          "en": "Let's go lend a hand"
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "私は、奥で証明書の照合を",
+          "en": "I'll check certificates in the back"
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "やだやだ、窓口は人が多い",
+          "en": "Ugh, no. The counter's full of people"
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……待合で、スマホいじってていいなら",
+          "en": "...If I can play on my phone in the waiting area"
+        },
+        {
+          "id": "p2-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "条件つけるな",
+          "en": "No conditions"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4121,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.3979,
+          0.7525
+        ],
+        "4": [
+          0.6701,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3427,
+          0.7678,
+          0.6573,
+          0.9892
+        ],
+        "6": [
+          0.0167,
+          0.7678,
+          0.3299,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――梨ヶ坂市役所では、なぜか戸籍の請求が増えていた。",
+          "en": "—For some reason, family register requests were up at Nashigasaka City Hall.",
+          "note": "The koseki (family register) records a Japanese citizen's birth, marriage and death. City halls issue copies."
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……九十分って、映画一本だよ",
+          "en": "...Ninety minutes is a whole movie"
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ゲームのせいかは、分かりませんけど",
+          "en": "Can't say if it's the game,"
+        },
+        {
+          "id": "p3-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ルーツを見たいって方が、増えて",
+          "en": "but more people want to see their roots"
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "いまは本籍が遠くても、ここで取れますから",
+          "en": "These days you can get it here even if your honseki is far away",
+          "note": "Honseki (registered domicile): the address your family register is filed under. It can differ from where you live. Since 2024, copies can be issued at any city hall."
+        },
+        {
+          "id": "p3-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "本人が来れば、ですね",
+          "en": "If you come in person, that is"
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "また日本・男性!! 定年まで地下だ!!",
+          "en": "Japan, male AGAIN!! Basement till retirement!!"
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ふふ……地下って",
+          "en": "Heh... basement"
+        },
+        {
+          "id": "p3-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "ウケてますね",
+          "en": "That's a hit"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.4121,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0167,
+          0.0108,
+          0.3992,
+          0.28
+        ],
+        "3": [
+          0.4121,
+          0.2981,
+          0.9846,
+          0.5673
+        ],
+        "4": [
+          0.0167,
+          0.2981,
+          0.3992,
+          0.5673
+        ],
+        "5": [
+          0.4121,
+          0.5854,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0167,
+          0.5854,
+          0.3992,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "それ、何回目？",
+          "en": "How many tries is that?"
+        },
+        {
+          "id": "p4-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……三十八回目",
+          "en": "...Thirty-eight"
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "すまんな、若いの。孫が邪魔した",
+          "en": "Sorry, young fella. My grandson's in your way"
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "孫に聞かれてな。じいちゃんの人生って、どんなのって",
+          "en": "He asked me what Grandpa's life was like"
+        },
+        {
+          "id": "p4-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "なら、紙で見せてやろうと思ってな",
+          "en": "So I figured I'd show him on paper"
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……いいですね",
+          "en": "...That's nice"
+        },
+        {
+          "id": "p4-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "じいちゃん、八十億回やっても、たぶん体操の先生",
+          "en": "Grandpa, even in 8 billion rolls, you'd be a gym teacher"
+        },
+        {
+          "id": "p4-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "ガチャ、要らねえじゃん",
+          "en": "Who needs gacha, then"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.4121,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0167,
+          0.0108,
+          0.3992,
+          0.28
+        ],
+        "3": [
+          0.0167,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ご本人ですね。お待たせしました",
+          "en": "Thank you for coming in person. Here you are"
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "テツさんが……字を書いてる",
+          "en": "Tetsu is... writing something"
+        },
+        {
+          "id": "p5-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……体操の先生、っと",
+          "en": "...Gym teacher. Got it"
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……出生。届出人、父",
+          "en": "...Birth. Reported by: father"
+        },
+        {
+          "id": "p5-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "八十八年で、紙に五行か",
+          "en": "Eighty-eight years, five lines of paper"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.6701,
+          0.0397,
+          0.9846,
+          0.2611
+        ],
+        "2": [
+          0.3427,
+          0.0397,
+          0.6573,
+          0.2611
+        ],
+        "3": [
+          0.0167,
+          0.0397,
+          0.3299,
+          0.2611
+        ],
+        "4": [
+          0.0167,
+          0.2791,
+          0.9846,
+          0.9603
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "出た!! 南の島で、漁師!!",
+          "en": "Got it!! Fisherman on a southern island!!"
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "次は？ 次は？",
+          "en": "Next? Next?"
+        },
+        {
+          "id": "p6-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "九十分、あっという間だ",
+          "en": "Ninety minutes flies by"
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……こいつら、客か？",
+          "en": "...Are these people customers?"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……これ、金になるな",
+          "en": "...There's money in this"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0108,
+          0.9846,
+          0.4598
+        ],
+        "2": [
+          0.6701,
+          0.4779,
+          0.9846,
+          0.6992
+        ],
+        "3": [
+          0.3427,
+          0.4779,
+          0.6573,
+          0.6992
+        ],
+        "4": [
+          0.0167,
+          0.4779,
+          0.3299,
+          0.6992
+        ],
+        "5": [
+          0.4121,
+          0.7173,
+          0.9846,
+          0.9864
+        ],
+        "6": [
+          0.0167,
+          0.7173,
+          0.3992,
+          0.9864
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "売り上げの二割で、行列整理やります",
+          "en": "I'll run the line for twenty percent of sales"
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "乗った",
+          "en": "Deal"
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "市役所で、商売するな!!",
+          "en": "No business at City Hall!!"
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "はっはっは。よーし、いち、に",
+          "en": "Ha ha ha. Right, one, two"
+        },
+        {
+          "id": "p7-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "じいちゃんが、笑ってる",
+          "en": "Grandpa's laughing"
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……今日だけよ",
+          "en": "...Just for today"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.4121,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0167,
+          0.0108,
+          0.3992,
+          0.28
+        ],
+        "3": [
+          0.0167,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "本籍は、地番があれば日本中どこでも置けます",
+          "en": "You can place your honseki anywhere in Japan, as long as it has a lot number",
+          "note": "Under the Family Register Act, a honseki can be moved to any address with an official lot number by filing a transfer notice (tenseki todoke). Filing is free."
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "届けは、無料",
+          "en": "And filing is free"
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……どこでも？",
+          "en": "...Anywhere?"
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "生まれは引き直せねえ。だが本籍なら引き直せる!!",
+          "en": "You can't reroll your birth. But you CAN reroll your honseki!!"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.4121,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0167,
+          0.0108,
+          0.3992,
+          0.28
+        ],
+        "3": [
+          0.0167,
+          0.2981,
+          0.9846,
+          0.7498
+        ],
+        "4": [
+          0.6701,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3427,
+          0.7678,
+          0.6573,
+          0.9892
+        ],
+        "6": [
+          0.0167,
+          0.7678,
+          0.3299,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "出生届は、お父さんかお母さんが",
+          "en": "A birth notice is written by the father or mother"
+        },
+        {
+          "id": "p9-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "死亡届は、ご家族が書かれます",
+          "en": "A death notice, by the family"
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……他人が、書く？",
+          "en": "...Someone else writes it?"
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "人生の最初と最後は、他人が書くんだろ!!",
+          "en": "The start and end of your life are written by other people!!"
+        },
+        {
+          "id": "p9-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "間くらい、おれが書いて何が悪い!!",
+          "en": "So what's wrong with me writing the middle!!"
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……そうかしら",
+          "en": "...Is that so?"
+        },
+        {
+          "id": "p9-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "書く時間がなくなれば、待ちは三分の一です",
+          "en": "No writing time means one-third the wait"
+        },
+        {
+          "id": "p9-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "だろ!?",
+          "en": "Right!?"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0108,
+          0.9846,
+          0.692
+        ],
+        "2": [
+          0.4121,
+          0.71,
+          0.9846,
+          0.9792
+        ],
+        "3": [
+          0.0167,
+          0.71,
+          0.3992,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "本籍ガチャ、一回千円!!",
+          "en": "Honseki Gacha, 1,000 yen a pull!!"
+        },
+        {
+          "id": "p10-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "記入は、おまかせです",
+          "en": "We fill in the forms for you"
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "展望台、来い……!",
+          "en": "Come on, observation deck...!"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……市役所の地番",
+          "en": "...City Hall's lot number"
+        },
+        {
+          "id": "p10-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おめでとう。地下と同じ番地だ",
+          "en": "Congrats. Same address as the basement"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.4121,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0167,
+          0.0108,
+          0.3992,
+          0.28
+        ],
+        "3": [
+          0.0167,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "わたしたち、自分で書きます",
+          "en": "We'll write it ourselves"
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "記念だから",
+          "en": "It's a keepsake"
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "お二人とも、署名ですね",
+          "en": "Signed by you both. Good"
+        },
+        {
+          "id": "p11-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "受理します",
+          "en": "Accepted"
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "梨ヶ坂一番地、記念日!!",
+          "en": "No. 1 Nashigasaka, our anniversary!!"
+        },
+        {
+          "id": "p11-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "せん、にせん……",
+          "en": "One thousand, two thousand..."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.6701,
+          0.0343,
+          0.9846,
+          0.2556
+        ],
+        "2": [
+          0.3427,
+          0.0343,
+          0.6573,
+          0.2556
+        ],
+        "3": [
+          0.0167,
+          0.0343,
+          0.3299,
+          0.2556
+        ],
+        "4": [
+          0.5071,
+          0.2737,
+          0.9846,
+          0.4977
+        ],
+        "5": [
+          0.0167,
+          0.2737,
+          0.4942,
+          0.4977
+        ],
+        "6": [
+          0.0167,
+          0.5158,
+          0.9846,
+          0.9648
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "SNSで見ました!!",
+          "en": "We saw it on social media!!"
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "行列、倍です",
+          "en": "The line's doubled"
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "書く時間が、もったいねえ",
+          "en": "Writing's a waste of time"
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "名前もおれが書く!! 一件三十秒!!",
+          "en": "I'll write your names too!! Thirty seconds each!!"
+        },
+        {
+          "id": "p12-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ちょっ、ちょっと、それは、あの",
+          "en": "W-wait, um, that's, er"
+        },
+        {
+          "id": "p12-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "本人が、その……書くんじゃ",
+          "en": "Aren't people supposed to... sign their own"
+        },
+        {
+          "id": "p12-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "次!! 次!!",
+          "en": "Next!! Next!!"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5071,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0167,
+          0.4833,
+          0.4942,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――夕方。",
+          "en": "—Evening."
+        },
+        {
+          "id": "p13-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "五十件、五万円!!",
+          "en": "Fifty forms, fifty thousand yen!!"
+        },
+        {
+          "id": "p13-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "僕の二割、一万円です",
+          "en": "My twenty percent: ten thousand yen"
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "時給の、三倍です",
+          "en": "Triple my hourly wage"
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "caption",
+          "ja": "――五十人分の署名。筆跡は、ひとつ。",
+          "en": "—Fifty people's signatures. One handwriting."
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.5071,
+          0.0108,
+          0.9846,
+          0.5149
+        ],
+        "2": [
+          0.0167,
+          0.0108,
+          0.4942,
+          0.5149
+        ],
+        "3": [
+          0.0167,
+          0.533,
+          0.9846,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ぐう……いち、に……",
+          "en": "Zzz... one, two..."
+        },
+        {
+          "id": "p14-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "あと一面……",
+          "en": "One more level..."
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "じいさんにも、当たりを取っといてやったぞ",
+          "en": "Saved a winner for the old man too"
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "梨ヶ坂一番地。見晴らし最高だ",
+          "en": "No. 1 Nashigasaka. Best view in town"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "人生、引き直し放題だァ!!",
+          "en": "Reroll your life all you want!!"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.0167,
+          0.0108,
+          0.9846,
+          0.692
+        ],
+        "2": [
+          0.4121,
+          0.71,
+          0.9846,
+          0.9792
+        ],
+        "3": [
+          0.0167,
+          0.71,
+          0.3992,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "五十枚、全部同じ筆跡ですね",
+          "en": "All fifty in the same handwriting"
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "署名は、ご本人が書くものです",
+          "en": "A signature must be written by the person"
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "本籍を移しても、生まれた事実は変わりません",
+          "en": "Moving your honseki doesn't change the fact of your birth"
+        },
+        {
+          "id": "p16-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……え",
+          "en": "...Huh"
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "つまり千円で、何も買えてない!!",
+          "en": "So for a thousand yen, they bought nothing!!"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.4121,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0167,
+          0.0108,
+          0.3992,
+          0.28
+        ],
+        "3": [
+          0.0167,
+          0.2981,
+          0.9846,
+          0.7471
+        ],
+        "4": [
+          0.5071,
+          0.7651,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0167,
+          0.7651,
+          0.4942,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "金田さんの戸籍は、旧字の「德」です",
+          "en": "Mr. Kaneda's register uses the old-style kanji \"德\"",
+          "note": "The \"toku\" in his name is written 德, the old form of 徳, with one extra horizontal stroke above 心 (heart). The family register keeps names in their exact characters."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……",
+          "en": "..."
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "caption",
+          "ja": "心の上に、一本。",
+          "en": "One stroke above the heart."
+        },
+        {
+          "id": "p17-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "この一本はな、親父が出生届に書いた字だ",
+          "en": "My father wrote this stroke on my birth notice"
+        },
+        {
+          "id": "p17-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "人の人生は、引き直せん。自分で書く",
+          "en": "You can't reroll a person's life. You write it yourself"
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "頼まれてもない人の名前を書いたら、罪よ",
+          "en": "Writing someone's name without being asked is a crime"
+        },
+        {
+          "id": "p17-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……千円、五十人分",
+          "en": "...A thousand yen, times fifty"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.6701,
+          0.0397,
+          0.9846,
+          0.2611
+        ],
+        "2": [
+          0.3427,
+          0.0397,
+          0.6573,
+          0.2611
+        ],
+        "3": [
+          0.0167,
+          0.0397,
+          0.3299,
+          0.2611
+        ],
+        "4": [
+          0.0167,
+          0.2791,
+          0.9846,
+          0.9603
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "課長さん",
+          "en": "Chief"
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "僕の二割は、先に返しておきます",
+          "en": "I'll return my twenty percent first"
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "皆さま、大変申し訳ございません",
+          "en": "Everyone, we are deeply sorry"
+        },
+        {
+          "id": "p18-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "お代は、すべてお返しいたします",
+          "en": "We will refund every yen"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.6701,
+          0.0343,
+          0.9846,
+          0.2556
+        ],
+        "2": [
+          0.3427,
+          0.0343,
+          0.6573,
+          0.2556
+        ],
+        "3": [
+          0.0167,
+          0.0343,
+          0.3299,
+          0.2556
+        ],
+        "4": [
+          0.0167,
+          0.2737,
+          0.9846,
+          0.7227
+        ],
+        "5": [
+          0.5071,
+          0.7407,
+          0.9846,
+          0.9648
+        ],
+        "6": [
+          0.0167,
+          0.7407,
+          0.4942,
+          0.9648
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ひっ",
+          "en": "Eek"
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "源田さんが書いてよい名前は、一つだけです",
+          "en": "There is only one name you may write, Mr. Genda"
+        },
+        {
+          "id": "p19-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ご自分のお名前で、五十枚",
+          "en": "Your own. Fifty times"
+        },
+        {
+          "id": "p19-5-1",
+          "panel": 5,
+          "type": "caption",
+          "ja": "罰は、五十人ぶんの始末書。",
+          "en": "The penalty: fifty letters of apology.",
+          "note": "A shimatsusho is a formal written apology. Here, one goes to each of the fifty people whose names he wrote."
+        },
+        {
+          "id": "p19-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "つ、次の方……",
+          "en": "N-next, please..."
+        },
+        {
+          "id": "p19-5-3",
+          "panel": 5,
+          "type": "caption",
+          "ja": "署名は、自分の名前で一枚ずつ。",
+          "en": "Each one signed with his own name."
+        },
+        {
+          "id": "p19-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "ぼくらのは、残ったね",
+          "en": "Ours stayed"
+        },
+        {
+          "id": "p19-6-2",
+          "panel": 6,
+          "type": "caption",
+          "ja": "九十分待ちは、三十分になった。",
+          "en": "The ninety-minute wait became thirty."
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.4121,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0167,
+          0.0108,
+          0.3992,
+          0.28
+        ],
+        "3": [
+          0.5071,
+          0.2981,
+          0.9846,
+          0.5221
+        ],
+        "4": [
+          0.0167,
+          0.2981,
+          0.4942,
+          0.5221
+        ],
+        "5": [
+          0.0167,
+          0.5402,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ハルト、見とけ。ここに、一本だ",
+          "en": "Haruto, watch. One stroke, right here"
+        },
+        {
+          "id": "p20-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……ほらよ。字、汚えけど",
+          "en": "...Here. My writing's messy"
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "caption",
+          "ja": "――待ち時間に、テツが書きとめた、じいさんの話。",
+          "en": "—Grandpa's stories, jotted down by Tetsu in the wait.",
+          "note": "On the backs of the numbered queue tickets, in Japanese: \"Former PE teacher\" / \"Leads radio calisthenics every morning\" / \"Whistle still in service\" / \"Came to show his grandson his life\" / \"Writing from his dad, one extra stroke\"."
+        },
+        {
+          "id": "p20-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "じいちゃんの人生、五行じゃなかった",
+          "en": "Grandpa's life wasn't just five lines"
+        },
+        {
+          "id": "p20-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "よーし",
+          "en": "Alright"
+        },
+        {
+          "id": "p20-5-1",
+          "panel": 5,
+          "type": "caption",
+          "ja": "――夜。始末書、五十枚目。",
+          "en": "—Night. Apology letter number fifty."
+        },
+        {
+          "id": "p20-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……署名が、また金田さんです",
+          "en": "...The signature's Mr. Kaneda again",
+          "note": "In the close-up, letter No. 49 is signed in his own messy hand, \"Genda Tetsu\". Letter No. 50 is addressed to Mr. Kaneda, and he signed it with Kaneda's name too, old-style stroke and all."
+        },
+        {
+          "id": "p20-5-3",
+          "panel": 5,
+          "type": "speech",
+          "ja": "旧字の一本まで、いちばん上手です",
+          "en": "Down to the old-style stroke. Your best one yet"
+        }
+      ]
+    }
+  ]
+}

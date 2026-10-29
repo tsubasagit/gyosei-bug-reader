@@ -1,0 +1,224 @@
+{
+  "_説明": "英語の写植（tools/letter_en.py）で、どのセリフをどの吹き出しに入れるかを人が決めた表。数字＝そのコマの吹き出しの候補の番号（--candidates の確認画像の赤い番号）、[x, y]＝組んだページ page-P{n}.png の上で吹き出しの中の白い点、[x0, y0, x1, y1]＝吹き出しを囲む四角（点で取れないとき）、\"skip\"＝日本語のまま残す、{\"parts\": [...]}＝1つのセリフを2つの吹き出しに分けて入れる（文言を変えるときにも使う）",
+  "p1-1-1": 2,
+  "p1-1-3": 0,
+  "p1-6-1": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "Lovely bran- ches today"
+      }
+    ]
+  },
+  "p2-1-1": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "The Resi- dents Sec- tion has a ninety- minute wait"
+      }
+    ]
+  },
+  "p2-2-1": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "I'll check certifi- cates in the back"
+      }
+    ]
+  },
+  "p2-4-2": 1,
+  "p4-1-2": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "...Thirty- eight"
+      }
+    ]
+  },
+  "p4-2-1": 0,
+  "p4-5-1": 0,
+  "p5-1-1": 0,
+  "p5-2-1": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "Tetsu is... writing some- thing"
+      }
+    ]
+  },
+  "p5-2-2": {
+    "parts": [
+      {
+        "at": 1,
+        "text": "...Gym tea- cher. Got it"
+      }
+    ]
+  },
+  "p6-1-1": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "Got it!! Fisher- man on a southern island!!"
+      }
+    ]
+  },
+  "p6-2-1": 1,
+  "p6-2-2": 0,
+  "p6-3-1": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "...Are these people cus- tomers?"
+      }
+    ]
+  },
+  "p6-4-1": 0,
+  "p7-1-2": [
+    170,
+    330
+  ],
+  "p7-2-1": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "No busi- ness at City Hall!!"
+      }
+    ]
+  },
+  "p7-4-2": {
+    "parts": [
+      {
+        "at": 1,
+        "text": "Grand- pa's laugh- ing"
+      }
+    ]
+  },
+  "p8-1-1": 0,
+  "p8-2-1": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "...Any- where?"
+      }
+    ]
+  },
+  "p9-5-1": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "No wri- ting time means one- third the wait"
+      }
+    ]
+  },
+  "p9-6-1": [
+    424,
+    1810
+  ],
+  "p10-2-1": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "Come on, obser- vation deck...!"
+      }
+    ]
+  },
+  "p10-3-1": 0,
+  "p10-3-2": {
+    "parts": [
+      {
+        "at": [
+          210,
+          1608,
+          338,
+          1800
+        ],
+        "text": "Con- grats. Same ad- dress as the base- ment"
+      }
+    ]
+  },
+  "p11-2-1": 0,
+  "p11-2-2": {
+    "parts": [
+      {
+        "at": 1,
+        "text": "Ac- cepted"
+      }
+    ]
+  },
+  "p12-2-1": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "The line's dou- bled"
+      }
+    ]
+  },
+  "p12-3-1": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "Wri- ting's a waste of time"
+      }
+    ]
+  },
+  "p12-6-1": [
+    1380,
+    1300
+  ],
+  "p13-1-1": {
+    "parts": [
+      {
+        "at": 2,
+        "text": "—Eve- ning."
+      }
+    ]
+  },
+  "p13-1-3": 0,
+  "p14-2-1": 0,
+  "p16-1-2": 0,
+  "p16-2-2": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "... Huh"
+      }
+    ]
+  },
+  "p17-1-1": {
+    "parts": [
+      {
+        "at": 0,
+        "text": "Mr. Kaneda's register uses the old-style kanji for \"toku\""
+      }
+    ]
+  },
+  "p17-3-3": 1,
+  "p19-3-1": [
+    390,
+    160
+  ],
+  "p19-5-3": 2,
+  "p19-6-1": 1,
+  "p19-6-2": {
+    "parts": [
+      {
+        "at": [
+          482,
+          1665,
+          600,
+          1850
+        ],
+        "text": "The 90-min wait became 30."
+      }
+    ]
+  },
+  "p20-4-1": [
+    670,
+    800
+  ],
+  "p20-5-1": 3,
+  "p20-5-2": 1,
+  "p20-5-3": 0,
+  "p20-3-1": 1,
+  "p20-3-2": 0
+}
