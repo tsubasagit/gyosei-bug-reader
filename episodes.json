@@ -2858,7 +2858,14 @@
           2230
         ]
       },
-      "pagesEn": true
+      "pagesEn": true,
+      "genres": [
+        "イベント",
+        "氷室回"
+      ],
+      "links": {
+        "pixiv": "https://www.pixiv.net/artworks/151409938"
+      }
     }
   ]
 }
