@@ -1,0 +1,1413 @@
+{
+  "episode": "20",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0179,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.4885,
+          0.4833,
+          0.9846,
+          0.7164
+        ],
+        "4": [
+          0.0179,
+          0.4833,
+          0.4756,
+          0.9675
+        ],
+        "3": [
+          0.4885,
+          0.7344,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "九月の終わり。尾根平団地、5号棟5階。",
+          "en": "End of September. Onehira Housing Complex, Building 5, 5th floor."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……冷てっ",
+          "en": "...Cold!"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "東京都心は、三十三日連続の雨",
+          "en": "Central Tokyo: rain for 33 days in a row."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ド、レ、ミ……いい音出すじゃねえか",
+          "en": "Do, re, mi... What a nice sound, huh."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.6705,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3436,
+          0.0108,
+          0.6577,
+          0.2322
+        ],
+        "3": [
+          0.0179,
+          0.0108,
+          0.3308,
+          0.2322
+        ],
+        "4": [
+          0.0179,
+          0.2502,
+          0.9846,
+          0.7019
+        ],
+        "5": [
+          0.4128,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "6": [
+          0.0179,
+          0.72,
+          0.4,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "防水は、乾いてからでないと工事できません",
+          "en": "We can't waterproof until it dries."
+        },
+        {
+          "id": "p2-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "いま、四十軒待ちです",
+          "en": "There are forty waiting right now."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……四十軒",
+          "en": "...Forty."
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "部屋の番って名目で、休めるじゃねえか!!",
+          "en": "\"Guarding my room\" counts as an excuse to rest, doesn't it!!"
+        },
+        {
+          "id": "p2-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "部屋の番、ですか。源田くんの部屋が心配です",
+          "en": "Guarding his room, is it? I do worry about Genda's apartment."
+        },
+        {
+          "id": "p2-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "赤嶺くんに、合羽を届けてもらいましょう",
+          "en": "Let's have Akamine bring him a raincoat."
+        },
+        {
+          "id": "p2-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……やった、休める",
+          "en": "...Yes! A day off."
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.5269,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0179,
+          0.0108,
+          0.5141,
+          0.2439
+        ],
+        "3": [
+          0.0179,
+          0.262,
+          0.5141,
+          0.495
+        ],
+        "4": [
+          0.0179,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "エレベーター……ないの……!?",
+          "en": "No elevator...?!"
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "部屋の番なんて勤務、ない!!",
+          "en": "There's no such job as \"guarding your room\"!!"
+        },
+        {
+          "id": "p3-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "休むなら、年休",
+          "en": "If you want to rest, take paid leave."
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "命中。三点",
+          "en": "Hit. Three points."
+        },
+        {
+          "id": "p3-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "点数つけるな!!",
+          "en": "Don't keep score!!"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.0179,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5077,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0179,
+          0.4833,
+          0.4949,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "もう、ずっと雨でねえ",
+          "en": "It just keeps raining, doesn't it."
+        },
+        {
+          "id": "p4-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "濡れた階段がこわくて、洗濯物も乾かないの",
+          "en": "I'm scared of the wet stairs, and the laundry never dries."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "この十日、誰とも口をきいてないのよ",
+          "en": "For ten days I haven't talked to a soul."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……市で、何かできないの",
+          "en": "...Can't the city do something?"
+        },
+        {
+          "id": "p4-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "バケツ、一個八百円か。高えな",
+          "en": "A bucket is 800 yen each? That's steep."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.3487,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0179,
+          0.0108,
+          0.3359,
+          0.3379
+        ],
+        "3": [
+          0.0179,
+          0.3559,
+          0.3359,
+          0.6829
+        ],
+        "4": [
+          0.4128,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0179,
+          0.701,
+          0.4,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "5階は、どこも漏ってます",
+          "en": "Every unit on the 5th floor is leaking."
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お年寄りのお部屋から、順番に",
+          "en": "Starting with the elderly residents, in order."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "修理は公社……市の仕事じゃ、ない……",
+          "en": "Repairs are the housing corporation's job... not the city's..."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "下水道課ですか。5号棟まで……",
+          "en": "The Sewer Division? Could you come to Building 5..."
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "市の試作品、雨水ろ過ボトルです",
+          "en": "The city's prototype. A rain filter bottle."
+        },
+        {
+          "id": "p5-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "災害で水道が止まったら、雨を飲み水に",
+          "en": "If the water supply is cut in a disaster, it turns rain into drinking water.",
+          "note": "Rain filter bottles like this are portable purifiers for emergencies. They are not meant for everyday business."
+        },
+        {
+          "id": "p5-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "晴れたら、お年寄りに配ります",
+          "en": "Once the weather clears, we hand them out to the elderly."
+        },
+        {
+          "id": "p5-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "倉庫も雨漏りで。お宅に",
+          "en": "Our storeroom leaks, too. So, your place."
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "2": [
+          0.0179,
+          0.0108,
+          0.4949,
+          0.5149
+        ],
+        "3": [
+          0.6756,
+          0.533,
+          0.9846,
+          0.7507
+        ],
+        "5": [
+          0.0179,
+          0.533,
+          0.6628,
+          0.9874
+        ],
+        "4": [
+          0.6756,
+          0.7687,
+          0.9846,
+          0.9864
+        ],
+        "1": [
+          0.5077,
+          0.0108,
+          0.9846,
+          0.5149
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "部屋が、もう限界だ……!!",
+          "en": "My room is at its limit...!!"
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "おりゃあああ!! 十二往復目ェ!!",
+          "en": "Raaaah!! Twelfth round trip!!"
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……流しに捨てれば、一歩も歩きませんが",
+          "en": "...If you just poured it down the sink, you wouldn't walk a single step."
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……あ",
+          "en": "...Ah."
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……これは、使える……",
+          "en": "...This could work..."
+        },
+        {
+          "id": "p6-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "山に降った雨が、二十年かけて――",
+          "en": "Rain that fell on the mountains, over twenty years..."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.3487,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0179,
+          0.0108,
+          0.3359,
+          0.3379
+        ],
+        "3": [
+          0.0179,
+          0.3559,
+          0.3359,
+          0.6829
+        ],
+        "4": [
+          0.4128,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0179,
+          0.701,
+          0.4,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "雨を通せば、天然水じゃねえか!!",
+          "en": "Run rain through a filter and it's natural water, isn't it!!",
+          "note": "Natural water (natural mineral water) is groundwater from a specific source. Rain caught from the sky is not natural water."
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……雨は、タダで降ってくる商品だ",
+          "en": "...Rain is a product that falls for free."
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "バケツ一杯で二十本、三千円",
+          "en": "Twenty bottles per bucket. That's 3,000 yen."
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……原価、ゼロですね",
+          "en": "...The cost is zero."
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "公務員が雨を売るなんて、副業でしょ!!",
+          "en": "A civil servant selling rain is a side job!!"
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "見ろ。在庫は、空から無限だ",
+          "en": "Look. My stock is unlimited, straight from the sky."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.0179,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5269,
+          0.4833,
+          0.9846,
+          0.9675
+        ],
+        "3": [
+          0.0179,
+          0.4833,
+          0.5141,
+          0.7164
+        ],
+        "4": [
+          0.0179,
+          0.7344,
+          0.5141,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "「災害のときに、雨を飲み水に」。試作品だそうです",
+          "en": "\"In a disaster, turn rain into drinking water.\" Apparently it's a prototype."
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ほら。配る分よ",
+          "en": "Here. Your share."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "毎日が、災害級の雨だ!!",
+          "en": "Every day is a disaster-level rain!!"
+        },
+        {
+          "id": "p8-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "今使わねえで、いつ使う",
+          "en": "If we don't use it now, when do we?"
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "副業じゃねえ!! 市の『雨水活用』だ!!",
+          "en": "It's not a side job!! It's the city's \"rainwater project\"!!"
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おれの部屋だけじゃ足りねえ。雨、一杯十円で買う",
+          "en": "My room alone isn't enough. I'll buy rain, ten yen a cup."
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……そうかしら",
+          "en": "...Is that so?"
+        },
+        {
+          "id": "p8-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ラベルと通販、一本二十円で乗ります",
+          "en": "Labels and online sales, I'm in at twenty yen a bottle."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.4128,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0179,
+          0.0108,
+          0.4,
+          0.28
+        ],
+        "3": [
+          0.0179,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "雨、買いまァす!! 一杯十円!!",
+          "en": "Buying rain!! Ten yen a cup!!"
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……十円？",
+          "en": "...Ten yen?"
+        },
+        {
+          "id": "p9-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ベランダに、受けェ!!",
+          "en": "Put it out on your balcony!!"
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "一杯、二杯、三杯ィ!!",
+          "en": "One cup, two cups, three cups!!"
+        },
+        {
+          "id": "p9-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "若いのは、よく走るねえ",
+          "en": "You're a fast runner, young man."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0126,
+          0.9821,
+          0.467
+        ],
+        "2": [
+          0.5077,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0179,
+          0.4833,
+          0.4949,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "そっちは、何杯たまった？",
+          "en": "How many cups did you get?"
+        },
+        {
+          "id": "p10-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "うちは三杯よォ!!",
+          "en": "We got three!!"
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "あはは……!!",
+          "en": "Ahaha...!!"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "人の声がうれしいの。あした、下りてみようかしら",
+          "en": "It's nice to hear people's voices. Maybe I'll come downstairs tomorrow."
+        },
+        {
+          "id": "p10-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "べ、別に。……また話しに来い。在庫が要るんだ",
+          "en": "I-it's nothing. ...Come talk again. I need the stock."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.5269,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0179,
+          0.0108,
+          0.5141,
+          0.2439
+        ],
+        "3": [
+          0.0179,
+          0.262,
+          0.5141,
+          0.495
+        ],
+        "4": [
+          0.0179,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "容器代、一本二十円。原価ゼロじゃなかったです",
+          "en": "The bottle costs twenty yen each. The cost wasn't zero after all."
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "尾根平の天然水、一本百五十円!!",
+          "en": "Onehira Natural Water, 150 yen a bottle!!"
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "盆栽には、雨水がいちばんと申します",
+          "en": "They say rainwater is best for bonsai."
+        },
+        {
+          "id": "p11-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "地下では、雨に当ててやれませんので……",
+          "en": "We can't put them out in the rain down in the basement..."
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "毎度ォ",
+          "en": "Thanks a lot!"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……箱、空っぽです",
+          "en": "...The box is empty."
+        },
+        {
+          "id": "p11-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "お年寄りの分まで、全部使ったの!?",
+          "en": "You used up even the elderly residents' share?!"
+        },
+        {
+          "id": "p11-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "試してやってんだ。モニターだ、モニター",
+          "en": "I was testing it. As a monitor, a monitor."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.0179,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5077,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0179,
+          0.4833,
+          0.4949,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――その夕方。501号室。",
+          "en": "-- That evening. Room 501."
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "記録の雨だ!! 記念品だァ!!",
+          "en": "A record rain!! A souvenir!!"
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "注文、三百本です",
+          "en": "Orders: three hundred bottles."
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "晴れんな!! 雨よ、止むな!!",
+          "en": "Don't clear up!! Rain, don't stop!!"
+        },
+        {
+          "id": "p12-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "十月は、晴れの日が増える見込みです",
+          "en": "More sunny days are expected in October."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.4128,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0179,
+          0.0108,
+          0.4,
+          0.28
+        ],
+        "3": [
+          0.0179,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "フィルター、百本とも詰まった……",
+          "en": "The filters... all hundred are clogged..."
+        },
+        {
+          "id": "p13-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "注文、まだ二百本残ってます",
+          "en": "There are still two hundred orders left."
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……たんと、お飲み",
+          "en": "...Drink up."
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "どうせ、同じ雨だ",
+          "en": "It's the same rain anyway."
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.5269,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0179,
+          0.0108,
+          0.5141,
+          0.2439
+        ],
+        "3": [
+          0.0179,
+          0.262,
+          0.5141,
+          0.495
+        ],
+        "4": [
+          0.0179,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "大漁だァ",
+          "en": "What a catch!"
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……あらまあ",
+          "en": "...Oh my."
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ヒャッホォォ!!",
+          "en": "Yahooooo!!"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.3487,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0179,
+          0.0108,
+          0.3359,
+          0.3379
+        ],
+        "3": [
+          0.0179,
+          0.3559,
+          0.3359,
+          0.6829
+        ],
+        "4": [
+          0.4128,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0179,
+          0.701,
+          0.4,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "久しぶりに、下りてみようと思ってね",
+          "en": "I thought I'd come down for the first time in a while."
+        },
+        {
+          "id": "p15-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……通れないわねえ",
+          "en": "...I can't get through."
+        },
+        {
+          "id": "p15-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "階段は皆さんの、たった一つの逃げ道です",
+          "en": "The stairs are everyone's only escape route."
+        },
+        {
+          "id": "p15-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "物も、ふたのない水も、置けません",
+          "en": "No belongings, and no uncovered water, either."
+        },
+        {
+          "id": "p15-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "で、でも、その、天然水は……",
+          "en": "B-but, um, the natural water..."
+        },
+        {
+          "id": "p15-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "売れてて……",
+          "en": "It's selling..."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.6026,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0179,
+          0.0108,
+          0.5897,
+          0.28
+        ],
+        "3": [
+          0.0179,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "古賀さんから、届きました",
+          "en": "It came from Ms. Koga."
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "飲み水として、売りましたね",
+          "en": "You sold it as drinking water."
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "飲み水を売るには、保健所の許可が要ります",
+          "en": "To sell drinking water, you need a public health center permit.",
+          "note": "Selling bottled water as a drink requires a business permit under the Food Sanitation Act, even if the water went through a filter."
+        },
+        {
+          "id": "p16-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "許可なしですから、三百本、売れません",
+          "en": "Without a permit, you can't sell the three hundred bottles."
+        },
+        {
+          "id": "p16-2-3",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……じゃ、「天然水」って書かなきゃ、いいのか？",
+          "en": "...So, if I just don't write \"natural water\" on it, it's fine?"
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "災害の日の百本が、一本も残っていません",
+          "en": "Not a single one of the hundred disaster bottles is left."
+        },
+        {
+          "id": "p16-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……通してないのも、売ったの!?",
+          "en": "...You sold the ones that weren't even filtered?!"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.4128,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0179,
+          0.0108,
+          0.4,
+          0.28
+        ],
+        "3": [
+          0.0179,
+          0.2981,
+          0.9846,
+          0.7471
+        ],
+        "4": [
+          0.6705,
+          0.7651,
+          0.9846,
+          0.9864
+        ],
+        "5": [
+          0.3436,
+          0.7651,
+          0.6577,
+          0.9864
+        ],
+        "6": [
+          0.0179,
+          0.7651,
+          0.3308,
+          0.9864
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "市の試作品を、うちの者が使い込みました",
+          "en": "One of my staff used up the city's prototypes."
+        },
+        {
+          "id": "p17-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "申し訳ございません",
+          "en": "I am very sorry."
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "源田さん。百本は、お給料から",
+          "en": "Mr. Genda. The hundred bottles will come out of your salary."
+        },
+        {
+          "id": "p17-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "坂の雨水ます、四十か所。私も、ご一緒します",
+          "en": "Forty rainwater drains on the hill. I'll join you."
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "か、課長も……来るのかよォ……",
+          "en": "The, the section chief is coming too...?!"
+        },
+        {
+          "id": "p17-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "雨水ますのことなら、お任せを",
+          "en": "If it's about rainwater drains, leave it to me."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.3487,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0179,
+          0.0108,
+          0.3359,
+          0.3379
+        ],
+        "3": [
+          0.0179,
+          0.3559,
+          0.3359,
+          0.6829
+        ],
+        "4": [
+          0.4128,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0179,
+          0.701,
+          0.4,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ひい……ひい……落ち葉、重てえ……",
+          "en": "Huff... huff... These leaves are heavy..."
+        },
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "少し取るだけで、雨が流れます",
+          "en": "Just clearing a little lets the rain flow.",
+          "note": "Leaves and trash clogging a street rainwater drain make rain overflow onto the road. Clearing the surface helps."
+        },
+        {
+          "id": "p18-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……ちょっと、気持ちいい",
+          "en": "...It actually feels kind of good."
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "失礼いたします",
+          "en": "Excuse me."
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "課長、ますに敬語使うなァ!!",
+          "en": "Chief, don't use polite speech to a drain!!"
+        },
+        {
+          "id": "p18-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "流していただくのですから",
+          "en": "Because it is letting the water through for us."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.6026,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0179,
+          0.0108,
+          0.5897,
+          0.28
+        ],
+        "3": [
+          0.0179,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――九月は、一日も晴れなかった。",
+          "en": "-- Not a single day in September was clear."
+        },
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "毎年、ここはあふれるんです",
+          "en": "Every year, this spot overflows."
+        },
+        {
+          "id": "p19-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……今年は、流れました",
+          "en": "...This year, it drained."
+        },
+        {
+          "id": "p19-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ためる人と、流す人。まちの小さなダムです",
+          "en": "The ones who store, and the ones who let it flow. A small dam for the town."
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.5269,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0179,
+          0.0108,
+          0.5141,
+          0.495
+        ],
+        "3": [
+          0.0179,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "全額返金で、僕の取り分はゼロです",
+          "en": "A full refund. My share is zero."
+        },
+        {
+          "id": "p20-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "屋上の水が抜けるまで、501だけ降ります",
+          "en": "Until the water on the roof drains, I'll go down just to Room 501."
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "雨よ止むなって……ここだけ叶ってんじゃねえかァ!!",
+          "en": "\"Don't stop, rain\"... only that wish came true, huh?!"
+        }
+      ]
+    }
+  ]
+}

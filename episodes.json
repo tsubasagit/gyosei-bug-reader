@@ -2868,6 +2868,185 @@
         "niconico": "https://manga.nicovideo.jp/watch/mg1171540",
         "pixiv": "https://www.pixiv.net/artworks/151409938"
       }
+    },
+    {
+      "id": "20",
+      "number": 20,
+      "title": "梨ヶ坂の天然水",
+      "subtitle": "雨水タンク（レイン・ストック）",
+      "summary": "九月の終わり、雨がやまない尾根平団地。最上階のテツの部屋は雨漏りでバケツだらけ、修理は順番待ち。「雨はタダで降ってくる商品だ!!」しかも部屋には、市が災害用に配る試作品「雨水ろ過ボトル」が百本、預けてある。「これは、使える……」テツは雨を通して「尾根平の天然水」として売り始める――。",
+      "published": "2026-11-02",
+      "tags": [
+        "雨水タンク",
+        "天然水",
+        "雨水",
+        "食品衛生法",
+        "保健所",
+        "防災",
+        "団地",
+        "浸水"
+      ],
+      "genres": [
+        "町内会・団地",
+        "ごみ・環境",
+        "防災"
+      ],
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp",
+        "p20.webp"
+      ],
+      "sizes": [
+        [
+          1588,
+          942
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ],
+        [
+          1560,
+          2214
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          12,
+          16,
+          1572,
+          2230
+        ]
+      },
+      "title_en": "Nashigasaka Natural Water",
+      "subtitle_en": "Rainwater Tank (Rain Stock)",
+      "summary_en": "It's the end of September, and the rain at Onehira Housing Complex won't stop. Tetsu's top-floor room is full of buckets, and repairs have a waiting list. \"Rain falls for free. It's a product!!\" Even better, he has a hundred of the city's prototype rain filter bottles, meant for disasters, stored in his room. \"This could work...\" Tetsu runs rain through them and starts selling it as \"Onehira Natural Water\"...",
+      "explain": {
+        "points": [
+          "雨水タンクにためた雨水は、そのままでは飲めません（屋根のほこりや大気の汚れが混じります）。庭木の水やり、打ち水、掃除などに使います。自治体の助成でも、使い道は散水などに限られている例があります。",
+          "雨水をためると、大雨のときに下水や川へ一度に流れ込む水が減り、浸水を防ぐ助けになります（「まちに小さなダムをつくる」）。ためた水をふたなしで置くと、ボウフラ（蚊の幼虫）がわきます。",
+          "水を容器に詰めて飲み物として売るには、保健所の営業許可（食品衛生法の「清涼飲料水製造業」）と、基準に合った施設が要ります。浄水器やろ過ボトルを通しても、売るなら同じです。",
+          "災害用の携帯浄水器（ろ過ボトル）は、水道が止まったときに雨水や川の水を飲めるようにするための備えです。ふだんの商売に使う物ではありません。",
+          "「ナチュラルウォーター（いわゆる天然水）」は、特定の水源から採った地下水を原水にした水です。空から受けた雨水のことではありません。",
+          "道路の雨水ますに落ち葉やごみがたまると、雨水が下水に流れ込めず、道にあふれます。表面の落ち葉を少し取るだけでも、水が流れ始めます。",
+          "2026年9月の東京都心は、9月の降水量が観測史上1位になり、連続降水日数も最長を更新しました。尾根平団地、5号棟、雨水ろ過ボトルの配布、尾根平の天然水の商売は、作中だけの架空の設定です。"
+        ],
+        "sources": [
+          {
+            "label": "tenki.jp「9月は関東で記録的な雨量　東京都心36日連続の降水　異例の秋の長雨　秋晴れは?」（2026-10-01）",
+            "url": "https://tenki.jp/forecaster/t_yoshida/2026/10/01/40814.html"
+          },
+          {
+            "label": "tenki.jp「史上初　東京都心は9月全ての日で降水　10月に入るとようやく晴天」（2026-09-30）",
+            "url": "https://tenki.jp/forecaster/m_kimura/2026/09/30/40799.html"
+          },
+          {
+            "label": "墨田区「雨水利用施設の設置助成」",
+            "url": "https://www.city.sumida.lg.jp/kurashi/kankyou_hozen/amamizu/zyoseikin/zyoseigaku_itiran.html"
+          },
+          {
+            "label": "大阪府「雨水利用 Q&A」",
+            "url": "https://www.pref.osaka.lg.jp/o120070/kankyohozen/amamizu/amamizu-qa.html"
+          },
+          {
+            "label": "千葉市「食品衛生法改正後の食品営業許可制度について」",
+            "url": "https://www.city.chiba.jp/hokenfukushi/iryoeisei/hokenjo/shokuhin/houkaiseieigyoukyoka.html"
+          }
+        ]
+      },
+      "pagesEn": true
     }
   ],
   "_oneshotsの説明": "作者の読み切り。話数の一覧・公開予定・ニコニコ/pixivの数・SEOの話の一覧には入れない。読む画面は yomikiri/<id>/（reader.js が episodes の次にここを探す）",

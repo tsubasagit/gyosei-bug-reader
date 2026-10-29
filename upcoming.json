@@ -1,27 +1,15 @@
 {
   "_説明": "再訪の仕掛けの設定。次回予告と、新しい話のお知らせ先（X）。日付は空でもよい（空なら「近日公開」と出す）。英語表示用の題名は title_en",
   "next": {
-    "number": 20,
-    "title": "梨ヶ坂の天然水",
-    "date": "2026-11-02"
+    "number": 21,
+    "title": "選手村は五階です",
+    "date": "2026-11-05"
   },
   "x": {
     "url": "https://x.com/tsubasatwi",
     "handle": "@tsubasatwi"
   },
   "schedule": [
-    {
-      "number": 20,
-      "title": "梨ヶ坂の天然水",
-      "subtitle": "雨水タンク（レイン・ストック）",
-      "date": "2026-11-02",
-      "genres": [
-        "町内会・団地",
-        "ごみ・環境",
-        "防災"
-      ],
-      "cover": "assets/upcoming/20.webp"
-    },
     {
       "number": 21,
       "title": "選手村は五階です",
@@ -43,6 +31,17 @@
         "市役所の働き方"
       ],
       "cover": "assets/upcoming/22.webp"
+    },
+    {
+      "number": 23,
+      "title": "課長のいない十日間",
+      "subtitle": "代決（プロキシ・スタンプ）",
+      "date": "2026-11-12",
+      "genres": [
+        "市役所の働き方",
+        "豪徳寺回"
+      ],
+      "cover": "assets/upcoming/23.webp"
     }
   ]
 }
