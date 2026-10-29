@@ -1,0 +1,1696 @@
+{
+  "episode": "19",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4598
+        ],
+        "2": [
+          0.6015,
+          0.4779,
+          0.9846,
+          0.7471
+        ],
+        "3": [
+          0.0154,
+          0.4779,
+          0.5887,
+          0.7471
+        ],
+        "4": [
+          0.5064,
+          0.7651,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.7651,
+          0.4936,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十月。梨ヶ坂市役所・地下。",
+          "en": "October. Nashigasaka City Hall, the basement."
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "アジア大会の閉会式、売れ行きが六割未満だそうです",
+          "en": "Ticket sales for the Asian Games closing ceremony are apparently under sixty percent"
+        },
+        {
+          "id": "p1-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ボランティアを、交流のために招待するそうです",
+          "en": "They're inviting volunteers, for \"exchange\""
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "タダで閉会式!? おれもボランティアやる!!",
+          "en": "A free closing ceremony!? I'll volunteer too!!"
+        },
+        {
+          "id": "p1-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "今からなれるわけないでしょ!!",
+          "en": "You can't become one now!!"
+        },
+        {
+          "id": "p1-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "テツさんは席を埋めてません。五つ、つぶしてます",
+          "en": "Tetsu doesn't fill seats. He's broken five"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "げっ!! 運動会の、前髪定規!!",
+          "en": "Ugh!! The Ruler Bangs from the sports day!!"
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "氷室よ。前髪は関係ないわ",
+          "en": "It's Himuro. My bangs have nothing to do with it"
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "くま、ありますね。角部屋ですか",
+          "en": "You've got dark circles. Corner room?"
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……市長が、毎時間のぞきに来るのよ",
+          "en": "...The mayor peeks in every hour"
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "明日の市制記念式典。二階席三百、地下で埋めてちょうだい",
+          "en": "Tomorrow's city anniversary ceremony. Fill the 300 second-floor seats with the basement"
+        },
+        {
+          "id": "p2-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "空席が写ったら、あなたたちの責任よ",
+          "en": "If empty seats show up in the photo, it's on you"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3419,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.329,
+          0.2322
+        ],
+        "4": [
+          0.0154,
+          0.2502,
+          0.9846,
+          0.7019
+        ],
+        "5": [
+          0.4113,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.72,
+          0.3985,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "なんで地下が!!",
+          "en": "Why the basement!!"
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "一階の七百で手いっぱいなの。部長の判つきよ",
+          "en": "We're stretched with the 700 on the first floor. The director's seal is on it"
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "承知しました",
+          "en": "Understood"
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "課長ォ!?",
+          "en": "Chief!?"
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "運動会は、まぐれ。あなたたちは、椅子五つが限界ね",
+          "en": "The sports day was a fluke. Five chairs is your limit"
+        },
+        {
+          "id": "p3-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "勝負だ、前髪定規!!",
+          "en": "You're on, Ruler Bangs!!"
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "負けたほうが、相手の課の前で",
+          "en": "The loser stands in front of the other's section"
+        },
+        {
+          "id": "p3-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "『満員御礼』の垂れ幕を持って立つ",
+          "en": "holding a \"Full House\" banner",
+          "note": "Man'in onrei (\"thank you for the full house\") is the banner hung out when every seat is sold, as at sumo tournaments. Here, the loser has to hold it up as a joke."
+        },
+        {
+          "id": "p3-5-3",
+          "panel": 5,
+          "type": "speech",
+          "ja": "開会は、明日の十時よ",
+          "en": "The ceremony starts tomorrow at ten"
+        },
+        {
+          "id": "p3-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "明日ァ!?",
+          "en": "Tomorrow!?"
+        },
+        {
+          "id": "p3-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "明日ですね",
+          "en": "Tomorrow, yes"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.4113,
+          0.2981,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.4113,
+          0.7191,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.3985,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "申し込み、二階席ぶんはゼロです",
+          "en": "Sign-ups for the second-floor seats: zero"
+        },
+        {
+          "id": "p4-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "案内は、広報紙の隅に三行",
+          "en": "The notice was three lines in a corner of the city newsletter"
+        },
+        {
+          "id": "p4-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "土曜の朝十時。あいさつが七人……",
+          "en": "Saturday, ten a.m. Seven speakers..."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "むにゃ……あいさつのほうが、客より多いじゃねえか……",
+          "en": "Mumble... more speakers than audience..."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "どこも留守電!! なんで誰も来ないのよ!?",
+          "en": "Voicemail everywhere!! Why won't anyone come!?"
+        },
+        {
+          "id": "p4-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "市民には、式典に来る理由がありません",
+          "en": "Citizens have no reason to attend a ceremony"
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "5階の若いの。盆踊りの練習、見に来てね",
+          "en": "Kid from the fifth floor. Come see our Bon dance practice",
+          "note": "Bon odori is the traditional summer folk dance, held around a raised stage. The seniors' club has been practicing but has no audience."
+        },
+        {
+          "id": "p4-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "見せる人が、いないのよ",
+          "en": "We've got no one to show it to"
+        },
+        {
+          "id": "p4-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "むにゃ……踊りなんか見に行かねえ……パス",
+          "en": "Mumble... I'm not watching dancing... pass"
+        },
+        {
+          "id": "p4-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "はい、部長。一階は必ず……",
+          "en": "Yes, Director. The first floor will definitely be..."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.7471
+        ],
+        "4": [
+          0.5064,
+          0.7651,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.7651,
+          0.4936,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "どうやって埋めるのよ!!",
+          "en": "How are we supposed to fill them!!"
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "『二階席三百を、当日までに埋めること』……",
+          "en": "\"Fill the 300 second-floor seats by the day of\"..."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "埋めろ、としか書いてねえ!!",
+          "en": "It just says fill!!"
+        },
+        {
+          "id": "p5-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "人で、とは書いてねえ!!",
+          "en": "It doesn't say with people!!"
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……そうかしら。氷室が、垂れ幕……",
+          "en": "...Is that so? Himuro, holding the banner..."
+        },
+        {
+          "id": "p5-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "一席十円なら、乗ります。テツさん持ちで",
+          "en": "Ten yen a seat, and I'm in. Tetsu pays"
+        },
+        {
+          "id": "p5-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "準備？ いらねえ。現場で寝る",
+          "en": "Prep? Don't need it. I'll sleep at the venue"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.4871,
+          0.4833,
+          0.9846,
+          0.7164
+        ],
+        "4": [
+          0.0154,
+          0.4833,
+          0.4743,
+          0.9675
+        ],
+        "3": [
+          0.4871,
+          0.7344,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "本当に現場で寝てる!!",
+          "en": "He really is sleeping at the venue!!"
+        },
+        {
+          "id": "p6-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "土曜。朝七時。梨ヶ坂市民会館。",
+          "en": "Saturday. 7 a.m. Nashigasaka Civic Hall."
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "まずは、市長三十人!!",
+          "en": "First up, thirty mayors!!"
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "倉庫の鍵、どうしたの!?",
+          "en": "How did you get the storeroom key!?"
+        },
+        {
+          "id": "p6-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "守衛のじいさん、顔パス",
+          "en": "The old guard knows my face"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "市長が三十人で、市長を見ます",
+          "en": "Thirty mayors, watching the mayor"
+        },
+        {
+          "id": "p6-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "残り、二百七十",
+          "en": "270 left"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.5064,
+          0.4806,
+          0.9846,
+          0.9846
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.4936,
+          0.9846
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "閉店セールの残りだよ。持ってきな",
+          "en": "Leftovers from our closing sale. Take 'em"
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "服!! まず服を着せて!!",
+          "en": "Clothes!! Put clothes on them first!!"
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ひっ",
+          "en": "Eek"
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "残り、二百五十。首は数えません",
+          "en": "250 left. Heads don't count"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5257,
+          0.4833,
+          0.9846,
+          0.9675
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.5129,
+          0.7164
+        ],
+        "4": [
+          0.0154,
+          0.7344,
+          0.5129,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "カラスが来るから、昼までに返せよ",
+          "en": "Crows will come, so return them by noon"
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "昼？ よゆー!!",
+          "en": "Noon? Easy!!"
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "あ、おはようございます……",
+          "en": "Oh, good morning..."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "カラスは、一席に入りますか",
+          "en": "Does a crow count as a seat?"
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "入る!!",
+          "en": "It does!!"
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "入らない!!",
+          "en": "It doesn't!!"
+        },
+        {
+          "id": "p8-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "残り、二百",
+          "en": "200 left"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "分身の術!! おれが、百人だ!!",
+          "en": "Clone jutsu!! A hundred of me!!"
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "僕も一席。お面代は、別で",
+          "en": "I'm a seat too. Mask fee extra"
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "気持ち悪い!! 全部テツ!!",
+          "en": "Creepy!! All Tetsu!!"
+        },
+        {
+          "id": "p9-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "残り、百",
+          "en": "100 left"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.347,
+          0.2981,
+          0.9846,
+          0.9702
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.3342,
+          0.6251
+        ],
+        "5": [
+          0.0154,
+          0.6432,
+          0.3342,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "六百九十八、六百九十九……",
+          "en": "Six hundred ninety-eight, six ninety-nine..."
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "な、何よ、あれ!!",
+          "en": "W-what is that!!"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "人で、とは書いてねえ!!",
+          "en": "It doesn't say with people!!"
+        },
+        {
+          "id": "p10-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……書いて、ないわね",
+          "en": "...It doesn't, does it"
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "そっちだって寝てる!!",
+          "en": "Yours are asleep too!!"
+        },
+        {
+          "id": "p10-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "寝てても、人よ!!",
+          "en": "Asleep or not, they're people!!"
+        },
+        {
+          "id": "p10-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "写真は十時。一つでも空席が写ったら、負けよ",
+          "en": "The photo's at ten. One empty seat in it and you lose"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.4113,
+          0.2981,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.6697,
+          0.7191,
+          0.9846,
+          0.9404
+        ],
+        "6": [
+          0.3419,
+          0.7191,
+          0.6568,
+          0.9404
+        ],
+        "7": [
+          0.0154,
+          0.7191,
+          0.329,
+          0.9404
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "見せる人がいないのよ",
+          "en": "We've got no one to show it to"
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "タキさん!! 見せる場所、あるぞ!!",
+          "en": "Taki!! We've got a place to show it!!"
+        },
+        {
+          "id": "p11-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "今すぐ、市民会館!!",
+          "en": "Civic Hall, right now!!"
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "あら、5階の若いの",
+          "en": "Oh, the kid from the fifth floor"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "紅白まんじゅうも出る!!",
+          "en": "Red-and-white buns too!!"
+        },
+        {
+          "id": "p11-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "それは来賓用!!",
+          "en": "Those are for the guests!!"
+        },
+        {
+          "id": "p11-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "みんな、買い物バス回して!!",
+          "en": "Everyone, run the shopping bus!!"
+        },
+        {
+          "id": "p11-7-1",
+          "panel": 7,
+          "type": "speech",
+          "ja": "団地から市民会館、坂を下るだけです",
+          "en": "From the housing complex to Civic Hall, it's all downhill"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.4871,
+          0.0108,
+          0.9846,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.4743,
+          0.495
+        ],
+        "2": [
+          0.4871,
+          0.262,
+          0.9846,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "式典なんて、何十年ぶりかしら",
+          "en": "A ceremony. First in decades"
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "誘われたのが、うれしいのよ",
+          "en": "I'm just happy to be invited"
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "満員御礼だァ!!",
+          "en": "Full house!!"
+        },
+        {
+          "id": "p12-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "満員よ!!",
+          "en": "It's full!!"
+        },
+        {
+          "id": "p12-4-3",
+          "panel": 4,
+          "type": "caption",
+          "ja": "九時五十九分。",
+          "en": "9:59."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……やあ。私も、頑張ってるね",
+          "en": "...Well. I'm doing my best too, aren't I"
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "七人目。十八分です",
+          "en": "Seventh speaker. Eighteen minutes"
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ありがたいお話ねえ",
+          "en": "What a lovely talk"
+        },
+        {
+          "id": "p13-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "寝るな……!!",
+          "en": "Don't sleep...!!"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4113,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.3985,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "これ、練習したやつ!!",
+          "en": "This is the one we practiced!!"
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "お嬢さんも、ほら",
+          "en": "You too, young lady, come on"
+        },
+        {
+          "id": "p14-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "わ、私は……",
+          "en": "M-me..."
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "やあ、来年はこの方たちに頼もうかな",
+          "en": "Hmm, maybe I'll ask these folks next year"
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "まんじゅう、一人一個!!",
+          "en": "Buns, one per person!!"
+        },
+        {
+          "id": "p14-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "次第にない!!",
+          "en": "It's not in the program!!"
+        },
+        {
+          "id": "p14-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "式典が、盆踊り大会になりました",
+          "en": "The ceremony has become a Bon dance festival"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.347,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3342,
+          0.3379
+        ],
+        "3": [
+          0.0154,
+          0.3559,
+          0.3342,
+          0.6829
+        ],
+        "4": [
+          0.4113,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0154,
+          0.701,
+          0.3985,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "『#客席の半分が案山子』。トレンド一位です",
+          "en": "\"#HalfTheAudienceWasScarecrows\". Trending number one"
+        },
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "昼までって言ったろうが!!",
+          "en": "I said by noon!!"
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "首が一つ、足りないよ",
+          "en": "One head is missing"
+        },
+        {
+          "id": "p15-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "勝ったのに!?",
+          "en": "But I won!?"
+        },
+        {
+          "id": "p15-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "歩合は三百席で三千円です。案山子のぶんも",
+          "en": "Commission is 3,000 yen for 300 seats. Scarecrows included"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.4137
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.4137
+        ],
+        "3": [
+          0.4113,
+          0.4318,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.4318,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.4113,
+          0.7191,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.3985,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "一階は、寝てる職員。二階は、案山子",
+          "en": "First floor: sleeping staff. Second floor: scarecrows"
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……どっちも、空席だったのよ",
+          "en": "...Both were empty seats"
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "じゃあ引き分けか!?",
+          "en": "So it's a draw!?"
+        },
+        {
+          "id": "p16-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "どっちも負けよ",
+          "en": "We both lose"
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "数だけ埋めたって、満員じゃない!!",
+          "en": "Filling the numbers doesn't make it full!!"
+        },
+        {
+          "id": "p16-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "招待は、市民に開かれた形で",
+          "en": "Invitations should be open to citizens"
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "来た人に、来た理由がある会にしないと",
+          "en": "It has to be an event where people have a reason to come"
+        },
+        {
+          "id": "p16-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "閉会式の招待にも、『交流』って理由がありました",
+          "en": "The closing ceremony invitation had a reason too: \"exchange\""
+        },
+        {
+          "id": "p16-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "理由ならあった!! まんじゅう!!",
+          "en": "We had a reason!! Buns!!"
+        },
+        {
+          "id": "p16-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "それはウソ!!",
+          "en": "That's a lie!!"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.6697,
+          0.2981,
+          0.9846,
+          0.5194
+        ],
+        "4": [
+          0.3419,
+          0.2981,
+          0.6568,
+          0.5194
+        ],
+        "5": [
+          0.0154,
+          0.2981,
+          0.329,
+          0.5194
+        ],
+        "6": [
+          0.0154,
+          0.5375,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "部長は、地下の責任だと",
+          "en": "The director says the basement is responsible"
+        },
+        {
+          "id": "p17-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "承知しました。部長には、私が参ります",
+          "en": "Understood. I'll go see the director myself"
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "か、課長、あれは勝負で……",
+          "en": "C-Chief, that was a contest..."
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "数は、ちゃんと……",
+          "en": "The numbers were right..."
+        },
+        {
+          "id": "p17-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ま……",
+          "en": "Ch..."
+        },
+        {
+          "id": "p17-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "枝は、多いほど立派に見えますね",
+          "en": "The more branches, the more magnificent it looks"
+        },
+        {
+          "id": "p17-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……ですが、数ではないのです",
+          "en": "...But it is not about numbers"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.6697,
+          0.4806,
+          0.9846,
+          0.7019
+        ],
+        "3": [
+          0.3419,
+          0.4806,
+          0.6568,
+          0.7019
+        ],
+        "4": [
+          0.0154,
+          0.4806,
+          0.329,
+          0.7019
+        ],
+        "5": [
+          0.4113,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.72,
+          0.3985,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "人を、数で数えてはいけません",
+          "en": "People must not be counted by number"
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "お借りしたものは、今日中にお返ししましょう",
+          "en": "Let us return what we borrowed by today"
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "おまんじゅうの代金は、源田さんのお財布から",
+          "en": "The bun money will come out of Mr. Genda's wallet"
+        },
+        {
+          "id": "p18-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "案山子さんの留守に、梨がつつかれたそうですね",
+          "en": "I hear the pears got pecked while the scarecrows were away"
+        },
+        {
+          "id": "p18-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "収穫が終わるまで、代わりに立っていただきましょう",
+          "en": "Until the harvest is over, please stand in for them"
+        },
+        {
+          "id": "p18-5-3",
+          "panel": 5,
+          "type": "speech",
+          "ja": "おれが、案山子ォ!?",
+          "en": "Me, a scarecrow!?"
+        },
+        {
+          "id": "p18-5-4",
+          "panel": 5,
+          "type": "speech",
+          "ja": "源田さんに",
+          "en": "Yes, Mr. Genda"
+        },
+        {
+          "id": "p18-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "垂れ幕も、お忘れなく",
+          "en": "And don't forget the banner"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.347,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3342,
+          0.3379
+        ],
+        "3": [
+          0.0154,
+          0.3559,
+          0.3342,
+          0.6829
+        ],
+        "4": [
+          0.4113,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0154,
+          0.701,
+          0.3985,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "動くな、案山子",
+          "en": "Don't move, scarecrow"
+        },
+        {
+          "id": "p19-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……カラスが寄らねえ。才能あるな",
+          "en": "...Crows won't come near. You've got talent"
+        },
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "差し入れです。一個百円",
+          "en": "Care package. A hundred yen each"
+        },
+        {
+          "id": "p19-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "金取るのかよ!!",
+          "en": "You're charging!!"
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "5階の若いの、ありがとうね",
+          "en": "Thank you, kid from the fifth floor"
+        },
+        {
+          "id": "p19-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "久しぶりに、よそ行きを着たわ",
+          "en": "First time in ages I wore my good clothes"
+        },
+        {
+          "id": "p19-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "来年も行きたいわね。今度は、おまんじゅうなしで",
+          "en": "I'd like to go next year too. Without the buns this time"
+        },
+        {
+          "id": "p19-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……おれは、勝ちたかっただけだ",
+          "en": "...I just wanted to win"
+        },
+        {
+          "id": "p19-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "来た理由、できたじゃない",
+          "en": "Now they have a reason to come, don't they"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.5064,
+          0.2981,
+          0.9846,
+          0.5221
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.4936,
+          0.5221
+        ],
+        "5": [
+          0.0154,
+          0.5402,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ここ、広くていいわね",
+          "en": "Nice and roomy here"
+        },
+        {
+          "id": "p20-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "なんでおれの周りで踊る!!",
+          "en": "Why are you dancing around me!!"
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ちょうどいい櫓なのよ",
+          "en": "You make a perfect yagura",
+          "note": "A yagura is the tall wooden stage-tower at the center of a Bon dance, with the drummer on top and dancers circling around it. Here, Tetsu the scarecrow stands in for it."
+        },
+        {
+          "id": "p20-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "来年の式典の第二部、すずらん会の盆踊りだそうです",
+          "en": "Next year's ceremony, Part Two: the Suzuran Club's Bon dance, apparently"
+        },
+        {
+          "id": "p20-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "櫓は、テツさんで",
+          "en": "Tetsu will be the yagura"
+        }
+      ]
+    }
+  ]
+}

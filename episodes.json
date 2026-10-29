@@ -2727,6 +2727,9 @@
       "title": "満員御礼",
       "subtitle": "招待席（エンプティ・シート）",
       "summary": "十月の梨ヶ坂。本庁の氷室サエコが、明日の市制記念式典の二階席三百を地下に押し付けた。「空席が写ったら、あなたたちの責任よ」。勝負に燃えるテツは、通知を読み替える。「人で、とは書いてねえ!!」――パネル、マネキン、案山子、お面……暴走する席埋めの果てに、老人会の百人がやってくる。",
+      "title_en": "Full House",
+      "subtitle_en": "Invitation Seats (Empty Seats)",
+      "summary_en": "October in Nashigasaka. Saeko Himuro from the main building dumps 300 second-floor seats for tomorrow's city anniversary ceremony on the basement section. \"If empty seats show up in the photo, it's on you.\" Fired up, Tetsu rereads the notice: \"It doesn't say with people!!\" Panels, mannequins, scarecrows, masks... after a runaway seat-filling spree, a hundred seniors turn up.",
       "published": "2026-10-29",
       "tags": [
         "市制記念式典",
@@ -2854,7 +2857,8 @@
           1572,
           2230
         ]
-      }
+      },
+      "pagesEn": true
     }
   ]
 }
