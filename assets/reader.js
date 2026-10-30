@@ -567,11 +567,14 @@
       const res = await fetch(BASE + 'episodes.json', { cache: 'no-cache' });
       if (!res.ok) throw new Error(res.status);
       const data = await res.json();
-      state.ep = data.episodes.find(e => e.id === EP_ID);
+      // 作者の読み切り（episodes.json の oneshots）は話数がなく、絵は yomikiri/<id>/ に置く。次の話へは出さない
+      const oneshot = (data.oneshots || []).find(e => e.id === EP_ID);
+      state.ep = data.episodes.find(e => e.id === EP_ID) || oneshot;
       if (!state.ep || !state.ep.pages.length) throw new Error('episode');
+      const dir = oneshot ? oneshot.dir : `ep/${EP_ID}`;
       // 英語で読むとき、吹き出しを英語にしたページ（pages-en）があれば本編はそちらを出す。扉絵は日本語版のまま
       const lettered = window.I18N.isEn && state.ep.pagesEn;
-      state.pages = state.ep.pages.map((f, i) => `${BASE}ep/${EP_ID}/${lettered && !(state.ep.hasCover && i === 0) ? 'pages-en' : 'pages'}/${f}`);
+      state.pages = state.ep.pages.map((f, i) => `${BASE}${dir}/${lettered && !(state.ep.hasCover && i === 0) ? 'pages-en' : 'pages'}/${f}`);
       state.mode = storage.get(MODE_KEY) === 'spread' ? 'spread' : 'auto';
 
       const epTitle = F(state.ep, 'title');
@@ -582,7 +585,7 @@
       const shareText = T.shareText(state.ep.number, epTitle);
       $('share-x').href = `https://x.com/intent/post?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(location.href.split('#')[0])}`;
       // 次に公開されている話があれば、「おわり」のいちばん上に「次の話へ」を出す（感想ボタンは控えめに）
-      const nextEp = data.episodes.filter(e => e.pages && e.pages.length && e.number > state.ep.number).sort((a, b) => a.number - b.number)[0];
+      const nextEp = !oneshot && data.episodes.filter(e => e.pages && e.pages.length && e.number > state.ep.number).sort((a, b) => a.number - b.number)[0];
       if (nextEp) {
         const a = document.createElement('a');
         a.className = 'btn btn-primary';
@@ -612,7 +615,7 @@
         a.append(label, title, note);
         $('end').querySelector('.end-actions').after(a);
       }
-      document.title = T.docTitle(state.ep.number, epTitle, F(data.series, 'title'));
+      if (!oneshot) document.title = T.docTitle(state.ep.number, epTitle, F(data.series, 'title'));
       await loadScript();
       ensureCoverNote();
 

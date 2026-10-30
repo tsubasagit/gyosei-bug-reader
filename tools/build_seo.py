@@ -202,6 +202,8 @@ def build():
     latest = max((e['published'] for e in eps), default='')
     pairs = [(SITE, f'{SITE}en/', latest)] + [
         (f"{SITE}ep/{e['id']}/", f"{SITE}en/ep/{e['id']}/" if e['id'] in en_ids else None, e['published']) for e in eps]
+    # 作者の読み切り（oneshots）。日本語だけ
+    pairs += [(f"{SITE}{o['dir']}/", None, o['published']) for o in data.get('oneshots', []) if o.get('pages')]
     body = ''
     for ja, en, d in pairs:
         alt = (f'    <xhtml:link rel="alternate" hreflang="ja" href="{ja}"/>\n'

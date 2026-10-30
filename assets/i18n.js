@@ -166,10 +166,10 @@
       thumbAlt: (n, title) => `第${n}話「${title}」の扉絵`,
       langTag: hasEn => (hasEn ? '英語版あり' : ''),
 
-      readerTitle: (n, title) => `第${n}話　${title}`,
+      readerTitle: (n, title) => (n ? `第${n}話　${title}` : title),   // 話数のない読み切り（oneshots）は題名だけ
       docTitle: (n, title, series) => `第${n}話「${title}」｜${series}`,
       coverLabel: () => '扉',
-      pageAlt: (n, title, label) => `第${n}話「${title}」 ${label}`,
+      pageAlt: (n, title, label) => `${n ? `第${n}話` : '読み切り'}「${title}」 ${label}`,
       coverAltPart: () => '扉絵',
       pageAltPart: label => `${label}ページ`,
       counter: (label, total) => `${label} / ${total}`,
@@ -178,9 +178,9 @@
       hintNarrow: () => '右へフリック・画面の左をタップで次のページ。真ん中をタップでメニュー',
       hintFlow: () => 'スクロールで読み進めます。← で次のページ、→ で前のページ',
       hintSpread: () => '← で次のページ、→ で前のページ。画面の左クリックでも次へ',
-      shareText: (n, title) => `『行政バグります！』第${n}話「${title}」を読んだ #行政バグります`,
+      shareText: (n, title) => (n ? `『行政バグります！』第${n}話「${title}」を読んだ #行政バグります` : `読み切り『${title}』を読んだ`),
       nextEp: (n, title) => `次の話へ：第${n}話「${title}」`,
-      endSub: (n, title) => `第${n}話「${title}」`,
+      endSub: (n, title) => (n ? `第${n}話「${title}」` : `読み切り「${title}」`),
       readMoreLabel: () => 'もっと深く知りたい人へ',
       readMoreNote: () => '解説記事を読む（別のページが開きます）',
       comingSoon: () => '近日公開',
@@ -221,10 +221,10 @@
       thumbAlt: (n, title) => `Title page of Ep. ${n} “${title}”`,
       langTag: hasEn => (hasEn ? '' : 'Japanese only'),
 
-      readerTitle: (n, title) => `Ep. ${n}  ${title}`,
+      readerTitle: (n, title) => (n ? `Ep. ${n}  ${title}` : title),
       docTitle: (n, title, series) => `Ep. ${n} “${title}” | ${series}`,
       coverLabel: () => 'Title',
-      pageAlt: (n, title, label) => `Ep. ${n} “${title}” ${label}`,
+      pageAlt: (n, title, label) => `${n ? `Ep. ${n}` : 'One-shot'} “${title}” ${label}`,
       coverAltPart: () => 'title page',
       pageAltPart: label => `page ${label}`,
       counter: (label, total) => `${label} / ${total}`,
@@ -233,9 +233,9 @@
       hintNarrow: () => 'Swipe right or tap the left side for the next page. Tap the middle for this menu.',
       hintFlow: () => 'Scroll to read. ← for the next page, → to go back.',
       hintSpread: () => '← for the next page, → to go back. Clicking the left side also goes forward.',
-      shareText: (n, title) => `Read “City Hall Bug!” Ep. ${n}: ${title}`,
+      shareText: (n, title) => (n ? `Read “City Hall Bug!” Ep. ${n}: ${title}` : `Read the one-shot “${title}”`),
       nextEp: (n, title) => `Next chapter: Ep. ${n} “${title}”`,
-      endSub: (n, title) => `Ep. ${n} “${title}”`,
+      endSub: (n, title) => (n ? `Ep. ${n} “${title}”` : `One-shot “${title}”`),
       readMoreLabel: () => 'Want to go deeper?',
       readMoreNote: () => 'Read the explainer (opens in a new page)',
       comingSoon: () => 'Coming soon',
@@ -315,5 +315,5 @@
 
   document.documentElement.lang = lang;
   apply();
-  mountSwitch();
+  if (!('oneLang' in html.dataset)) mountSwitch();   // 日本語だけのページ（作者の読み切り）は切り替えを出さない
 })();

@@ -215,6 +215,9 @@ def build_top(series, eps, EN):
     desc = series['description_en'] + ' Read it free in English on the web.'
     set_meta(soup, f'{stitle} — {sub} | Free English gag manga', desc, f'{SITE}en/')
     apply_strings(soup, EN)
+    oneshots = soup.find(id='oneshots')   # 作者の読み切りは日本語だけ
+    if oneshots:
+        oneshots.decompose()
     rewrite_urls(soup, lambda v: '../' + v if v.startswith('assets/') or v == 'feed.xml' else v)
 
     # 話の一覧を最初から書いておく（top.js が読み込んだら同じものに描き直す）

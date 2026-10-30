@@ -280,4 +280,8 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://tsubasagit.github.io/gyosei-bug-reader/en/ep/19/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tsubasagit.github.io/gyosei-bug-reader/ep/19/"/>
   </url>
+  <url>
+    <loc>https://tsubasagit.github.io/gyosei-bug-reader/yomikiri/tokei/</loc>
+    <lastmod>2026-10-30</lastmod>
+  </url>
 </urlset>
