@@ -3051,6 +3051,180 @@
         "niconico": "https://manga.nicovideo.jp/watch/mg1172710",
         "pixiv": "https://www.pixiv.net/artworks/151595756"
       }
+    },
+    {
+      "id": "21",
+      "number": 21,
+      "title": "選手村は五階です",
+      "subtitle": "宿泊のきまり（ノー・ビレッジ）",
+      "summary": "九月。アジア大会前の合宿で梨ヶ坂に来たカバディ代表十二人が、宿の手違いで今夜泊まる所を失った。「空いてる部屋なら、うちの団地に山ほどある!!」テツは選手を連れて、エレベーターのない尾根平団地を上り始める――。",
+      "published": "2026-11-05",
+      "tags": [
+        "旅館業法",
+        "民泊",
+        "住宅宿泊事業法",
+        "宿泊料",
+        "カバディ",
+        "団地",
+        "合宿",
+        "又貸し"
+      ],
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp",
+        "p20.webp"
+      ],
+      "sizes": [
+        [
+          1588,
+          942
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          16,
+          16,
+          1572,
+          2230
+        ]
+      },
+      "title_en": "The Athletes' Village Is on the Fifth Floor",
+      "subtitle_en": "Lodging Rules (No Village)",
+      "summary_en": "It's September. A twelve-man kabaddi national team, in Nashigasaka for a training camp before the Asian Games, has lost its lodging to a hotel mix-up. \"If you need empty rooms, my housing complex has heaps!!\" Tetsu leads the players up Onehira Housing Complex, which has no elevator...",
+      "explain": {
+        "points": [
+          "お金（宿泊料）を受け取って人を泊める「営業」には、旅館業法の許可が要ります（都道府県知事。保健所を置く市では市長）。",
+          "宿泊料は名前を問いません。布団代・光熱水道費・掃除代などの名目で受け取っても、宿泊料に当たります。",
+          "宿泊料を受け取らずに泊めるのは、旅館業に当たりません。知人・友人を無料で泊めるのに、許可は要りません。",
+          "住宅に泊める「民泊」は、住宅宿泊事業法の届出をすれば、年180日まで営業できます。借りている部屋で行うときは、貸主が又貸し（転貸）を承諾したことを示す書類が、届出に要ります。",
+          "公社の賃貸住宅の部屋を、お金を取って他人に貸す（又貸しする）ことは、契約で禁じられています。作中では「梨ヶ坂住宅公社」の契約として描いています。",
+          "「梨ヶ坂市 来訪者緊急受け入れ要綱」は、作中だけの架空の決まりです（泊まる所を失った来訪者に、市の施設を宿泊料なしで緊急に開ける）。宿泊料を取らずに開けるので、旅館業には当たりません。",
+          "2026年の愛知・名古屋アジア大会は、選手村を作らず、選手はクルーズ船・コンテナ型の宿泊施設・ホテルに分かれて泊まりました。カバディは9月21日から26日に、愛知県東海市の東海市民体育館で行われました。尾根平団地、梨ヶ坂住宅公社、カバディ代表チーム、「尾根平選手村」の商売は、作中だけの架空の設定です。"
+        ],
+        "sources": [
+          {
+            "label": "厚生労働省「民泊サービスと旅館業法に関するＱ＆Ａ」",
+            "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000111008.html"
+          },
+          {
+            "label": "観光庁 民泊制度ポータルサイト「届出の際の添付書類」",
+            "url": "https://www.mlit.go.jp/kankocho/minpaku/business/host/procedure_doc.html"
+          },
+          {
+            "label": "東スポWEB「【アジア大会】選手・関係者が明かした宿泊施設の〝実態〟 コンテナは「きれい」クルーズ船は「ずっと脳震とう」」（2026-09-24）",
+            "url": "https://www.tokyo-sports.co.jp/articles/-/404203"
+          },
+          {
+            "label": "Wikipedia「Kabaddi at the 2026 Asian Games」",
+            "url": "https://en.wikipedia.org/wiki/Kabaddi_at_the_2026_Asian_Games"
+          }
+        ]
+      },
+      "pagesEn": true,
+      "genres": [
+        "スポーツ",
+        "町内会・団地"
+      ]
     }
   ],
   "_oneshotsの説明": "作者の読み切り。話数の一覧・公開予定・ニコニコ/pixivの数・SEOの話の一覧には入れない。読む画面は yomikiri/<id>/（reader.js が episodes の次にここを探す）",

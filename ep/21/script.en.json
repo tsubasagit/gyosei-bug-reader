@@ -1,0 +1,1588 @@
+{
+  "episode": "21",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4598
+        ],
+        "2": [
+          0.5064,
+          0.4779,
+          0.9846,
+          0.7019
+        ],
+        "3": [
+          0.0154,
+          0.4779,
+          0.4936,
+          0.7019
+        ],
+        "4": [
+          0.4113,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.72,
+          0.3985,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "九月。梨ヶ坂市・尾根平団地。",
+          "en": "September. Onehira Housing Complex, Nashigasaka."
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "5階の若いの、また遅刻か",
+          "en": "The kid from the fifth floor, late again?"
+        },
+        {
+          "id": "p1-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "五階は家賃が安い。それだけで選んだ",
+          "en": "Fifth-floor rent is cheap. That's the only reason I picked it."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "空き部屋の、活用……？",
+          "en": "\"Make use of vacant rooms\"...?"
+        },
+        {
+          "id": "p1-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "空き部屋より、おれの財布を活用してくれ!!",
+          "en": "Forget the vacant rooms, make use of my wallet!!"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.5064,
+          0.0108,
+          0.9846,
+          0.2349
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4936,
+          0.2349
+        ],
+        "3": [
+          0.4113,
+          0.2529,
+          0.9846,
+          0.5221
+        ],
+        "4": [
+          0.0154,
+          0.2529,
+          0.3985,
+          0.5221
+        ],
+        "5": [
+          0.0154,
+          0.5402,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "選手村はつくらず、選手は船とコンテナに……",
+          "en": "No athletes' village will be built. Athletes will stay on ships and in containers..."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "選手村を作らずに、船やホテルで泊める大会なのよ",
+          "en": "It's a Games with no athletes' village. They put everyone up on ships and in hotels instead."
+        },
+        {
+          "id": "p2-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "六百億円、浮いたそうです",
+          "en": "Apparently that saved sixty billion yen."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "船？ おれの団地なら空き部屋だらけだぞ",
+          "en": "Ships? My housing complex is full of empty rooms."
+        },
+        {
+          "id": "p2-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "テツの団地じゃないでしょ!!",
+          "en": "It's not your housing complex!!"
+        },
+        {
+          "id": "p2-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ここが……何でもやる係、ですか!?",
+          "en": "This is... the department that does anything?!"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.4192
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.4192
+        ],
+        "3": [
+          0.6015,
+          0.4372,
+          0.9846,
+          0.7037
+        ],
+        "4": [
+          0.0154,
+          0.4372,
+          0.5887,
+          0.7037
+        ],
+        "5": [
+          0.4113,
+          0.7218,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7218,
+          0.3985,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "カバディの代表チームの、通訳です",
+          "en": "I'm the interpreter for the kabaddi national team."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ホテルが二重予約で、今夜から泊まれません",
+          "en": "Our hotel double-booked us, and we can't stay there from tonight."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "窓口では『合宿の担当は出払っています』と……",
+          "en": "At the counter, they said, \"The camp liaison is out.\"..."
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "半径三十キロ、空室ゼロです",
+          "en": "Zero vacancies within thirty kilometers."
+        },
+        {
+          "id": "p3-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "各国の合宿で、全部埋まってる……!!",
+          "en": "Every other country's training camp has filled everything...!!"
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "カバディって、あの……息止めるやつか",
+          "en": "Kabaddi? That thing where you hold your breath?"
+        },
+        {
+          "id": "p3-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "カバディ、カバディ、カバ……ぶはァ!!",
+          "en": "Kabaddi, kabaddi, kaba... pwaaah!!"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5064,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.4936,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "梨ヶ坂市民体育館。",
+          "en": "Nashigasaka Citizens' Gymnasium."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ユカ、ネル。ダイジョウブ",
+          "en": "Floor. Sleep. It's okay."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "『母さん、日本は全部ちゃんとしてる』",
+          "en": "\"Mom, everything in Japan is done properly.\""
+        },
+        {
+          "id": "p4-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……全然、ちゃんとしてないわよ",
+          "en": "...Nothing here is done properly."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3419,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.329,
+          0.2322
+        ],
+        "4": [
+          0.0154,
+          0.2502,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "体育館は、夜は閉館……",
+          "en": "The gym closes at night..."
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "公民館は、宿泊できない決まり……",
+          "en": "Community centers aren't allowed to host overnight stays..."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "緊急の要綱は、課長の決裁が要るの……",
+          "en": "The emergency guidelines need the Chief's sign-off...",
+          "note": "In this story, the city has an emergency rule for opening its facilities to visitors who have nowhere to stay. The rule is made up for the story."
+        },
+        {
+          "id": "p5-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "電源が入っていないか……",
+          "en": "Switched off, or..."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "肝心なときにィ!!",
+          "en": "Of all the times!!"
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "お金は、払います。いくらでも",
+          "en": "We will pay. Whatever it costs."
+        },
+        {
+          "id": "p5-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……いくらでも？",
+          "en": "...Whatever it costs?"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4598
+        ],
+        "2": [
+          0.5064,
+          0.4779,
+          0.9846,
+          0.7019
+        ],
+        "3": [
+          0.0154,
+          0.4779,
+          0.4936,
+          0.7019
+        ],
+        "4": [
+          0.6015,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.72,
+          0.5887,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "一泊三千円、十二人、十四泊……",
+          "en": "3,000 yen a night, twelve people, fourteen nights..."
+        },
+        {
+          "id": "p6-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "五十万四千円だァ!!",
+          "en": "That's 504,000 yen!!"
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "集金と領収書、一割で",
+          "en": "Collection and receipts. For ten percent."
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ちょっと、勝手に……",
+          "en": "Hey, you can't just decide that..."
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……代表チームを救った係……本庁の目に……",
+          "en": "...The unit that saved the national team... the head office will notice..."
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "うちの団地に来い!!",
+          "en": "Come stay at my housing complex!!"
+        },
+        {
+          "id": "p6-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "空いてる部屋なら、山ほどある",
+          "en": "Empty rooms? We've got heaps."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "夜七時。尾根平団地。",
+          "en": "Seven p.m. Onehira Housing Complex."
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "『空き部屋の活用に、ご協力を』……",
+          "en": "\"Please help make use of vacant rooms\"..."
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "公社が『協力しろ』だと!! 空き部屋は使っていい!!",
+          "en": "The Housing Corporation says \"cooperate\"!! So I'm allowed to use vacant rooms!!"
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おれの部屋にも空き部屋はある。物置だけどな",
+          "en": "I've got a vacant room, too. It's a storeroom, but still."
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "但し書き、『宿泊料』でいいですか",
+          "en": "On the receipt, for \"payment for,\" is \"lodging fee\" okay?"
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ホテルみてえで面倒くせえ。布団代と電気代だ",
+          "en": "Too hotel-ish. Too much hassle. Make it futon fee and electricity.",
+          "note": "Under the Hotel and Inn Business Act, a lodging fee counts as a lodging fee whatever it is called: bedding, utilities and cleaning charges are included."
+        },
+        {
+          "id": "p7-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……ホテルじゃないし、そうかしら",
+          "en": "...It's not a hotel, so maybe that works?"
+        },
+        {
+          "id": "p7-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "僕は九時に帰ります",
+          "en": "I'm going home at nine."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "エ……エレベーターは……？",
+          "en": "Where's the elevator...?"
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ねえよ!!",
+          "en": "There isn't one!!"
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "イイ カイダン。マイニチ、トレーニング",
+          "en": "Good stairs. Every day, training."
+        },
+        {
+          "id": "p8-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "五階はな、慣れだ",
+          "en": "The fifth floor is just a matter of getting used to it."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "テツ、アリガト",
+          "en": "Tetsu, thank you."
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……一人、三千円",
+          "en": "...Three thousand yen a head."
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……で、おれの寝床は？",
+          "en": "...So where do I sleep?"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3419,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.329,
+          0.2322
+        ],
+        "4": [
+          0.0154,
+          0.2502,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "モツ。ダイジョウブ",
+          "en": "Bag. Okay."
+        },
+        {
+          "id": "p9-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "翌朝。",
+          "en": "Morning."
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "体操、はじめ。いち、に",
+          "en": "Exercises, begin. One, two."
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "カバディ、カバディ、カバディ……",
+          "en": "Kabaddi, kabaddi, kabaddi..."
+        },
+        {
+          "id": "p9-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "なんだ、それは!?",
+          "en": "What on earth is that?!"
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "カバディ、カバディ……ぶはっ!!",
+          "en": "Kabaddi, kabaddi... pwah!!"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.5064,
+          0.0108,
+          0.9846,
+          0.2349
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4936,
+          0.2349
+        ],
+        "3": [
+          0.0154,
+          0.2529,
+          0.9846,
+          0.7019
+        ],
+        "4": [
+          0.4113,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.72,
+          0.3985,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "膝がね。この一年、下りてないのよ",
+          "en": "It's my knees. I haven't been downstairs in a year."
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "イッショ。ユックリ",
+          "en": "Together. Slowly."
+        },
+        {
+          "id": "p10-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "シズさん!? 一年ぶりじゃないの!!",
+          "en": "Shizu?! You're down here for the first time in a year!!"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……空って、広いのねえ",
+          "en": "...The sky is so wide."
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "息子もね、あんたくらいの時、走ってたのよ",
+          "en": "My son was a runner too, at your age, you know."
+        },
+        {
+          "id": "p10-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……泣いてねえ。客の満足度が上がっただけだ",
+          "en": "...I'm not crying. Customer satisfaction just went up."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "うちの息子の部屋、空いてるのよ",
+          "en": "My son's room is empty, you know."
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "うちも、うちも",
+          "en": "Ours too, ours too."
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……空き部屋は、団地じゅうにある",
+          "en": "...There are vacant rooms all over this complex."
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "お礼は千円、おれに二千円!!",
+          "en": "A thousand yen thank-you for them, two thousand for me!!"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "『但し、布団代・電気代として』",
+          "en": "\"Payment for: futon and electricity fees.\""
+        },
+        {
+          "id": "p11-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "お礼なんて、いいのよ……",
+          "en": "Oh, you needn't thank me..."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.7498
+        ],
+        "2": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "3": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "4": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ようこそ、尾根平選手村へ!! 村長のおれだ!!",
+          "en": "Welcome to Onehira Athletes' Village!! I'm the village chief!!"
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "一週間後。",
+          "en": "One week later."
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "味噌汁、おかわりあるよ",
+          "en": "There's more miso soup if you want some."
+        },
+        {
+          "id": "p12-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "オカワリ",
+          "en": "More, please."
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "課長には……解決してるし、いいわよね",
+          "en": "...It's all solved, so the Chief doesn't need to know, right?"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "練習相手のチームが、来られなくなって……",
+          "en": "The team we were going to practice against can't come..."
+        },
+        {
+          "id": "p13-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "おれが一点取ったら、宿泊代は倍だ!!",
+          "en": "If I score even one point, the lodging fee doubles!!"
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……主将は『いいよ』と",
+          "en": "...The captain says \"sure.\""
+        },
+        {
+          "id": "p13-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "倍なら、僕の一割も倍です",
+          "en": "If it's double, my ten percent doubles too."
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "カバディ、カバディ、カバディ……",
+          "en": "Kabaddi, kabaddi, kabaddi..."
+        },
+        {
+          "id": "p13-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "5階の若いの、行けェ!!",
+          "en": "Go, fifth-floor kid!!"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.7498
+        ],
+        "2": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "3": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "4": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "カ……バ……ディ……",
+          "en": "Ka... ba... di..."
+        },
+        {
+          "id": "p14-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "七人タッチ、七点です!!",
+          "en": "Seven touches. Seven points!!"
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "テツ、ツヨイ",
+          "en": "Tetsu, strong."
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "倍な",
+          "en": "Double."
+        },
+        {
+          "id": "p14-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……ハイ",
+          "en": "...Yes."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.7471
+        ],
+        "4": [
+          0.5064,
+          0.7651,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.7651,
+          0.4936,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お泊まりですか～、一泊三千円",
+          "en": "Staying over? 3,000 yen a night."
+        },
+        {
+          "id": "p15-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "梨ヶ坂住宅公社の、巡回の古賀です",
+          "en": "Koga, Nashigasaka Housing Corporation patrol."
+        },
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "公社の部屋を、お金を取って貸すのは又貸し",
+          "en": "Taking money to rent out a Corporation unit is subletting.",
+          "note": "Renting out a leased public-housing unit to someone else for money is subletting, and the lease usually forbids it. (Here, it is the lease with the fictional Nashigasaka Housing Corporation.)"
+        },
+        {
+          "id": "p15-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "契約で、禁止です",
+          "en": "The contract forbids it."
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "掲示に『活用にご協力を』って!!",
+          "en": "The notice said \"please help make use of them\"!!"
+        },
+        {
+          "id": "p15-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "空き部屋に住んでくださる方を",
+          "en": "It means: please introduce us to people"
+        },
+        {
+          "id": "p15-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "紹介してください、という意味です",
+          "en": "who would live in the vacant units."
+        },
+        {
+          "id": "p15-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……追い出されるの？",
+          "en": "...Are we going to be thrown out?"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4598
+        ],
+        "2": [
+          0.5064,
+          0.4779,
+          0.9846,
+          0.7019
+        ],
+        "3": [
+          0.0154,
+          0.4779,
+          0.4936,
+          0.7019
+        ],
+        "4": [
+          0.4113,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.72,
+          0.3985,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お金を取って泊める商売は、旅館業法の許可!!",
+          "en": "A business that takes money to put people up needs a permit under the Hotel and Inn Business Act!!",
+          "note": "Running a lodging business for a fee requires a permit from the prefectural governor (or the mayor of a city with a public health center) under the Hotel and Inn Business Act."
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "布団代でも電気代でも、宿泊料よ",
+          "en": "Futon fee, electricity fee, it's all a lodging fee."
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "民泊でも届出と、年180日の上限があるの",
+          "en": "Even minpaku needs a notification, and a cap of 180 days a year.",
+          "note": "Minpaku (home lodging) is run under the Private Lodging Business Act: file a notification, and operate up to 180 days a year. A tenant must also attach the landlord's written consent to subletting."
+        },
+        {
+          "id": "p16-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "貸主の承諾なしじゃ、住民さんが追い出されるのよ",
+          "en": "And without the landlord's consent, the residents get evicted!"
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "布団代は布団代だろォ!!",
+          "en": "A futon fee is a futon fee!!"
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "僕の一割、返します",
+          "en": "I'll return my ten percent."
+        },
+        {
+          "id": "p16-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "シズサン、ゴメンナサイ",
+          "en": "Shizu. Sorry."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5064,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.4936,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "『源田テツ』名義の、領収書だそうだ",
+          "en": "The receipts are in the name of \"Tetsu Genda,\" it seems."
+        },
+        {
+          "id": "p17-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――前の日。本庁の廊下。",
+          "en": "-- The day before. A hallway at the head office."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "皆さまは、梨ヶ坂市の正式なお客様です",
+          "en": "You are all official guests of Nashigasaka City."
+        },
+        {
+          "id": "p17-2-2",
+          "panel": 2,
+          "type": "caption",
+          "ja": "――そして今。尾根平団地。",
+          "en": "-- And now. Onehira Housing Complex."
+        },
+        {
+          "id": "p17-2-3",
+          "panel": 2,
+          "type": "speech",
+          "ja": "緊急受け入れ要綱で、地区センターを無料で開けます",
+          "en": "Under the emergency guidelines, we will open the district center free of charge.",
+          "note": "Letting guests stay without charging a lodging fee is not a lodging business, so no Hotel and Inn Business Act permit is needed. (The emergency guidelines themselves are made up for the story.)"
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "皆さまに責任はございません。責任は私にございます",
+          "en": "None of you is to blame. The responsibility is mine."
+        },
+        {
+          "id": "p17-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……おれの名前、出てない。セーフ",
+          "en": "...My name didn't come up. Safe."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.7019
+        ],
+        "2": [
+          0.4113,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "3": [
+          0.0154,
+          0.72,
+          0.3985,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "源田さん",
+          "en": "Mr. Genda."
+        },
+        {
+          "id": "p18-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "さ、さん付け……",
+          "en": "M-Mister..."
+        },
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "宿泊代は、倍のぶんまで全額お返しを",
+          "en": "Refund the lodging fees in full, including the doubled amount."
+        },
+        {
+          "id": "p18-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "皆さまへのお礼は、源田さんのお財布から",
+          "en": "The thank-you money for the residents will come out of Mr. Genda's own wallet."
+        },
+        {
+          "id": "p18-2-3",
+          "panel": 2,
+          "type": "speech",
+          "ja": "それと毎朝六時、練習台を。無償で",
+          "en": "And every morning at six, you will be their practice dummy. Unpaid."
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "おれの百万がァァ!!",
+          "en": "My million yen!!"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3419,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.329,
+          0.2322
+        ],
+        "4": [
+          0.0154,
+          0.2502,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "カバディ、カバディ……ぐえっ",
+          "en": "Kabaddi, kabaddi... guh!"
+        },
+        {
+          "id": "p19-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "今朝も、下りてきちゃった",
+          "en": "Down again this morning."
+        },
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "公社も、空き部屋を合宿の宿に",
+          "en": "The Corporation, too,"
+        },
+        {
+          "id": "p19-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "正式に貸す検討を始めました",
+          "en": "has started looking into officially renting vacant rooms as camp lodging."
+        },
+        {
+          "id": "p19-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "がんばれェ!!",
+          "en": "Hang in there!!"
+        },
+        {
+          "id": "p19-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "シズサン、マタネ",
+          "en": "Shizu. See you again."
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "『母さん、日本は全部ちゃんとしてた』",
+          "en": "\"Mom, everything in Japan was done properly.\""
+        },
+        {
+          "id": "p19-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "『五階は、遠いけど』……と",
+          "en": "\"...Even if the fifth floor is far,\" he says."
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3419,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.329,
+          0.2322
+        ],
+        "4": [
+          0.4113,
+          0.2502,
+          0.9846,
+          0.5194
+        ],
+        "5": [
+          0.0154,
+          0.2502,
+          0.3985,
+          0.5194
+        ],
+        "6": [
+          0.0154,
+          0.5375,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "オネダイラ!!",
+          "en": "ONEHIRA!!"
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "宣伝料、取れねえかな……",
+          "en": "Can't I charge an advertising fee...?"
+        },
+        {
+          "id": "p20-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "選手村？ 五階だよ",
+          "en": "Athletes' village? Fifth floor."
+        },
+        {
+          "id": "p20-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "礼金か!?",
+          "en": "A reward?!"
+        },
+        {
+          "id": "p20-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……エレベーターは、どちらに？",
+          "en": "...Where, may I ask, is the elevator?"
+        },
+        {
+          "id": "p20-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "ない",
+          "en": "There isn't one."
+        },
+        {
+          "id": "p20-6-3",
+          "panel": 6,
+          "type": "speech",
+          "ja": "感謝状より、宿泊代くれェ!!",
+          "en": "Forget the thank-you letter, give me the lodging fees!!"
+        }
+      ]
+    }
+  ]
+}

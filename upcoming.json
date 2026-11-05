@@ -1,26 +1,15 @@
 {
   "_説明": "再訪の仕掛けの設定。次回予告と、新しい話のお知らせ先（X）。日付は空でもよい（空なら「近日公開」と出す）。英語表示用の題名は title_en",
   "next": {
-    "number": 21,
-    "title": "選手村は五階です",
-    "date": "2026-11-05"
+    "number": 22,
+    "title": "庁舎から逃げろ",
+    "date": "2026-11-09"
   },
   "x": {
     "url": "https://x.com/tsubasatwi",
     "handle": "@tsubasatwi"
   },
   "schedule": [
-    {
-      "number": 21,
-      "title": "選手村は五階です",
-      "subtitle": "宿泊のきまり（ノー・ビレッジ）",
-      "date": "2026-11-05",
-      "genres": [
-        "スポーツ",
-        "町内会・団地"
-      ],
-      "cover": "assets/upcoming/21.webp"
-    },
     {
       "number": 22,
       "title": "庁舎から逃げろ",
@@ -34,14 +23,22 @@
     },
     {
       "number": 23,
+      "title": "背番号は三ケタ",
+      "subtitle": "育成ドラフト（スリー・ディジット）",
+      "date": "2026-11-12",
+      "genres": [],
+      "cover": "assets/upcoming/23.webp"
+    },
+    {
+      "number": 24,
       "title": "課長のいない十日間",
       "subtitle": "代決（プロキシ・スタンプ）",
-      "date": "2026-11-12",
+      "date": "2026-11-16",
       "genres": [
         "市役所の働き方",
         "豪徳寺回"
       ],
-      "cover": "assets/upcoming/23.webp"
+      "cover": "assets/upcoming/24.webp"
     }
   ]
 }
