@@ -15,16 +15,18 @@
   // サイトのいちばん上（episodes.json のある所）への相対パス。読む画面は data-base、作品トップは data-root
   const reader = document.getElementById('reader');
   const root = html.dataset.root ?? (reader ? reader.dataset.base || '../../' : '');
-  const rootPath = new URL(root || './', location.href).pathname;
+  // src.js が計測のためにアドレスを一瞬 /_src/<媒体>/ へ書き換えることがある。そのときは書き換える前のアドレスで考える
+  const here = new URL(window.__gbOrigHref || location.href);
+  const rootPath = new URL(root || './', here.href).pathname;
 
   // 同じページのもう一方の言語の URL（パスだけ）
   function otherPath(to) {
-    const rest = location.pathname.startsWith(rootPath) ? location.pathname.slice(rootPath.length) : '';
-    if (to === 'en') return rest.startsWith('en/') ? location.pathname : `${rootPath}en/${rest}`;
-    return rest.startsWith('en/') ? rootPath + rest.slice(3) : location.pathname;
+    const rest = here.pathname.startsWith(rootPath) ? here.pathname.slice(rootPath.length) : '';
+    if (to === 'en') return rest.startsWith('en/') ? here.pathname : `${rootPath}en/${rest}`;
+    return rest.startsWith('en/') ? rootPath + rest.slice(3) : here.pathname;
   }
 
-  const asked = new URLSearchParams(location.search).get('lang');
+  const asked = new URLSearchParams(here.search).get('lang');
   let lang = fixed || 'ja';
   if (SUPPORTED.includes(asked)) {
     try { localStorage.setItem(KEY, asked); } catch { /* 覚えられなくても動く */ }
@@ -35,10 +37,10 @@
   // 選んだ言語のページへ移る（英語のページで ?lang=ja、日本語のページで英語を選んでいるとき）
   const want = SUPPORTED.includes(asked) ? asked : lang;
   if (want !== (fixed || 'ja') && (want === 'ja' || document.querySelector('link[rel="alternate"][hreflang="en"]'))) {
-    const params = new URLSearchParams(location.search);
+    const params = new URLSearchParams(here.search);
     params.delete('lang');
     const q = params.toString();
-    location.replace(otherPath(want) + (q ? `?${q}` : '') + location.hash);
+    location.replace(otherPath(want) + (q ? `?${q}` : '') + here.hash);
   }
   const isEn = lang === 'en';
 
@@ -302,7 +304,7 @@
     a.textContent = STR[lang].otherLang();
     a.setAttribute('lang', isEn ? 'ja' : 'en');
     const to = isEn ? 'ja' : 'en';
-    const url = new URL(location.href);
+    const url = new URL(here.href);
     url.searchParams.set('lang', to);
     // もう一方の言語のページがあればそこへ（?lang= で選んだ言語を覚える）。無ければ同じページで切り替える
     const hasOther = to === 'ja' ? !!fixed : !!document.querySelector('link[rel="alternate"][hreflang="en"]');

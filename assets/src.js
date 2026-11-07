@@ -8,6 +8,7 @@
     if (!s) return;
     var key = 'gb_src_sent';
     try { if (sessionStorage.getItem(key) === s) return; sessionStorage.setItem(key, s); } catch (e) {}
+    window.__gbOrigHref = location.href;   // 言語の切り替え（i18n.js）が、書き換える前のアドレスを使えるように残す
     var orig = location.pathname + location.search + location.hash;
     var root = location.pathname.replace(/(\/en)?(\/ep\/[^\/]+)?\/?$/, '/');
     history.replaceState(history.state, '', root + '_src/' + s + '/');
