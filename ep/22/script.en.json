@@ -1,0 +1,1636 @@
+{
+  "episode": "22",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4113,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.3985,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十一月。梨ヶ坂市役所・地下。特務トレンド係。",
+          "en": "November. Nashigasaka City Hall, the basement. The Special Trends Unit."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "勤務中に、砦を建てるなァ!!",
+          "en": "Don't build a fort during work hours!!"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ここはおれの城だ。冬眠中だ",
+          "en": "This is my castle. I'm hibernating."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ちなみに十一月九日は、119番の日です",
+          "en": "By the way, November 9th is 119 Day.",
+          "note": "November 9 (11/9) is \"119 Day\", set by Japan's Fire and Disaster Management Agency in 1987 to raise awareness of fire and emergency services. 119 is Japan's emergency number for fire and ambulance."
+        },
+        {
+          "id": "p1-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……源田くん。その寝袋は、備品ですか",
+          "en": "...Genda. Is that sleeping bag office property?"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "防災担当の火野です。力を貸してください!",
+          "en": "I'm Hino from Disaster Prevention. Please lend me a hand!"
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "去年の訓練、参加率がこれです",
+          "en": "Here's last year's drill turnout."
+        },
+        {
+          "id": "p2-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "若い職員ほど、来ないんです",
+          "en": "The younger the staff, the less they show up."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "職員の半分が、避難経路を知りません",
+          "en": "Half of our staff don't know the evacuation routes."
+        },
+        {
+          "id": "p2-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "は、半分!?",
+          "en": "H-half?!"
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ちなみに、この係は参加ゼロ人です",
+          "en": "By the way, this unit's turnout was zero."
+        },
+        {
+          "id": "p2-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "地下はベルが聞こえねえ。出ねえぞ、絶対",
+          "en": "You can't hear the bell down in the basement. I'm not going, no way."
+        },
+        {
+          "id": "p2-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "寝てただけです",
+          "en": "He was just sleeping."
+        },
+        {
+          "id": "p2-4-4",
+          "panel": 4,
+          "type": "speech",
+          "ja": "だから今年は、鬼ごっこにします!!",
+          "en": "So this year, we're making it a game of tag!!"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.7471
+        ],
+        "4": [
+          0.5064,
+          0.7651,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.7651,
+          0.4936,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十一月九日 午後四時。ルール①非常ベルで、決められた経路で集合場所へ",
+          "en": "Nov. 9, 4 p.m. Rule 1: At the alarm, go to the assembly point by the set route."
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "ルール②ハンターに捕まったらアウト。エレベーター禁止",
+          "en": "Rule 2: Caught by the Hunter, you're out. No elevators."
+        },
+        {
+          "id": "p3-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "ルール③来庁者役を誘導中は、確保されない",
+          "en": "Rule 3: While guiding a visitor, you can't be caught."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "逃げ切れば温泉旅行券! 商店街の協賛です",
+          "en": "Get away clean and win a hot spring trip voucher! Sponsored by the shopping street!"
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "温泉旅行券だとォ!!",
+          "en": "A hot spring trip voucher?!"
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "露天風呂で、熱燗……",
+          "en": "An open-air bath, hot sake..."
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "で、そのハンターってのは誰だよ",
+          "en": "So who's this Hunter, anyway?"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.692
+        ],
+        "2": [
+          0.5064,
+          0.71,
+          0.9846,
+          0.9341
+        ],
+        "3": [
+          0.0154,
+          0.71,
+          0.4936,
+          0.9341
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ハンターは豪徳寺課長!! 眼鏡が光ると怖い!!",
+          "en": "The Hunter is Section Chief Gotokuji!! Scary when his glasses glint!!"
+        },
+        {
+          "id": "p4-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……光って、いますか",
+          "en": "...Are they glinting?"
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "小僧、ハンターを引きつけろ。陽動だ",
+          "en": "Kid, lure the Hunter away. A decoy job."
+        },
+        {
+          "id": "p4-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "一分百円です",
+          "en": "100 yen a minute."
+        },
+        {
+          "id": "p4-2-3",
+          "panel": 2,
+          "type": "speech",
+          "ja": "高ェ!! ……乗った!!",
+          "en": "Steep!! ...Deal!!"
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "温泉は、おれのもんだァァ!!",
+          "en": "The hot spring is MINE!!"
+        },
+        {
+          "id": "p4-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "係の参加率、ゼロから百……",
+          "en": "Turnout: zero to 100..."
+        },
+        {
+          "id": "p4-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……防災の話、聞いてました?",
+          "en": "...Were you listening?!"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.4137
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.4137
+        ],
+        "3": [
+          0.5064,
+          0.4318,
+          0.9846,
+          0.9359
+        ],
+        "4": [
+          0.0154,
+          0.4318,
+          0.4936,
+          0.9359
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "数日後。一階ロビー。",
+          "en": "A few days later. First floor lobby."
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "来庁者役の千代です。毎年やってるのよ",
+          "en": "I'm Chiyo, the visitor. I do this every year."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "なんで、一般の方が訓練に?",
+          "en": "Why is a member of the public in the drill?"
+        },
+        {
+          "id": "p5-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "しかも、車いすで……?",
+          "en": "And in a wheelchair...?"
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "火事は、お客さんがいるときにも起きますから!",
+          "en": "Fires happen when there are visitors around, too!"
+        },
+        {
+          "id": "p5-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "去年は二十分待って、お茶を三杯よ",
+          "en": "Last year I waited twenty minutes and drank three cups of tea."
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ばあちゃんも、温泉狙いか?",
+          "en": "Granny, you're after the hot spring too?"
+        },
+        {
+          "id": "p5-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "当たり前でしょ",
+          "en": "Of course I am."
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.7471
+        ],
+        "4": [
+          0.5064,
+          0.7651,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.7651,
+          0.4936,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "同じ日の昼。係室。",
+          "en": "Same day, noon. The unit's office."
+        },
+        {
+          "id": "p6-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "逃げ切れば温泉……逃げ切り、ねえ",
+          "en": "Get away and win a hot spring... \"get away,\" huh."
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "逃げ切りってのは、最後まで捕まらねえことだ!!",
+          "en": "\"Getting away\" means not getting caught till the very end!!"
+        },
+        {
+          "id": "p6-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "集合場所なんか行かなくても、隠れてりゃ勝ち!!",
+          "en": "I don't even have to go to the assembly point. Hide, and I win!!"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "経路図に載ってねえ、地下の奥……",
+          "en": "Not on the route map... the back of the basement..."
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……そうかしら。ルール①は集合場所よ",
+          "en": "...Is it? Rule 1 is the assembly point."
+        },
+        {
+          "id": "p6-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "①はおまけだ!!",
+          "en": "Rule 1 is just a bonus!!"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5064,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.4936,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十一月九日、訓練の日。午後三時半。",
+          "en": "November 9th, drill day. 3:30 p.m."
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "カップ麺よし、懐中電灯よし、ポットよし!!",
+          "en": "Cup noodles, check. Flashlight, check. Kettle, check!!"
+        },
+        {
+          "id": "p7-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ここが、おれの最後の砦だ!!",
+          "en": "This is my last fort!!"
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "隠れるなら、陽動いりませんよね",
+          "en": "If you're hiding, you don't need a decoy, right?"
+        },
+        {
+          "id": "p7-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "保険だ、保険!! 払ってやる",
+          "en": "It's insurance, insurance!! I'll pay!"
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "集合場所に来なさいよ。参加率百パーセント!",
+          "en": "Come to the assembly point. One hundred percent turnout!"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "午後三時五十分。開始、十分前。",
+          "en": "3:50 p.m. Ten minutes to the start."
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "煙が、足りない!!",
+          "en": "Not enough smoke!!"
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "火野くん、もう前が見えないよ!!",
+          "en": "Hino, I can't see in front of me anymore!!"
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "見えないのが本番です!!",
+          "en": "Not being able to see is the real thing!!"
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "本物の煙は、こんなもんじゃない。もっと焚いて",
+          "en": "Real smoke is way worse than this. Pump out more!"
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……なんで、うちの市役所、ここまで本格的なんだよ",
+          "en": "...Why is our city hall this hardcore?"
+        },
+        {
+          "id": "p8-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "普通、訓練で煙なんて焚かないわよ……",
+          "en": "Normally nobody pumps out smoke for a drill..."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.692
+        ],
+        "2": [
+          0.6697,
+          0.71,
+          0.9846,
+          0.9313
+        ],
+        "3": [
+          0.3419,
+          0.71,
+          0.6568,
+          0.9313
+        ],
+        "4": [
+          0.0154,
+          0.71,
+          0.329,
+          0.9313
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "午後四時。訓練、開始。",
+          "en": "4 p.m. The drill begins."
+        },
+        {
+          "id": "p9-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "訓練、訓練!! 火災発生です!!",
+          "en": "This is a drill, a drill!! A fire has broken out!!"
+        },
+        {
+          "id": "p9-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ハンター、放出!",
+          "en": "Release the Hunter!"
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ハンター、歩いてるぞ。楽勝だ!",
+          "en": "He's just walking. Easy!"
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "な、なんで先にいるの!?",
+          "en": "Wh-why is he already ahead of me?!"
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……こんにちは",
+          "en": "...Hello."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "エレベーターは、使いません",
+          "en": "We do not use the elevator.",
+          "note": "In a fire, don't use the elevator to evacuate. Use the stairs."
+        },
+        {
+          "id": "p10-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "確保です",
+          "en": "You're caught."
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "予算の説明を、させてくれェ!!",
+          "en": "Let me explain the budget!!"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "caption",
+          "ja": "確保、三十名。",
+          "en": "Caught: thirty."
+        },
+        {
+          "id": "p10-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "煙の中で自撮り、映える〜!",
+          "en": "A selfie in the smoke, so photogenic~!"
+        },
+        {
+          "id": "p10-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "煙は上にたまります。低く、口と鼻を。確保です",
+          "en": "Smoke gathers high. Stay low, cover your mouth and nose. You're caught.",
+          "note": "Fire smoke collects near the ceiling first, so the air close to the floor stays clearer. Stay low and cover your mouth and nose with a handkerchief or towel."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4113,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.3985,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3419,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.329,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "あらあら、今年もお茶かしら",
+          "en": "Oh my, tea again this year, I suppose?"
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "誘導中は、確保されない",
+          "en": "While guiding someone, you can't be caught."
+        },
+        {
+          "id": "p11-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ゆっくり行けば、陽動も一分百円",
+          "en": "Go slow, and decoy pay grows: 100 yen a minute."
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "千代さん、行きます",
+          "en": "Chiyo, we're heading out."
+        },
+        {
+          "id": "p11-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "来庁者の誘導は、係の実績よ!!",
+          "en": "Guiding a visitor counts for our unit!!"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "エレベーターは、使っちゃだめなのよね",
+          "en": "We mustn't use the elevator, right?"
+        },
+        {
+          "id": "p11-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "はい。火事のときは、階段です",
+          "en": "Right. In a fire, it's the stairs."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3419,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.329,
+          0.2322
+        ],
+        "4": [
+          0.0154,
+          0.2502,
+          0.9846,
+          0.9313
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "私一人で、なんとか……っ",
+          "en": "Somehow, by myself...!"
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "一人で無理に運ぶのは、だめです",
+          "en": "Don't try to carry her alone.",
+          "note": "When a wheelchair has to go up or down stairs, don't force it alone. Ask people nearby to help."
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "すみません!! 手を貸してください!!",
+          "en": "Excuse me!! Please lend us a hand!!"
+        },
+        {
+          "id": "p12-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "は、はいっ",
+          "en": "Y-yes!"
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "四人で持ちます。車輪じゃなく、フレームを",
+          "en": "Four people lift. Hold the frame, not the wheels.",
+          "note": "Lifting a wheelchair on stairs takes four people, holding sturdy parts such as the frame. The wheels are not held."
+        },
+        {
+          "id": "p12-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "若い人に囲まれて、いい気分",
+          "en": "Surrounded by young people. I feel great."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.4137
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.4137
+        ],
+        "3": [
+          0.5064,
+          0.4318,
+          0.9846,
+          0.9359
+        ],
+        "4": [
+          0.0154,
+          0.4318,
+          0.4936,
+          0.9359
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……どうぞ",
+          "en": "...Please, go ahead."
+        },
+        {
+          "id": "p13-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "誘導中の方は、確保しません",
+          "en": "I don't catch people who are guiding someone."
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "逃走者、残り四名!!",
+          "en": "Runners left: four!!"
+        },
+        {
+          "id": "p13-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ククク……その四人に、おれも入ってる",
+          "en": "Heh heh... and I'm one of those four."
+        },
+        {
+          "id": "p13-4-1",
+          "panel": 4,
+          "type": "caption",
+          "ja": "訓練終了まで、残り三分。",
+          "en": "Three minutes left in the drill."
+        },
+        {
+          "id": "p13-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……ばあちゃん、置いてかれてねえだろな",
+          "en": "...Granny didn't get left behind, did she?"
+        },
+        {
+          "id": "p13-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "べ、別に。ライバルの心配だ",
+          "en": "I-it's nothing. I'm just worried about my rival."
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.7471
+        ],
+        "4": [
+          0.5064,
+          0.7651,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.7651,
+          0.4936,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "午後四時二十分。ベルが止まる。鬼ごっこは、ここで終わり。",
+          "en": "4:20 p.m. The bell stops. The game of tag ends here."
+        },
+        {
+          "id": "p14-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "〈放送〉訓練、終了です。全員、集合場所で点呼を。",
+          "en": "<PA> The drill is over. Everyone, report to the assembly point for roll call."
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……罠だな。出てったところを確保する気だ",
+          "en": "...It's a trap. They'll grab me the moment I step out."
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "最後まで残った奴にゃ、ボーナスがあるはず!!",
+          "en": "There's gotta be a bonus for the last one standing!!"
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "籠城だ!! 砦を広げるぞォ!!",
+          "en": "Siege time!! I'm expanding the fort!!"
+        },
+        {
+          "id": "p14-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……テツ、まだ来ない",
+          "en": "...Tetsu hasn't come yet."
+        },
+        {
+          "id": "p14-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "陽動、二十分。二千円です",
+          "en": "Decoy, twenty minutes. That's two thousand yen."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "〈館内放送〉続いて、防火シャッターの閉鎖訓練を行います。",
+          "en": "<PA announcement> Next, the fire shutter closing drill."
+        },
+        {
+          "id": "p15-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "静かになったな……",
+          "en": "Quiet now, huh..."
+        },
+        {
+          "id": "p15-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "二杯目いっとくか。おれの一人勝ちだ",
+          "en": "Time for a second cup. The win is all mine."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3419,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.329,
+          0.2322
+        ],
+        "4": [
+          0.0154,
+          0.2502,
+          0.9846,
+          0.9313
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "午後四時半。集合場所で点呼。",
+          "en": "4:30 p.m. Roll call at the assembly point."
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "特務トレンド係。赤嶺レナさん",
+          "en": "Special Trends Unit. Rena Akamine."
+        },
+        {
+          "id": "p16-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "はい!",
+          "en": "Here!"
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "鈴木ショータさん",
+          "en": "Shota Suzuki."
+        },
+        {
+          "id": "p16-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "はい",
+          "en": "Here."
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "源田テツさん",
+          "en": "Tetsu Genda."
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……一名、足りません!!",
+          "en": "...One person is missing!!"
+        },
+        {
+          "id": "p16-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "逃げ遅れ……? 地下の係の人だ",
+          "en": "Left behind...? It's someone from the basement unit."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.5064,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.4936,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "逃げ遅れ一名。捜索に入ります",
+          "en": "One person left behind. We're going in to search."
+        },
+        {
+          "id": "p17-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "点呼に答えるまでが避難よ!!",
+          "en": "Answering roll call is part of evacuating!!"
+        },
+        {
+          "id": "p17-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "一人いないと、救助の人が中へ入るの!!",
+          "en": "If even one person is missing, the rescuers have to go back inside!!",
+          "note": "At the final assembly point, a roll call confirms everyone is out and tells the fire crew if anyone is left behind. A missing person means rescuers must re-enter the building to find them."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "地下の防火シャッターが、止まってる……?",
+          "en": "The fire shutter in the basement has stopped...?"
+        },
+        {
+          "id": "p17-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……ご案内します。この庁舎は、全部知っています",
+          "en": "...I'll show you the way. I know this entire building."
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "caption",
+          "ja": "〈放送〉訓練は終了しています。逃げ遅れ一名、捜索中。",
+          "en": "<Announcement> The drill has ended. One person left behind, search underway."
+        },
+        {
+          "id": "p17-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "まだ捕まってねえ……勝ちだ",
+          "en": "They haven't caught me yet... I win."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "源田さん。訓練は、二十分前に終わっています",
+          "en": "Mr. Genda. The drill ended twenty minutes ago."
+        },
+        {
+          "id": "p18-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "点呼の時間です",
+          "en": "It's time for roll call."
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "お騒がせいたしました",
+          "en": "Sorry for the fuss."
+        },
+        {
+          "id": "p18-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "シャッターの下に、物を置かないでくださいね",
+          "en": "Please don't put things under the shutter.",
+          "note": "Objects left under a fire shutter or in front of a fire door stop it from closing fully, letting flames and smoke spread. Building managers must also keep emergency exits clear."
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "こちらが、逃げ遅れ役の見本です",
+          "en": "This is our model for \"the person left behind.\""
+        },
+        {
+          "id": "p18-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "おれは逃げ切ったんだァァ!!",
+          "en": "I GOT AWAY!!"
+        },
+        {
+          "id": "p18-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "来年の訓練まで毎朝、地下から屋上まで",
+          "en": "Until next year's drill, every morning, from the basement to the roof,"
+        },
+        {
+          "id": "p18-4-4",
+          "panel": 4,
+          "type": "speech",
+          "ja": "避難経路をご自分の足で点検を。物は片づけて",
+          "en": "walk the evacuation routes on your own two feet and inspect them. And clear away any objects."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.4137
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.4137
+        ],
+        "3": [
+          0.5064,
+          0.4318,
+          0.9846,
+          0.9359
+        ],
+        "4": [
+          0.0154,
+          0.4318,
+          0.4936,
+          0.9359
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "夕方。訓練、おしまい。",
+          "en": "Evening. The drill is over."
+        },
+        {
+          "id": "p19-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "参加率、去年の倍です!",
+          "en": "Turnout is double last year's!"
+        },
+        {
+          "id": "p19-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "どこから逃げればいいか、よく分かったわ",
+          "en": "Now I really know which way to escape."
+        },
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ありがとうございましたァ!",
+          "en": "Thank you very muuuch!"
+        },
+        {
+          "id": "p19-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "か、係の実績ですから",
+          "en": "I-it's the unit's accomplishment, of course."
+        },
+        {
+          "id": "p19-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "一番乗りは、来庁者役の千代さん!",
+          "en": "First to get away: Chiyo, our visitor!"
+        },
+        {
+          "id": "p19-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "付き添いが要るから、二人も一緒よ",
+          "en": "I need an escort, so these two are coming along."
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "日帰りなら、行きます",
+          "en": "If it's a day trip, I'll go."
+        },
+        {
+          "id": "p19-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "おれの温泉がァァ!!",
+          "en": "MY hot spring!!"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.6697,
+          0.2981,
+          0.9846,
+          0.5194
+        ],
+        "4": [
+          0.3419,
+          0.2981,
+          0.6568,
+          0.5194
+        ],
+        "5": [
+          0.0154,
+          0.2981,
+          0.329,
+          0.5194
+        ],
+        "6": [
+          0.0154,
+          0.5375,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "翌朝。訓練の次の日から、毎朝。",
+          "en": "The next morning. Every morning, starting the day after the drill."
+        },
+        {
+          "id": "p20-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "おはようございます。階段で、点検ですね",
+          "en": "Good morning. Inspecting by the stairs, I see."
+        },
+        {
+          "id": "p20-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "あ……",
+          "en": "Ah..."
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "地下から屋上まで……全部ゥ……",
+          "en": "From the basement to the roof... ALL of it..."
+        },
+        {
+          "id": "p20-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "非常口に、物を置くなァ!!",
+          "en": "Don't put stuff in front of the emergency exit!!"
+        },
+        {
+          "id": "p20-6-1",
+          "panel": 6,
+          "type": "caption",
+          "ja": "一週間後。一階ロビー。",
+          "en": "A week later. First floor lobby."
+        },
+        {
+          "id": "p20-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "来年も、よろしくお願いしますね",
+          "en": "We look forward to your help next year, too."
+        },
+        {
+          "id": "p20-6-3",
+          "panel": 6,
+          "type": "speech",
+          "ja": "本人って書くなァァ!!",
+          "en": "Don't write \"(himself)\"!!"
+        }
+      ]
+    }
+  ]
+}

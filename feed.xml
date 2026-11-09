@@ -6,7 +6,15 @@
     <atom:link href="https://tsubasagit.github.io/gyosei-bug-reader/feed.xml" rel="self" type="application/rss+xml"/>
     <description>梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。金とサボりのために制度と技術を一夜漬けで覚える源田テツが、力技で市民の困りごとを片づけてしまう。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <item>
+      <title>第22話「庁舎から逃げろ」</title>
+      <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/22/</link>
+      <guid isPermaLink="true">https://tsubasagit.github.io/gyosei-bug-reader/ep/22/</guid>
+      <pubDate>Mon, 09 Nov 2026 09:00:00 +0900</pubDate>
+      <description>～防災訓練（ハンター・モード）～ 十一月、梨ヶ坂市役所の防災訓練に若い職員が来ない。防災担当の火野は、眼鏡の光るハンターから逃げる鬼ごっこにすると言い出した。逃げ切れば温泉旅行券と聞いたテツは、「逃げ切り」の意味を取り違え――。</description>
+      <enclosure url="https://tsubasagit.github.io/gyosei-bug-reader/ep/22/thumb.webp" type="image/webp" length="0"/>
+    </item>
     <item>
       <title>第21話「選手村は五階です」</title>
       <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/21/</link>

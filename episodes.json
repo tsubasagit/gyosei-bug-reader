@@ -3229,6 +3229,204 @@
         "niconico": "https://manga.nicovideo.jp/watch/mg1173707",
         "pixiv": "https://www.pixiv.net/artworks/151726377"
       }
+    },
+    {
+      "id": "22",
+      "number": 22,
+      "title": "庁舎から逃げろ",
+      "subtitle": "防災訓練（ハンター・モード）",
+      "summary": "十一月、梨ヶ坂市役所の防災訓練に若い職員が来ない。防災担当の火野は、眼鏡の光るハンターから逃げる鬼ごっこにすると言い出した。逃げ切れば温泉旅行券と聞いたテツは、「逃げ切り」の意味を取り違え――。",
+      "published": "2026-11-09",
+      "tags": [
+        "防災訓練",
+        "避難",
+        "119番の日",
+        "煙",
+        "エレベーター",
+        "車いす",
+        "防火シャッター",
+        "点呼"
+      ],
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp",
+        "p20.webp"
+      ],
+      "sizes": [
+        [
+          1588,
+          942
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          16,
+          16,
+          1572,
+          2230
+        ]
+      },
+      "title_en": "Escape City Hall",
+      "subtitle_en": "Fire Drill (Hunter Mode)",
+      "summary_en": "It's November, and the young staff of Nashigasaka City Hall won't show up for the fire drill. Hino from Disaster Prevention decides to turn it into a game of tag, with a glasses-glinting Hunter chasing everyone. \"Get away clean and win a hot spring trip voucher!\" Tetsu hears that and takes \"get away\" to mean \"never get caught\"...",
+      "explain": {
+        "points": [
+          "11月9日は「119番の日」です。消防庁が1987年（昭和62年）から、消防への理解と防災意識を高める日としています。",
+          "火災のとき、避難にエレベーターは使いません（あっても使わない）。階段で逃げます。",
+          "火災の煙は天井のほうからたまるので、床に近い低い所は見通しがききます。ハンカチやタオルで口と鼻をおおい、姿勢を低くして逃げます。",
+          "避難したら、集合場所で点呼に答えるまでが避難です。点呼で避難した人数と逃げ遅れの有無を確かめて消防隊へ伝え、いない人がいれば、救助隊がその人を探しに建物へ入ります。",
+          "防火戸の前や、防火シャッターが下りてくる所に物を置くと、閉まりきらずに炎や煙が広がります。非常口（避難口）の前に避難の邪魔になる物を置かないことは、建物の管理の義務（消防法）にもなっています。",
+          "車いすを持ち上げて階段を上り下りするときは、必ず4人で、フレームなど丈夫な所を持ちます（車輪は持たない）。一人で無理に運ばず、周りの人に声をかけて手伝ってもらいます。",
+          "防災訓練を鬼ごっこにする企画、ハンター役の課長、温泉旅行券の賞品、訓練用の発煙機の演出、梨ヶ坂市役所の職員たちは、作中だけの架空の設定です。"
+        ],
+        "sources": [
+          {
+            "label": "政府広報オンライン「119番の日」（11月9日）",
+            "url": "https://www.gov-online.go.jp/data_room/calendar/202511/event-3860.html"
+          },
+          {
+            "label": "消防庁「消防の動き」2026年11月号",
+            "url": "https://www.fdma.go.jp/publication/ugoki/assets/2611_35.pdf"
+          },
+          {
+            "label": "大阪市消防局「火災における避難方法」",
+            "url": "https://www.city.osaka.lg.jp/shobo/page/0000552305.html"
+          },
+          {
+            "label": "消防庁 防災危機管理eカレッジ「火災からの避難」",
+            "url": "https://www.fdma.go.jp/relocation/e-college/cat65/cat64/cat49/7-4.html"
+          },
+          {
+            "label": "東京消防庁 防災教育指導者マニュアル 第13章 避難",
+            "url": "https://www.tfd.metro.tokyo.lg.jp/ts/bfc_manual/instructor/cp13.html"
+          },
+          {
+            "label": "柏崎市消防本部「避難訓練マニュアル」",
+            "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/40/hinankunnrennmanyuarupdf.pdf"
+          },
+          {
+            "label": "大阪市消防局「逃げ遅れた人を助ける『救助隊』」",
+            "url": "https://www.city.osaka.lg.jp/shobo/page/0000430033.html"
+          },
+          {
+            "label": "東京消防庁 防災教育指導者マニュアル 第12章",
+            "url": "https://www.tfd.metro.tokyo.lg.jp/ts/bfc_manual/instructor/cp12.html"
+          },
+          {
+            "label": "e-Gov法令検索「消防法」（第8条の2の4）",
+            "url": "https://laws.e-gov.go.jp/document?lawid=323AC1000000186_20220617_504AC0000000068"
+          },
+          {
+            "label": "東京消防庁 防災教育指導者マニュアル（高校生）第9章",
+            "url": "https://www.tfd.metro.tokyo.lg.jp/ts/bfc_manual/high_school/cp9.html"
+          }
+        ]
+      },
+      "pagesEn": true,
+      "genres": [
+        "防災",
+        "市役所の働き方"
+      ]
     }
   ],
   "_oneshotsの説明": "作者の読み切り。話数の一覧・公開予定・ニコニコ/pixivの数・SEOの話の一覧には入れない。読む画面は yomikiri/<id>/（reader.js が episodes の次にここを探す）",

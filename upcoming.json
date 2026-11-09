@@ -1,26 +1,15 @@
 {
   "_説明": "再訪の仕掛けの設定。次回予告と、新しい話のお知らせ先（X）。日付は空でもよい（空なら「近日公開」と出す）。英語表示用の題名は title_en",
   "next": {
-    "number": 22,
-    "title": "庁舎から逃げろ",
-    "date": "2026-11-09"
+    "number": 23,
+    "title": "背番号は三ケタ",
+    "date": "2026-11-12"
   },
   "x": {
     "url": "https://x.com/tsubasatwi",
     "handle": "@tsubasatwi"
   },
   "schedule": [
-    {
-      "number": 22,
-      "title": "庁舎から逃げろ",
-      "subtitle": "防災訓練（ハンター・モード）",
-      "date": "2026-11-09",
-      "genres": [
-        "防災",
-        "市役所の働き方"
-      ],
-      "cover": "assets/upcoming/22.webp"
-    },
     {
       "number": 23,
       "title": "背番号は三ケタ",
@@ -39,6 +28,14 @@
         "豪徳寺回"
       ],
       "cover": "assets/upcoming/24.webp"
+    },
+    {
+      "number": 25,
+      "title": "副業、許可ください",
+      "subtitle": "兼業許可（サイド・ハッスル）",
+      "date": "2026-11-23",
+      "genres": [],
+      "cover": "assets/upcoming/25.webp"
     }
   ]
 }
