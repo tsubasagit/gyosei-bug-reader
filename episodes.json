@@ -3431,6 +3431,155 @@
         "niconico": "https://manga.nicovideo.jp/watch/mg1174479",
         "pixiv": "https://www.pixiv.net/artworks/151857310"
       }
+    },
+    {
+      "id": "24",
+      "number": 24,
+      "title": "欲しいのは、それじゃない",
+      "subtitle": "映画の入場者特典（ワン・モア・シネマ）",
+      "summary": "休日の朝、映画館の列に並ぶ梨ヶ坂市役所の面々。お目当ては全4種ランダムの入場者特典。テツがひいたのは、欲しかったやつじゃなく――。交換のはずが、いつの間にか全員が「隊長」の魅力を語り出す。",
+      "published": "2026-11-13",
+      "tags": [
+        "映画",
+        "入場者特典",
+        "ランダム配布",
+        "ガチャ",
+        "推し活",
+        "交換",
+        "映画館"
+      ],
+      "title_en": "Not the One I Wanted",
+      "subtitle_en": "Movie Theater Freebie (One More Cinema)",
+      "summary_en": "On a holiday morning, the Nashigasaka City Hall crew lines up at a movie theater for a random freebie, one of four. Tetsu pulls a character he never wanted. A trade that was supposed to be simple turns into everyone gushing about the Captain.",
+      "explain": {
+        "points": [
+          "映画館の入場者特典は、上映の入場時に配られる非売品の景品で、数に限りがあるのがふつうです。配布の方法は映画館や作品ごとに違い、種類が選べない「ランダム配布」もあります。",
+          "ランダム配布では、どの種類が当たるかは受け取るまで分かりません。同じ種類が続いたり、ほしい種類が出なかったりすることもあるので、交換や譲り合いが推し活の文化になっています。",
+          "入場者特典は映画を観た人に配るもので、売ることを前提にしたものではありません。ネットで売り買いされることはありますが、規約で転売を禁じている場合があるので、配布のルールを確かめてください。",
+          "この話の「隊長」「ピコ」「モップ丸」などのキャラクターと、特典の中身は、作中だけの設定です。"
+        ],
+        "sources": []
+      },
+      "genres": [],
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp",
+        "p20.webp"
+      ],
+      "sizes": [
+        [
+          1588,
+          942
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          16,
+          16,
+          1572,
+          2230
+        ]
+      }
     }
   ],
   "_oneshotsの説明": "作者の読み切り。話数の一覧・公開予定・ニコニコ/pixivの数・SEOの話の一覧には入れない。読む画面は yomikiri/<id>/（reader.js が episodes の次にここを探す）",
