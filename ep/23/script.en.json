@@ -1,0 +1,1503 @@
+{
+ "episode": "23",
+ "lang": "en",
+ "pages": [
+  {
+   "page": 1,
+   "panels": {
+    "1": [
+     0.5257,
+     0.0108,
+     0.9846,
+     0.495
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.5129,
+     0.2439
+    ],
+    "3": [
+     0.0154,
+     0.262,
+     0.5129,
+     0.495
+    ],
+    "4": [
+     0.0154,
+     0.5131,
+     0.9846,
+     0.9675
+    ]
+   },
+   "lines": [
+    {
+     "id": "p1-1-1",
+     "panel": 1,
+     "type": "caption",
+     "ja": "5階は、すきま風。広場は、日なた。",
+     "en": "Fifth floor: drafty. The square: sunny."
+    },
+    {
+     "id": "p1-1-2",
+     "panel": 1,
+     "type": "caption",
+     "ja": "日曜、朝。尾根平団地。",
+     "en": "Sunday morning. Oneira Housing Complex."
+    },
+    {
+     "id": "p1-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "おれの一張羅ァ!!",
+     "en": "My one good shirt!!"
+    },
+    {
+     "id": "p1-4-1",
+     "panel": 4,
+     "type": "speech",
+     "ja": "ごめん、テツ。届いちゃった",
+     "en": "Sorry, Tetsu. It reached you."
+    },
+    {
+     "id": "p1-4-2",
+     "panel": 4,
+     "type": "speech",
+     "ja": "5階まで届く肩があるか!!",
+     "en": "Who has an arm that reaches the fifth floor!!"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "panels": {
+    "1": [
+     0.4113,
+     0.0108,
+     0.9846,
+     0.28
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.3985,
+     0.28
+    ],
+    "3": [
+     0.5064,
+     0.2981,
+     0.9846,
+     0.5221
+    ],
+    "4": [
+     0.0154,
+     0.2981,
+     0.4936,
+     0.5221
+    ],
+    "5": [
+     0.0154,
+     0.5402,
+     0.9846,
+     0.9892
+    ]
+   },
+   "lines": [
+    {
+     "id": "p2-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "5階の若いの。来週の日曜、ベンチに座ってくれ",
+     "en": "Young man on the fifth floor. Sit on our bench next Sunday."
+    },
+    {
+     "id": "p2-1-2",
+     "panel": 1,
+     "type": "speech",
+     "ja": "30番の監督が、腰をやってのう。代理はわしじゃ",
+     "en": "Number 30, our manager, threw out his back. I'm filling in."
+    },
+    {
+     "id": "p2-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "日曜は昼寝の日だ",
+     "en": "Sunday is nap day."
+    },
+    {
+     "id": "p2-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "団地で若いのは、お前だけじゃ",
+     "en": "You're the only young man in this complex."
+    },
+    {
+     "id": "p2-3-2",
+     "panel": 3,
+     "type": "speech",
+     "ja": "肩は町一番なんじゃが、捕れんのじゃ",
+     "en": "His arm is the best in town, but he can't catch."
+    },
+    {
+     "id": "p2-5-1",
+     "panel": 5,
+     "type": "speech",
+     "ja": "どうせおれ、控えだし",
+     "en": "I'm just a backup anyway."
+    },
+    {
+     "id": "p2-5-2",
+     "panel": 5,
+     "type": "speech",
+     "ja": "なおさら行かねえ!!",
+     "en": "All the more reason I'm not going!!"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "panels": {
+    "1": [
+     0.4113,
+     0.0108,
+     0.9846,
+     0.28
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.3985,
+     0.28
+    ],
+    "3": [
+     0.0154,
+     0.2981,
+     0.9846,
+     0.9792
+    ]
+   },
+   "lines": [
+    {
+     "id": "p3-1-1",
+     "panel": 1,
+     "type": "caption",
+     "ja": "テレビ「十四歳の中学生が、育成で指名されました」",
+     "en": "TV: \"A fourteen-year-old middle schooler has been picked in the development draft.\""
+    },
+    {
+     "id": "p3-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "育成選手はの、背番号が三ケタなんじゃ",
+     "en": "Development players, you see, get three-digit jersey numbers."
+    },
+    {
+     "id": "p3-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "三ケタ……育成……",
+     "en": "Three digits... development..."
+    },
+    {
+     "id": "p3-3-2",
+     "panel": 3,
+     "type": "speech",
+     "ja": "育てた大人に、三ケタ万円!!",
+     "en": "Raise a kid, get a three-digit number of ten-thousands of yen!!"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "panels": {
+    "1": [
+     0.4113,
+     0.0108,
+     0.9846,
+     0.28
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.3985,
+     0.28
+    ],
+    "3": [
+     0.4113,
+     0.2981,
+     0.9846,
+     0.5673
+    ],
+    "4": [
+     0.0154,
+     0.2981,
+     0.3985,
+     0.5673
+    ],
+    "5": [
+     0.4113,
+     0.5854,
+     0.9846,
+     0.9883
+    ],
+    "6": [
+     0.0154,
+     0.5854,
+     0.3985,
+     0.9883
+    ]
+   },
+   "lines": [
+    {
+     "id": "p4-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "じいさん、ベンチ、引き受けた",
+     "en": "Old man, I'll take the bench."
+    },
+    {
+     "id": "p4-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "急にどうした",
+     "en": "What's got into you all of a sudden?"
+    },
+    {
+     "id": "p4-2-2",
+     "panel": 2,
+     "type": "speech",
+     "ja": "それ、何回目？",
+     "en": "How many times is that now?"
+    },
+    {
+     "id": "p4-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "小僧、データ班だ!!",
+     "en": "Kid, you're on the data team!!"
+    },
+    {
+     "id": "p4-3-2",
+     "panel": 3,
+     "type": "speech",
+     "ja": "時給は出世払い",
+     "en": "Pay comes after you make it big."
+    },
+    {
+     "id": "p4-4-1",
+     "panel": 4,
+     "type": "speech",
+     "ja": "出世払いは、出ないのと同じです",
+     "en": "\"After you make it big\" means \"never.\""
+    },
+    {
+     "id": "p4-4-2",
+     "panel": 4,
+     "type": "caption",
+     "ja": "同じころ、ショータの家。",
+     "en": "Meanwhile, at Shota's house."
+    },
+    {
+     "id": "p4-5-1",
+     "panel": 5,
+     "type": "speech",
+     "ja": "……現金で千円",
+     "en": "...A thousand yen in cash."
+    },
+    {
+     "id": "p4-5-2",
+     "panel": 5,
+     "type": "speech",
+     "ja": "現金なら、行きます!!",
+     "en": "Cash? I'm in!!"
+    },
+    {
+     "id": "p4-6-1",
+     "panel": 6,
+     "type": "speech",
+     "ja": "では、測ります",
+     "en": "Then I'll measure."
+    },
+    {
+     "id": "p4-6-2",
+     "panel": 6,
+     "type": "caption",
+     "ja": "一時間後。",
+     "en": "One hour later."
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "panels": {
+    "1": [
+     0.5257,
+     0.0108,
+     0.9846,
+     0.495
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.5129,
+     0.2439
+    ],
+    "3": [
+     0.0154,
+     0.262,
+     0.5129,
+     0.495
+    ],
+    "4": [
+     0.0154,
+     0.5131,
+     0.9846,
+     0.9675
+    ]
+   },
+   "lines": [
+    {
+     "id": "p5-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "3秒1",
+     "en": "3.1 seconds."
+    },
+    {
+     "id": "p5-3-2",
+     "panel": 3,
+     "type": "speech",
+     "ja": "ニュースの中学生は、二塁まで2秒を切るそうです",
+     "en": "The middle schooler on the news throws to second in under 2 seconds."
+    },
+    {
+     "id": "p5-4-1",
+     "panel": 4,
+     "type": "speech",
+     "ja": "あと1秒1縮めりゃ、プロか!!",
+     "en": "Shave off 1.1 more seconds and he's a pro!!"
+    },
+    {
+     "id": "p5-4-2",
+     "panel": 4,
+     "type": "speech",
+     "ja": "十歳と十四歳です。その1秒が、遠いんです",
+     "en": "He's ten and that one's fourteen. That second is far away."
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "panels": {
+    "1": [
+     0.4113,
+     0.0108,
+     0.9846,
+     0.28
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.3985,
+     0.28
+    ],
+    "3": [
+     0.6658,
+     0.2981,
+     0.9846,
+     0.6251
+    ],
+    "4": [
+     0.6658,
+     0.6432,
+     0.9846,
+     0.9702
+    ],
+    "5": [
+     0.0154,
+     0.2981,
+     0.653,
+     0.9702
+    ]
+   },
+   "lines": [
+    {
+     "id": "p6-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "あーあ",
+     "en": "Aww."
+    },
+    {
+     "id": "p6-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "ミットは、体の真ん中じゃ",
+     "en": "Keep the mitt in the middle of your body."
+    },
+    {
+     "id": "p6-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "ゲームなら、ボタン一個なのに",
+     "en": "In a game it'd be one button..."
+    },
+    {
+     "id": "p6-4-1",
+     "panel": 4,
+     "type": "speech",
+     "ja": "……ゲーム？",
+     "en": "...A game?"
+    },
+    {
+     "id": "p6-5-1",
+     "panel": 5,
+     "type": "speech",
+     "ja": "おれの出番だな",
+     "en": "My turn."
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "panels": {
+    "1": [
+     0.0154,
+     0.0108,
+     0.9846,
+     0.692
+    ],
+    "2": [
+     0.4113,
+     0.71,
+     0.9846,
+     0.9792
+    ],
+    "3": [
+     0.0154,
+     0.71,
+     0.3985,
+     0.9792
+    ]
+   },
+   "lines": [
+    {
+     "id": "p7-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "昭和の野球盤だ!!",
+     "en": "A Showa-era Yakyuban!!"
+    },
+    {
+     "id": "p7-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "……なにそれ!?",
+     "en": "...What is that!?"
+    },
+    {
+     "id": "p7-2-2",
+     "panel": 2,
+     "type": "speech",
+     "ja": "テツさんが生まれる前のですよね",
+     "en": "It's from before you were born, Tetsu."
+    },
+    {
+     "id": "p7-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "BM型……消える魔球のやつか",
+     "en": "The BM model... the one with the vanishing pitch?"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "panels": {
+    "1": [
+     0.4113,
+     0.0108,
+     0.9846,
+     0.28
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.3985,
+     0.28
+    ],
+    "3": [
+     0.5064,
+     0.2981,
+     0.9846,
+     0.5221
+    ],
+    "4": [
+     0.0154,
+     0.2981,
+     0.4936,
+     0.5221
+    ],
+    "5": [
+     0.0154,
+     0.5402,
+     0.9846,
+     0.9892
+    ]
+   },
+   "lines": [
+    {
+     "id": "p8-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "野球盤は、昭和33年生まれ!",
+     "en": "Yakyuban was born in Showa 33!"
+    },
+    {
+     "id": "p8-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "昭和47年、BM型に消える魔球!",
+     "en": "Showa 47: the BM model got the vanishing pitch!"
+    },
+    {
+     "id": "p8-2-2",
+     "panel": 2,
+     "type": "speech",
+     "ja": "盤が沈んで、球がもぐる",
+     "en": "The board sinks and the ball dives under."
+    },
+    {
+     "id": "p8-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "ファミスタは昭和61年の12月だ",
+     "en": "Famista came out in December, Showa 61."
+    },
+    {
+     "id": "p8-4-1",
+     "panel": 4,
+     "type": "speech",
+     "ja": "おれは昭和63年生まれだ",
+     "en": "I was born in Showa 63."
+    },
+    {
+     "id": "p8-4-2",
+     "panel": 4,
+     "type": "speech",
+     "ja": "昭和、七か月しかいませんよね",
+     "en": "You barely got any Showa. Seven months, right?"
+    },
+    {
+     "id": "p8-5-1",
+     "panel": 5,
+     "type": "speech",
+     "ja": "投手は操作キャラ。お前がコントローラーだ!",
+     "en": "The pitcher is the player character. You're the controller!"
+    },
+    {
+     "id": "p8-5-2",
+     "panel": 5,
+     "type": "speech",
+     "ja": "……わかった!!",
+     "en": "...Got it!!"
+    },
+    {
+     "id": "p8-5-3",
+     "panel": 5,
+     "type": "speech",
+     "ja": "わかるんかい",
+     "en": "He actually got it?"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "panels": {
+    "1": [
+     0.0154,
+     0.0108,
+     0.9846,
+     0.4598
+    ],
+    "2": [
+     0.4113,
+     0.4779,
+     0.9846,
+     0.7471
+    ],
+    "3": [
+     0.0154,
+     0.4779,
+     0.3985,
+     0.7471
+    ],
+    "4": [
+     0.5064,
+     0.7651,
+     0.9846,
+     0.9892
+    ],
+    "5": [
+     0.0154,
+     0.7651,
+     0.4936,
+     0.9892
+    ]
+   },
+   "lines": [
+    {
+     "id": "p9-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "内角、内角……外のカーブ",
+     "en": "Inside, inside... outside curve."
+    },
+    {
+     "id": "p9-1-2",
+     "panel": 1,
+     "type": "speech",
+     "ja": "くそっ、読まれた!!",
+     "en": "Damn, he read me!!"
+    },
+    {
+     "id": "p9-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "捕手は、打者を見て次の球を決める",
+     "en": "The catcher watches the batter and picks the next pitch."
+    },
+    {
+     "id": "p9-2-2",
+     "panel": 2,
+     "type": "speech",
+     "ja": "ゲームの読みと、同じじゃ",
+     "en": "Same as reading the game."
+    },
+    {
+     "id": "p9-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "配球は、ハルトくんが上です",
+     "en": "Haruto is better at pitch calling."
+    },
+    {
+     "id": "p9-4-1",
+     "panel": 4,
+     "type": "speech",
+     "ja": "野球盤の鬼のおれが……",
+     "en": "And me, a Yakyuban demon..."
+    },
+    {
+     "id": "p9-5-1",
+     "panel": 5,
+     "type": "speech",
+     "ja": "それ、何回目？",
+     "en": "How many times is that now?"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "panels": {
+    "1": [
+     0.4113,
+     0.0108,
+     0.9846,
+     0.28
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.3985,
+     0.28
+    ],
+    "3": [
+     0.0154,
+     0.2981,
+     0.9846,
+     0.9792
+    ]
+   },
+   "lines": [
+    {
+     "id": "p10-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "捕ったら、すぐ持ち替えろ。ボタンは一回だ",
+     "en": "Catch it, switch hands right away. One button press."
+    },
+    {
+     "id": "p10-1-2",
+     "panel": 1,
+     "type": "speech",
+     "ja": "親父に教わんなかったのか",
+     "en": "Didn't your dad teach you?"
+    },
+    {
+     "id": "p10-1-3",
+     "panel": 1,
+     "type": "caption",
+     "ja": "その夕方。",
+     "en": "That evening."
+    },
+    {
+     "id": "p10-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "父ちゃん、ずっと遠くで仕事",
+     "en": "Dad works far away, all the time."
+    },
+    {
+     "id": "p10-2-2",
+     "panel": 2,
+     "type": "speech",
+     "ja": "テツ、野球やってたの？",
+     "en": "Tetsu, did you play baseball?"
+    },
+    {
+     "id": "p10-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "……おれも、ずっと控えだった",
+     "en": "...I was a backup, too. Always."
+    },
+    {
+     "id": "p10-3-2",
+     "panel": 3,
+     "type": "speech",
+     "ja": "べ、別に。育成費の投資だ",
+     "en": "N-nothing. It's an investment in a development player."
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "panels": {
+    "1": [
+     0.4113,
+     0.0108,
+     0.9846,
+     0.28
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.3985,
+     0.28
+    ],
+    "3": [
+     0.347,
+     0.2981,
+     0.9846,
+     0.9702
+    ],
+    "4": [
+     0.0154,
+     0.2981,
+     0.3342,
+     0.6251
+    ],
+    "5": [
+     0.0154,
+     0.6432,
+     0.3342,
+     0.9702
+    ]
+   },
+   "lines": [
+    {
+     "id": "p11-1-1",
+     "panel": 1,
+     "type": "caption",
+     "ja": "翌週の日曜。少年野球、秋の大会。",
+     "en": "The following Sunday. Youth baseball, autumn tournament."
+    },
+    {
+     "id": "p11-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "走れ走れ!!",
+     "en": "Run, run!!"
+    },
+    {
+     "id": "p11-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "本日の球審です",
+     "en": "Today's home plate umpire."
+    },
+    {
+     "id": "p11-4-1",
+     "panel": 4,
+     "type": "speech",
+     "ja": "課長!?",
+     "en": "Chief!?"
+    },
+    {
+     "id": "p11-5-1",
+     "panel": 5,
+     "type": "speech",
+     "ja": "休日は、審判です",
+     "en": "On my days off, I umpire."
+    }
+   ]
+  },
+  {
+   "page": 12,
+   "panels": {
+    "1": [
+     0.0154,
+     0.0108,
+     0.9846,
+     0.4625
+    ],
+    "2": [
+     0.4113,
+     0.4806,
+     0.9846,
+     0.7498
+    ],
+    "3": [
+     0.0154,
+     0.4806,
+     0.3985,
+     0.7498
+    ],
+    "4": [
+     0.6697,
+     0.7678,
+     0.9846,
+     0.9892
+    ],
+    "5": [
+     0.3419,
+     0.7678,
+     0.6568,
+     0.9892
+    ],
+    "6": [
+     0.0154,
+     0.7678,
+     0.3303,
+     0.9892
+    ]
+   },
+   "lines": [
+    {
+     "id": "p12-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "ストップウォッチ……あれは、スカウトだ!!",
+     "en": "A stopwatch... that's a scout!!"
+    },
+    {
+     "id": "p12-1-2",
+     "panel": 1,
+     "type": "speech",
+     "ja": "少年野球にですか",
+     "en": "At a youth game?"
+    },
+    {
+     "id": "p12-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "ハ、ハルトを先発に……",
+     "en": "H-Haruto, starting..."
+    },
+    {
+     "id": "p12-2-2",
+     "panel": 2,
+     "type": "speech",
+     "ja": "ベンチの大人は、おれだ",
+     "en": "I'm the adult on the bench."
+    },
+    {
+     "id": "p12-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "……今日だけじゃぞ",
+     "en": "...Just today, mind you."
+    },
+    {
+     "id": "p12-5-1",
+     "panel": 5,
+     "type": "speech",
+     "ja": "……投げていい？",
+     "en": "...Can I throw now?"
+    },
+    {
+     "id": "p12-6-1",
+     "panel": 6,
+     "type": "speech",
+     "ja": "プレイ",
+     "en": "Play ball."
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "panels": {
+    "1": [
+     0.0154,
+     0.0108,
+     0.9846,
+     0.4652
+    ],
+    "2": [
+     0.5064,
+     0.4833,
+     0.9846,
+     0.9874
+    ],
+    "3": [
+     0.0154,
+     0.4833,
+     0.4936,
+     0.9874
+    ]
+   },
+   "lines": [
+    {
+     "id": "p13-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "走れ走れ!!",
+     "en": "Run, run!!"
+    },
+    {
+     "id": "p13-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "三回で、盗塁四つです",
+     "en": "Four steals in three innings."
+    },
+    {
+     "id": "p13-2-2",
+     "panel": 2,
+     "type": "speech",
+     "ja": "おれの野球盤じゃ、盗塁されたことねえ",
+     "en": "Nobody has ever stolen on me in Yakyuban."
+    },
+    {
+     "id": "p13-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "ここは、野球盤じゃありません",
+     "en": "This isn't Yakyuban."
+    },
+    {
+     "id": "p13-3-2",
+     "panel": 3,
+     "type": "speech",
+     "ja": "……盤の外か!!",
+     "en": "...Outside the board!!"
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "panels": {
+    "1": [
+     0.4113,
+     0.0108,
+     0.9846,
+     0.28
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.3985,
+     0.28
+    ],
+    "3": [
+     0.0154,
+     0.2981,
+     0.9846,
+     0.9792
+    ]
+   },
+   "lines": [
+    {
+     "id": "p14-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "盤の外なら……盤の技を持ち込むまでだ!!",
+     "en": "Outside the board... then I'll bring the board's tricks with me!!"
+    },
+    {
+     "id": "p14-1-2",
+     "panel": 1,
+     "type": "speech",
+     "ja": "……消える魔球？",
+     "en": "...A vanishing pitch?"
+    },
+    {
+     "id": "p14-1-3",
+     "panel": 1,
+     "type": "caption",
+     "ja": "四回表。一死、走者なし。",
+     "en": "Top of the fourth. One out, nobody on."
+    },
+    {
+     "id": "p14-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "地面すれすれに。おれが止める",
+     "en": "Right along the ground. I'll stop it."
+    },
+    {
+     "id": "p14-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "捕れなかった三つ目は、タッチ。バッターアウト",
+     "en": "A missed third strike: tag him. Batter's out."
+    },
+    {
+     "id": "p14-3-2",
+     "panel": 3,
+     "type": "speech",
+     "ja": "……取れた",
+     "en": "...I got it."
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "panels": {
+    "1": [
+     0.5257,
+     0.0108,
+     0.9846,
+     0.495
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.5129,
+     0.2439
+    ],
+    "3": [
+     0.0154,
+     0.262,
+     0.5129,
+     0.495
+    ],
+    "4": [
+     0.0154,
+     0.5131,
+     0.9846,
+     0.9675
+    ]
+   },
+   "lines": [
+    {
+     "id": "p15-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "消えたァ!! 全部消えろ!!",
+     "en": "It vanished!! Vanish, all of them!!"
+    },
+    {
+     "id": "p15-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "ボール、フォア",
+     "en": "Ball. Four balls."
+    },
+    {
+     "id": "p15-3-1",
+     "panel": 3,
+     "type": "caption",
+     "ja": "四球、また四球。",
+     "en": "Walk after walk."
+    },
+    {
+     "id": "p15-4-1",
+     "panel": 4,
+     "type": "speech",
+     "ja": "おれは監督の、代わりの……",
+     "en": "I'm just standing in for the manager..."
+    },
+    {
+     "id": "p15-4-2",
+     "panel": 4,
+     "type": "speech",
+     "ja": "判定への抗議は、監督でもできません",
+     "en": "Not even a manager can protest a call."
+    },
+    {
+     "id": "p15-4-3",
+     "panel": 4,
+     "type": "speech",
+     "ja": "代わりの、代わりなら、なおさらです",
+     "en": "A stand-in for a stand-in, even less so."
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "panels": {
+    "1": [
+     0.4113,
+     0.0108,
+     0.9846,
+     0.28
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.3985,
+     0.28
+    ],
+    "3": [
+     0.6658,
+     0.2981,
+     0.9846,
+     0.6251
+    ],
+    "4": [
+     0.6658,
+     0.6432,
+     0.9846,
+     0.9702
+    ],
+    "5": [
+     0.0154,
+     0.2981,
+     0.653,
+     0.9702
+    ]
+   },
+   "lines": [
+    {
+     "id": "p16-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "……外のカーブ",
+     "en": "...Outside curve."
+    },
+    {
+     "id": "p16-1-2",
+     "panel": 1,
+     "type": "caption",
+     "ja": "五回表。サインは、ハルトが出す。",
+     "en": "Top of the fifth. Haruto gives the signs."
+    },
+    {
+     "id": "p16-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "逆転だァ!!",
+     "en": "We turned it around!!"
+    },
+    {
+     "id": "p16-3-2",
+     "panel": 3,
+     "type": "caption",
+     "ja": "五回裏、ソウタの一本で逆転。",
+     "en": "Bottom of the fifth: one hit from Sota flips the score."
+    },
+    {
+     "id": "p16-4-1",
+     "panel": 4,
+     "type": "speech",
+     "ja": "黙って見とれ",
+     "en": "Quiet. Just watch."
+    },
+    {
+     "id": "p16-4-2",
+     "panel": 4,
+     "type": "speech",
+     "ja": "お前のサインは、もうハルトの中じゃ",
+     "en": "Your signs are already inside Haruto."
+    },
+    {
+     "id": "p16-5-1",
+     "panel": 5,
+     "type": "speech",
+     "ja": "……盤の中では勝ってる",
+     "en": "...I'm winning, on the board."
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "panels": {
+    "1": [
+     0.5257,
+     0.0108,
+     0.9846,
+     0.495
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.5129,
+     0.2439
+    ],
+    "4": [
+     0.0154,
+     0.5131,
+     0.9846,
+     0.9675
+    ],
+    "3": [
+     0.0154,
+     0.262,
+     0.5129,
+     0.495
+    ]
+   },
+   "lines": [
+    {
+     "id": "p17-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "走れ走れ!!",
+     "en": "Run, run!!"
+    },
+    {
+     "id": "p17-1-2",
+     "panel": 1,
+     "type": "caption",
+     "ja": "最終回表。3対2。二死一塁。",
+     "en": "Top of the last inning. 3 to 2. Two outs, runner on first."
+    },
+    {
+     "id": "p17-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "その手もです",
+     "en": "He'll try that too."
+    },
+    {
+     "id": "p17-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "……お前が決めろ",
+     "en": "...You make the call."
+    },
+    {
+     "id": "p17-4-1",
+     "panel": 4,
+     "type": "speech",
+     "ja": "低く。……ワンバウンドなら、あの子は必ず走る",
+     "en": "Low. ...On one bounce, that kid will definitely run."
+    },
+    {
+     "id": "p17-4-2",
+     "panel": 4,
+     "type": "speech",
+     "ja": "セカン!!",
+     "en": "Second!!"
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "panels": {
+    "1": [
+     0.0154,
+     0.0108,
+     0.9846,
+     0.9892
+    ]
+   },
+   "lines": [
+    {
+     "id": "p18-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "いけェ!!",
+     "en": "Go!!"
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "panels": {
+    "1": [
+     0.4113,
+     0.0108,
+     0.9846,
+     0.28
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.3985,
+     0.28
+    ],
+    "3": [
+     0.6658,
+     0.2981,
+     0.9846,
+     0.6251
+    ],
+    "4": [
+     0.6658,
+     0.6432,
+     0.9846,
+     0.9702
+    ],
+    "5": [
+     0.0154,
+     0.2981,
+     0.653,
+     0.9702
+    ]
+   },
+   "lines": [
+    {
+     "id": "p19-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "アウト!",
+     "en": "Out!"
+    },
+    {
+     "id": "p19-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "ゲームセット",
+     "en": "Game."
+    },
+    {
+     "id": "p19-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "2秒9。……団地では最速です",
+     "en": "2.9. ...The fastest in the complex."
+    },
+    {
+     "id": "p19-4-1",
+     "panel": 4,
+     "type": "speech",
+     "ja": "い、育成費が……見えた……!!",
+     "en": "I can see it... the development money...!!"
+    },
+    {
+     "id": "p19-5-1",
+     "panel": 5,
+     "type": "speech",
+     "ja": "け、契約の話なら、代理人のおれを……",
+     "en": "If it's about a contract, talk to me, his agent..."
+    },
+    {
+     "id": "p19-5-2",
+     "panel": 5,
+     "type": "speech",
+     "ja": "……ハルトの父です",
+     "en": "...I'm Haruto's father."
+    }
+   ]
+  },
+  {
+   "page": 20,
+   "panels": {
+    "1": [
+     0.4113,
+     0.0108,
+     0.9846,
+     0.28
+    ],
+    "2": [
+     0.0154,
+     0.0108,
+     0.3985,
+     0.28
+    ],
+    "3": [
+     0.6697,
+     0.2981,
+     0.9846,
+     0.5194
+    ],
+    "4": [
+     0.3419,
+     0.2981,
+     0.6568,
+     0.5194
+    ],
+    "5": [
+     0.0154,
+     0.2981,
+     0.3303,
+     0.5194
+    ],
+    "6": [
+     0.0154,
+     0.5375,
+     0.9846,
+     0.9892
+    ]
+   },
+   "lines": [
+    {
+     "id": "p20-1-1",
+     "panel": 1,
+     "type": "speech",
+     "ja": "父ちゃん、見てた!?",
+     "en": "Dad, did you see that!?"
+    },
+    {
+     "id": "p20-2-1",
+     "panel": 2,
+     "type": "speech",
+     "ja": "スカウトじゃ……ねえ……",
+     "en": "Not a scout... after all..."
+    },
+    {
+     "id": "p20-2-2",
+     "panel": 2,
+     "type": "speech",
+     "ja": "支度金は本人の。取り分、ゼロです",
+     "en": "The signing bonus belongs to the player. Your cut: zero."
+    },
+    {
+     "id": "p20-3-1",
+     "panel": 3,
+     "type": "speech",
+     "ja": "来週からコーチじゃ",
+     "en": "You start as coach next week."
+    },
+    {
+     "id": "p20-4-1",
+     "panel": 4,
+     "type": "speech",
+     "ja": "30番か!?",
+     "en": "Number 30!?"
+    },
+    {
+     "id": "p20-5-1",
+     "panel": 5,
+     "type": "speech",
+     "ja": "30番は、監督のじゃ",
+     "en": "Number 30 is the manager's."
+    },
+    {
+     "id": "p20-6-1",
+     "panel": 6,
+     "type": "speech",
+     "ja": "育成のテツー! 朝練ー!",
+     "en": "Tetsu the trainee! Morning practice!"
+    },
+    {
+     "id": "p20-6-2",
+     "panel": 6,
+     "type": "speech",
+     "ja": "三ケタって、背中の方かよ!!",
+     "en": "Three digits meant the number on my back!?"
+    },
+    {
+     "id": "p20-6-3",
+     "panel": 6,
+     "type": "caption",
+     "ja": "翌朝。",
+     "en": "The next morning."
+    }
+   ]
+  }
+ ]
+}

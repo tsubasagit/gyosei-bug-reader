@@ -1,23 +1,15 @@
 {
   "_説明": "再訪の仕掛けの設定。次回予告と、新しい話のお知らせ先（X）。日付は空でもよい（空なら「近日公開」と出す）。英語表示用の題名は title_en",
   "next": {
-    "number": 23,
-    "title": "背番号は三ケタ",
-    "date": "2026-11-12"
+    "number": 25,
+    "title": "課長のいない十日間",
+    "date": "2026-11-16"
   },
   "x": {
     "url": "https://x.com/tsubasatwi",
     "handle": "@tsubasatwi"
   },
   "schedule": [
-    {
-      "number": 23,
-      "title": "背番号は三ケタ",
-      "subtitle": "育成ドラフト（スリー・ディジット）",
-      "date": "2026-11-12",
-      "genres": [],
-      "cover": "assets/upcoming/23.webp"
-    },
     {
       "number": 25,
       "title": "課長のいない十日間",
@@ -31,11 +23,18 @@
     },
     {
       "number": 26,
+      "title": "全部、おれの傘",
+      "subtitle": "目印チャーム（セイム・マーク）",
+      "date": "2026-11-19",
+      "genres": []
+    },
+    {
+      "number": 27,
       "title": "副業、許可ください",
       "subtitle": "兼業許可（サイド・ハッスル）",
       "date": "2026-11-23",
       "genres": [],
-      "cover": "assets/upcoming/26.webp"
+      "cover": "assets/upcoming/27.webp"
     }
   ]
 }
