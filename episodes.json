@@ -3607,7 +3607,11 @@
       "genres": [
         "スポーツ",
         "子ども・教育"
-      ]
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1175728",
+        "pixiv": "https://www.pixiv.net/artworks/151969221"
+      }
     },
     {
       "id": "24",
