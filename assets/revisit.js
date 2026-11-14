@@ -12,6 +12,7 @@
   const EP_ID = isReader ? app.dataset.episode : null;
   const T = window.I18N.t;               // 文言（日本語・英語）。i18n.js を先に読み込む
   const F = window.I18N.field;           // 英語のときは title_en などを読む
+  const NUM = ep => (ep && ep.label) || (ep && ep.number);   // 番外編は label（例 "24-2"）を話数として出す。並びは number（24.5）
   const link = window.I18N.withLang;
 
   // 見た目は別ファイル。HTML を触らずに済むよう、ここで読み込む
@@ -38,7 +39,7 @@
       const when = md ? T.releaseOn(Number(md[1]), Number(md[2])) : T.comingSoon();
       box.append(
         el('p', 'revisit-kicker', when),
-        el('p', 'revisit-next', T.endSub(next.number, F(next, 'title'))),
+        el('p', 'revisit-next', T.endSub(NUM(next), F(next, 'title'))),
       );
     }
     if (up.x && up.x.url) {
@@ -77,7 +78,7 @@
 
     Promise.all([dataP, upcomingP]).then(([data, up]) => {
       const ep = data.episodes.find(e => e.id === EP_ID);
-      if (ep) { last = ep.hasCover ? ep.pages.length - 1 : ep.pages.length; title = ep.title; number = ep.number; remember(); }  // 覚える題名は日本語（表示のときに言語で引き直す）
+      if (ep) { last = ep.hasCover ? ep.pages.length - 1 : ep.pages.length; title = ep.title; number = NUM(ep); remember(); }  // 覚える題名は日本語（表示のときに言語で引き直す）
       // 次回予告は、まだ公開していない話のときだけ出す
       const up2 = { ...up };
       if (up.next && data.episodes.some(e => e.number === up.next.number && e.pages && e.pages.length)) delete up2.next;

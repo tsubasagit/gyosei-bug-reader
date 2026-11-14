@@ -31,6 +31,11 @@ ANALYTICS = ('  <script defer src="https://static.cloudflareinsights.com/beacon.
              '  <script defer src="https://tsubasagit.github.io/gyosei-bug-reader/assets/src.js?v=20261107"></script>')
 
 
+
+def num(ep):
+    """表示する話数。番外編は label（例 '24-2'）、本編は number"""
+    return ep.get('label') or ep['number']
+
 def ld_json(obj):
     """<script type="application/ld+json"> の中身。</script> で途切れないよう < を逃がす"""
     return json.dumps(obj, ensure_ascii=False, indent=2).replace('<', '\\u003c')
@@ -61,9 +66,9 @@ def episode_head(ep, series):
         '@context': 'https://schema.org',
         '@type': 'ComicIssue',
         'name': ep['title'],
-        'headline': f"第{ep['number']}話「{ep['title']}」",
+        'headline': f"第{num(ep)}話「{ep['title']}」",
         'alternativeHeadline': ep.get('subtitle', ''),
-        'issueNumber': ep['number'],
+        'issueNumber': num(ep),
         'url': url,
         'description': ep.get('summary', ''),
         'keywords': ','.join(tags + ep.get('genres', []) + SERIES_KEYWORDS),
@@ -92,7 +97,7 @@ def episode_about(ep):
     """日本語の読み物ブロック（あらすじ・制度のポイント・台本）。検索で見つけてもらうための文字。「おわり」の中に、開いて読む形で"""
     ex = ep.get('explain') or {}
     path = os.path.join(ROOT, 'ep', ep['id'], 'script.en.json')
-    parts = [f'<h2>第{ep["number"]}話「{html.escape(ep["title"])}」{html.escape(ep.get("subtitle", ""))}</h2>',
+    parts = [f'<h2>第{num(ep)}話「{html.escape(ep["title"])}」{html.escape(ep.get("subtitle", ""))}</h2>',
              f'<p>{html.escape(ep.get("summary", ""))}</p>']
     if ex.get('points'):
         parts.append('<h3>この話の制度・豆知識</h3><ul class="end-about-list">'
@@ -154,7 +159,7 @@ def series_head(series, eps):
         'hasPart': [{
             '@type': 'ComicIssue',
             'name': e['title'],
-            'issueNumber': e['number'],
+            'issueNumber': num(e),
             'url': f"{SITE}ep/{e['id']}/",
             'datePublished': e['published'],
             'keywords': ','.join(e.get('tags', [])),

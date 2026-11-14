@@ -31,6 +31,11 @@ SERIES_KEYWORDS_EN = ['City Hall Bug', 'manga', 'free manga', 'webcomic', 'gag m
 GENRE_EN = ['Gag manga', 'Workplace comedy']
 
 
+
+def num(ep):
+    """表示する話数。番外編は label（例 '24-2'）、本編は number"""
+    return ep.get('label') or ep['number']
+
 def load_en_strings():
     """i18n.js の EN（'キー': '英語',）を読む"""
     src = open(os.path.join(ROOT, 'assets', 'i18n.js'), encoding='utf-8').read()
@@ -124,7 +129,7 @@ def script_section(ep):
         return ''
     title = html.escape(ep['title_en'])
     return (f'<details class="end-script"><summary>Read the English script</summary>'
-            f'<div class="end-script-body"><h2>Ep. {ep["number"]} “{title}” — English script</h2>'
+            f'<div class="end-script-body"><h2>Ep. {num(ep)} “{title}” — English script</h2>'
             + ''.join(parts) + '</div></details>')
 
 
@@ -134,7 +139,7 @@ def build_episode(ep, series, EN):
         return False
     soup = BeautifulSoup(open(src, encoding='utf-8').read(), 'html.parser')
     ja_url, en_url = f"{SITE}ep/{ep['id']}/", f"{SITE}en/ep/{ep['id']}/"
-    n, title = ep['number'], ep['title_en']
+    n, title = num(ep), ep['title_en']
     stitle = series['title_en']
 
     soup.html['lang'] = 'en'
@@ -228,8 +233,8 @@ def build_top(series, eps, EN):
     lst.clear()
     for ep in reversed(eps):
         item = (f'<li><a class="episode" href="ep/{ep["id"]}/">'
-                f'<img src="../ep/{ep["id"]}/thumb.webp" alt="Ep. {ep["number"]} {html.escape(ep["title_en"])}" loading="lazy">'
-                f'<div class="episode-body"><span class="ep-num">Ep. {ep["number"]}</span>'
+                f'<img src="../ep/{ep["id"]}/thumb.webp" alt="Ep. {num(ep)} {html.escape(ep["title_en"])}" loading="lazy">'
+                f'<div class="episode-body"><span class="ep-num">Ep. {num(ep)}</span>'
                 f'<h3 class="ep-title">{html.escape(ep["title_en"])}</h3>'
                 f'<p class="ep-sub">{html.escape(ep.get("subtitle_en", ""))}</p>'
                 f'<p class="ep-summary">{html.escape(ep.get("summary_en", ""))}</p></div></a></li>')
@@ -239,7 +244,8 @@ def build_top(series, eps, EN):
             ns.decompose()
     count = soup.find(id='episode-count')
     if count:
-        count.string = f'{len(eps)} chapters online. Start anywhere.'
+        sp = sum(1 for e in eps if e.get('label'))
+        count.string = f'{len(eps) - sp} chapters online' + (f' (plus {sp} special' + ('s' if sp > 1 else '') + ')' if sp else '') + '. Start anywhere.'
 
     data = {
         '@context': 'https://schema.org',
@@ -258,7 +264,7 @@ def build_top(series, eps, EN):
         'hasPart': [{
             '@type': 'ComicIssue',
             'name': e['title_en'],
-            'issueNumber': e['number'],
+            'issueNumber': num(e),
             'url': f"{SITE}en/ep/{e['id']}/",
             'datePublished': e['published'],
         } for e in eps],

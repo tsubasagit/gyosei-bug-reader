@@ -15,6 +15,11 @@ SITE = 'https://tsubasagit.github.io/gyosei-bug-reader/'
 JST = timezone(timedelta(hours=9))
 
 
+
+def num(ep):
+    """表示する話数。番外編は label（例 '24-2'）、本編は number"""
+    return ep.get('label') or ep['number']
+
 def build():
     data = json.load(open(os.path.join(ROOT, 'episodes.json'), encoding='utf-8'))
     series = data['series']
@@ -28,7 +33,7 @@ def build():
     items = []
     for e in eps:
         url = f"{SITE}ep/{e['id']}/"
-        title = f"第{e['number']}話「{e['title']}」"
+        title = f"第{num(e)}話「{e['title']}」"
         desc = f"～{e.get('subtitle', '')}～ {e.get('summary', '')}".strip()
         items.append(
             '    <item>\n'

@@ -3765,6 +3765,157 @@
         "niconico": "https://manga.nicovideo.jp/watch/mg1176368",
         "pixiv": "https://www.pixiv.net/artworks/152003475"
       }
+    },
+    {
+      "id": "24-2",
+      "number": 24.5,
+      "label": "24-2",
+      "special": true,
+      "title": "住民票1枚、画像20枚",
+      "subtitle": "番外編（Xの画像20枚投稿）",
+      "summary": "梨ヶ坂市役所の公式ポストが、Xの画像20枚投稿に対応しました。窓口に来たあなたは、画像を1枚めくるたびに次の窓口へ回されます。住民票1枚をもらうまでの、20枚のたらい回し。最後に出てきた住民票は――。",
+      "published": "2026-11-14",
+      "tags": [
+        "X",
+        "画像20枚",
+        "住民票",
+        "たらい回し",
+        "窓口",
+        "コンビニ交付"
+      ],
+      "genres": [
+        "番外編"
+      ],
+      "title_en": "One Certificate, Twenty Images",
+      "subtitle_en": "Special (X's 20-image posts)",
+      "summary_en": "Nashigasaka City Hall's official account now supports X's new 20-image posts. You, a resident at the counter, get sent to the next window every time you swipe to the next image. Twenty images of being passed around, all for one resident certificate — and what finally gets issued is...",
+      "explain": {
+        "points": [
+          "Xで1回のポストに画像を20枚まで付けられるようになったのに合わせた番外編です。1枚の画像が1ページで、画像をめくることが、そのまま窓口から窓口へ回される流れになっています。",
+          "住民票の写しは、市区町村の窓口のほか、マイナンバーカードがあればコンビニのマルチコピー機でも取れます（コンビニ交付）。対応しているかどうか、手数料や使える時間は市区町村ごとに違います。",
+          "申請書の「記入例」は、書き方を見せるための見本です。この話の「梨ヶ坂 太郎」や500円のファストパスなど、梨ヶ坂市役所の窓口の決まりは作中だけの設定です。"
+        ],
+        "sources": [
+          {
+            "label": "コンビニ交付（地方公共団体情報システム機構）",
+            "url": "https://www.lg-waps.go.jp/"
+          }
+        ]
+      },
+      "pages": [
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp",
+        "p20.webp"
+      ],
+      "sizes": [
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ]
+      ],
+      "hasCover": false,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          16,
+          16,
+          1572,
+          2230
+        ]
+      }
     }
   ],
   "_oneshotsの説明": "作者の読み切り。話数の一覧・公開予定・ニコニコ/pixivの数・SEOの話の一覧には入れない。読む画面は yomikiri/<id>/（reader.js が episodes の次にここを探す）",

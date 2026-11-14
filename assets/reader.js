@@ -16,6 +16,7 @@
   const MODE_KEY = 'gyosei-reader-mode'; // 'auto' | 'spread'
   const T = window.I18N.t;               // 文言（日本語・英語）
   const F = window.I18N.field;           // 英語のときは title_en などを読む
+  const NUM = ep => (ep && ep.label) || (ep && ep.number);   // 番外編は label（例 "24-2"）を話数として出す。並びは number（24.5）
   const link = window.I18N.withLang;
 
   const state = {
@@ -85,7 +86,7 @@
     const size = state.ep.sizes && state.ep.sizes[i];
     if (size) { img.width = size[0]; img.height = size[1]; } // 読み込む前から高さを取っておく
     img.src = state.pages[i];
-    img.alt = T.pageAlt(state.ep.number, F(state.ep, 'title'),
+    img.alt = T.pageAlt(NUM(state.ep), F(state.ep, 'title'),
       state.ep.hasCover && i === 0 ? T.coverAltPart() : T.pageAltPart(pageLabel(i)));
     img.className = 'page';
     img.draggable = false;
@@ -578,11 +579,11 @@
       state.mode = storage.get(MODE_KEY) === 'spread' ? 'spread' : 'auto';
 
       const epTitle = F(state.ep, 'title');
-      $('title').textContent = T.readerTitle(state.ep.number, epTitle);
-      $('end').querySelector('.end-sub').textContent = T.endSub(state.ep.number, epTitle);
+      $('title').textContent = T.readerTitle(NUM(state.ep), epTitle);
+      $('end').querySelector('.end-sub').textContent = T.endSub(NUM(state.ep), epTitle);
       if (window.I18N.isEn) $('end').querySelector('.end-tags')?.remove();   // タグは日本語の検索向けなので、英語では出さない
       // 「おわり」の X で感想を書く：話の題名と、この話の URL（ページ番号は付けない）
-      const shareText = T.shareText(state.ep.number, epTitle);
+      const shareText = T.shareText(NUM(state.ep), epTitle);
       $('share-x').href = `https://x.com/intent/post?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(location.href.split('#')[0])}`;
       // 次に公開されている話があれば、「おわり」のいちばん上に「次の話へ」を出す（感想ボタンは控えめに）
       const nextEp = !oneshot && data.episodes.filter(e => e.pages && e.pages.length && e.number > state.ep.number).sort((a, b) => a.number - b.number)[0];
@@ -590,7 +591,7 @@
         const a = document.createElement('a');
         a.className = 'btn btn-primary';
         a.href = link(`${LINK_BASE}ep/${nextEp.id}/`);
-        a.textContent = T.nextEp(nextEp.number, F(nextEp, 'title'));
+        a.textContent = T.nextEp(NUM(nextEp), F(nextEp, 'title'));
         $('share-x').className = 'btn btn-ghost';
         $('end').querySelector('.end-actions').prepend(a);
       }
@@ -615,7 +616,7 @@
         a.append(label, title, note);
         $('end').querySelector('.end-actions').after(a);
       }
-      if (!oneshot) document.title = T.docTitle(state.ep.number, epTitle, F(data.series, 'title'));
+      if (!oneshot) document.title = T.docTitle(NUM(state.ep), epTitle, F(data.series, 'title'));
       await loadScript();
       ensureCoverNote();
 

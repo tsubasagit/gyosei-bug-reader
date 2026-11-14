@@ -1,0 +1,719 @@
+{
+  "episode": "24-2",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ],
+        "2": [
+          0.0411,
+          0.6369,
+          0.4781,
+          0.9711
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "梨ヶ坂市役所が Xの画像20枚に 対応しました。",
+          "en": "Nashigasaka City Hall now supports X's 20-image posts."
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "住民票か。1枚だな",
+          "en": "A resident certificate? Just one sheet."
+        },
+        {
+          "id": "p1-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "きょうから、Xで全部すむぞ!!",
+          "en": "Starting today, you can do it all on X!!"
+        },
+        {
+          "id": "p1-1-4",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ここから20枚、めくれ!!",
+          "en": "Now swipe through all 20!!"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "こちらの申請書に、ご記入ください",
+          "en": "Please fill out this application form."
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "記入例は、3枚目にございます",
+          "en": "The sample form is in image 3."
+        },
+        {
+          "id": "p2-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "念じろ。届く",
+          "en": "Just will it. It'll get there."
+        },
+        {
+          "id": "p2-1-4",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……届きません。次へどうぞ",
+          "en": "...It won't. Next, please."
+        },
+        {
+          "id": "p2-1-5",
+          "panel": 1,
+          "type": "caption",
+          "ja": "画像なので、書けない。",
+          "en": "It's an image, so you can't write on it."
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ],
+        "2": [
+          0.6015,
+          0.4986,
+          0.9846,
+          0.7678
+        ],
+        "3": [
+          0.2738,
+          0.7678,
+          0.5887,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "このとおり書けば、通る",
+          "en": "Write it exactly like this and it goes through.",
+          "note": "In Japan, application forms at city halls usually come with a filled-in sample (kinyūrei). This one uses the made-up name “Nashigasaka Taro.”"
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お名前は、",
+          "en": "As for the name,"
+        },
+        {
+          "id": "p3-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ご自分ので!!",
+          "en": "use your own!!"
+        },
+        {
+          "id": "p3-1-4",
+          "panel": 1,
+          "type": "caption",
+          "ja": "本人確認は、4枚目。",
+          "en": "ID check is in image 4."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "画面に、身分証をかざしてください",
+          "en": "Please hold your ID up to the screen."
+        },
+        {
+          "id": "p4-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "…………見えません",
+          "en": "...I can't see it."
+        },
+        {
+          "id": "p4-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "課長、これ画像だぞ",
+          "en": "Boss, this is an image."
+        },
+        {
+          "id": "p4-1-4",
+          "panel": 1,
+          "type": "speech",
+          "ja": "知っています",
+          "en": "I'm aware."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "手数料、300円",
+          "en": "Fee: 300 yen."
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "500円出せば、15枚目まで飛ばしてやる",
+          "en": "Pay 500 and I'll skip you ahead to image 15."
+        },
+        {
+          "id": "p5-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "そんな制度、ありません!!",
+          "en": "There's no such system!!"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "番号札、6番。",
+          "en": "Ticket number 6."
+        },
+        {
+          "id": "p6-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "まだ6枚目ですよ",
+          "en": "We're only on image 6."
+        },
+        {
+          "id": "p6-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "あと14枚。がんばってください",
+          "en": "Fourteen to go. Hang in there."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "申し訳ございません",
+          "en": "We sincerely apologize."
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "住民票は、隣の画像でございます",
+          "en": "Resident certificates are in the next image."
+        },
+        {
+          "id": "p7-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "隣だ、隣",
+          "en": "Next one, next one."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "印鑑を、お願いします",
+          "en": "Your seal stamp, please.",
+          "note": "Many Japanese forms still ask for a personal seal stamp (inkan) instead of a signature."
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "押していいぞ。画面が汚れるだけだ!!",
+          "en": "Go ahead and stamp it. You'll just smudge your screen!!"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "12時になりました。",
+          "en": "It's now 12 o'clock."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "まだ、休みです。",
+          "en": "Still on break."
+        },
+        {
+          "id": "p10-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "のびた",
+          "en": "Noodles got soggy."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "スクショに判を押して、引用で出してくれ",
+          "en": "Stamp the screenshot and quote-post it."
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "それ、ただの拡散ですよね",
+          "en": "That's just spreading it around, isn't it?"
+        },
+        {
+          "id": "p11-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "広報費、ゼロ円!!",
+          "en": "Zero yen in PR costs!!"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "画像に押した判は",
+          "en": "A seal stamped on an image"
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "無効です",
+          "en": "is invalid."
+        },
+        {
+          "id": "p12-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "課長、声は画像に入らねえぞ",
+          "en": "Boss, your voice doesn't go into the image."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……あの",
+          "en": "...Um,"
+        },
+        {
+          "id": "p13-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "コンビニでも、取れます",
+          "en": "you can get it at a convenience store, too.",
+          "note": "With a My Number Card, many Japanese cities let you print a resident certificate at a convenience-store copier."
+        },
+        {
+          "id": "p13-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "12枚めくった人だぞ。泣かすな",
+          "en": "They've swiped through 12 images. Don't make them cry."
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "担当者は、席を外しております。",
+          "en": "The person in charge has stepped away."
+        },
+        {
+          "id": "p14-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "仕事は、していない。",
+          "en": "No work is being done."
+        },
+        {
+          "id": "p14-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "テツさんなら、15枚目ですよ",
+          "en": "If you want Tetsu, he's in image 15."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "飛んで来たやつも",
+          "en": "Whether you skipped ahead"
+        },
+        {
+          "id": "p15-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "めくって来たやつも",
+          "en": "or swiped all the way here,"
+        },
+        {
+          "id": "p15-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ここからは、同じだ",
+          "en": "from here on, it's the same."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "一つ、曲がっています",
+          "en": "One of them is crooked."
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "全部、やり直しです",
+          "en": "Redo all of it."
+        },
+        {
+          "id": "p16-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "全部!?",
+          "en": "ALL of it!?"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――やり直し、3回。",
+          "en": "—Three redos later."
+        },
+        {
+          "id": "p17-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お待たせしました!!",
+          "en": "Sorry to keep you waiting!!"
+        },
+        {
+          "id": "p17-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "あと1枚だ。たぶん",
+          "en": "One more image. Probably."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "交付します",
+          "en": "Issuing your certificate."
+        },
+        {
+          "id": "p18-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "あと2枚、ある。",
+          "en": "Two images left."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……赤嶺？",
+          "en": "...Akamine?"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.9892
+        ],
+        "2": [
+          0.6324,
+          0.7453,
+          0.9589,
+          0.9747
+        ],
+        "3": [
+          0.036,
+          0.7182,
+          0.6093,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "交付されたのは、記入例でした。",
+          "en": "What got issued was the sample form."
+        },
+        {
+          "id": "p20-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "3枚目と、同じ。",
+          "en": "Same as image 3."
+        },
+        {
+          "id": "p20-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "な。通ったろ",
+          "en": "See? Told you it'd go through."
+        },
+        {
+          "id": "p20-1-4",
+          "panel": 1,
+          "type": "speech",
+          "ja": "手数料は、返さねえ",
+          "en": "No refunds on the fee."
+        },
+        {
+          "id": "p20-1-5",
+          "panel": 1,
+          "type": "speech",
+          "ja": "窓口へ、お越しください……",
+          "en": "Please come to the counter..."
+        }
+      ]
+    }
+  ]
+}

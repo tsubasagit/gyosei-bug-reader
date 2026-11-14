@@ -6,7 +6,15 @@
     <atom:link href="https://tsubasagit.github.io/gyosei-bug-reader/feed.xml" rel="self" type="application/rss+xml"/>
     <description>梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。金とサボりのために制度と技術を一夜漬けで覚える源田テツが、力技で市民の困りごとを片づけてしまう。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <item>
+      <title>第24-2話「住民票1枚、画像20枚」</title>
+      <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/24-2/</link>
+      <guid isPermaLink="true">https://tsubasagit.github.io/gyosei-bug-reader/ep/24-2/</guid>
+      <pubDate>Sat, 14 Nov 2026 09:00:00 +0900</pubDate>
+      <description>～番外編（Xの画像20枚投稿）～ 梨ヶ坂市役所の公式ポストが、Xの画像20枚投稿に対応しました。窓口に来たあなたは、画像を1枚めくるたびに次の窓口へ回されます。住民票1枚をもらうまでの、20枚のたらい回し。最後に出てきた住民票は――。</description>
+      <enclosure url="https://tsubasagit.github.io/gyosei-bug-reader/ep/24-2/thumb.webp" type="image/webp" length="0"/>
+    </item>
     <item>
       <title>第24話「欲しいのは、それじゃない」</title>
       <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/24/</link>

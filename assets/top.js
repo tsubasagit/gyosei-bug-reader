@@ -14,6 +14,7 @@ document.querySelectorAll('[data-until]').forEach(b => {
   const list = document.getElementById('episodes');
   const T = window.I18N.t;
   const F = window.I18N.field;          // 英語のときは title_en などを読む
+  const NUM = ep => (ep && ep.label) || (ep && ep.number);   // 番外編は label（例 "24-2"）を話数として出す。並びは number（24.5）
   const link = window.I18N.withLang;    // 英語のときはリンクに ?lang=en を付ける
   const isEn = window.I18N.isEn;
   const ROOT = window.I18N.root;        // 英語のページ（/en/）では '../'。データと絵はサイトのいちばん上にある
@@ -33,7 +34,7 @@ document.querySelectorAll('[data-until]').forEach(b => {
     // 大きな「読む」ボタンと表紙は最新話へ。1話からは横に小さく
     const first = eps[0], latest = eps[eps.length - 1];   // eps は話数の小さい順
     document.querySelectorAll('[data-first-link]').forEach(a => { a.href = link(`ep/${latest.id}/`); });
-    document.getElementById('cta-label').textContent = T.ctaLatest(latest.number);
+    document.getElementById('cta-label').textContent = T.ctaLatest(NUM(latest));
     const firstLink = document.getElementById('cta-latest');
     firstLink.href = link(`ep/${first.id}/`);
     firstLink.textContent = T.fromFirst(F(first, 'title'));
@@ -54,7 +55,7 @@ document.querySelectorAll('[data-until]').forEach(b => {
     eps.forEach(ep => (ep.genres || []).forEach(g => genreCount.set(g, (genreCount.get(g) || 0) + 1)));
     if (genre && !genreCount.has(genre)) genre = '';
     const norm = s => String(s || '').normalize('NFKC').toLowerCase();
-    const haystack = ep => norm([F(ep, 'title'), F(ep, 'subtitle'), F(ep, 'summary'), ep.title, ep.subtitle, ...(ep.tags || []), ...(ep.genres || []), `第${ep.number}話`].join(' '));
+    const haystack = ep => norm([F(ep, 'title'), F(ep, 'subtitle'), F(ep, 'summary'), ep.title, ep.subtitle, ...(ep.tags || []), ...(ep.genres || []), `第${NUM(ep)}話`, ep.label ? '番外編' : ''].join(' '));
     const matches = ep => (!genre || (ep.genres || []).includes(genre))
       && norm(query).split(/\s+/).filter(Boolean).every(w => haystack(ep).includes(w));
 
@@ -97,7 +98,7 @@ document.querySelectorAll('[data-until]').forEach(b => {
         li.append(' ', clear);
         list.replaceChildren(li);
       }
-      if (count) count.textContent = filtering ? T.epFiltered(shown.length, eps.length) : T.epCount(eps.length);
+      if (count) count.textContent = filtering ? T.epFiltered(shown.length, eps.length) : T.epCount(eps.filter(e => !e.label).length, eps.filter(e => e.label).length);
       [...sortBox.children].forEach(b => b.setAttribute('aria-pressed', String(b.dataset.order === order)));
       [...chips.children].forEach(b => b.setAttribute('aria-pressed', String(b.dataset.genre === genre)));
       syncUrl();
@@ -126,13 +127,13 @@ document.querySelectorAll('[data-until]').forEach(b => {
       a.href = link(`ep/${ep.id}/`);
       const img = el('img');
       img.src = `${ROOT}ep/${ep.id}/thumb.webp`;
-      img.alt = T.thumbAlt(ep.number, F(ep, 'title'));
+      img.alt = T.thumbAlt(NUM(ep), F(ep, 'title'));
       img.loading = 'lazy';
       const body = el('div', 'episode-body');
       const pages = ep.pages.length - (ep.hasCover ? 1 : 0);
       body.append(
         ...(ep === latest ? [el('span', 'ep-pick', T.pick())] : []),
-        el('span', 'ep-num', T.epNum(ep.number)),
+        el('span', 'ep-num', T.epNum(NUM(ep))),
         // 言語の札：日本語で見ているときは英語版がある話に、英語で見ているときは英語版が無い話にだけ付ける
         ...(T.langTag(!!ep.pagesEn) ? [el('span', 'ep-lang' + (ep.pagesEn ? ' has-en' : ''), T.langTag(!!ep.pagesEn))] : []),
         el('h3', 'ep-title', F(ep, 'title')),

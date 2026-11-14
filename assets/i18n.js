@@ -142,7 +142,7 @@
   // ---- top.js / reader.js が使う文言 ------------------------------------------
   const STR = {
     ja: {
-      epCount: n => `公開中の${n}話。どの話からでも楽しめます。`,
+      epCount: (n, sp) => `公開中の${n}話${sp ? `（ほかに番外編${sp}本）` : ''}。どの話からでも楽しめます。`,
       ctaFirst: n => (n === 1 ? '第1話から読む' : `第${n}話から読む`),
       latest: (n, title) => `最新話：第${n}話「${title}」`,
       pick: () => '最新話',
@@ -197,7 +197,7 @@
       otherLang: () => 'English',
     },
     en: {
-      epCount: n => `${n} chapters online. Start with any of them.`,
+      epCount: (n, sp) => `${n} chapters online${sp ? ` (plus ${sp} special${sp > 1 ? 's' : ''})` : ''}. Start with any of them.`,
       ctaFirst: n => `Start with chapter ${n}`,
       latest: (n, title) => `Latest: Ep. ${n} “${title}”`,
       pick: () => 'Latest',
