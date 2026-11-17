@@ -1,0 +1,1844 @@
+{
+  "episode": "25",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0922,
+          0.0115,
+          0.9078,
+          0.3837
+        ],
+        "2": [
+          0.5112,
+          0.4077,
+          0.9092,
+          0.5895
+        ],
+        "3": [
+          0.0908,
+          0.4077,
+          0.4888,
+          0.5895
+        ],
+        "4": [
+          0.0922,
+          0.6144,
+          0.9078,
+          0.9866
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ぐがー……むにゃ……定時……",
+          "en": "Zzz... mmh... quitting time..."
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "勤務中に寝るな!! 起きなさい!!",
+          "en": "No sleeping on the job!! Wake up!!"
+        },
+        {
+          "id": "p1-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十月。梨ヶ坂市役所・地下。",
+          "en": "October. Nashigasaka City Hall, basement."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……夢の中では、働いてた",
+          "en": "...I was working in my dream."
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "夢の中の分は、時給出ませんよ",
+          "en": "Dream hours aren't paid, you know."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "今日も、いい葉の色ですね",
+          "en": "Lovely leaf color again today."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.5112,
+          0.0115,
+          0.9162,
+          0.289
+        ],
+        "2": [
+          0.0838,
+          0.0115,
+          0.4888,
+          0.289
+        ],
+        "3": [
+          0.0852,
+          0.3139,
+          0.9148,
+          0.6928
+        ],
+        "4": [
+          0.655,
+          0.7177,
+          0.919,
+          0.9885
+        ],
+        "5": [
+          0.3687,
+          0.7177,
+          0.6327,
+          0.9885
+        ],
+        "6": [
+          0.0824,
+          0.7177,
+          0.3464,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "人事課です。通知はご覧に？",
+          "en": "HR here. Did you see our notice?"
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……通知？",
+          "en": "...Notice?"
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "課長、今年の年休、0日です",
+          "en": "Chief, your paid leave this year: zero days."
+        },
+        {
+          "id": "p2-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ゼ、0日!?",
+          "en": "Z-zero days!?"
+        },
+        {
+          "id": "p2-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "一日も!?",
+          "en": "Not even one!?"
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "法律の義務ではありません",
+          "en": "It's not a legal requirement.",
+          "note": "Japan's Labor Standards Act requires employers to make workers take at least 5 days of paid leave a year, but that rule does not apply to local government employees."
+        },
+        {
+          "id": "p2-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "でも、課長だけ0日です",
+          "en": "But you're the only chief at zero."
+        },
+        {
+          "id": "p2-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "国の調査にも、出ます",
+          "en": "And it shows up in the national survey."
+        },
+        {
+          "id": "p2-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "盆栽の水が……係も……",
+          "en": "The bonsai needs water... and the unit..."
+        },
+        {
+          "id": "p2-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "休まない理由が、盆栽!?",
+          "en": "Your reason for not resting is a bonsai!?"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.5112,
+          0.0115,
+          0.9818,
+          0.4957
+        ],
+        "2": [
+          0.0182,
+          0.0115,
+          0.4888,
+          0.2392
+        ],
+        "3": [
+          0.0182,
+          0.2679,
+          0.4888,
+          0.4957
+        ],
+        "4": [
+          0.0182,
+          0.5244,
+          0.9818,
+          0.9646
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "それ、何ですか",
+          "en": "What's that?"
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "父の、納経帳です",
+          "en": "My father's stamp book.",
+          "note": "Nokyocho: a book in which pilgrims collect a red seal and calligraphy at each of the 88 temples of the Shikoku pilgrimage."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "父は四国を、区切り打ちで回っていました",
+          "en": "He walked the Shikoku pilgrimage in sections.",
+          "note": "Kugiri-uchi: doing the pilgrimage a section at a time instead of all 88 temples in one trip."
+        },
+        {
+          "id": "p3-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "六十五番を打った翌年に、亡くなりまして",
+          "en": "He passed away the year after reaching Temple 65."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "残りは、香川の札所です",
+          "en": "What's left are the temples in Kagawa."
+        },
+        {
+          "id": "p3-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "いつか父の続きを、と言いながら……二十年",
+          "en": "I kept saying I'd finish it for him someday... for twenty years."
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "課長……",
+          "en": "Chief..."
+        },
+        {
+          "id": "p3-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "まとめて十日、取っていただけますか",
+          "en": "Could you take ten days, all at once?"
+        },
+        {
+          "id": "p3-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……十日？",
+          "en": "...Ten days?"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.0922,
+          0.0115,
+          0.9078,
+          0.3837
+        ],
+        "2": [
+          0.5112,
+          0.4077,
+          0.9092,
+          0.5895
+        ],
+        "3": [
+          0.0908,
+          0.4077,
+          0.4888,
+          0.5895
+        ],
+        "4": [
+          0.0922,
+          0.6144,
+          0.9078,
+          0.9866
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "課長のいない、十日間……",
+          "en": "Ten days without the chief..."
+        },
+        {
+          "id": "p4-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "それは、天国だァ!!",
+          "en": "That's paradise!!"
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "行ってください課長!! 盆栽はおれが!!",
+          "en": "Go, Chief!! Leave the bonsai to me!!"
+        },
+        {
+          "id": "p4-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "げ、源田くん……",
+          "en": "G-Genda..."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "水やりは僕が。一日五百円で",
+          "en": "I'll do the watering. 500 yen a day."
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "係は私が守ります。課長、どうぞ",
+          "en": "I'll protect the unit. Please go, Chief."
+        },
+        {
+          "id": "p4-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "課長不在を仕切れば、本庁への実績……!!",
+          "en": "Run things while he's gone, and HQ will notice...!!"
+        },
+        {
+          "id": "p4-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "皆さん……ありがとう",
+          "en": "Everyone... thank you."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.0531,
+          0.0115,
+          0.9469,
+          0.6239
+        ],
+        "2": [
+          0.5112,
+          0.6766,
+          0.9651,
+          0.9876
+        ],
+        "3": [
+          0.0349,
+          0.6766,
+          0.4888,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "では、行ってまいります",
+          "en": "Well then, I'm off."
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "出発の朝。",
+          "en": "The morning of departure."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "不在中は、赤嶺くんが代決を",
+          "en": "While I'm away, Akamine signs by proxy.",
+          "note": "Daiketsu (signing by proxy): when the person with approval authority is away, a designated substitute approves in their place. What may be approved this way is set by each city's rules."
+        },
+        {
+          "id": "p5-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "重要なものは、私の帰りを待ってください",
+          "en": "Anything important waits for my return."
+        },
+        {
+          "id": "p5-2-3",
+          "panel": 2,
+          "type": "speech",
+          "ja": "代決したものは、戻って後閲します",
+          "en": "Whatever is signed by proxy, I'll review when I'm back.",
+          "note": "Koetsu: the absent manager reviews proxy approvals after returning."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "お任せください!!",
+          "en": "Leave it to me!!"
+        },
+        {
+          "id": "p5-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "お土産は、うどんで!!",
+          "en": "Bring back udon!!"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.1271,
+          0.0115,
+          0.8729,
+          0.3522
+        ],
+        "2": [
+          0.5112,
+          0.3742,
+          0.8757,
+          0.6239
+        ],
+        "3": [
+          0.1243,
+          0.3742,
+          0.4888,
+          0.6239
+        ],
+        "4": [
+          0.1271,
+          0.6459,
+          0.8729,
+          0.9866
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "本庁の研修に、私が!?",
+          "en": "Me, at HQ training!?"
+        },
+        {
+          "id": "p6-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "本庁に戻る、足がかり……!!",
+          "en": "A foothold back to HQ...!!"
+        },
+        {
+          "id": "p6-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "その日の午後。",
+          "en": "That afternoon."
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "明日から一週間……ってことは",
+          "en": "A week starting tomorrow... which means..."
+        },
+        {
+          "id": "p6-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "代決の、二番目は……",
+          "en": "Second in line for proxy is..."
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "二番は、テツさんですね",
+          "en": "Number two is you, Tetsu."
+        },
+        {
+          "id": "p6-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……おれ？",
+          "en": "...Me?"
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "テツ、何も決裁しないで!!",
+          "en": "Tetsu, do NOT approve anything!!"
+        },
+        {
+          "id": "p6-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "絶対!!",
+          "en": "Ever!!"
+        },
+        {
+          "id": "p6-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "へーい",
+          "en": "Yeah, yeah."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.3366,
+          0.0115,
+          0.9651,
+          0.2986
+        ],
+        "2": [
+          0.0349,
+          0.0115,
+          0.3142,
+          0.2986
+        ],
+        "3": [
+          0.0531,
+          0.3273,
+          0.9469,
+          0.9397
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――その夜。",
+          "en": "That night."
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "くくく……課長がいないときに、いくらでもサボれる",
+          "en": "Heh heh... with the chief gone, I can slack all I want."
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……ん？　この判子……",
+          "en": "...Hm? This stamp..."
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "代決できる＝おれが課長!!",
+          "en": "I can sign by proxy = I'm the chief!!"
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "課長の判子は、おれの判子だァ!!",
+          "en": "The chief's stamp is MY stamp!!"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.088,
+          0.0115,
+          0.912,
+          0.3876
+        ],
+        "2": [
+          0.5112,
+          0.4124,
+          0.9134,
+          0.688
+        ],
+        "3": [
+          0.0866,
+          0.4124,
+          0.4888,
+          0.688
+        ],
+        "4": [
+          0.5112,
+          0.712,
+          0.9134,
+          0.9876
+        ],
+        "5": [
+          0.0866,
+          0.712,
+          0.4888,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "小僧、起案書を書け!! 一件百円!!",
+          "en": "Kid, write me proposals!! 100 yen each!!"
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "一件百円。請けます",
+          "en": "100 yen each. Deal."
+        },
+        {
+          "id": "p8-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "翌日。レナは本庁の研修へ。",
+          "en": "Next day. Rena leaves for HQ training."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ハンモック、代決!!",
+          "en": "Hammock: approved!!"
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "こたつ、代決!! 冬に備えて!!",
+          "en": "Kotatsu: approved!! Winter is coming!!"
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "係の結束のため、代決!!",
+          "en": "For team unity: approved!!"
+        },
+        {
+          "id": "p8-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "起案三件と水やりで、八百円です",
+          "en": "Three proposals plus watering: 800 yen."
+        },
+        {
+          "id": "p8-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "天国だァ……",
+          "en": "Paradise..."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.0922,
+          0.0115,
+          0.9078,
+          0.3837
+        ],
+        "2": [
+          0.0922,
+          0.4077,
+          0.9078,
+          0.7799
+        ],
+        "3": [
+          0.5112,
+          0.8048,
+          0.9092,
+          0.9866
+        ],
+        "4": [
+          0.0908,
+          0.8048,
+          0.4888,
+          0.9866
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "同じころ。讃岐の遍路道。",
+          "en": "Meanwhile. A pilgrim path in Sanuki."
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "お遍路さん、お接待です",
+          "en": "Pilgrim, a little gift for you.",
+          "note": "Osettai: the local custom of giving food or drink to pilgrims."
+        },
+        {
+          "id": "p9-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "同行二人ですけん",
+          "en": "You never walk alone, you know.",
+          "note": "Dogyo ninin, \"two traveling together\": the belief that the monk Kukai walks beside every pilgrim."
+        },
+        {
+          "id": "p9-2-3",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……ありがとうございます",
+          "en": "...Thank you very much."
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "父さん。続き、始めましたよ",
+          "en": "Father. I've picked up where you left off."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.5112,
+          0.0115,
+          0.9553,
+          0.3158
+        ],
+        "2": [
+          0.0447,
+          0.0115,
+          0.4888,
+          0.3158
+        ],
+        "3": [
+          0.0461,
+          0.3426,
+          0.9553,
+          0.7579
+        ],
+        "4": [
+          0.5112,
+          0.7856,
+          0.9553,
+          0.9885
+        ],
+        "5": [
+          0.0447,
+          0.7856,
+          0.4888,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "すみません、子ども食堂の者です",
+          "en": "Excuse me, I'm from the children's cafeteria."
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "公民館の使用料の減免、まだでしょうか",
+          "en": "Has our community hall fee waiver gone through yet?"
+        },
+        {
+          "id": "p10-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "減免？",
+          "en": "Waiver?"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "子ども食堂の応援は、うちの係の担当です",
+          "en": "Supporting the children's cafeteria is our unit's job."
+        },
+        {
+          "id": "p10-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "毎月、前と同じ内容で出ています",
+          "en": "It's the same request every month."
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "土曜の分が払えないと",
+          "en": "If we can't cover Saturday's fee..."
+        },
+        {
+          "id": "p10-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "今週は、開けないんです",
+          "en": "we can't open this week."
+        },
+        {
+          "id": "p10-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "泣かれると、こたつで寝れねえ……",
+          "en": "If she cries, I can't nap in the kotatsu..."
+        },
+        {
+          "id": "p10-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "おれが課長だ。押しゃ済む!!",
+          "en": "I'm the chief. One stamp and it's done!!"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.0922,
+          0.0115,
+          0.9078,
+          0.3837
+        ],
+        "2": [
+          0.5112,
+          0.4077,
+          0.9092,
+          0.5895
+        ],
+        "3": [
+          0.0908,
+          0.4077,
+          0.4888,
+          0.5895
+        ],
+        "4": [
+          0.095,
+          0.6124,
+          0.9106,
+          0.9847
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "代決!!",
+          "en": "Approved by proxy!!"
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "ほらよ。土曜、開けんだろ",
+          "en": "There. You're opening Saturday, right?"
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……開けます",
+          "en": "...We are."
+        },
+        {
+          "id": "p11-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "子どもたち、待ってるんです",
+          "en": "The kids are waiting."
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ありがとうございます!!",
+          "en": "Thank you so much!!"
+        },
+        {
+          "id": "p11-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "な、なんだ……この感じ……",
+          "en": "W-what is... this feeling..."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.5112,
+          0.0115,
+          0.9818,
+          0.4957
+        ],
+        "2": [
+          0.0182,
+          0.0115,
+          0.4888,
+          0.2268
+        ],
+        "3": [
+          0.0182,
+          0.2804,
+          0.4888,
+          0.4957
+        ],
+        "4": [
+          0.0182,
+          0.5244,
+          0.9818,
+          0.9646
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "判子一つで、拝まれる……",
+          "en": "One stamp, and people worship me..."
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "おれは、偉い!!",
+          "en": "I'm great!!"
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "毎月同じ内容なので、たまたま規程どおりです",
+          "en": "It's the same every month, so it just happened to follow the rules."
+        },
+        {
+          "id": "p12-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "偉いのは規程です",
+          "en": "The rules are what's great."
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "もっと押せば、もっと拝まれる……!!",
+          "en": "More stamps, more worship...!!"
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "小僧!! 起案をもっと持ってこい!!",
+          "en": "Kid!! Bring me more proposals!!"
+        },
+        {
+          "id": "p12-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一件百円、据え置きで",
+          "en": "Still 100 yen each."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.088,
+          0.0115,
+          0.912,
+          0.3876
+        ],
+        "2": [
+          0.5112,
+          0.4124,
+          0.9134,
+          0.688
+        ],
+        "3": [
+          0.0866,
+          0.4124,
+          0.4888,
+          0.688
+        ],
+        "4": [
+          0.5112,
+          0.712,
+          0.9134,
+          0.9876
+        ],
+        "5": [
+          0.0866,
+          0.712,
+          0.4888,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "五日目。讃岐。",
+          "en": "Day five. Sanuki."
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……おいしい",
+          "en": "...Delicious."
+        },
+        {
+          "id": "p13-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "連絡がない。皆さん、うまくやっているようですね",
+          "en": "No messages. They must be managing well."
+        },
+        {
+          "id": "p13-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "源田くんは、うどんで……でしたね",
+          "en": "Genda wanted udon... wasn't it."
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.5112,
+          0.0115,
+          0.9162,
+          0.289
+        ],
+        "2": [
+          0.0838,
+          0.0115,
+          0.4888,
+          0.289
+        ],
+        "3": [
+          0.0852,
+          0.3139,
+          0.9148,
+          0.6928
+        ],
+        "4": [
+          0.655,
+          0.7177,
+          0.919,
+          0.9885
+        ],
+        "5": [
+          0.3687,
+          0.7177,
+          0.6327,
+          0.9885
+        ],
+        "6": [
+          0.0824,
+          0.7177,
+          0.3464,
+          0.9885
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "感謝の手紙だァ!!",
+          "en": "A thank-you letter!!"
+        },
+        {
+          "id": "p14-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "七日目。",
+          "en": "Day seven."
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "もっと喜ばせてやる!!",
+          "en": "I'll make them even happier!!"
+        },
+        {
+          "id": "p14-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "重要かどうかは、おれが決める……!!",
+          "en": "I decide what counts as important...!!"
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "係室は、日当たりのいい地上へ!!",
+          "en": "The office moves upstairs, into the sun!!"
+        },
+        {
+          "id": "p14-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "肩書きは、課長代理!!",
+          "en": "My title: Acting Chief!!"
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "課長の視察、つまりうどん!!",
+          "en": "An inspection of the chief. Meaning, udon!!"
+        },
+        {
+          "id": "p14-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "はい、次の起案です",
+          "en": "Here, the next proposal."
+        },
+        {
+          "id": "p14-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "はい、課長代理の源田です",
+          "en": "Yes, Acting Chief Genda speaking."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.676,
+          0.0115,
+          0.9818,
+          0.2211
+        ],
+        "2": [
+          0.3478,
+          0.0115,
+          0.6536,
+          0.2211
+        ],
+        "3": [
+          0.0196,
+          0.0115,
+          0.3254,
+          0.2211
+        ],
+        "4": [
+          0.5112,
+          0.2766,
+          0.9832,
+          0.4919
+        ],
+        "5": [
+          0.0168,
+          0.2766,
+          0.4888,
+          0.4919
+        ],
+        "6": [
+          0.0182,
+          0.5474,
+          0.9818,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "課長の帰りまで、あと二日。",
+          "en": "Two days until the chief returns."
+        },
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "代決、八十七件です",
+          "en": "Proxy approvals: eighty-seven."
+        },
+        {
+          "id": "p15-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "起案料、八千七百円です",
+          "en": "Drafting fees: 8,700 yen."
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "むにゃ……課長代理……",
+          "en": "Mmh... Acting Chief..."
+        },
+        {
+          "id": "p15-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "九時半なので、帰ります",
+          "en": "It's 9:30, so I'm going home."
+        },
+        {
+          "id": "p15-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ぐがー……",
+          "en": "Zzz..."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.5112,
+          0.0115,
+          0.9092,
+          0.1933
+        ],
+        "2": [
+          0.0908,
+          0.0115,
+          0.4888,
+          0.1933
+        ],
+        "3": [
+          0.0964,
+          0.2172,
+          0.912,
+          0.5895
+        ],
+        "4": [
+          0.0992,
+          0.6096,
+          0.9148,
+          0.9818
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "豪徳寺くんは、休みか",
+          "en": "Gotokuji's off, is he?"
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "翌朝。",
+          "en": "The next morning."
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "課長代理の源田です!!",
+          "en": "Acting Chief Genda!!"
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "課長の判が要る起案でね。（いつもは、もらえんのだが）",
+          "en": "This one needs the chief's stamp. (Not that I ever get it.)"
+        },
+        {
+          "id": "p16-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "読むまでもねえ!! 代決だァ!!",
+          "en": "No need to read it!! Approved!!"
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "はい、代決ッ!!",
+          "en": "There, approved!!"
+        },
+        {
+          "id": "p16-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……確かに、いただいたよ",
+          "en": "...Received, indeed."
+        },
+        {
+          "id": "p16-4-3",
+          "panel": 4,
+          "type": "caption",
+          "ja": "八十八件目。",
+          "en": "Number eighty-eight."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.0922,
+          0.0115,
+          0.9078,
+          0.3837
+        ],
+        "2": [
+          0.0922,
+          0.4077,
+          0.9078,
+          0.7799
+        ],
+        "3": [
+          0.5112,
+          0.8048,
+          0.9092,
+          0.9866
+        ],
+        "4": [
+          0.0908,
+          0.8048,
+          0.4888,
+          0.9866
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ただいま!! 研修、最高だった――",
+          "en": "I'm back!! The training was the best..."
+        },
+        {
+          "id": "p17-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……何、これ",
+          "en": "...What is this."
+        },
+        {
+          "id": "p17-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "その夕方。",
+          "en": "That evening."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "自分の係の廃止に",
+          "en": "Who stamped approval"
+        },
+        {
+          "id": "p17-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "判子を押したの、誰!!",
+          "en": "on abolishing our own unit!!"
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……おれだァァ!!",
+          "en": "...That was meee!!"
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "統合されると、この係はなくなります",
+          "en": "If we're merged, this unit disappears."
+        },
+        {
+          "id": "p17-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……僕のバイトも、です",
+          "en": "...And so does my part-time job."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.1271,
+          0.0115,
+          0.8729,
+          0.3522
+        ],
+        "2": [
+          0.5112,
+          0.3742,
+          0.8757,
+          0.6239
+        ],
+        "3": [
+          0.1243,
+          0.3742,
+          0.4888,
+          0.6239
+        ],
+        "4": [
+          0.1271,
+          0.6459,
+          0.8729,
+          0.9866
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "九日目。八十八番、結願の寺。",
+          "en": "Day nine. Temple 88, where the pilgrimage ends.",
+          "note": "Kechigan: completing the pilgrimage at Temple 88, Okubo-ji, in Kagawa."
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "父さん。結願です",
+          "en": "Father. It's complete."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.676,
+          0.0115,
+          0.9818,
+          0.2211
+        ],
+        "2": [
+          0.3478,
+          0.0115,
+          0.6536,
+          0.2211
+        ],
+        "3": [
+          0.0196,
+          0.0115,
+          0.3254,
+          0.2211
+        ],
+        "4": [
+          0.5112,
+          0.2766,
+          0.9832,
+          0.4919
+        ],
+        "5": [
+          0.0168,
+          0.2766,
+          0.4888,
+          0.4919
+        ],
+        "6": [
+          0.0182,
+          0.5474,
+          0.9818,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ただいま戻りました",
+          "en": "I have returned."
+        },
+        {
+          "id": "p19-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十日目。",
+          "en": "Day ten."
+        },
+        {
+          "id": "p19-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "結願しました",
+          "en": "I completed the pilgrimage."
+        },
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……後閲を、いたしましょう",
+          "en": "...Now, let me review what was signed."
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "それ、テツさんが代決で判を押した一件です",
+          "en": "That's one Tetsu stamped by proxy."
+        },
+        {
+          "id": "p19-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "こちらは、重要なものですので",
+          "en": "This one is an important matter."
+        },
+        {
+          "id": "p19-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "代決はできません。無効です",
+          "en": "It cannot be signed by proxy. It is void."
+        },
+        {
+          "id": "p19-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "た、助かったァ……",
+          "en": "S-saved..."
+        },
+        {
+          "id": "p19-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "源田さん。子ども食堂の件、見事な代決でした",
+          "en": "Genda-san. The children's cafeteria: a splendid proxy decision."
+        },
+        {
+          "id": "p19-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "感謝状。……源田さんも年休0日でしたね。まとめて十日、どうぞ",
+          "en": "A letter of thanks. ...You also had zero days of leave, didn't you. Please, take ten."
+        },
+        {
+          "id": "p19-6-3",
+          "panel": 6,
+          "type": "speech",
+          "ja": "じゅ、十日……天国だァ……!!",
+          "en": "T-ten days... paradise...!!"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.0852,
+          0.0115,
+          0.9148,
+          0.3904
+        ],
+        "2": [
+          0.5112,
+          0.4153,
+          0.9162,
+          0.6928
+        ],
+        "3": [
+          0.0838,
+          0.4153,
+          0.4888,
+          0.6928
+        ],
+        "4": [
+          0.655,
+          0.7177,
+          0.9176,
+          0.9876
+        ],
+        "5": [
+          0.3701,
+          0.7177,
+          0.6327,
+          0.9876
+        ],
+        "6": [
+          0.0838,
+          0.7177,
+          0.3478,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "源田さんは、私の代わりがお好きなようですので",
+          "en": "You seem to enjoy standing in for me, Genda-san."
+        },
+        {
+          "id": "p20-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "私の代わりに、八十八か所へ。一番札所から、歩きで",
+          "en": "So stand in for me at the eighty-eight temples. From Temple 1, on foot."
+        },
+        {
+          "id": "p20-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "八十八件ぶん、毎年十日ずつ",
+          "en": "One for each of your eighty-eight approvals. Ten days every year."
+        },
+        {
+          "id": "p20-1-4",
+          "panel": 1,
+          "type": "speech",
+          "ja": "へ……？",
+          "en": "Huh...?"
+        },
+        {
+          "id": "p20-2-1",
+          "panel": 2,
+          "type": "caption",
+          "ja": "翌月。四国・徳島の遍路道。",
+          "en": "The next month. A pilgrim path in Tokushima, Shikoku."
+        },
+        {
+          "id": "p20-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "坂、坂、また坂ァ!!",
+          "en": "Hill, hill, another hill!!"
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "お遍路さん、お接待じょ",
+          "en": "Pilgrim, a little gift for ye."
+        },
+        {
+          "id": "p20-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ありがたや、ありがたや",
+          "en": "Bless you, bless you."
+        },
+        {
+          "id": "p20-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "お、おれ……拝まれてる……!!",
+          "en": "I-I'm... being worshipped...!!"
+        },
+        {
+          "id": "p20-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "まめが……まめが……",
+          "en": "Blisters... blisters..."
+        },
+        {
+          "id": "p20-4-2",
+          "panel": 4,
+          "type": "caption",
+          "ja": "十日目。まだ、徳島。",
+          "en": "Day ten. Still in Tokushima."
+        },
+        {
+          "id": "p20-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "うどん……香川は……どこだ……",
+          "en": "Udon... where's... Kagawa..."
+        },
+        {
+          "id": "p20-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "八十八まで……あと何年だよ……",
+          "en": "How many years... till eighty-eight..."
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "panels": {
+        "1": [
+          0.676,
+          0.0115,
+          0.9818,
+          0.3254
+        ],
+        "2": [
+          0.3478,
+          0.0115,
+          0.6536,
+          0.3254
+        ],
+        "3": [
+          0.0182,
+          0.0115,
+          0.324,
+          0.3254
+        ],
+        "4": [
+          0.0377,
+          0.3541,
+          0.9623,
+          0.9876
+        ]
+      },
+      "lines": [
+        {
+          "id": "p21-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十日後。",
+          "en": "Ten days later."
+        },
+        {
+          "id": "p21-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "た、ただいま……",
+          "en": "I-I'm back..."
+        },
+        {
+          "id": "p21-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "よい区切りです。続きは、来年の十日で",
+          "en": "A good place to pause. Continue with next year's ten days."
+        },
+        {
+          "id": "p21-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "お帰りなさい。お接待です",
+          "en": "Welcome back. A little gift for the pilgrim."
+        },
+        {
+          "id": "p21-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "う、うめェ……",
+          "en": "S-so good..."
+        },
+        {
+          "id": "p21-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "課長と源田さんで、年休0日が二人減りました",
+          "en": "With the chief and Genda-san, we have two fewer people at zero days."
+        },
+        {
+          "id": "p21-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ぐがー……休みより……職場の昼寝が……いちばん休まる……",
+          "en": "Zzz... better than a day off... a nap at work... is the best rest..."
+        },
+        {
+          "id": "p21-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "それを人事課の前で言うな!!",
+          "en": "Don't say that in front of HR!!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,26 +1,15 @@
 {
   "_説明": "再訪の仕掛けの設定。次回予告と、新しい話のお知らせ先（X）。日付は空でもよい（空なら「近日公開」と出す）。英語表示用の題名は title_en",
   "next": {
-    "number": 25,
-    "title": "課長のいない十日間",
-    "date": "2026-11-16"
+    "number": 26,
+    "title": "全部、おれの傘",
+    "date": "2026-11-19"
   },
   "x": {
     "url": "https://x.com/tsubasatwi",
     "handle": "@tsubasatwi"
   },
   "schedule": [
-    {
-      "number": 25,
-      "title": "課長のいない十日間",
-      "subtitle": "代決（プロキシ・スタンプ）",
-      "date": "2026-11-16",
-      "genres": [
-        "市役所の働き方",
-        "豪徳寺回"
-      ],
-      "cover": "assets/upcoming/25.webp"
-    },
     {
       "number": 26,
       "title": "全部、おれの傘",
@@ -36,6 +25,17 @@
       "date": "2026-11-23",
       "genres": [],
       "cover": "assets/upcoming/27.webp"
+    },
+    {
+      "number": 28,
+      "title": "梨ヶ坂クイズ王",
+      "subtitle": "早押し（ファステスト・フィンガー）",
+      "date": "2026-11-26",
+      "genres": [
+        "イベント",
+        "地域・まちおこし"
+      ],
+      "cover": "assets/upcoming/28.webp"
     }
   ]
 }

@@ -3916,6 +3916,181 @@
           2230
         ]
       }
+    },
+    {
+      "id": "25",
+      "number": 25,
+      "title": "課長のいない十日間",
+      "subtitle": "代決（プロキシ・スタンプ）",
+      "summary": "「年休0日」を人事課にとがめられた豪徳寺課長が、亡き父の遍路の続きへ旅立った。課長もレナもいない十日間、代わりに判を押す「代決」が回ってきたテツは「おれが課長だ」と目を光らせる――。",
+      "published": "2026-11-17",
+      "tags": [
+        "代決",
+        "決裁",
+        "年休",
+        "有給休暇",
+        "お遍路",
+        "四国八十八ヶ所",
+        "子ども食堂"
+      ],
+      "title_en": "Ten Days Without the Chief",
+      "subtitle_en": "Signing by Proxy (Proxy Stamp)",
+      "summary_en": "Scolded by HR for taking zero days of leave, Section Chief Gotokuji finally sets off to finish his late father's Shikoku pilgrimage. With the chief and Rena both away for ten days, the power to approve documents in his place lands on Tetsu, whose eyes light up: \"I'm the chief now.\"",
+      "explain": {
+        "points": [
+          "課長がいないとき、決まった順番の人が代わりに決裁することを「代決」といいます。どこまで代決できるかは、自治体ごとの事務決裁規程で決まっています。",
+          "重要なもの・異例なものは代決できないのがふつうです。代決したものは、課長が戻ったら見てもらいます（後閲）。",
+          "年次有給休暇を年5日取らせる義務（労働基準法）は、地方公務員には適用されません。ただし、取得が年5日未満の職員の割合は、国の調査で集計されています。",
+          "四国八十八ヶ所は、香川県の88番・大窪寺で結願（けちがん）となります。全部を一度に回らず、区切って回ることを「区切り打ち」、お遍路さんに食べ物などを振る舞うことを「お接待」といいます。",
+          "「梨ヶ坂市の事務決裁規程」と代決の順番は、作中だけの設定です。"
+        ],
+        "sources": [
+          {
+            "label": "厚生労働省「年5日の年次有給休暇の確実な取得 わかりやすい解説」",
+            "url": "https://www.mhlw.go.jp/content/000463186.pdf"
+          },
+          {
+            "label": "e-Gov法令検索「地方公務員法」",
+            "url": "https://laws.e-gov.go.jp/law/325AC0000000261"
+          },
+          {
+            "label": "総務省「地方公共団体の勤務条件等に関する調査」",
+            "url": "https://www.soumu.go.jp/main_content/000724398.pdf"
+          },
+          {
+            "label": "四国おへんろ.net「遍路用語集」",
+            "url": "https://www.shikoku88.net/ohenro-guide/tips/word.php"
+          }
+        ]
+      },
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp",
+        "p20.webp",
+        "p21.webp"
+      ],
+      "sizes": [
+        [
+          1588,
+          942
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ],
+        [
+          1432,
+          2090
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          78,
+          60,
+          1510,
+          2150
+        ]
+      },
+      "genres": [
+        "市役所の働き方",
+        "豪徳寺回"
+      ]
     }
   ],
   "_oneshotsの説明": "作者の読み切り。話数の一覧・公開予定・ニコニコ/pixivの数・SEOの話の一覧には入れない。読む画面は yomikiri/<id>/（reader.js が episodes の次にここを探す）",

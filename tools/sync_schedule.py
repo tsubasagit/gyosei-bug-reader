@@ -46,7 +46,10 @@ def main():
     for entry in schedule['entries'].values():
         m = NAME.match(entry.get('name', ''))
         if m:
-            by_number[int(m.group(1))] = entry
+            # 話数を付け替えると、フォルダのない古い行が同じ話数で残る。フォルダのある行を優先する
+            n = int(m.group(1))
+            if n not in by_number or (series / entry['name']).exists():
+                by_number[n] = entry
 
     episodes_path = ROOT / 'episodes.json'
     data = load(episodes_path)
