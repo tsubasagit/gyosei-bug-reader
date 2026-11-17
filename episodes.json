@@ -4090,7 +4090,11 @@
       "genres": [
         "市役所の働き方",
         "豪徳寺回"
-      ]
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1177332",
+        "pixiv": "https://www.pixiv.net/artworks/152171110"
+      }
     }
   ],
   "_oneshotsの説明": "作者の読み切り。話数の一覧・公開予定・ニコニコ/pixivの数・SEOの話の一覧には入れない。読む画面は yomikiri/<id>/（reader.js が episodes の次にここを探す）",
