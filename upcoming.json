@@ -1,23 +1,15 @@
 {
   "_説明": "再訪の仕掛けの設定。次回予告と、新しい話のお知らせ先（X）。日付は空でもよい（空なら「近日公開」と出す）。英語表示用の題名は title_en",
   "next": {
-    "number": 26,
-    "title": "全部、おれの傘",
-    "date": "2026-11-19"
+    "number": 27,
+    "title": "副業、許可ください",
+    "date": "2026-11-23"
   },
   "x": {
     "url": "https://x.com/tsubasatwi",
     "handle": "@tsubasatwi"
   },
   "schedule": [
-    {
-      "number": 26,
-      "title": "全部、おれの傘",
-      "subtitle": "目印チャーム（セイム・マーク）",
-      "date": "2026-11-19",
-      "genres": [],
-      "cover": "assets/upcoming/26.webp"
-    },
     {
       "number": 27,
       "title": "副業、許可ください",
@@ -36,6 +28,17 @@
         "地域・まちおこし"
       ],
       "cover": "assets/upcoming/28.webp"
+    },
+    {
+      "number": 29,
+      "title": "いっせーのせ、デュエル",
+      "subtitle": "商標法（フェイク・レア）",
+      "date": "2026-11-30",
+      "genres": [
+        "子ども・教育",
+        "商店街・産業"
+      ],
+      "cover": "assets/upcoming/29.webp"
     }
   ]
 }

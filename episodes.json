@@ -4095,6 +4095,178 @@
         "niconico": "https://manga.nicovideo.jp/watch/mg1177332",
         "pixiv": "https://www.pixiv.net/artworks/152171110"
       }
+    },
+    {
+      "id": "26",
+      "number": 26,
+      "title": "全部、おれの傘",
+      "subtitle": "目印チャーム（セイム・マーク）",
+      "summary": "十一月の冷たい雨。梨ヶ坂市役所の傘立てでは、今月三十件の取り違えが起きていた。新人の大事な傘に、テツがぶっきらぼうに結んでやった小さな梨の根付け。それを見た職員たちが、地下に行列を作りはじめて――。",
+      "published": "2026-11-19",
+      "tags": [
+        "目印チャーム",
+        "傘",
+        "傘の取り違え",
+        "ビニール傘",
+        "傘立て",
+        "名前シール",
+        "ヒット商品"
+      ],
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp"
+      ],
+      "sizes": [
+        [
+          1588,
+          942
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          16,
+          16,
+          1572,
+          2230
+        ]
+      },
+      "title_en": "Every Umbrella Is Mine",
+      "subtitle_en": "Marker Charms (Same Mark)",
+      "summary_en": "A cold November rain. At Nashigasaka City Hall, thirty umbrellas have gone home with the wrong person this month. Tetsu gruffly ties a little pear charm to a rookie's precious umbrella so it cannot be mixed up. Other staff notice it, and a line starts to form in the basement...",
+      "pagesEn": true,
+      "explain": {
+        "points": [
+          "「目印チャーム」は、傘やバッグ、ペットボトルなどに付けて、自分の物を見分けるための小さな飾りです。日経トレンディの「2026年ヒット商品ベスト30」（2026年11月発表）で1位になりました。作中ではショータの「今年のヒット商品、一位です」の一言だけで、雑誌名や商品名は出していません。",
+          "他人の傘を、自分の物にするつもりで持ち去ると、窃盗罪（刑法235条）などに問われることがあります。テツの「借りただけだ」は通りません。まちがえて持ち帰ったときは、気づいた時点で元の場所か、その建物の窓口へ戻します。",
+          "建物の中で拾った物や、だれの物か分からなくなった忘れ物は、その施設の人に届けるのが遺失物法の決まりです。警察に届いた落とし物の保管期間は3か月です。",
+          "傘や衣類のように数が多くて安い物は、警察署長と「特例施設占有者」（鉄道会社など）にかぎり、2週間たっても持ち主が見つからなければ、売るなどの処分ができます。傘の忘れ物がそれだけ多いからです。",
+          "目印は、ほかと違うから目印になります。全員が同じ物を付けると、何も付けていないのと同じです。名前を書く、色や形を変えるなど、自分だけの印にすると取り違えが減ります。",
+          "梨ヶ坂市役所の取り違えの件数（30件・31件）、傘の本数（百本・九本）、梨の根付けの値段（300円）、総務課の衣川さんや雨宮くんは、作中だけの架空の設定です。"
+        ],
+        "sources": [
+          {
+            "label": "日経クロストレンド「2026年ヒット商品ベスト30」",
+            "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/00001/"
+          },
+          {
+            "label": "オリコン「2026年ヒット商品ベスト30 発表 1位は目印チャーム」",
+            "url": "https://www.oricon.co.jp/news/2490655/full/"
+          },
+          {
+            "label": "警視庁「遺失物法の改正について」",
+            "url": "https://www.keishicho.metro.tokyo.lg.jp/sodan/otoshimono/kaisei.html"
+          },
+          {
+            "label": "島根県警察「遺失物法について」",
+            "url": "https://www.pref.shimane.lg.jp/police/04_consultation_and_inquiry/lost_property/ishitsubutsuhou.html"
+          },
+          {
+            "label": "e-Gov法令検索「刑法」（第235条）",
+            "url": "https://laws.e-gov.go.jp/law/140AC0000000045"
+          }
+        ]
+      },
+      "genres": [
+        "時事",
+        "市役所の働き方",
+        "豪徳寺回"
+      ]
     }
   ],
   "_oneshotsの説明": "作者の読み切り。話数の一覧・公開予定・ニコニコ/pixivの数・SEOの話の一覧には入れない。読む画面は yomikiri/<id>/（reader.js が episodes の次にここを探す）",

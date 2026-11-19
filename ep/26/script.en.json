@@ -1,0 +1,1624 @@
+{
+  "episode": "26",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4113,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.3985,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3432,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.3303,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十一月。梨ヶ坂市役所は、冷たい雨。",
+          "en": "November. Cold rain over Nashigasaka City Hall."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "いい傘だ。木の柄は、手になじむな",
+          "en": "Nice umbrella. A wooden handle sits right in the hand."
+        },
+        {
+          "id": "p1-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……それ、だれの傘？",
+          "en": "...Whose umbrella is that?"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "知らねえ。傘立ての、いちばんいいやつ",
+          "en": "Dunno. The best one in the umbrella stand."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "それを泥棒って言うのよ!!",
+          "en": "That is called stealing!!"
+        },
+        {
+          "id": "p1-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "借りただけだ。傘は天下の回りものだ",
+          "en": "I only borrowed it. Umbrellas go around, like they say.",
+          "note": "A twist on the Japanese proverb \"money goes around in the world\" (kane wa tenka no mawarimono)."
+        },
+        {
+          "id": "p1-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "それ、お金の話です",
+          "en": "That saying is about money."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.4113,
+          0.5131,
+          0.9846,
+          0.916
+        ],
+        "5": [
+          0.0154,
+          0.5131,
+          0.3985,
+          0.916
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "総務課です。傘の取り違え、対策を",
+          "en": "General Affairs. We need a fix for the umbrella mix-ups."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "今月、三十件。バツです",
+          "en": "Thirty this month. That is a fail.",
+          "note": "Ms. Kinugawa of General Affairs grades everything with a circle (pass), a cross (fail), or a triangle (half marks), the marks used on Japanese school tests."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "あ……ぼくの傘",
+          "en": "Ah... my umbrella."
+        },
+        {
+          "id": "p2-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "…………",
+          "en": ".........."
+        },
+        {
+          "id": "p2-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "三十一件目。バツ",
+          "en": "No. 31. Fail."
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "返しなさい!!",
+          "en": "Give it back!!"
+        },
+        {
+          "id": "p2-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "借りただけだって",
+          "en": "I said I only borrowed it."
+        },
+        {
+          "id": "p2-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "特務トレンド係で、お預かりします",
+          "en": "The Special Trends Unit will take this one on."
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.4137
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.4137
+        ],
+        "3": [
+          0.4113,
+          0.4318,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.4318,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.6015,
+          0.7191,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.5887,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "解決よ!!",
+          "en": "Solved!!"
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "名前を書けば、取り違えはゼロ",
+          "en": "Write your name on it, and mix-ups drop to zero."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "書きませんよ、大人は",
+          "en": "Grown-ups will not write it."
+        },
+        {
+          "id": "p3-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "恥ずかしいので",
+          "en": "Too embarrassing."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "私は、書きますが",
+          "en": "I do write mine."
+        },
+        {
+          "id": "p3-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "小学生かよ",
+          "en": "What are you, a schoolkid?"
+        },
+        {
+          "id": "p3-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "母の教えでして",
+          "en": "My mother taught me to."
+        },
+        {
+          "id": "p3-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……課長しか、書いてない",
+          "en": "...Only the chief has written his."
+        },
+        {
+          "id": "p3-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "貼り紙。サンカクです",
+          "en": "The poster. Half marks."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.347,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3342,
+          0.2349
+        ],
+        "3": [
+          0.0154,
+          0.2529,
+          0.3342,
+          0.589
+        ],
+        "4": [
+          0.4113,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0154,
+          0.701,
+          0.3985,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "母が、就職祝いにくれた傘で",
+          "en": "My mother gave me this umbrella when I got the job."
+        },
+        {
+          "id": "p4-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "なくしたら、顔向けできません",
+          "en": "If I lost it, I could not face her."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "…………",
+          "en": ".........."
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "付けとけ。これなら、おれでも間違えねえ",
+          "en": "Keep it on. Now even I cannot mix it up."
+        },
+        {
+          "id": "p4-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ありがとうございます!!",
+          "en": "Thank you so much!!"
+        },
+        {
+          "id": "p4-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "泣かれると、うるせえからだ!!",
+          "en": "I just hate the noise when people cry!!"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.5064,
+          0.0108,
+          0.9846,
+          0.2349
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.4936,
+          0.2349
+        ],
+        "3": [
+          0.0154,
+          0.2529,
+          0.9846,
+          0.7073
+        ],
+        "4": [
+          0.6697,
+          0.7254,
+          0.9846,
+          0.9467
+        ],
+        "5": [
+          0.3432,
+          0.7254,
+          0.6568,
+          0.9467
+        ],
+        "6": [
+          0.0154,
+          0.7254,
+          0.3303,
+          0.9467
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "どれだ、おれの傘",
+          "en": "Which one is my umbrella?"
+        },
+        {
+          "id": "p5-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "翌朝。",
+          "en": "The next morning."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "あった!!",
+          "en": "Found it!!"
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "それ、いいな",
+          "en": "Hey, that is nice."
+        },
+        {
+          "id": "p5-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "どこで売ってるの？",
+          "en": "Where do they sell those?"
+        },
+        {
+          "id": "p5-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "地下の、源田さんに……",
+          "en": "From Mr. Genda, in the basement..."
+        },
+        {
+          "id": "p5-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……あの、傘どろぼうの？",
+          "en": "...Um, the umbrella thief?"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.5064,
+          0.3523,
+          0.9846,
+          0.8564
+        ],
+        "4": [
+          0.0154,
+          0.3523,
+          0.4936,
+          0.8564
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "目印、ください",
+          "en": "One marker, please."
+        },
+        {
+          "id": "p6-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "三つ",
+          "en": "Three."
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "言い値で払う!!",
+          "en": "Name your price!!"
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "…………",
+          "en": ".........."
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……これ、金になるな",
+          "en": "...There is money in this."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.6015,
+          0.0108,
+          0.9846,
+          0.4137
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5887,
+          0.4137
+        ],
+        "3": [
+          0.6697,
+          0.4318,
+          0.9846,
+          0.6531
+        ],
+        "4": [
+          0.3432,
+          0.4318,
+          0.6568,
+          0.6531
+        ],
+        "5": [
+          0.0154,
+          0.4318,
+          0.3303,
+          0.6531
+        ],
+        "6": [
+          0.6015,
+          0.6712,
+          0.9846,
+          0.9404
+        ],
+        "7": [
+          0.0154,
+          0.6712,
+          0.5887,
+          0.9404
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "去年の梨まつりの余りだ",
+          "en": "Leftovers from last year's Pear Festival."
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "捨てろって言われた、三百個",
+          "en": "Three hundred of them. I was told to throw them out."
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "流行ってますよ、目印チャーム",
+          "en": "Marker charms are a big trend, you know.",
+          "note": "Small charms tied to umbrellas and bottles so that you can tell yours apart. In the story they top this year's hit-product ranking."
+        },
+        {
+          "id": "p7-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "今年のヒット商品、一位です",
+          "en": "Number one hit product of the year."
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "一個三百円。元手はゼロ!!",
+          "en": "300 yen each. Zero cost to me!!"
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "僕の歩合は",
+          "en": "My commission is..."
+        },
+        {
+          "id": "p7-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "十円",
+          "en": "Ten yen."
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "二十",
+          "en": "Twenty."
+        },
+        {
+          "id": "p7-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……十五",
+          "en": "...Fifteen."
+        },
+        {
+          "id": "p7-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "待ちなさい!! 庁内で商売なんて",
+          "en": "Stop right there!! No selling things inside City Hall!"
+        },
+        {
+          "id": "p7-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "取り違えが減るなら、マルです",
+          "en": "If the mix-ups go down, that is a pass."
+        },
+        {
+          "id": "p7-7-1",
+          "panel": 7,
+          "type": "speech",
+          "ja": "……マル、なの？",
+          "en": "...It is a pass?"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.6658,
+          0.2981,
+          0.9846,
+          0.6251
+        ],
+        "4": [
+          0.6658,
+          0.6432,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0154,
+          0.2981,
+          0.653,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "毎度! 梨ヶ坂の目印、三百円!!",
+          "en": "Thanks! The Nashigasaka marker, 300 yen!!"
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "もう六十個です",
+          "en": "That makes sixty sold."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……ちょっと",
+          "en": "...Wait a second."
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "全部、同じ梨じゃない",
+          "en": "They are all the same pear."
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "同じじゃ、目印にならないでしょ!!",
+          "en": "If they are all the same, they mark nothing!!"
+        },
+        {
+          "id": "p8-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "梨が付いてりゃ、職員の傘",
+          "en": "Got a pear? It is a staff umbrella."
+        },
+        {
+          "id": "p8-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "なけりゃ、客の傘だ",
+          "en": "No pear? It is a visitor's."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……お客様の傘は、間違えない",
+          "en": "...So nobody takes a visitor's umbrella."
+        },
+        {
+          "id": "p9-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "職員どうしは、同じ役所の仲間だ",
+          "en": "And staff are all on the same City Hall team."
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "全部同じなら取り違えじゃねえ。交換だ!!",
+          "en": "If they are all the same, it is not a mix-up. It is a swap!!"
+        },
+        {
+          "id": "p9-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "それを取り違えって言うのよ……",
+          "en": "That is what a mix-up is..."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.4113,
+          0.2981,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.6015,
+          0.7191,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.5887,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "取り違えの届け、ゼロ件。マルです",
+          "en": "Mix-up reports: zero. That is a pass."
+        },
+        {
+          "id": "p10-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "梨が付いてるから、どれでもいいのよね",
+          "en": "They all have a pear, so any one will do, right?"
+        },
+        {
+          "id": "p10-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "三日後。",
+          "en": "Three days later."
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "見たか、赤嶺!!",
+          "en": "See that, Akamine!!"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "数字で負けるのが、腹立つ……!",
+          "en": "Losing to him on numbers makes me so mad...!"
+        },
+        {
+          "id": "p10-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "レナさんも、付けてますね",
+          "en": "You put one on yours too, Rena."
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "い、一万二千円の傘なのよ",
+          "en": "I-it is a 12,000-yen umbrella."
+        },
+        {
+          "id": "p10-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "念のため。念のためよ",
+          "en": "Just in case. Just in case!"
+        },
+        {
+          "id": "p10-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "湯のみにも付けたい",
+          "en": "I want one for my teacup too."
+        },
+        {
+          "id": "p10-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……傘だけじゃ、ねえのか",
+          "en": "...So it is not just umbrellas, huh."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.347,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3342,
+          0.2349
+        ],
+        "3": [
+          0.0154,
+          0.2529,
+          0.3342,
+          0.589
+        ],
+        "4": [
+          0.3702,
+          0.701,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.701,
+          0.3573,
+          0.9413
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "一週間で、庁内は梨になった。",
+          "en": "In one week, City Hall turned into pears."
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……どれが、私の？",
+          "en": "...Which one is mine?"
+        },
+        {
+          "id": "p11-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "梨が付いてるやつ",
+          "en": "The one with a pear on it."
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "全部よ!!",
+          "en": "That is all of them!!"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "どれで飲んでも、茶は茶だ",
+          "en": "Tea is tea, whatever cup it is in."
+        },
+        {
+          "id": "p11-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "それ、おれの飲みかけ!!",
+          "en": "Hey! That is mine!!"
+        },
+        {
+          "id": "p11-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "二百八十個。あと二十です",
+          "en": "Two hundred eighty. Twenty left."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.5064,
+          0.2981,
+          0.9846,
+          0.5221
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.4936,
+          0.5221
+        ],
+        "5": [
+          0.0154,
+          0.5402,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "三百個、完売!!",
+          "en": "Three hundred, sold out!!"
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "九万円です",
+          "en": "That is 90,000 yen."
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "庁内の全員が、同じ梨……",
+          "en": "Everyone in City Hall has the same pear..."
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "梨が付いてる。じゃ、交換だ",
+          "en": "It has a pear. All right, swap."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.4137
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.4137
+        ],
+        "3": [
+          0.0154,
+          0.4679,
+          0.9846,
+          0.9223
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "降ってきたな",
+          "en": "It has started raining."
+        },
+        {
+          "id": "p13-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "傘立てに、あるでしょ",
+          "en": "There will be some in the stand."
+        },
+        {
+          "id": "p13-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "金曜の夕方。朝は、晴れていた。",
+          "en": "Friday evening. The morning had been sunny."
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "百本も入る傘立てだ。余ってるさ",
+          "en": "That stand holds a hundred. There will be spares."
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……足りなくない？",
+          "en": "...Are there enough?"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.692
+        ],
+        "2": [
+          0.4113,
+          0.71,
+          0.9846,
+          0.9792
+        ],
+        "3": [
+          0.0154,
+          0.71,
+          0.3985,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "梨が付いてる! おれのだ!!",
+          "en": "It has a pear! It is mine!!"
+        },
+        {
+          "id": "p14-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "全部に、付いてるのよ……",
+          "en": "They all have one..."
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "私の傘!! 一万二千円!!",
+          "en": "My umbrella!! 12,000 yen!!"
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "僕は折りたたみなので",
+          "en": "Mine is a folding one."
+        },
+        {
+          "id": "p14-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "お先に失礼します",
+          "en": "So I will be heading home."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.4113,
+          0.5285,
+          0.9846,
+          0.9313
+        ],
+        "3": [
+          0.0154,
+          0.5285,
+          0.3985,
+          0.9313
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ぼくの傘にも、梨を付けたんですけど",
+          "en": "I put a pear on my umbrella too, but..."
+        },
+        {
+          "id": "p15-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……これにも、付いてますね",
+          "en": "...this one has a pear as well."
+        },
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "…………",
+          "en": ".........."
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "今週、持って帰られた傘は百本",
+          "en": "Umbrellas taken home this week: one hundred."
+        },
+        {
+          "id": "p15-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "持ってきたのは、九本。バツです",
+          "en": "Umbrellas brought in: nine. That is a fail."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3432,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.3303,
+          0.2322
+        ],
+        "4": [
+          0.347,
+          0.2502,
+          0.9846,
+          0.9223
+        ],
+        "5": [
+          0.0154,
+          0.2502,
+          0.3342,
+          0.5772
+        ],
+        "6": [
+          0.0154,
+          0.5953,
+          0.3342,
+          0.9223
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "月曜、朝。",
+          "en": "Monday morning."
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "か、課長。あれは",
+          "en": "Ch-Chief. That was, um..."
+        },
+        {
+          "id": "p16-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "交換でして……",
+          "en": "a swap, you see..."
+        },
+        {
+          "id": "p16-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "松。お前には、名札がありますね",
+          "en": "Pine. You have a name tag, I see.",
+          "note": "The chief is talking to his bonsai pine. The pot has a small tag that reads \"Pine\"."
+        },
+        {
+          "id": "p16-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ほかと違うから、目印なのです",
+          "en": "A marker works because it differs from the rest."
+        },
+        {
+          "id": "p16-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ひっ",
+          "en": "Eek."
+        },
+        {
+          "id": "p16-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "言ったでしょ。名前を書けって",
+          "en": "I told you. Write your name on it."
+        },
+        {
+          "id": "p16-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "レナさんは、梨を付けてましたけど",
+          "en": "You had a pear on yours, though, Rena."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.6015,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5887,
+          0.28
+        ],
+        "3": [
+          0.4113,
+          0.2981,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.4113,
+          0.7191,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.3985,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "代金は、全額お返しください",
+          "en": "Refund every yen you took."
+        },
+        {
+          "id": "p17-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "持ち帰った傘は、一本ずつ持ち主へ",
+          "en": "And return each umbrella to its owner, one by one."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "百本!? だれのか分かんねえのに!?",
+          "en": "A hundred!? When nobody knows whose is whose!?"
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ええ。全部、同じ梨ですから",
+          "en": "Indeed. They all have the same pear."
+        },
+        {
+          "id": "p17-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "違います",
+          "en": "That is not mine."
+        },
+        {
+          "id": "p17-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "もっと新しかった",
+          "en": "Mine was newer."
+        },
+        {
+          "id": "p17-4-3",
+          "panel": 4,
+          "type": "caption",
+          "ja": "百本が、傘立てに戻ってきた。",
+          "en": "A hundred umbrellas came back to the stand."
+        },
+        {
+          "id": "p17-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "名前シール、一枚五円で書きます",
+          "en": "Name stickers. Five yen each, and I write it for you."
+        },
+        {
+          "id": "p17-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "金取るのかよ!!",
+          "en": "You are charging for that!?"
+        },
+        {
+          "id": "p17-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "あったぁ……一万二千円……",
+          "en": "There you are... my 12,000 yen..."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.347,
+          0.2981,
+          0.9846,
+          0.9702
+        ],
+        "4": [
+          0.0154,
+          0.2981,
+          0.3342,
+          0.6251
+        ],
+        "5": [
+          0.0154,
+          0.6432,
+          0.3342,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "最後の一本だ。たぶん、お前の",
+          "en": "Last one. Probably yours."
+        },
+        {
+          "id": "p18-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "夜、八時。百本目。",
+          "en": "Eight at night. Umbrella number one hundred."
+        },
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……名前",
+          "en": "...My name."
+        },
+        {
+          "id": "p18-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ありがとうございます、源田さん!!",
+          "en": "Thank you so much, Mr. Genda!!"
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "課長命令だ。礼は課長に言え",
+          "en": "Chief's orders. Thank the chief."
+        },
+        {
+          "id": "p18-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "シール代、五円もらってません",
+          "en": "I have not been paid five yen for that sticker."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3432,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.3303,
+          0.2322
+        ],
+        "4": [
+          0.4113,
+          0.2502,
+          0.9846,
+          0.5194
+        ],
+        "5": [
+          0.0154,
+          0.2502,
+          0.3985,
+          0.5194
+        ],
+        "6": [
+          0.0154,
+          0.5375,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……で、おれの傘は",
+          "en": "...So where is my umbrella?"
+        },
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "一回も、持ってきてないでしょう",
+          "en": "You have never brought one. Not once."
+        },
+        {
+          "id": "p19-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "一本ある!!",
+          "en": "There is one left!!"
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "天下の回りもの、ですもんね",
+          "en": "Umbrellas go around, as they say."
+        },
+        {
+          "id": "p19-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "小学生の、勝ちですね",
+          "en": "The schoolkid wins.",
+          "note": "The last umbrella in the stand carries a name tag: Gotokuji, the chief. Tetsu had mocked him for writing his name \"like a schoolkid\"."
+        }
+      ]
+    }
+  ]
+}
