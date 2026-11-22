@@ -4271,6 +4271,175 @@
         "niconico": "https://manga.nicovideo.jp/watch/mg1178026",
         "pixiv": "https://www.pixiv.net/artworks/152234740"
       }
+    },
+    {
+      "id": "27",
+      "number": 27,
+      "title": "全部出します",
+      "subtitle": "情報公開請求（ディスクロージャー）",
+      "summary": "同じ市民から数百件の情報公開請求が届き、総務課の仕事が止まった。「市のサイトに何も載っていないので」という請求者の一言に、テツはひらめく――全部載せてしまえば、請求も箱も消えて、机も昼もおれのものだ。",
+      "published": "2026-11-23",
+      "tags": [
+        "情報公開請求",
+        "情報公開条例",
+        "オープンデータ",
+        "黒塗り",
+        "個人情報",
+        "開示請求"
+      ],
+      "title_en": "We'll Release Everything",
+      "subtitle_en": "Freedom of Information Requests (Disclosure)",
+      "summary_en": "One resident has filed hundreds of public records requests, and the General Affairs Division has ground to a halt. When the requester mentions that \"nothing is posted on the city website,\" Tetsu has a flash of inspiration: post everything online, and the requests and the boxes will vanish—leaving his desk and his lunch break all to himself.",
+      "explain": {
+        "points": [
+          "情報公開請求は、誰でも、何件でもできます。市は条例で決めた期限（14日・15日以内などが多く、延長もできる）までに、出すか出さないかを決めます。国の情報公開法では30日以内です。作中の「十四日」は梨ヶ坂市の条例としての設定です。",
+          "写しをもらうときのコピー代は条例や規則で決まっていて、白黒1枚10円の自治体が多くあります。コピー代は市の収入で、職員のもうけにはなりません。",
+          "開示するときも、個人の情報は外します（黒塗り＝部分開示）。2023年4月からは、改正個人情報保護法が市町村にも直接あてはまっています。",
+          "最初からオープンデータとして公開しておけば、請求そのものを減らせます。ただし国の指針では、個人の情報を含むデータは原則として公開しません。テツの「自分から出すなら、そのまま全部出していい」は間違いです。",
+          "梨ヶ坂市、請求者の穂積さんとかわら版「坂の上だより」、請求の件数や始末書の一覧は、作中だけの架空の設定です。"
+        ],
+        "sources": [
+          {
+            "label": "総務省「情報公開条例等の制定・運用状況に関する調査結果」",
+            "url": "https://www.soumu.go.jp/main_sosiki/gyoukan/kanri/jyohokokai/index.html"
+          },
+          {
+            "label": "個人情報保護委員会",
+            "url": "https://www.ppc.go.jp/"
+          },
+          {
+            "label": "デジタル庁「オープンデータ」",
+            "url": "https://www.digital.go.jp/resources/open_data"
+          }
+        ]
+      },
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp",
+        "p20.webp"
+      ],
+      "sizes": [
+        [
+          1588,
+          942
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ],
+        [
+          1556,
+          2214
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          16,
+          16,
+          1572,
+          2230
+        ]
+      },
+      "genres": [
+        "窓口・手続き",
+        "IT・デジタル"
+      ],
+      "links": {
+        "niconico": "https://manga.nicovideo.jp/watch/mg1179287",
+        "pixiv": "https://www.pixiv.net/artworks/152387351"
+      }
     }
   ],
   "_oneshotsの説明": "作者の読み切り。話数の一覧・公開予定・ニコニコ/pixivの数・SEOの話の一覧には入れない。読む画面は yomikiri/<id>/（reader.js が episodes の次にここを探す）",

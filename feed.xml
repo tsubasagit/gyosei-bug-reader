@@ -6,7 +6,15 @@
     <atom:link href="https://tsubasagit.github.io/gyosei-bug-reader/feed.xml" rel="self" type="application/rss+xml"/>
     <description>梨ヶ坂市役所の地下にある「特務トレンド係」を舞台にした、1話完結のギャグ漫画。金とサボりのために制度と技術を一夜漬けで覚える源田テツが、力技で市民の困りごとを片づけてしまう。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <item>
+      <title>第27話「全部出します」</title>
+      <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/27/</link>
+      <guid isPermaLink="true">https://tsubasagit.github.io/gyosei-bug-reader/ep/27/</guid>
+      <pubDate>Mon, 23 Nov 2026 09:00:00 +0900</pubDate>
+      <description>～情報公開請求（ディスクロージャー）～ 同じ市民から数百件の情報公開請求が届き、総務課の仕事が止まった。「市のサイトに何も載っていないので」という請求者の一言に、テツはひらめく――全部載せてしまえば、請求も箱も消えて、机も昼もおれのものだ。</description>
+      <enclosure url="https://tsubasagit.github.io/gyosei-bug-reader/ep/27/thumb.webp" type="image/webp" length="0"/>
+    </item>
     <item>
       <title>第26話「全部、おれの傘」</title>
       <link>https://tsubasagit.github.io/gyosei-bug-reader/ep/26/</link>

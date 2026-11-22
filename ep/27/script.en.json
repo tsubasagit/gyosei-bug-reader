@@ -1,0 +1,1586 @@
+{
+  "episode": "27",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4113,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.3985,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3432,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.3303,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "自販機の釣り銭口、全部回って……三十円",
+          "en": "Hit every vending machine change slot in the building... thirty yen."
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "一月。梨ヶ坂市役所・地下。",
+          "en": "January. Nashigasaka City Hall, the basement."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "職員が釣り銭口あさるなァ!!",
+          "en": "A city employee does NOT dig through change slots!!"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "caption",
+          "ja": "流行を行政に取り込む……はずの、特務トレンド係。",
+          "en": "The Special Trends Unit... supposedly here to bring trends into government."
+        },
+        {
+          "id": "p1-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "十円をなめる奴は、十円に泣くんだよ",
+          "en": "Sneer at ten yen, and ten yen'll make you cry."
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "総務課、情報公開請求でパンクしてるそうです",
+          "en": "General Affairs is drowning in information disclosure requests, apparently.",
+          "note": "Under Japan's freedom of information rules, anyone can ask a city to hand over its internal documents, and the city must decide what to release by a set deadline."
+        },
+        {
+          "id": "p1-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "地下には関係ねえな",
+          "en": "Not the basement's problem."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.5257,
+          0.4806,
+          0.9846,
+          0.9648
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.5129,
+          0.7136
+        ],
+        "4": [
+          0.0154,
+          0.7317,
+          0.5129,
+          0.9648
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "情報公開請求が、何箱も……",
+          "en": "Disclosure requests... box after box of them..."
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "人事課に『人が余ってるのは地下だ』と……!!",
+          "en": "Personnel said, “The spare hands are all in the basement”...!!"
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "わかりました……私どもで、お引き受けします",
+          "en": "I understand... We will take this on."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "余ってねえ!! 十円数えてんだ!!",
+          "en": "We ain't spare!! I'm countin' ten-yen coins here!!"
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……この部屋のどこに、段ボールを置くのよ",
+          "en": "...And where in this room are we putting the boxes?"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.5064,
+          0.4833,
+          0.9846,
+          0.9874
+        ],
+        "3": [
+          0.0154,
+          0.4833,
+          0.4936,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "請求書と写し、また届きました",
+          "en": "More requests and copies just came in."
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――数日後。",
+          "en": "A few days later."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "これ……全部、同じ人から？",
+          "en": "These... are all from the same person?"
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ああ。同じ人から、数百件",
+          "en": "Yeah. Same guy. Hundreds of 'em."
+        },
+        {
+          "id": "p3-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "一人で、この量……",
+          "en": "One person, all this..."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.4137
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.4137
+        ],
+        "3": [
+          0.4113,
+          0.4318,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.4318,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.4113,
+          0.7191,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.3985,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "条例だと、十四日以内に開示を決めるの",
+          "en": "Under the city ordinance, we have to decide on disclosure within fourteen days.",
+          "note": "Each city sets its own deadline by ordinance. Fourteen or fifteen days is common (extensions are allowed); the national government gets thirty."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "しかも、誰でも、何件でもできる!!",
+          "en": "And anyone can file, as many as they like!!"
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "つまり、十四日ごとに、この箱が来るんですね",
+          "en": "So a box like this arrives every fourteen days."
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "自分の仕事に、もう何日も手をつけてません……",
+          "en": "I haven't touched my own work in days..."
+        },
+        {
+          "id": "p4-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "この箱、十円玉ひとつ入ってねえ",
+          "en": "Not a single ten-yen coin in this box."
+        },
+        {
+          "id": "p4-6-1",
+          "panel": 6,
+          "type": "caption",
+          "ja": "――そこへ、請求者本人が。",
+          "en": "And then, the requester himself."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.347,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3342,
+          0.3379
+        ],
+        "3": [
+          0.0154,
+          0.3559,
+          0.3342,
+          0.6829
+        ],
+        "4": [
+          0.4113,
+          0.701,
+          0.9846,
+          0.9702
+        ],
+        "5": [
+          0.0154,
+          0.701,
+          0.3985,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "お騒がせしております。穂積と申します",
+          "en": "Sorry for all the trouble. My name is Hozumi."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "本人……？",
+          "en": "The guy himself...?"
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "町内で、かわら版を作ってましてね",
+          "en": "I put out a little neighborhood newsletter, you see."
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "家内と始めて、今月で三百号です",
+          "en": "My wife and I started it. This month is issue three hundred."
+        },
+        {
+          "id": "p5-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……立ってられると、邪魔なんだよ",
+          "en": "...You standin' there is gettin' in the way."
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.6015,
+          0.0108,
+          0.9846,
+          0.4137
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5887,
+          0.4137
+        ],
+        "3": [
+          0.4113,
+          0.4318,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.4318,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.4113,
+          0.7191,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.3985,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "市は何にいくら使ってるのか、聞かれましてね",
+          "en": "People keep asking me what the city spends its money on, you see."
+        },
+        {
+          "id": "p6-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "市のサイトに、何も載ってないので",
+          "en": "And there's nothing on the city website."
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "件数を、絞っていただけませんか",
+          "en": "Could you narrow down the number of requests?"
+        },
+        {
+          "id": "p6-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "必要な文書だけなら、早く出せます",
+          "en": "If it's only the documents you need, we can release them faster."
+        },
+        {
+          "id": "p6-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "どんな文書があるのか、分からないので……全部",
+          "en": "I don't know what documents exist, you see... so, all of them."
+        },
+        {
+          "id": "p6-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "ですよねェェ……",
+          "en": "Of cooourse..."
+        },
+        {
+          "id": "p6-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "詰んでるじゃねえか……",
+          "en": "We're totally stuck..."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4652
+        ],
+        "2": [
+          0.4871,
+          0.4833,
+          0.9846,
+          0.7164
+        ],
+        "3": [
+          0.4871,
+          0.7344,
+          0.9846,
+          0.9675
+        ],
+        "4": [
+          0.0154,
+          0.4833,
+          0.4743,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "写しのコピー代、一枚十円だそうです",
+          "en": "Copies cost ten yen a page, it says here.",
+          "note": "Real practice: many Japanese cities charge about ten yen per black-and-white copy of a released document. The fee goes to the city, not the staff."
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "数百件なら、大儲けだァ!!",
+          "en": "Hundreds of requests? We're gonna be loaded!!"
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "紙とトナーと手間で、原価割れです",
+          "en": "Paper, toner, and labor. We'd be selling below cost."
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "赤字……",
+          "en": "In the red..."
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "そもそも、コピー代は市に入るのよ",
+          "en": "Besides, the copy fees go to the city."
+        },
+        {
+          "id": "p7-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一円も入らねえ!?",
+          "en": "We don't get one single yen!?"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.6015,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5887,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "市のサイトに、何も載ってないので",
+          "en": "And there's nothing on the city website."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……載ってりゃ、請求は来ねえ",
+          "en": "...If it was on there, nobody'd send requests."
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "全部載せりゃ、請求も箱もゼロ!!",
+          "en": "Put EVERYTHING up, and it's zero requests, zero boxes!!"
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "机も昼も、おれのもんだァァ!!",
+          "en": "My desk and my lunch break are mine agaaain!!"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3432,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.3303,
+          0.2322
+        ],
+        "4": [
+          0.0154,
+          0.2502,
+          0.9846,
+          0.7019
+        ],
+        "5": [
+          0.4113,
+          0.72,
+          0.9846,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.72,
+          0.3985,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "勝手に出すなァ!!",
+          "en": "You can't just release things!!"
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "変換は一ファイル十円。テツさんの自腹で",
+          "en": "Converting is ten yen per file. Out of your own pocket, Tetsu."
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "机が戻るなら、安いもんだ",
+          "en": "Cheap, if I get my desk back."
+        },
+        {
+          "id": "p9-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……来なくなれば、確かに減る……",
+          "en": "...If people stop needing to ask, it would cut the requests..."
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "こちら、写しの作り方です……",
+          "en": "Here's our procedure for making copies..."
+        },
+        {
+          "id": "p9-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "『請求があったときは、黒く塗ってから』……",
+          "en": "“When a request is received, black out first”...",
+          "note": "When records are released on request, personal details are blacked out with a marker first. This is called partial disclosure."
+        },
+        {
+          "id": "p9-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "数百件、全部黒塗りィ!?",
+          "en": "Black out hundreds of requests' worth!?"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.599,
+          0.0108,
+          0.9846,
+          0.2818
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5861,
+          0.2782
+        ],
+        "3": [
+          0.347,
+          0.2999,
+          0.9846,
+          0.972
+        ],
+        "4": [
+          0.0154,
+          0.2999,
+          0.3342,
+          0.5239
+        ],
+        "5": [
+          0.0154,
+          0.542,
+          0.3342,
+          0.766
+        ],
+        "6": [
+          0.0154,
+          0.7841,
+          0.3342,
+          0.9332
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "『請求があったときは』……？",
+          "en": "“When a request is received”...?"
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "外すのは、請求されて出すときだけ!!",
+          "en": "You only black stuff out when someone REQUESTS it!!"
+        },
+        {
+          "id": "p10-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "自分から出すなら、そのまま全部出していい!!",
+          "en": "If we put it out ourselves, we can put out everything as is!!"
+        },
+        {
+          "id": "p10-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……書いてあるのは、請求のときだけ……",
+          "en": "...It only says “when a request is received”..."
+        },
+        {
+          "id": "p10-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……反論できないのが、腹立つ",
+          "en": "...I hate that I can't argue with him."
+        },
+        {
+          "id": "p10-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "マーカーいらず〜♪",
+          "en": "No markers needed~♪"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3432,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.3303,
+          0.2322
+        ],
+        "4": [
+          0.4113,
+          0.2502,
+          0.9846,
+          0.5194
+        ],
+        "5": [
+          0.0154,
+          0.2502,
+          0.3985,
+          0.5194
+        ],
+        "6": [
+          0.0154,
+          0.5375,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "情報政策課ですか。ページ、係で預かります",
+          "en": "Information Policy Division? Our unit will take charge of the pages."
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "オープン……データ……？",
+          "en": "Open... data...?",
+          "note": "Open data: government data posted online for anyone to use freely. Japan's national guidelines keep anything that identifies individuals out of it."
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "では、担当は赤嶺くんということで",
+          "en": "Then, Akamine will be in charge."
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……え、私？",
+          "en": "...Wait, me?"
+        },
+        {
+          "id": "p11-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "一ファイル十円。ツケておきます",
+          "en": "Ten yen per file. I'll put it on your tab."
+        },
+        {
+          "id": "p11-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "予算! 契約! 統計! 公開ィィ!!",
+          "en": "Budgets! Contracts! Statistics! PUBLISHED!!"
+        },
+        {
+          "id": "p11-6-2",
+          "panel": 6,
+          "type": "caption",
+          "ja": "――一週間で、二千ファイル。",
+          "en": "Two thousand files in one week."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4598
+        ],
+        "2": [
+          0.4113,
+          0.4779,
+          0.9846,
+          0.7471
+        ],
+        "3": [
+          0.0154,
+          0.4779,
+          0.3985,
+          0.7471
+        ],
+        "4": [
+          0.5064,
+          0.7651,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.0154,
+          0.7651,
+          0.4936,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "載ってる……請求しなくても、見られる",
+          "en": "It's up there... I can see it without even filing a request."
+        },
+        {
+          "id": "p12-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――穂積さんの家。",
+          "en": "The Hozumi home."
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "母さん。市の予算が、全部載ってるよ",
+          "en": "Dear, the city's whole budget is up there."
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……うれしくて、全部、刷っちゃった",
+          "en": "...I was so happy, I printed all of it."
+        },
+        {
+          "id": "p12-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "次の号は、これで書ける",
+          "en": "Now I can write the next issue."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4113,
+          0.4806,
+          0.9846,
+          0.7498
+        ],
+        "3": [
+          0.0154,
+          0.4806,
+          0.3985,
+          0.7498
+        ],
+        "4": [
+          0.6697,
+          0.7678,
+          0.9846,
+          0.9892
+        ],
+        "5": [
+          0.3432,
+          0.7678,
+          0.6568,
+          0.9892
+        ],
+        "6": [
+          0.0154,
+          0.7678,
+          0.3303,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "市の電気代、グラフにしよっと",
+          "en": "Think I'll chart the city's electricity bill."
+        },
+        {
+          "id": "p13-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――データ好きの市民が、勝手にグラフ化。",
+          "en": "Data-loving citizens start making charts on their own."
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "請求が、目に見えて減りました……!",
+          "en": "The requests have dropped, you can really see it...!"
+        },
+        {
+          "id": "p13-2-2",
+          "panel": 2,
+          "type": "caption",
+          "ja": "――総務課。",
+          "en": "General Affairs."
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "机が戻ったぜ〜",
+          "en": "Got my desk ba~ck."
+        },
+        {
+          "id": "p13-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ただ、残りの請求は、人事の文書ばかりで……",
+          "en": "But the requests that are left are all for Personnel documents..."
+        },
+        {
+          "id": "p13-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "管理者の権限、うちにありますね",
+          "en": "We have admin access, you know."
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.5257,
+          0.0108,
+          0.9846,
+          0.495
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.5129,
+          0.2439
+        ],
+        "3": [
+          0.0154,
+          0.262,
+          0.5129,
+          0.495
+        ],
+        "4": [
+          0.0154,
+          0.5131,
+          0.9846,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "なら、人事のフォルダも丸ごと出せ!!",
+          "en": "Then dump the whole Personnel folder out there too!!"
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "情報政策課から『先進的』って……",
+          "en": "Information Policy called us “cutting-edge”..."
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "担当は私なんだから、この調子で全部よ!!",
+          "en": "I'm the one in charge, so keep it up, all of it!!"
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "一括変換、千ファイル。一万円",
+          "en": "Batch conversion, a thousand files. Ten thousand yen."
+        },
+        {
+          "id": "p14-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "若い人は、頼もしいですねえ",
+          "en": "The young people are so dependable."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.347,
+          0.0108,
+          0.9846,
+          0.6829
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3342,
+          0.2349
+        ],
+        "3": [
+          0.0154,
+          0.2529,
+          0.3342,
+          0.589
+        ],
+        "4": [
+          0.4113,
+          0.701,
+          0.9846,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "むにゃ……勝手に公開されてくぜ〜",
+          "en": "Mmf... it's publishin' itself~"
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "九百九十八、九百九十九……",
+          "en": "Nine hundred ninety-eight, nine hundred ninety-nine..."
+        },
+        {
+          "id": "p15-4-1",
+          "panel": 4,
+          "type": "caption",
+          "ja": "――その中の、二行。",
+          "en": "Two lines among them."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.4137
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.4137
+        ],
+        "3": [
+          0.4113,
+          0.4318,
+          0.9846,
+          0.701
+        ],
+        "4": [
+          0.0154,
+          0.4318,
+          0.3985,
+          0.701
+        ],
+        "5": [
+          0.4113,
+          0.7191,
+          0.9846,
+          0.9883
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.3985,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "職員さんの、始末書の枚数……？",
+          "en": "Number of written apologies... per employee...?"
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――数日後。",
+          "en": "A few days later."
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "これ、載せちゃダメなやつでは……",
+          "en": "Isn't this something that shouldn't be online...?"
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "私の休暇の理由『推しのライブ』まで……!!",
+          "en": "Even my reason for taking leave, “my fave's concert”...!!"
+        },
+        {
+          "id": "p16-3-2",
+          "panel": 3,
+          "type": "caption",
+          "ja": "――総務課。",
+          "en": "General Affairs."
+        },
+        {
+          "id": "p16-5-1",
+          "panel": 5,
+          "type": "caption",
+          "ja": "――庁舎じゅうが、凍りつく。",
+          "en": "The whole building freezes."
+        },
+        {
+          "id": "p16-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "始末書ランキング……一位は",
+          "en": "Apology rankings... and number one is..."
+        },
+        {
+          "id": "p16-6-2",
+          "panel": 6,
+          "type": "caption",
+          "ja": "――係室。",
+          "en": "The unit's office."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.4113,
+          0.0108,
+          0.9846,
+          0.28
+        ],
+        "2": [
+          0.0154,
+          0.0108,
+          0.3985,
+          0.28
+        ],
+        "3": [
+          0.0154,
+          0.2981,
+          0.9846,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "おれの始末書まで、全部公開されてるゥ!?",
+          "en": "They published ALL my apology letters too!?"
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "いや、あの、自分から出すなら……",
+          "en": "No, wait, I mean, if we put it out ourselves..."
+        },
+        {
+          "id": "p17-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "全部いいって、紙に……",
+          "en": "the paper said everything was fine..."
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "自分から出すときも、個人の情報は外すの!!",
+          "en": "Even when you publish it yourself, you take out personal information!!"
+        },
+        {
+          "id": "p17-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "請求でも公開でも、同じよ!!",
+          "en": "Requested or published, it's the same rule!!"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.0154,
+          0.0108,
+          0.9846,
+          0.4625
+        ],
+        "2": [
+          0.4871,
+          0.4806,
+          0.9846,
+          0.7136
+        ],
+        "3": [
+          0.4871,
+          0.7317,
+          0.9846,
+          0.9648
+        ],
+        "4": [
+          0.0154,
+          0.4806,
+          0.4743,
+          0.9648
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――市民の通報で、人事課から課長に電話。",
+          "en": "After a citizen's report, Personnel calls the chief."
+        },
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "申し訳ございません。すぐに非公開にいたします",
+          "en": "I am terribly sorry. We will take it down at once."
+        },
+        {
+          "id": "p18-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "確認は、私が責任を持って",
+          "en": "I will personally take responsibility for checking it."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.6658,
+          0.0108,
+          0.9846,
+          0.3469
+        ],
+        "2": [
+          0.6658,
+          0.365,
+          0.9846,
+          0.701
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.653,
+          0.6829
+        ],
+        "4": [
+          0.6697,
+          0.7191,
+          0.9846,
+          0.9404
+        ],
+        "5": [
+          0.3432,
+          0.7191,
+          0.6568,
+          0.9404
+        ],
+        "6": [
+          0.0154,
+          0.7191,
+          0.3303,
+          0.9404
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "源田さん。人事課からの、お電話でした",
+          "en": "Mr. Genda. That was Personnel on the phone."
+        },
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "『さん』付けェ!?",
+          "en": "“MISTER” Genda!?",
+          "note": "In Japanese he switches from the casual “Genda-kun” to the formal “Genda-san.” When this boss gets polite, someone is in serious trouble."
+        },
+        {
+          "id": "p19-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "公開した全ファイルの、個人の情報を",
+          "en": "For every file we published, the personal information..."
+        },
+        {
+          "id": "p19-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "源田さんの手で、黒く塗っていただきます",
+          "en": "I will have you black it out, Mr. Genda. By hand."
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "お先に。ツケは三万円です",
+          "en": "I'm off. Your tab is thirty thousand yen."
+        },
+        {
+          "id": "p19-4-2",
+          "panel": 4,
+          "type": "caption",
+          "ja": "――定時。",
+          "en": "Quitting time."
+        },
+        {
+          "id": "p19-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "机が……真っ黒……",
+          "en": "My desk... is pitch black..."
+        },
+        {
+          "id": "p19-5-2",
+          "panel": 5,
+          "type": "caption",
+          "ja": "――夜十一時。",
+          "en": "11 p.m."
+        },
+        {
+          "id": "p19-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "一行、塗り残しです",
+          "en": "You missed a line."
+        },
+        {
+          "id": "p19-6-2",
+          "panel": 6,
+          "type": "caption",
+          "ja": "――翌朝。",
+          "en": "The next morning."
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "panels": {
+        "1": [
+          0.6697,
+          0.0108,
+          0.9846,
+          0.2322
+        ],
+        "2": [
+          0.3432,
+          0.0108,
+          0.6568,
+          0.2322
+        ],
+        "3": [
+          0.0154,
+          0.0108,
+          0.3303,
+          0.2322
+        ],
+        "4": [
+          0.4113,
+          0.2502,
+          0.9846,
+          0.5194
+        ],
+        "5": [
+          0.0154,
+          0.2502,
+          0.3985,
+          0.5194
+        ],
+        "6": [
+          0.0154,
+          0.5375,
+          0.9846,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p20-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "請求は十分の一。残業も減りました",
+          "en": "Requests are down to a tenth. Our overtime's down too."
+        },
+        {
+          "id": "p20-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "――数週間後。",
+          "en": "A few weeks later."
+        },
+        {
+          "id": "p20-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "係の、大手柄……",
+          "en": "A big win for our unit..."
+        },
+        {
+          "id": "p20-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "それと、担当者欄の赤嶺さんに……始末書の用紙が",
+          "en": "Also, for Ms. Akamine, listed as the person in charge... an apology form."
+        },
+        {
+          "id": "p20-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "今月の号です。おかげさまで",
+          "en": "This month's issue. All thanks to you."
+        },
+        {
+          "id": "p20-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "それと、請求はこの一枚だけ",
+          "en": "Oh, and just this one request."
+        },
+        {
+          "id": "p20-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "どんな文書があるのか、分からないので……全部",
+          "en": "I don't know what documents exist, you see... so, all of them."
+        },
+        {
+          "id": "p20-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "出せる文書……始末書しかねえぞォォ!!",
+          "en": "The only documents we've got... are apology letters!!"
+        },
+        {
+          "id": "p20-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "では、十四日以内に。黒塗りは、源田さんの手で",
+          "en": "Then, within fourteen days. And the blacking out, by your hand, Mr. Genda."
+        }
+      ]
+    }
+  ]
+}
