@@ -1,0 +1,1659 @@
+{
+  "episode": "28",
+  "lang": "en",
+  "pages": [
+    {
+      "page": 1,
+      "panels": {
+        "1": [
+          0.0153,
+          0.0108,
+          0.9795,
+          0.4598
+        ],
+        "2": [
+          0.4092,
+          0.4779,
+          0.9795,
+          0.7471
+        ],
+        "3": [
+          0.0153,
+          0.4779,
+          0.3964,
+          0.7471
+        ],
+        "4": [
+          0.6662,
+          0.7651,
+          0.9795,
+          0.9864
+        ],
+        "5": [
+          0.3402,
+          0.7651,
+          0.6535,
+          0.9864
+        ],
+        "6": [
+          0.0153,
+          0.7651,
+          0.3286,
+          0.9864
+        ]
+      },
+      "lines": [
+        {
+          "id": "p1-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "問題。世界一ヒマな係は、どこでしょう",
+          "en": "Question. Which unit has the most free time in the world?"
+        },
+        {
+          "id": "p1-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "特務トレンド係!! 正解ッ!!",
+          "en": "The Special Trends Unit!! CORRECT!!"
+        },
+        {
+          "id": "p1-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "十一月はじめ。梨ヶ坂市役所・地下。特務トレンド係。",
+          "en": "Early November. Nashigasaka City Hall, the basement. The Special Trends Unit."
+        },
+        {
+          "id": "p1-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "勤務中に、何を鳴らしてるの!!",
+          "en": "What are you buzzing on the clock for!!"
+        },
+        {
+          "id": "p1-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "百円ショップの早押しブザーだ。いい音だろ",
+          "en": "Hundred-yen-shop quiz buzzer. Sweet sound, huh?"
+        },
+        {
+          "id": "p1-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "課長は、本庁の会議です",
+          "en": "The Chief's in a meeting at the head office."
+        },
+        {
+          "id": "p1-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "梨まつり、今週末みたいですね",
+          "en": "Looks like the Pear Festival's this weekend."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "panels": {
+        "1": [
+          0.523,
+          0.0108,
+          0.9795,
+          0.495
+        ],
+        "2": [
+          0.0153,
+          0.0108,
+          0.5102,
+          0.2439
+        ],
+        "3": [
+          0.0153,
+          0.262,
+          0.5102,
+          0.495
+        ],
+        "4": [
+          0.0153,
+          0.5131,
+          0.9795,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p2-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "地下の係ってのは、ここかい!!",
+          "en": "This the basement unit, is it!!"
+        },
+        {
+          "id": "p2-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "梨まつりの実行委員長、西条だよ",
+          "en": "I'm Saijo, chair of the Pear Festival committee."
+        },
+        {
+          "id": "p2-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "目玉の職員対抗クイズ王に",
+          "en": "Our big draw is the staff quiz championship,"
+        },
+        {
+          "id": "p2-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "出る人がいないのさ",
+          "en": "and nobody's signed up, see."
+        },
+        {
+          "id": "p2-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "それで、なぜ地下に……？",
+          "en": "So... why come down to the basement?"
+        },
+        {
+          "id": "p2-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "地下の係はいつも暇そうだって",
+          "en": "Folks say the basement unit always looks like it's got nothing to do."
+        },
+        {
+          "id": "p2-3-3",
+          "panel": 3,
+          "type": "speech",
+          "ja": "掃除の人に聞いたよ",
+          "en": "Heard it from the cleaning lady."
+        },
+        {
+          "id": "p2-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "で、ここは何をする係なんだい？",
+          "en": "So what is it this unit actually does?"
+        },
+        {
+          "id": "p2-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……ヒマを、する係？",
+          "en": "...A unit for... having free time?"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "panels": {
+        "1": [
+          0.4092,
+          0.0108,
+          0.9795,
+          0.28
+        ],
+        "2": [
+          0.0153,
+          0.0108,
+          0.3964,
+          0.28
+        ],
+        "3": [
+          0.0153,
+          0.2981,
+          0.9795,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p3-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "優勝賞品は、商店街の協賛でね",
+          "en": "The grand prize is sponsored by the shopping street."
+        },
+        {
+          "id": "p3-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "商品券十万円分と、梨一年分",
+          "en": "100,000 yen in vouchers, plus a year's supply of pears."
+        },
+        {
+          "id": "p3-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "待って。職員が賞品を？",
+          "en": "Wait. City staff winning prizes?"
+        },
+        {
+          "id": "p3-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "休みの日の、まつりの余興だよ",
+          "en": "It's a sideshow at the festival, on your day off."
+        },
+        {
+          "id": "p3-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "じゅ、十万ッ……",
+          "en": "A h-hundred grand..."
+        },
+        {
+          "id": "p3-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "出る!! 出てやるよ、クイズ王!!",
+          "en": "I'm in!! I'll be your quiz king!!"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "panels": {
+        "1": [
+          0.523,
+          0.0108,
+          0.9795,
+          0.495
+        ],
+        "2": [
+          0.0153,
+          0.0108,
+          0.5102,
+          0.2439
+        ],
+        "3": [
+          0.0153,
+          0.262,
+          0.5102,
+          0.495
+        ],
+        "4": [
+          0.0153,
+          0.5131,
+          0.9795,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p4-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "新高は十月でおしまい。いまは新興さ",
+          "en": "Niitaka's done by October. Now it's Shinko season."
+        },
+        {
+          "id": "p4-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "梨ヶ坂市・西条梨園。",
+          "en": "Saijo Pear Orchard, Nashigasaka City."
+        },
+        {
+          "id": "p4-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "遅くまで穫れる、うちの最後の梨だよ",
+          "en": "Ripens late. The last pear we pick all year."
+        },
+        {
+          "id": "p4-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "でけえ!! 顔くらいあるぞ!!",
+          "en": "It's HUGE!! Big as my face!!"
+        },
+        {
+          "id": "p4-2-3",
+          "panel": 2,
+          "type": "speech",
+          "ja": "業務外ですね。テツさんの付き添い、日当千円です",
+          "en": "This is off duty. Escorting you is 1,000 yen a day, Tetsu."
+        },
+        {
+          "id": "p4-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "それは、まつりの分だよ!!",
+          "en": "Those are for the festival!!"
+        },
+        {
+          "id": "p4-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "まつりのお客さん、何人くらいですか",
+          "en": "How many visitors does the festival get?"
+        },
+        {
+          "id": "p4-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "年々減ってね。去年は",
+          "en": "Fewer every year. Last year,"
+        },
+        {
+          "id": "p4-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "お客より、スタッフのほうが多かった",
+          "en": "there were more staff than guests."
+        },
+        {
+          "id": "p4-4-4",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……笑えない",
+          "en": "...That's not funny."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "panels": {
+        "1": [
+          0.5985,
+          0.0108,
+          0.9795,
+          0.4137
+        ],
+        "2": [
+          0.0153,
+          0.0108,
+          0.5857,
+          0.4137
+        ],
+        "3": [
+          0.4092,
+          0.4318,
+          0.9795,
+          0.701
+        ],
+        "4": [
+          0.0153,
+          0.4318,
+          0.3964,
+          0.701
+        ],
+        "5": [
+          0.4092,
+          0.7191,
+          0.9795,
+          0.9883
+        ],
+        "6": [
+          0.0153,
+          0.7191,
+          0.3964,
+          0.9883
+        ]
+      },
+      "lines": [
+        {
+          "id": "p5-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "四十年前、じいさんが始めたまつりさ",
+          "en": "My late husband started this festival forty years ago."
+        },
+        {
+          "id": "p5-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "町のみんなに、梨を食べてほしいってね",
+          "en": "Said he wanted everybody in town to eat pears."
+        },
+        {
+          "id": "p5-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……今年で、終わりにしようかと思ってね",
+          "en": "...I'm thinking this year'll be the last one."
+        },
+        {
+          "id": "p5-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "有名人を呼ぶとか、広告を出すとか――",
+          "en": "You could book a celebrity, or run some ads..."
+        },
+        {
+          "id": "p5-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "予算はね、ゼロ",
+          "en": "Budget's zero, dear."
+        },
+        {
+          "id": "p5-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "梨だけに、まつりも「無し」か!!",
+          "en": "Nashi festival? More like NOTHING festival!!",
+          "note": "\"Nashi,\" the Japanese word for pear, sounds exactly like \"nashi,\" meaning \"none\" or \"nothing.\""
+        },
+        {
+          "id": "p5-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "縁起でもない。梨は「ありのみ」って呼ぶんだよ",
+          "en": "Bite your tongue. That's why we call pears \"ari-no-mi\"!",
+          "note": "Because of that unlucky pun, pears are traditionally also called \"ari-no-mi,\" the \"having fruit\" (ari = there is)."
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "panels": {
+        "1": [
+          0.0153,
+          0.0108,
+          0.9795,
+          0.4652
+        ],
+        "2": [
+          0.5038,
+          0.4833,
+          0.9795,
+          0.9874
+        ],
+        "3": [
+          0.0153,
+          0.4833,
+          0.491,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p6-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "赤嶺。クイズで客が一番湧くのは、いつだと思う",
+          "en": "Akamine. When does a quiz crowd go wildest?"
+        },
+        {
+          "id": "p6-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……正解したとき？",
+          "en": "...When someone gets it right?"
+        },
+        {
+          "id": "p6-1-3",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ちがう。問題の途中で当てたときだ",
+          "en": "Nope. When someone nails it before the question's even done."
+        },
+        {
+          "id": "p6-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "途中で当てりゃ、客は勝手に集まる!!",
+          "en": "Nail 'em halfway, and the crowd shows up on its own!!"
+        },
+        {
+          "id": "p6-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "そしておれが優勝!! 十万!! 梨一年分!!",
+          "en": "And then I WIN!! A hundred grand!! A year of pears!!"
+        },
+        {
+          "id": "p6-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……係の名前が、市じゅうに",
+          "en": "...Our unit's name, all over the city..."
+        },
+        {
+          "id": "p6-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……応援団長なら、私がやるわ",
+          "en": "...Fine. I'll be your head cheerleader."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "panels": {
+        "1": [
+          0.4092,
+          0.0108,
+          0.9795,
+          0.28
+        ],
+        "2": [
+          0.0153,
+          0.0108,
+          0.3964,
+          0.28
+        ],
+        "3": [
+          0.3453,
+          0.2981,
+          0.9795,
+          0.9702
+        ],
+        "4": [
+          0.0153,
+          0.2981,
+          0.3325,
+          0.6251
+        ],
+        "5": [
+          0.0153,
+          0.6432,
+          0.3325,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p7-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ルールは「早押し、早い者勝ち」だそうです",
+          "en": "The rule is \"buzzer quiz, fastest finger wins.\""
+        },
+        {
+          "id": "p7-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "問題は、実行委員長が作るそうです",
+          "en": "And the committee chair writes the questions herself."
+        },
+        {
+          "id": "p7-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "早い者勝ち……",
+          "en": "Fastest finger wins..."
+        },
+        {
+          "id": "p7-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "問題なんざ、最後まで聞くやつが遅え!!",
+          "en": "Anybody who waits for the whole question is too slow!!"
+        },
+        {
+          "id": "p7-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……ばあちゃんの問題なら、全部おれらが聞いた話だ",
+          "en": "...Granny's questions? It's all stuff she already told us."
+        },
+        {
+          "id": "p7-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……そうかしら",
+          "en": "...Is that so."
+        },
+        {
+          "id": "p7-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "練習、しないんですか",
+          "en": "You're not going to practice?"
+        },
+        {
+          "id": "p7-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "勉強なんざ、したやつの負けだ",
+          "en": "Studying is for losers."
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "panels": {
+        "1": [
+          0.0153,
+          0.0108,
+          0.9795,
+          0.4598
+        ],
+        "2": [
+          0.5038,
+          0.4779,
+          0.9795,
+          0.7019
+        ],
+        "3": [
+          0.0153,
+          0.4779,
+          0.491,
+          0.7019
+        ],
+        "4": [
+          0.5985,
+          0.72,
+          0.9795,
+          0.9892
+        ],
+        "5": [
+          0.0153,
+          0.72,
+          0.5857,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p8-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "さあ、始まるよ",
+          "en": "Alright, here we go!"
+        },
+        {
+          "id": "p8-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "職員対抗・梨ヶ坂クイズ王決定戦!!",
+          "en": "The Staff Showdown: Nashigasaka Quiz King Championship!!"
+        },
+        {
+          "id": "p8-1-3",
+          "panel": 1,
+          "type": "caption",
+          "ja": "そして土曜。今年最後の、梨まつり。",
+          "en": "Then Saturday. The last Pear Festival of the year."
+        },
+        {
+          "id": "p8-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "予算の端数、一円も逃しません",
+          "en": "Not one stray yen of the budget escapes me."
+        },
+        {
+          "id": "p8-2-2",
+          "panel": 2,
+          "type": "caption",
+          "ja": "財政課　電卓の鬼",
+          "en": "Finance Division: The Calculator Demon"
+        },
+        {
+          "id": "p8-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "どんな届出も、笑顔で受けます",
+          "en": "Any filing, any form, accepted with a smile."
+        },
+        {
+          "id": "p8-3-2",
+          "panel": 3,
+          "type": "caption",
+          "ja": "市民課　窓口二十年の鉄人",
+          "en": "Citizens Division: 20-Year Counter Iron Man"
+        },
+        {
+          "id": "p8-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "中の人などいません",
+          "en": "There is no one inside this costume.",
+          "note": "A classic Japanese running joke: official mascots always insist there is no person inside the costume."
+        },
+        {
+          "id": "p8-4-2",
+          "panel": 4,
+          "type": "caption",
+          "ja": "観光課　ゆるキャラの中の人",
+          "en": "Tourism Division: The Person Inside the Mascot"
+        },
+        {
+          "id": "p8-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "十万は、おれのもんだァ……",
+          "en": "That hundred grand is MIIINE..."
+        },
+        {
+          "id": "p8-5-2",
+          "panel": 5,
+          "type": "caption",
+          "ja": "特務トレンド係　地下のヒマ人",
+          "en": "Special Trends Unit: Basement Slacker"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "panels": {
+        "1": [
+          0.0153,
+          0.0108,
+          0.9795,
+          0.4598
+        ],
+        "2": [
+          0.4092,
+          0.4779,
+          0.9795,
+          0.7471
+        ],
+        "3": [
+          0.0153,
+          0.4779,
+          0.3964,
+          0.7471
+        ],
+        "4": [
+          0.6662,
+          0.7651,
+          0.9795,
+          0.9864
+        ],
+        "5": [
+          0.3402,
+          0.7651,
+          0.6535,
+          0.9864
+        ],
+        "6": [
+          0.0153,
+          0.7651,
+          0.3286,
+          0.9864
+        ]
+      },
+      "lines": [
+        {
+          "id": "p9-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……梨、うまいな",
+          "en": "...Man, these pears are good."
+        },
+        {
+          "id": "p9-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ルールは早押し。正解で一点だよ",
+          "en": "It's a buzzer quiz. One point per right answer."
+        },
+        {
+          "id": "p9-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "客席のみなさんも、答えていいよ",
+          "en": "Folks in the audience can answer too."
+        },
+        {
+          "id": "p9-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "正解したら、市民枠で賞品だ",
+          "en": "Get one right and you win a prize, citizen's slot."
+        },
+        {
+          "id": "p9-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……テツ、押しなさい",
+          "en": "...Tetsu, push the button."
+        },
+        {
+          "id": "p9-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "テツさん。日当、まだです",
+          "en": "Tetsu. You still owe me today's 1,000."
+        },
+        {
+          "id": "p9-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "地下の係か。君のところだな",
+          "en": "The basement unit, eh? That's yours, isn't it."
+        },
+        {
+          "id": "p9-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "はい。……私は、見るだけですので",
+          "en": "Yes. ...I am only here to watch."
+        },
+        {
+          "id": "p9-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "それじゃ予選、第一問!!",
+          "en": "Now then, preliminaries, question one!!"
+        },
+        {
+          "id": "p9-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "客がいねえほうが、集中できるぜ",
+          "en": "No crowd? Easier to focus."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "panels": {
+        "1": [
+          0.0153,
+          0.0108,
+          0.9795,
+          0.692
+        ],
+        "2": [
+          0.4092,
+          0.71,
+          0.9795,
+          0.9792
+        ],
+        "3": [
+          0.0153,
+          0.71,
+          0.3964,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p10-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "問題。梨は『無し』に通じるのを嫌って――",
+          "en": "Question. Because \"nashi\" sounds like \"nothing,\" people avoid the word and call pears--"
+        },
+        {
+          "id": "p10-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "ありのみ!!",
+          "en": "ARI-NO-MI!!"
+        },
+        {
+          "id": "p10-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……正解。あんた、聞いてたね",
+          "en": "...Correct. You were listening, weren't you."
+        },
+        {
+          "id": "p10-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "ま、まだ問題の途中……",
+          "en": "B-but she wasn't done with the question..."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "panels": {
+        "1": [
+          0.4092,
+          0.0108,
+          0.9795,
+          0.28
+        ],
+        "2": [
+          0.0153,
+          0.0108,
+          0.3964,
+          0.28
+        ],
+        "3": [
+          0.6624,
+          0.2981,
+          0.9795,
+          0.6251
+        ],
+        "4": [
+          0.6624,
+          0.6432,
+          0.9795,
+          0.9702
+        ],
+        "5": [
+          0.0153,
+          0.2981,
+          0.6496,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p11-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "問題。関東の目安で、幸水は八月、豊水は九月ごろ",
+          "en": "Question. In the Kanto area, Kosui comes around August, Hosui around September.",
+          "note": "Kosui, Hosui, Niitaka and Shinko are Japanese pear varieties that ripen in roughly that order, from August into late autumn."
+        },
+        {
+          "id": "p11-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "では、十月ごろが旬の――",
+          "en": "So which variety is in season around October--"
+        },
+        {
+          "id": "p11-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "新高!!",
+          "en": "NIITAKA!!"
+        },
+        {
+          "id": "p11-3-1",
+          "panel": 3,
+          "type": "caption",
+          "ja": "予選　源田テツ　十問連続正解",
+          "en": "Preliminaries: Tetsu Genda, 10 correct in a row"
+        },
+        {
+          "id": "p11-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "……見なかったことにします",
+          "en": "...I'll pretend I didn't see that."
+        },
+        {
+          "id": "p11-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "なんだ、あの兄ちゃん!?",
+          "en": "Who IS that guy!?"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "panels": {
+        "1": [
+          0.6662,
+          0.0108,
+          0.9795,
+          0.2322
+        ],
+        "2": [
+          0.3402,
+          0.0108,
+          0.6535,
+          0.2322
+        ],
+        "3": [
+          0.0153,
+          0.0108,
+          0.3286,
+          0.2322
+        ],
+        "4": [
+          0.0153,
+          0.2502,
+          0.9795,
+          0.7019
+        ],
+        "5": [
+          0.4092,
+          0.72,
+          0.9795,
+          0.9892
+        ],
+        "6": [
+          0.0153,
+          0.72,
+          0.3964,
+          0.9892
+        ]
+      },
+      "lines": [
+        {
+          "id": "p12-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "途中で答える兄ちゃんがいるぞ!!",
+          "en": "Some guy's answering before the question's over!!"
+        },
+        {
+          "id": "p12-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……じいさん。客席が、埋まってるよ",
+          "en": "...Dear. The seats are full."
+        },
+        {
+          "id": "p12-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……汗ふき用だ。使っとけ",
+          "en": "...That's for sweat. Use it."
+        },
+        {
+          "id": "p12-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "来年から、このまつりはおれの番組だ!!",
+          "en": "Starting next year, this festival is MY show!!"
+        },
+        {
+          "id": "p12-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "特務トレンド係ー!! 地下の星ー!!",
+          "en": "Special Trends Uniiit!! Star of the basemeeent!!"
+        },
+        {
+          "id": "p12-5-2",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……え？",
+          "en": "...Huh?"
+        },
+        {
+          "id": "p12-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "調子、乗りましたね",
+          "en": "Now he's getting cocky."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "panels": {
+        "1": [
+          0.4092,
+          0.0108,
+          0.9795,
+          0.28
+        ],
+        "2": [
+          0.0153,
+          0.0108,
+          0.3964,
+          0.28
+        ],
+        "3": [
+          0.3453,
+          0.2981,
+          0.9795,
+          0.9702
+        ],
+        "4": [
+          0.0153,
+          0.2981,
+          0.3325,
+          0.6251
+        ],
+        "5": [
+          0.0153,
+          0.6432,
+          0.3325,
+          0.9702
+        ]
+      },
+      "lines": [
+        {
+          "id": "p13-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "番組か。いい度胸だ",
+          "en": "\"His show,\" is it. Bold."
+        },
+        {
+          "id": "p13-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "なら、相手役が要るな",
+          "en": "Then he'll need someone to play against."
+        },
+        {
+          "id": "p13-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "決勝の相手は、特務トレンド係……",
+          "en": "Your opponent in the final, from the Special Trends Unit..."
+        },
+        {
+          "id": "p13-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "豪徳寺剛さん!!",
+          "en": "Mr. Gotokuji!!"
+        },
+        {
+          "id": "p13-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……部長。私は、梨ジュースを飲みに来ただけで",
+          "en": "...Director. I only came for some pear juice."
+        },
+        {
+          "id": "p13-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "か、課長ォ!?",
+          "en": "Ch-Chieeef!?"
+        },
+        {
+          "id": "p13-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "課長、ジュース持ったままです",
+          "en": "Chief, you're still holding your juice."
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "panels": {
+        "1": [
+          0.6662,
+          0.0108,
+          0.9795,
+          0.2322
+        ],
+        "2": [
+          0.3402,
+          0.0108,
+          0.6535,
+          0.2322
+        ],
+        "3": [
+          0.0153,
+          0.0108,
+          0.3286,
+          0.2322
+        ],
+        "4": [
+          0.5038,
+          0.2502,
+          0.9795,
+          0.4743
+        ],
+        "5": [
+          0.0153,
+          0.2502,
+          0.491,
+          0.4743
+        ],
+        "6": [
+          0.5985,
+          0.4923,
+          0.9795,
+          0.8952
+        ],
+        "7": [
+          0.0153,
+          0.4923,
+          0.5857,
+          0.8952
+        ]
+      },
+      "lines": [
+        {
+          "id": "p14-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "問題。夜間や休日でも、市役所の守衛室で――",
+          "en": "Question. Even at night or on holidays, the city hall security office will--"
+        },
+        {
+          "id": "p14-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "決勝　五問先取",
+          "en": "Final: First to Five"
+        },
+        {
+          "id": "p14-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "落とし物!!",
+          "en": "LOST PROPERTY!!"
+        },
+        {
+          "id": "p14-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "――預かってもらえる、結婚のときの届は？",
+          "en": "--hold on to it for you: which form do you file when you get married?"
+        },
+        {
+          "id": "p14-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "婚姻届です",
+          "en": "A marriage registration."
+        },
+        {
+          "id": "p14-4-2",
+          "panel": 4,
+          "type": "caption",
+          "ja": "解説：戸籍の届は、夜間・休日も預かり。審査は開庁日",
+          "en": "Explainer: Family register forms are accepted at night and on holidays. Review happens on the next business day.",
+          "note": "In Japan, marriage and other family-register forms can be left with a city hall's night/holiday desk (often the security office); staff review them on the next business day."
+        },
+        {
+          "id": "p14-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……最後まで聞きゃ、おれでも分かったじゃねえか",
+          "en": "...If I'd listened to the end, even I'd have gotten that!"
+        },
+        {
+          "id": "p14-5-2",
+          "panel": 5,
+          "type": "caption",
+          "ja": "四対四",
+          "en": "4 to 4"
+        },
+        {
+          "id": "p14-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "泣いても笑っても、最終問題!!",
+          "en": "Win or lose, it's the FINAL QUESTION!!"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "panels": {
+        "1": [
+          0.0153,
+          0.0108,
+          0.9795,
+          0.4652
+        ],
+        "2": [
+          0.5038,
+          0.4833,
+          0.9795,
+          0.9874
+        ],
+        "3": [
+          0.0153,
+          0.4833,
+          0.491,
+          0.9874
+        ]
+      },
+      "lines": [
+        {
+          "id": "p15-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "最終問題。梨ヶ坂市役所・特務トレンド係の――",
+          "en": "Final question. Nashigasaka City Hall's Special Trends Unit--"
+        },
+        {
+          "id": "p15-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "特務トレンド係の……!!",
+          "en": "The Special Trends Unit's...!!"
+        },
+        {
+          "id": "p15-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "――設置の目的は、何でしょう？",
+          "en": "--what is its official purpose?"
+        },
+        {
+          "id": "p15-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……ヒマを、する係？",
+          "en": "...A unit for... having free time?"
+        },
+        {
+          "id": "p15-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……自分の係の問題には",
+          "en": "...On a question about my own unit,"
+        },
+        {
+          "id": "p15-3-2",
+          "panel": 3,
+          "type": "speech",
+          "ja": "答えるわけにはまいりません",
+          "en": "I'm afraid I cannot answer."
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "panels": {
+        "1": [
+          0.0153,
+          0.0108,
+          0.9795,
+          0.4652
+        ],
+        "2": [
+          0.523,
+          0.4833,
+          0.9795,
+          0.9675
+        ],
+        "3": [
+          0.0153,
+          0.4833,
+          0.5102,
+          0.7164
+        ],
+        "4": [
+          0.0153,
+          0.7344,
+          0.5102,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p16-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "……私も、知らない……",
+          "en": "...I don't know either..."
+        },
+        {
+          "id": "p16-1-2",
+          "panel": 1,
+          "type": "speech",
+          "ja": "課長が答えないのは、筋だ",
+          "en": "The Chief declining to answer is only proper."
+        },
+        {
+          "id": "p16-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……だが、部下が自分の係を言えんとはね",
+          "en": "...But his own staff can't say what their unit is for?"
+        },
+        {
+          "id": "p16-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……廃止を、検討しようか",
+          "en": "...Perhaps we should consider abolishing it."
+        },
+        {
+          "id": "p16-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "は、廃止ィィ!?",
+          "en": "A-ABOLISH ITTT!?"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "panels": {
+        "1": [
+          0.0153,
+          0.0108,
+          0.9795,
+          0.692
+        ],
+        "2": [
+          0.4143,
+          0.71,
+          0.9847,
+          0.9792
+        ],
+        "3": [
+          0.0153,
+          0.71,
+          0.3964,
+          0.9792
+        ]
+      },
+      "lines": [
+        {
+          "id": "p17-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "世間の流行を、市の仕事に取り込むため",
+          "en": "To bring the world's trends into the city's work."
+        },
+        {
+          "id": "p17-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "こ、小僧ォ!? なんで知ってる!!",
+          "en": "Y-you BRAT!? How do you know that!!"
+        },
+        {
+          "id": "p17-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "時給の根拠を、確かめたので",
+          "en": "I looked up what my hourly wage is based on."
+        },
+        {
+          "id": "p17-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "市民枠、正解!! 賞品は全部、この子に!!",
+          "en": "Citizen's slot, CORRECT!! All the prizes go to this kid!!"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "panels": {
+        "1": [
+          0.523,
+          0.0108,
+          0.9795,
+          0.495
+        ],
+        "2": [
+          0.0153,
+          0.0108,
+          0.5102,
+          0.2439
+        ],
+        "3": [
+          0.0153,
+          0.262,
+          0.5102,
+          0.495
+        ],
+        "4": [
+          0.0153,
+          0.5131,
+          0.9795,
+          0.9675
+        ]
+      },
+      "lines": [
+        {
+          "id": "p18-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "部長には、私から申し上げました",
+          "en": "I have spoken to the Director myself."
+        },
+        {
+          "id": "p18-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "週明け。係室。",
+          "en": "The next week. The unit's office."
+        },
+        {
+          "id": "p18-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "廃止は、鈴木くんに免じて、なしです",
+          "en": "The abolition is off, as a favor to Suzuki."
+        },
+        {
+          "id": "p18-2-2",
+          "panel": 2,
+          "type": "speech",
+          "ja": "た、助かった……",
+          "en": "S-saved..."
+        },
+        {
+          "id": "p18-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "新興を一つもぐたびに、設置の目的を一回。百回です",
+          "en": "For each Shinko pear you pick, recite the unit's purpose once. One hundred times."
+        },
+        {
+          "id": "p18-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "ひゃ、百回ィ!?",
+          "en": "A H-HUNDRED!?"
+        },
+        {
+          "id": "p18-4-3",
+          "panel": 4,
+          "type": "speech",
+          "ja": "え、わ、私も……入って……る……？",
+          "en": "W-wait, am I... included... too...?"
+        },
+        {
+          "id": "p18-4-4",
+          "panel": 4,
+          "type": "speech",
+          "ja": "私も、唱えます",
+          "en": "I shall recite it as well."
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "panels": {
+        "1": [
+          0.6662,
+          0.0108,
+          0.9795,
+          0.2322
+        ],
+        "2": [
+          0.3402,
+          0.0108,
+          0.6535,
+          0.2322
+        ],
+        "3": [
+          0.0153,
+          0.0108,
+          0.3286,
+          0.2322
+        ],
+        "4": [
+          0.4092,
+          0.2502,
+          0.9795,
+          0.5194
+        ],
+        "5": [
+          0.0153,
+          0.2502,
+          0.3964,
+          0.5194
+        ],
+        "6": [
+          0.0153,
+          0.5375,
+          0.9795,
+          0.9864
+        ]
+      },
+      "lines": [
+        {
+          "id": "p19-1-1",
+          "panel": 1,
+          "type": "speech",
+          "ja": "一回目ェ!! 世間の流行をォ!!",
+          "en": "NUMBER ONE!! To bring the world's TRENDS--!!"
+        },
+        {
+          "id": "p19-1-2",
+          "panel": 1,
+          "type": "caption",
+          "ja": "週末。西条梨園。",
+          "en": "The weekend. Saijo Pear Orchard."
+        },
+        {
+          "id": "p19-2-1",
+          "panel": 2,
+          "type": "speech",
+          "ja": "……四十八回目。取り込むため……",
+          "en": "...Forty-eight. Into the city's work..."
+        },
+        {
+          "id": "p19-3-1",
+          "panel": 3,
+          "type": "speech",
+          "ja": "……九十九……",
+          "en": "...Ninety-nine..."
+        },
+        {
+          "id": "p19-4-1",
+          "panel": 4,
+          "type": "speech",
+          "ja": "世間の流行を、市の仕事に取り込むため",
+          "en": "To bring the world's trends into the city's work."
+        },
+        {
+          "id": "p19-4-2",
+          "panel": 4,
+          "type": "speech",
+          "ja": "来年も、クイズはやるよ",
+          "en": "We're doing the quiz again next year."
+        },
+        {
+          "id": "p19-5-1",
+          "panel": 5,
+          "type": "speech",
+          "ja": "……百回目。取り込むため……",
+          "en": "...One hundred. Into the city's work..."
+        },
+        {
+          "id": "p19-6-1",
+          "panel": 6,
+          "type": "speech",
+          "ja": "……おれの賞品は？",
+          "en": "...What about MY prize?"
+        },
+        {
+          "id": "p19-6-2",
+          "panel": 6,
+          "type": "speech",
+          "ja": "ゼロだよ!! それは、この子の梨一年分さ!!",
+          "en": "Zero!! These are this kid's year of pears!!"
+        },
+        {
+          "id": "p19-6-3",
+          "panel": 6,
+          "type": "speech",
+          "ja": "今月の分、受け取りに来ました",
+          "en": "I'm here to pick up this month's share."
+        }
+      ]
+    }
+  ]
+}

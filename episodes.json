@@ -4440,6 +4440,166 @@
         "niconico": "https://manga.nicovideo.jp/watch/mg1179287",
         "pixiv": "https://www.pixiv.net/artworks/152387351"
       }
+    },
+    {
+      "id": "28",
+      "number": 28,
+      "title": "梨ヶ坂クイズ王",
+      "subtitle": "早押し（ファステスト・フィンガー）",
+      "summary": "梨まつりの目玉「職員対抗クイズ王決定戦」に出る人がいない。「地下の係は暇そう」と、実行委員長の西条のばあちゃんが乗り込んできた。賞品は商品券十万円分と梨一年分――練習ゼロのテツの作戦は「問題を聞き終わる前に押す」。",
+      "published": "2026-11-26",
+      "tags": [
+        "早押しクイズ",
+        "梨まつり",
+        "梨の品種",
+        "ありのみ",
+        "新興",
+        "戸籍の届出"
+      ],
+      "title_en": "Nashigasaka Quiz King",
+      "subtitle_en": "Buzzer Quiz (Fastest Finger)",
+      "summary_en": "Nobody has signed up for the Pear Festival's big event, the Staff Quiz Championship. Festival chair Granny Saijo storms into the basement office, having heard \"that basement section looks like it has time on its hands.\" The prizes: 100,000 yen in gift vouchers and a year's supply of pears. Tetsu, who refuses to practice, has one strategy: buzz in before the question is finished.",
+      "explain": {
+        "points": [
+          "梨（なし）は「無し」に通じるのを嫌って、「有りの実（ありのみ）」とも呼ばれます。縁起の悪い音を避ける言いかえ（忌み詞）です。",
+          "日本の梨の旬の目安（関東の例）は、幸水が8月ごろ、豊水が9月ごろ、新高が10月ごろです。産地や年で前後します。",
+          "新興（しんこう）は、遅い時期まで穫れる大玉の赤梨で、400〜500gほど。新潟県や鳥取県で多く作られ、日持ちもよい品種です。",
+          "婚姻届などの戸籍の届出は、夜間や休日でも市役所の守衛室などで預かってもらえます。内容の確認（審査）は開庁日で、不備がなければ預けた日が届出日になります。預かる場所の呼び方は自治体で違います。",
+          "梨ヶ坂市、梨まつり、西条のばあちゃん、クイズ大会の賞品や処分は、作中だけの架空の設定です。"
+        ],
+        "sources": [
+          {
+            "label": "コトバンク「有りの実」",
+            "url": "https://kotobank.jp/word/%E6%9C%89%E3%82%8A%E3%81%AE%E5%AE%9F-428328"
+          },
+          {
+            "label": "千葉県「旬鮮図鑑 日本一の千葉の梨」",
+            "url": "https://www.pref.chiba.lg.jp/ryuhan/pbmgm/zukan/kajitsu/nashi.html"
+          },
+          {
+            "label": "横浜市「区役所の休庁日や開庁時間外にも婚姻届などの戸籍に関する届出ができますか」",
+            "url": "https://www.city.yokohama.lg.jp/faq/kukyoku/shimin/shimin-madoguchi/20211027163630860.html"
+          }
+        ]
+      },
+      "pages": [
+        "p00.webp",
+        "p01.webp",
+        "p02.webp",
+        "p03.webp",
+        "p04.webp",
+        "p05.webp",
+        "p06.webp",
+        "p07.webp",
+        "p08.webp",
+        "p09.webp",
+        "p10.webp",
+        "p11.webp",
+        "p12.webp",
+        "p13.webp",
+        "p14.webp",
+        "p15.webp",
+        "p16.webp",
+        "p17.webp",
+        "p18.webp",
+        "p19.webp"
+      ],
+      "sizes": [
+        [
+          1545,
+          2246
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ],
+        [
+          1564,
+          2214
+        ]
+      ],
+      "hasCover": true,
+      "crop": {
+        "scale": 2.0,
+        "box": [
+          16,
+          16,
+          1580,
+          2230
+        ]
+      },
+      "genres": [
+        "イベント",
+        "地域・まちおこし"
+      ]
     }
   ],
   "_oneshotsの説明": "作者の読み切り。話数の一覧・公開予定・ニコニコ/pixivの数・SEOの話の一覧には入れない。読む画面は yomikiri/<id>/（reader.js が episodes の次にここを探す）",
